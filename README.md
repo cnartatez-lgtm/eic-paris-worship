@@ -113,9 +113,15 @@ Planning Center, readings and all — tapping a song opens its chart),
 
 ### The pen strip
 
-Left of the key picker is a slip of paper for the capo. Christian
-writes "capo 2" with the S Pen and it is kept **the moment he lifts
-it** — no keyboard, no save button.
+A long strip left of the key picker, running back almost to the song
+title. Christian writes "capo 2" with the S Pen and it is kept **the
+moment he lifts it** — no keyboard, no save button. A round button at
+its right end wipes it so he can rewrite, saved again on lift.
+
+The strip is flexible, not a fixed width: it takes whatever the title
+leaves. A short title gives it ~530px; a 100-character title squeezes
+it to its 190px floor and the title ellipsises instead. Neither can
+push the header out of the screen.
 
 Notes are stored **per song and per key**: one written on the G sheet
 does not appear on C, because a capo that makes G sound like A means
