@@ -165,6 +165,7 @@ def build(config, current_only=True):
                     "name": row.get("service", ""),
                     "date": row.get("date", ""),
                     "title": row.get("title", ""),
+                    "order": row.get("order", []),
                     "songs": songs,
                 }
             )

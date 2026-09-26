@@ -3,6 +3,152 @@
   "date": "27 September 2026",
   "sort_date": "2026-09-27",
   "title": "A Heart for the World (John 3:16)",
+  "order": [
+    {
+      "seq": 1,
+      "type": "item",
+      "title": "Comments about Service :",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "Pre Service Slides",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "song",
+      "title": "Word Of God",
+      "key": "F",
+      "length": 0,
+      "detail": "V - PRE-C - C - V - PRE-C - C"
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "Opening Scripture",
+      "key": "",
+      "length": 0,
+      "detail": "Psalm 119:97-105\n97 Oh how I love Your law! It is my meditation all the day. 98 Your commandment makes me wiser than my enemies, for it is ever with me. 99 I have more understanding than all my teachers, for Your testimonies are my meditation.\n\n100 I understand more than the aged, for I keep Your precepts. 101 I hold back my feet from every evil way, in order to keep Your word. 102 I do not turn aside from Your rules, for You have taught me.\n\n103 How sweet are Your words to my taste, sweeter than honey to my mouth! 104 Through Your precepts I get understanding; therefore I hate every false way.\n105 Your word is a lamp to my feet and a light to my path."
+    },
+    {
+      "seq": 5,
+      "type": "item",
+      "title": "Finishing Song 1",
+      "key": "",
+      "length": 0,
+      "detail": "B - B - C - C"
+    },
+    {
+      "seq": 6,
+      "type": "item",
+      "title": "Opening Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "song",
+      "title": "Lift High The Name",
+      "key": "F",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "song",
+      "title": "To God Be The Glory",
+      "key": "F",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "item",
+      "title": "Pastoral Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "item",
+      "title": "11.30 Children dismissed",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "item",
+      "title": "Scripture Reading: John 3:9-16",
+      "key": "",
+      "length": 0,
+      "detail": "10 am :Yolanda Garnier\n11.30 am :Aurea Laranang"
+    },
+    {
+      "seq": 12,
+      "type": "item",
+      "title": "Sermon",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 13,
+      "type": "item",
+      "title": "Time of Reflection",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 14,
+      "type": "song",
+      "title": "Hymn Of Heaven",
+      "key": "C",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 15,
+      "type": "item",
+      "title": "Tithes & Offerings",
+      "key": "",
+      "length": 0,
+      "detail": "10 am : Yolanda Garnier\n11.30 am :Aurea Laranang"
+    },
+    {
+      "seq": 16,
+      "type": "item",
+      "title": "Visitor Welcome & Announcements",
+      "key": "",
+      "length": 0,
+      "detail": "New Members Lunch\nMen's breakfast\nChristian - DGroups\nCity MeetUp\n\n11:30 service - welcome team meeting, so please move outside"
+    },
+    {
+      "seq": 17,
+      "type": "item",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 18,
+      "type": "item",
+      "title": "Parents collect their Children slide",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
   "songs": [
     {
       "slug": "wordofgod",
@@ -25,5 +171,5 @@
       "author": "PhilWickham"
     }
   ],
-  "built_at": "2026-09-26T19:00:03+00:00"
+  "built_at": "2026-09-26T19:17:01+00:00"
 }

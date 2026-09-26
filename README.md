@@ -95,17 +95,38 @@ word, with none out of line.
 
 ## On the tablet
 
-- **A− / A+** — font size, remembered between Sundays
-- **Two/one column** — two fills a landscape 10" screen; one is for
-  large type
-- **Moon** — night mode for a dark stage
-- **Sun** — keeps the screen awake, because a song outlasts the
-  screen timeout and going dark mid-verse is the reason paper felt
-  safer
-- **Archivo** — every song ever built, alphabetical
+Three tabs: **Sunday** (the set), **Order** (the whole liturgy from
+Planning Center, readings and all — tapping a song opens its chart),
+**Archive** (everything ever built, alphabetical).
 
-Preferences live in `localStorage`, wrapped in try/catch: a tablet
-with site data blocked still renders.
+- **Fit** — the one that matters. Binary-searches the largest type
+  size at which the song still fits with no scrolling, trying one, two
+  and three columns and keeping whichever allows the biggest text.
+  Recalculated per song and when the tablet is turned.
+- **1/2/3 columns** and **A− / A+** (8–44px) — manual override; using
+  them turns Fit off, because he is overriding it on purpose.
+- **Moon** — night mode for a dark stage.
+- **Sun** — keeps the screen awake: a song outlasts the screen timeout,
+  and going dark mid-verse is the reason paper felt safer.
+- **Language** — Spanish, English, French, for the app's own words. The
+  songs are untouched.
+
+### The pen strip
+
+Left of the key picker is a slip of paper for the capo. Christian
+writes "capo 2" with the S Pen and it is kept **the moment he lifts
+it** — no keyboard, no save button.
+
+Notes are stored **per song and per key**: one written on the G sheet
+does not appear on C, because a capo that makes G sound like A means
+nothing there. A dot on a key pill says a note is waiting on that key.
+
+Strokes are kept as fractions of the strip rather than pixels, so they
+land correctly at any width. Once a real pen has been seen, touch is
+ignored — a palm resting on the tablet cannot scribble.
+
+Preferences and notes live in `localStorage`, wrapped in try/catch: a
+tablet with site data blocked still renders, just without memory.
 
 ## Layout
 

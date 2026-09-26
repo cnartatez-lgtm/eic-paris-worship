@@ -26,6 +26,7 @@ import subprocess
 import sys
 import traceback
 from datetime import datetime, timezone
+from html import unescape
 from pathlib import Path
 
 
@@ -94,6 +95,55 @@ def plan_for(service_name):
         )
 
     return None, None, []
+
+
+def clean_html(value):
+    """Plain text out of Planning Center rich text."""
+
+    text = re.sub(
+        r"<br\s*/?>|</p>|</div>",
+        "\n",
+        str(value or ""),
+        flags=re.I,
+    )
+
+    text = re.sub(r"<[^>]+>", "", text)
+
+    text = unescape(text)
+
+    text = re.sub(r"[ \t]+", " ", text)
+
+    return "\n".join(
+        line.strip() for line in text.splitlines()
+    ).strip()
+
+
+def order_of_service(items):
+    """The liturgy as Planning Center holds it.
+
+    Kept whole — headers, readings, announcements, the lot — because
+    the detail Christian writes under an item is the reason the
+    sheet exists. The app shows the same thing the printed sheet
+    does, so he is never reading two different orders.
+    """
+
+    rows = []
+
+    for row in items:
+        detail = clean_html(row.get("description"))
+
+        rows.append(
+            {
+                "seq": row.get("sequence"),
+                "type": row.get("type") or "item",
+                "title": str(row.get("title") or "").strip(),
+                "key": row.get("key") or "",
+                "length": row.get("length") or 0,
+                "detail": detail,
+            }
+        )
+
+    return rows
 
 
 def songs_on(items):
@@ -270,6 +320,7 @@ def run(config, force=False, only=None):
                         plan.get("sort_date") or ""
                     )[:10],
                     "title": plan.get("title") or "",
+                    "order": order_of_service(items),
                     "songs": entries,
                     "built_at": datetime.now(
                         timezone.utc

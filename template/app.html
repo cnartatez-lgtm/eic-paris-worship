@@ -7,307 +7,382 @@
 <style>
 /* ------------------------------------------------------------------
    EIC Paris · Worship
+
    Colours and type follow eicparis.org: teal #2D637F, orange #CD5A13,
-   Poppins. The orange is reserved for chords — on a music stand the
-   thing the eye hunts for is the chord, so it gets the one loud
-   colour on the page and nothing else competes with it.
-   Built to be opened from a local file on a 10" tablet, so nothing
-   here needs the network.
+   Poppins. Orange belongs to chords alone — on a stand the eye hunts
+   for the chord, so it gets the one loud colour and nothing competes.
+
+   Opened as a local file on a 10" tablet, so nothing needs the
+   network and every measurement assumes a landscape screen.
 ------------------------------------------------------------------ */
 :root{
-  --teal:#2D637F; --orange:#CD5A13;
-  --bg:#F4F6F8; --surface:#FFFFFF; --surface-2:#EDF1F4;
-  --ink:#2C2D2E; --ink-soft:#616262; --line:#DCE3E8;
+  --teal:#2D637F; --teal-2:#3C87AB; --orange:#CD5A13;
+  --bg:#F2F5F7; --surface:#FFFFFF; --surface-2:#E9EEF2;
+  --ink:#22292E; --ink-soft:#66757F; --line:#D8E1E7;
   --chord:#C24F0B; --accent:#2D637F;
-  --shadow:0 1px 2px rgba(20,40,55,.06),0 4px 16px rgba(20,40,55,.07);
-  --radius:14px;
-  --song-size:20px;   /* driven by the A- / A+ control */
-  --ease:cubic-bezier(.22,.61,.36,1);
+  --shadow-s:0 1px 2px rgba(20,45,65,.06);
+  --shadow-m:0 2px 4px rgba(20,45,65,.06),0 8px 24px rgba(20,45,65,.08);
+  --shadow-l:0 8px 34px rgba(20,45,65,.16);
+  --r:13px;
+  --song-size:16px;
+  --e:cubic-bezier(.22,.61,.36,1);
+  --e-back:cubic-bezier(.34,1.4,.64,1);
 }
 :root[data-theme="dark"]{
-  --bg:#12171A; --surface:#1B2226; --surface-2:#232B31;
-  --ink:#E9EDF0; --ink-soft:#9BA8B0; --line:#2C363D;
-  --chord:#FF9247; --accent:#8FCADE;
-  --shadow:0 1px 2px rgba(0,0,0,.4),0 6px 22px rgba(0,0,0,.35);
+  --bg:#0F1417; --surface:#182025; --surface-2:#212B32;
+  --ink:#E7EDF1; --ink-soft:#8FA0AB; --line:#2A353D;
+  --chord:#FF9247; --accent:#8FCADE; --teal-2:#6FB2CE;
+  --shadow-s:0 1px 2px rgba(0,0,0,.45);
+  --shadow-m:0 2px 4px rgba(0,0,0,.4),0 8px 26px rgba(0,0,0,.38);
+  --shadow-l:0 10px 38px rgba(0,0,0,.55);
 }
 *{box-sizing:border-box}
 html,body{height:100%}
 body{
-  margin:0; background:var(--bg); color:var(--ink);
+  margin:0;background:var(--bg);color:var(--ink);
   font-family:"Poppins",-apple-system,"Segoe UI",Roboto,"Noto Sans",sans-serif;
-  -webkit-text-size-adjust:100%;
-  overscroll-behavior:none;
-  transition:background .3s var(--ease), color .3s var(--ease);
+  -webkit-text-size-adjust:100%;overscroll-behavior:none;
+  transition:background .35s var(--e),color .35s var(--e);
 }
 button{font:inherit;color:inherit;border:0;background:none;cursor:pointer}
-:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:7px}
 
 /* ---------------- top bar ---------------- */
 .bar{
-  position:sticky;top:0;z-index:20;
-  display:flex;align-items:center;gap:14px;
-  padding:10px 18px;
-  background:color-mix(in srgb,var(--surface) 88%,transparent);
-  backdrop-filter:blur(12px);
+  position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:12px;
+  padding:9px 16px;
+  background:color-mix(in srgb,var(--surface) 90%,transparent);
+  backdrop-filter:blur(14px) saturate(1.3);
   border-bottom:1px solid var(--line);
 }
-.brand{display:flex;align-items:center;gap:11px;min-width:0}
+.brand{display:flex;align-items:center;gap:10px;min-width:0}
 .mark{
-  width:30px;height:30px;border-radius:9px;flex:none;
-  background:linear-gradient(140deg,var(--teal),#3C7F9E);
-  display:grid;place-items:center;
-  color:#fff;font-weight:700;font-size:13px;letter-spacing:.5px;
-  box-shadow:0 2px 8px rgba(45,99,127,.35);
+  width:32px;height:32px;border-radius:10px;flex:none;display:grid;place-items:center;
+  background:linear-gradient(145deg,var(--teal-2),var(--teal));
+  color:#fff;font-weight:700;font-size:12.5px;letter-spacing:.4px;
+  box-shadow:0 2px 10px rgba(45,99,127,.4);
 }
-.brand b{font-size:15px;font-weight:600;letter-spacing:.2px;white-space:nowrap}
+.brand b{font-size:14.5px;font-weight:600;white-space:nowrap;display:block;line-height:1.2}
 .brand span{font-size:11px;color:var(--ink-soft);white-space:nowrap}
 .spacer{flex:1}
 
-.tabs{display:flex;gap:4px;background:var(--surface-2);padding:4px;border-radius:11px}
+.tabs{display:flex;gap:3px;background:var(--surface-2);padding:3px;border-radius:11px}
 .tab{
-  padding:8px 18px;border-radius:8px;font-size:13.5px;font-weight:500;
-  color:var(--ink-soft);transition:all .22s var(--ease);
+  padding:7px 15px;border-radius:9px;font-size:13px;font-weight:500;color:var(--ink-soft);
+  transition:color .2s var(--e),background .2s var(--e),box-shadow .2s var(--e);
+  white-space:nowrap;
 }
-.tab[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:var(--shadow)}
+.tab[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:var(--shadow-s)}
 .tab:active{transform:scale(.96)}
 
 .icon{
-  width:40px;height:40px;border-radius:11px;display:grid;place-items:center;
-  color:var(--ink-soft);transition:all .2s var(--ease);flex:none;
+  width:38px;height:38px;border-radius:11px;display:grid;place-items:center;flex:none;
+  color:var(--ink-soft);position:relative;
+  transition:color .2s var(--e),background .2s var(--e),transform .18s var(--e-back);
 }
 .icon:hover{background:var(--surface-2);color:var(--ink)}
-.icon:active{transform:scale(.9)}
-.icon svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.9;
+.icon:active{transform:scale(.88)}
+.icon svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.9;
   stroke-linecap:round;stroke-linejoin:round}
-.icon.on{color:var(--orange);background:color-mix(in srgb,var(--orange) 13%,transparent)}
-.icon{position:relative}
-.icon>b{position:absolute;right:2px;bottom:0;font-size:9px;font-weight:700;
-  background:var(--surface);border-radius:4px;padding:0 2px;line-height:1.3}
+.icon.on{color:var(--orange);background:color-mix(in srgb,var(--orange) 14%,transparent)}
+.icon>b{
+  position:absolute;right:2px;bottom:1px;font-size:9px;font-weight:700;line-height:1.25;
+  background:var(--surface);border-radius:4px;padding:0 2.5px;
+}
+
+.lang{position:relative}
+.lang>button{
+  height:38px;padding:0 11px;border-radius:11px;font-size:12px;font-weight:600;
+  color:var(--ink-soft);letter-spacing:.5px;transition:all .2s var(--e);
+}
+.lang>button:hover{background:var(--surface-2);color:var(--ink)}
+.menu{
+  position:absolute;top:44px;right:0;z-index:30;min-width:140px;padding:5px;
+  background:var(--surface);border:1px solid var(--line);border-radius:12px;
+  box-shadow:var(--shadow-l);display:none;
+}
+.menu.on{display:block;animation:drop .2s var(--e)}
+@keyframes drop{from{opacity:0;transform:translateY(-6px) scale(.97)}to{opacity:1;transform:none}}
+.menu button{
+  display:flex;align-items:center;gap:9px;width:100%;padding:9px 11px;border-radius:8px;
+  font-size:13px;text-align:left;transition:background .16s var(--e);
+}
+.menu button:hover{background:var(--surface-2)}
+.menu button[aria-checked="true"]{color:var(--teal);font-weight:600}
+:root[data-theme="dark"] .menu button[aria-checked="true"]{color:var(--accent)}
+.menu button i{font-style:normal;width:17px;font-size:10.5px;opacity:.75;font-weight:700}
 
 /* ---------------- views ---------------- */
-main{padding:22px 20px 60px;max-width:1500px;margin:0 auto}
-.view{display:none;animation:rise .32s var(--ease)}
-.view.on{display:block}
-@keyframes rise{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:none}}
+main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
+.view{display:none}
+.view.on{display:block;animation:rise .34s var(--e)}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 
-.lead{margin:0 0 20px}
-.lead h1{margin:0 0 3px;font-size:25px;font-weight:600;letter-spacing:-.3px}
-.lead p{margin:0;color:var(--ink-soft);font-size:13.5px}
+.lead{margin:0 0 18px}
+.lead h1{margin:0 0 3px;font-size:24px;font-weight:600;letter-spacing:-.4px}
+.lead p{margin:0;color:var(--ink-soft);font-size:13px}
 
-.svc{display:flex;gap:8px;margin:0 0 20px;flex-wrap:wrap}
+.svc{display:flex;gap:7px;margin:0 0 18px;flex-wrap:wrap}
 .svc button{
-  padding:8px 16px;border-radius:999px;font-size:13px;font-weight:500;
+  padding:7px 15px;border-radius:999px;font-size:12.5px;font-weight:500;
   background:var(--surface);border:1px solid var(--line);color:var(--ink-soft);
-  transition:all .22s var(--ease);
+  transition:all .24s var(--e);
 }
 .svc button[aria-pressed="true"]{
   background:var(--teal);border-color:var(--teal);color:#fff;
-  box-shadow:0 3px 10px rgba(45,99,127,.3);
+  box-shadow:0 3px 12px rgba(45,99,127,.32);
 }
 
-/* ---------------- song cards ---------------- */
-.grid{display:grid;gap:13px;grid-template-columns:repeat(auto-fill,minmax(255px,1fr))}
+/* ---------------- cards ---------------- */
+.grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(248px,1fr))}
 .card{
-  position:relative;text-align:left;width:100%;
-  background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
-  padding:17px 18px;box-shadow:var(--shadow);
-  transition:transform .24s var(--ease),box-shadow .24s var(--ease),border-color .24s var(--ease);
-  animation:pop .38s var(--ease) backwards;
+  position:relative;text-align:left;width:100%;overflow:hidden;
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+  padding:16px 17px;box-shadow:var(--shadow-s);
+  transition:transform .26s var(--e),box-shadow .26s var(--e),border-color .26s var(--e);
+  animation:pop .4s var(--e) backwards;
 }
-@keyframes pop{from{opacity:0;transform:translateY(11px) scale(.985)}to{opacity:1;transform:none}}
-.card:hover{transform:translateY(-3px);box-shadow:0 5px 22px rgba(20,40,55,.13);border-color:color-mix(in srgb,var(--teal) 35%,var(--line))}
-.card:active{transform:translateY(-1px) scale(.99)}
-.card .n{
-  position:absolute;top:15px;right:16px;font-size:11px;font-weight:600;
-  color:var(--ink-soft);opacity:.5;
+@keyframes pop{from{opacity:0;transform:translateY(12px) scale(.98)}to{opacity:1;transform:none}}
+.card::before{
+  content:"";position:absolute;left:0;top:0;bottom:0;width:3px;
+  background:linear-gradient(var(--teal-2),var(--teal));
+  transform:scaleY(0);transform-origin:top;transition:transform .28s var(--e);
 }
-.card h3{margin:0 0 4px;font-size:16.5px;font-weight:600;line-height:1.3;padding-right:22px}
-.card .by{margin:0 0 13px;font-size:12.5px;color:var(--ink-soft)}
-.keys{display:flex;gap:6px;flex-wrap:wrap}
+.card:hover{transform:translateY(-3px);box-shadow:var(--shadow-m);
+  border-color:color-mix(in srgb,var(--teal) 32%,var(--line))}
+.card:hover::before{transform:scaleY(1)}
+.card:active{transform:translateY(-1px) scale(.992)}
+.card .n{position:absolute;top:14px;right:15px;font-size:11px;font-weight:600;
+  color:var(--ink-soft);opacity:.45}
+.card h3{margin:0 0 3px;font-size:16px;font-weight:600;line-height:1.28;padding-right:20px}
+.card .by{margin:0 0 12px;font-size:12px;color:var(--ink-soft);
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.keys{display:flex;gap:5px;flex-wrap:wrap;align-items:center}
 .keys i{
-  font-style:normal;font-size:11.5px;font-weight:600;padding:3px 9px;border-radius:6px;
-  background:var(--surface-2);color:var(--ink-soft);letter-spacing:.3px;
+  font-style:normal;font-size:11px;font-weight:600;padding:3px 8px;border-radius:6px;
+  background:var(--surface-2);color:var(--ink-soft);letter-spacing:.3px;opacity:.5;
 }
-.keys i.has{background:color-mix(in srgb,var(--teal) 13%,transparent);color:var(--teal)}
+.keys i.has{background:color-mix(in srgb,var(--teal) 14%,transparent);color:var(--teal);opacity:1}
 :root[data-theme="dark"] .keys i.has{color:var(--accent)}
+.keys .pen{margin-left:auto;color:var(--orange);opacity:.85;display:flex}
+.keys .pen svg{width:13px;height:13px;fill:none;stroke:currentColor;stroke-width:2;
+  stroke-linecap:round;stroke-linejoin:round;display:block}
 
 .empty{
-  padding:46px 20px;text-align:center;color:var(--ink-soft);font-size:14px;
-  background:var(--surface);border:1px dashed var(--line);border-radius:var(--radius);
+  padding:44px 20px;text-align:center;color:var(--ink-soft);font-size:13.5px;
+  background:var(--surface);border:1px dashed var(--line);border-radius:var(--r);
 }
+
+/* ---------------- order of service ---------------- */
+.ordr{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+  box-shadow:var(--shadow-s);overflow:hidden}
+.oi{display:flex;gap:13px;padding:9px 18px;border-bottom:1px solid var(--line);
+  animation:pop .34s var(--e) backwards}
+.oi:last-child{border-bottom:0}
+.oi .seq{font-size:11px;color:var(--ink-soft);opacity:.55;min-width:17px;
+  text-align:right;padding-top:2px;font-variant-numeric:tabular-nums}
+.oi .bd{min-width:0;flex:1}
+.oi .ti{font-size:14.5px;font-weight:500;line-height:1.35}
+.oi .dt{margin-top:3px;font-size:12.5px;color:var(--ink-soft);line-height:1.5;
+  white-space:pre-wrap}
+.oi.hdr{background:var(--surface-2)}
+.oi.hdr .ti{font-size:11.5px;font-weight:700;letter-spacing:.9px;text-transform:uppercase;
+  color:var(--teal)}
+:root[data-theme="dark"] .oi.hdr .ti{color:var(--accent)}
+.oi.sng .ti{font-weight:600}
+.oi.sng .ti::before{content:"♪";color:var(--orange);margin-right:7px;font-size:13px}
+.oi .kk{font-size:11px;font-weight:700;color:var(--orange);
+  background:color-mix(in srgb,var(--orange) 13%,transparent);
+  padding:2px 8px;border-radius:6px;align-self:flex-start;flex:none}
+.oi.go{cursor:pointer;transition:background .18s var(--e)}
+.oi.go:hover{background:var(--surface-2)}
 
 /* ---------------- song sheet ---------------- */
 #sheet{position:fixed;inset:0;z-index:40;background:var(--bg);display:none;flex-direction:column}
-#sheet.on{display:flex;animation:slide .3s var(--ease)}
-@keyframes slide{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+#sheet.on{display:flex;animation:slide .32s var(--e)}
+@keyframes slide{from{opacity:0;transform:translateY(16px) scale(.995)}to{opacity:1;transform:none}}
 
-.shead{
-  display:flex;align-items:center;gap:10px;padding:5px 11px;
-  border-bottom:1px solid var(--line);background:var(--surface);flex:none;
-}
+.shead{display:flex;align-items:center;gap:9px;padding:5px 10px;flex:none;
+  border-bottom:1px solid var(--line);background:var(--surface)}
 .shead .t{min-width:0;flex:1}
-.shead h2{margin:0;font-size:16px;font-weight:600;white-space:nowrap;overflow:hidden;
+.shead h2{margin:0;font-size:15px;font-weight:600;white-space:nowrap;overflow:hidden;
   text-overflow:ellipsis;letter-spacing:-.2px}
-.shead .t span{font-size:11.5px;color:var(--ink-soft)}
+.shead .t span{font-size:11px;color:var(--ink-soft)}
 
-.kpick{display:flex;gap:5px;background:var(--surface-2);padding:4px;border-radius:11px;flex:none}
-.kpick button{
-  min-width:46px;padding:8px 6px;border-radius:8px;font-size:15px;font-weight:600;
-  color:var(--ink-soft);transition:all .22s var(--ease);
-}
-.kpick button[aria-pressed="true"]{
-  background:var(--orange);color:#fff;box-shadow:0 2px 9px rgba(205,90,19,.4);
-}
-.kpick button:disabled{opacity:.28;cursor:not-allowed}
+/* ---- the pen strip ----
+   A slip of paper for the capo. Christian writes "capo 2" with the S
+   Pen and it is kept the moment he lifts it — no keyboard, no save
+   button. Stored per song AND per key, because a capo that makes G
+   sound like A means nothing on the C sheet. */
+.pad{position:relative;flex:none;width:210px;height:42px;border-radius:9px;
+  background:var(--surface-2);border:1px dashed var(--line);overflow:hidden;
+  transition:border-color .2s var(--e),background .2s var(--e)}
+.pad:hover{border-color:color-mix(in srgb,var(--teal) 40%,var(--line))}
+.pad.ink{border-style:solid;background:var(--surface)}
+.pad canvas{display:block;width:100%;height:100%;touch-action:none;cursor:crosshair}
+.pad .hint{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+  gap:6px;font-size:11px;color:var(--ink-soft);opacity:.65;pointer-events:none;
+  transition:opacity .2s var(--e)}
+.pad.ink .hint{opacity:0}
+.pad .hint svg{width:13px;height:13px;fill:none;stroke:currentColor;stroke-width:1.8;
+  stroke-linecap:round;stroke-linejoin:round}
+.pad .wipe{position:absolute;top:2px;right:2px;width:20px;height:20px;border-radius:6px;
+  display:none;place-items:center;color:var(--ink-soft);background:var(--surface);
+  box-shadow:var(--shadow-s)}
+.pad.ink .wipe{display:grid}
+.pad .wipe:hover{color:var(--orange)}
+.pad .wipe svg{width:11px;height:11px;fill:none;stroke:currentColor;stroke-width:2.2;
+  stroke-linecap:round}
+
+.kpick{display:flex;gap:4px;background:var(--surface-2);padding:3px;border-radius:11px;flex:none}
+.kpick button{min-width:44px;padding:8px 5px;border-radius:8px;font-size:15px;font-weight:600;
+  color:var(--ink-soft);transition:all .22s var(--e);position:relative}
+.kpick button[aria-pressed="true"]{background:var(--orange);color:#fff;
+  box-shadow:0 2px 10px rgba(205,90,19,.42)}
+.kpick button:disabled{opacity:.25;cursor:not-allowed}
 .kpick button:not(:disabled):active{transform:scale(.93)}
+.kpick button em{position:absolute;top:3px;right:5px;width:4px;height:4px;border-radius:50%;
+  background:var(--orange)}
+.kpick button[aria-pressed="true"] em{background:#fff}
 
 .sbody{flex:1;overflow-y:auto;padding:8px 12px 12px;-webkit-overflow-scrolling:touch}
-.sheet-in{animation:fade .26s var(--ease)}
+.sheet-in{animation:fade .28s var(--e)}
 @keyframes fade{from{opacity:0}to{opacity:1}}
 
-.meta{display:flex;gap:7px;flex-wrap:wrap;margin:0 0 7px}
-.meta i{
-  font-style:normal;font-size:10.5px;padding:1px 7px;border-radius:999px;
-  background:var(--surface-2);color:var(--ink-soft);
-}
+.meta{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 7px}
+.meta i{font-style:normal;font-size:10.5px;padding:1px 7px;border-radius:999px;
+  background:var(--surface-2);color:var(--ink-soft)}
 
-/* Two columns on a landscape tablet: the printed charts are laid
-   out this way and it is what makes a 10" screen hold a whole song
-   without scrolling mid-verse. */
 .cols{column-gap:22px;column-rule:1px solid var(--line)}
 .cols.c2{column-count:2}
 .cols.c3{column-count:3}
 
 .sec{break-inside:avoid;margin:0 0 9px}
-.sec h4{
-  margin:0 0 2px;font-size:10.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;
-  color:var(--teal);opacity:.85;
-}
+.sec h4{margin:0 0 2px;font-size:10.5px;font-weight:700;letter-spacing:.8px;
+  text-transform:uppercase;color:var(--teal);opacity:.85}
 :root[data-theme="dark"] .sec h4{color:var(--accent)}
 
 /* ---- chords locked to their syllable ----
-   Each word is a two-row inline grid: the chord in row 1, the word
-   it is played on in row 2. The chord is therefore a child of its
-   own word, not a thing positioned by column arithmetic, so it can
-   never drift off the syllable — at any font size, any column
-   width, any screen.
+   Each word is a two-row inline grid: the chord in row 1, the word it
+   is played on in row 2. The chord is a child of its own word, not a
+   thing placed by column arithmetic, so it cannot drift — at any font
+   size, column count or screen width.
 
-   The grid also settles the hard case: a chord wider than its word
-   (Asus4 over "we"). The cell takes the width of whichever is
-   wider, so the next word steps aside and two chords can never
-   collide or overlap. Printed charts space out the same way.
+   The grid also settles the hard case, a chord wider than its word
+   (Asus4 over "we"): the cell takes whichever is wider, so the next
+   word steps aside and two chords can never collide.
 
-   Row 1 is a fixed em height, so it scales with the text and every
-   word on a line sits on the same baseline whether it carries a
-   chord or not. Lines that have chords always reserve that row —
-   two lyric lines can never close up and leave a chord nowhere to
-   go. */
-.ln{
-  font-size:var(--song-size); line-height:1.22; font-weight:700;
+   Lines carrying chords always reserve row 1, so two lyric lines can
+   never close up and leave a chord nowhere to sit. */
+.ln{font-size:var(--song-size);line-height:1.22;font-weight:700;
   font-family:ui-monospace,"SF Mono","Cascadia Mono",Menlo,Consolas,monospace;
-  white-space:normal; margin:0 0 1px; letter-spacing:-.2px;
-}
+  white-space:normal;margin:0 0 1px;letter-spacing:-.2px}
 .ln.c{margin-bottom:2px}
-.ln.c .w{
-  display:inline-grid; grid-template-rows:1.12em auto;
-  justify-items:start; vertical-align:top;
-}
-.ln.c .w>b{
-  grid-row:1; align-self:end; line-height:1;
-  font-weight:800; font-size:.8em; color:var(--chord);
-  letter-spacing:0; white-space:pre; padding-right:.5em;
-}
-.ln.c .w>i{grid-row:2; font-style:normal; white-space:pre}
-.gap{height:.7em}
+.ln.c .w{display:inline-grid;grid-template-rows:1.12em auto;justify-items:start;
+  vertical-align:top}
+.ln.c .w>b{grid-row:1;align-self:end;line-height:1;font-weight:800;font-size:.8em;
+  color:var(--chord);white-space:pre;padding-right:.5em}
+.ln.c .w>i{grid-row:2;font-style:normal;white-space:pre}
+.gap{height:.6em}
 
-/* ---------------- floating size control ---------------- */
-.fab{
-  position:absolute;right:20px;bottom:20px;display:flex;align-items:center;gap:2px;
-  background:var(--surface);border:1px solid var(--line);border-radius:999px;
-  box-shadow:var(--shadow);padding:5px;z-index:5;
-}
-.fab button{width:42px;height:42px;border-radius:999px;display:grid;place-items:center;
-  font-size:15px;font-weight:600;color:var(--ink-soft);transition:all .18s var(--ease)}
+.fab{position:absolute;right:16px;bottom:14px;display:flex;align-items:center;gap:1px;
+  background:color-mix(in srgb,var(--surface) 94%,transparent);backdrop-filter:blur(10px);
+  border:1px solid var(--line);border-radius:999px;box-shadow:var(--shadow-m);padding:4px;z-index:5}
+.fab button{width:38px;height:38px;border-radius:999px;display:grid;place-items:center;
+  font-size:14px;font-weight:600;color:var(--ink-soft);transition:all .18s var(--e)}
 .fab button:hover{background:var(--surface-2);color:var(--ink)}
 .fab button:active{transform:scale(.88)}
-.fab .lbl{font-size:11.5px;color:var(--ink-soft);min-width:34px;text-align:center;
+.fab .lbl{font-size:11px;color:var(--ink-soft);min-width:33px;text-align:center;
   font-variant-numeric:tabular-nums}
 
-.toast{
-  position:fixed;left:50%;bottom:26px;transform:translate(-50%,16px);
-  background:var(--ink);color:var(--bg);padding:10px 18px;border-radius:999px;
-  font-size:13px;opacity:0;pointer-events:none;transition:all .3s var(--ease);z-index:60;
-}
+.toast{position:fixed;left:50%;bottom:22px;transform:translate(-50%,16px);
+  background:var(--ink);color:var(--bg);padding:9px 17px;border-radius:999px;
+  font-size:12.5px;font-weight:500;opacity:0;pointer-events:none;
+  transition:opacity .28s var(--e),transform .28s var(--e);z-index:60;box-shadow:var(--shadow-l)}
 .toast.on{opacity:1;transform:translate(-50%,0)}
 
 @media (max-width:760px){
-  main{padding:16px 14px 50px}
+  main{padding:14px 12px 44px}
   .cols.c2,.cols.c3{column-count:1}
-  .brand span{display:none}
-  .sbody{padding:8px 10px 12px}
+  .brand>div{display:none}
+  .pad{width:120px}
 }
-@media print{.bar,.fab,.shead .kpick,.icon{display:none}}
+@media print{.bar,.fab,.shead,.toast{display:none}}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 </style>
 
 <div class="bar">
   <div class="brand">
     <div class="mark">EIC</div>
-    <div>
-      <b>Worship</b><br><span id="sub">EIC Paris</span>
-    </div>
+    <div><b>Worship</b><span id="sub">EIC Paris</span></div>
   </div>
   <div class="spacer"></div>
   <div class="tabs" role="tablist">
-    <button class="tab" role="tab" aria-selected="true" data-view="set">Domingo</button>
-    <button class="tab" role="tab" aria-selected="false" data-view="arch">Archivo</button>
+    <button class="tab" role="tab" aria-selected="true" data-view="set" data-t="tab_songs"></button>
+    <button class="tab" role="tab" aria-selected="false" data-view="ordr" data-t="tab_order"></button>
+    <button class="tab" role="tab" aria-selected="false" data-view="arch" data-t="tab_archive"></button>
   </div>
-  <button class="icon" id="awake" title="Mantener la pantalla encendida">
+  <div class="lang">
+    <button id="langBtn">ES</button>
+    <div class="menu" id="langMenu" role="menu"></div>
+  </div>
+  <button class="icon" id="awake" data-tt="tip_awake">
     <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M19.1 4.9L17 7M7 17l-2.1 2.1"/></svg>
   </button>
-  <button class="icon" id="theme" title="Modo noche">
+  <button class="icon" id="theme" data-tt="tip_theme">
     <svg viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z"/></svg>
   </button>
 </div>
 
 <main>
   <section class="view on" id="v-set">
-    <div class="lead">
-      <h1 id="set-title">Domingo</h1>
-      <p id="set-sub"></p>
-    </div>
+    <div class="lead"><h1 id="set-title"></h1><p id="set-sub"></p></div>
     <div class="svc" id="svc"></div>
     <div class="grid" id="set-grid"></div>
   </section>
 
+  <section class="view" id="v-ordr">
+    <div class="lead"><h1 data-t="order_title"></h1><p id="ordr-sub"></p></div>
+    <div class="svc" id="svc2"></div>
+    <div class="ordr" id="ordr-list"></div>
+  </section>
+
   <section class="view" id="v-arch">
-    <div class="lead">
-      <h1>Archivo</h1>
-      <p id="arch-sub"></p>
-    </div>
+    <div class="lead"><h1 data-t="archive_title"></h1><p id="arch-sub"></p></div>
     <div class="grid" id="arch-grid"></div>
   </section>
 </main>
 
 <div id="sheet">
   <div class="shead">
-    <button class="icon" id="back" title="Volver">
+    <button class="icon" id="back" data-tt="tip_back">
       <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
     </button>
     <div class="t"><h2 id="s-title"></h2><span id="s-by"></span></div>
+    <div class="pad" id="pad">
+      <canvas id="padc"></canvas>
+      <div class="hint">
+        <svg viewBox="0 0 24 24"><path d="M12 19l7-7 3 3-7 7-3-3z"/><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18z"/></svg>
+        <span data-t="pad_hint"></span>
+      </div>
+      <button class="wipe" id="padwipe" data-tt="tip_wipe">
+        <svg viewBox="0 0 24 24"><path d="M18 6L6 18M6 6l12 12"/></svg>
+      </button>
+    </div>
     <div class="kpick" id="s-keys"></div>
-    <button class="icon" id="fitBtn" title="Ajustar para que quepa entera en la pantalla">
+    <button class="icon" id="fitBtn" data-tt="tip_fit">
       <svg viewBox="0 0 24 24"><path d="M4 9V5a1 1 0 011-1h4M20 9V5a1 1 0 00-1-1h-4M4 15v4a1 1 0 001 1h4M20 15v4a1 1 0 01-1 1h-4"/></svg>
     </button>
-    <button class="icon" id="colsBtn" title="1, 2 o 3 columnas">
+    <button class="icon" id="colsBtn" data-tt="tip_cols">
       <svg viewBox="0 0 24 24"><rect x="3" y="4" width="4.5" height="16" rx="1"/><rect x="9.75" y="4" width="4.5" height="16" rx="1"/><rect x="16.5" y="4" width="4.5" height="16" rx="1"/></svg>
       <b id="colsN">2</b>
     </button>
   </div>
   <div class="sbody" id="s-body"></div>
   <div class="fab">
-    <button id="minus" title="Letra más pequeña">A−</button>
+    <button id="minus" data-tt="tip_smaller">A−</button>
     <span class="lbl" id="size"></span>
-    <button id="plus" title="Letra más grande">A+</button>
+    <button id="plus" data-tt="tip_bigger">A+</button>
   </div>
 </div>
 
@@ -316,32 +391,113 @@ main{padding:22px 20px 60px;max-width:1500px;margin:0 auto}
 <script>
 const DATA = __SONG_DATA__;
 
+/* ---------- i18n: the app's own words, not the songs' ---------- */
+const I18N = {
+  es: { name:'Español', tab_songs:'Domingo', tab_order:'Orden', tab_archive:'Archivo',
+    order_title:'Orden del servicio', archive_title:'Archivo',
+    songs:'canciones', no_songs:'No hay canciones para este servicio todavía.',
+    no_order:'El orden del servicio aún no está publicado.',
+    arch_empty:'El archivo se irá llenando con las canciones de cada domingo.',
+    alpha:'orden alfabético', key:'Tono', capo:'Capo', sounds:'Suena en',
+    pad_hint:'capo…', fits:'Cabe entera', nofit:'No cabe ni a',
+    one_col:'Una columna', n_cols:'columnas', awake_on:'La pantalla no se apagará',
+    awake_off:'Pantalla normal', no_wake:'Este navegador no lo permite',
+    cleared:'Nota borrada', tip_awake:'Mantener la pantalla encendida',
+    tip_theme:'Modo noche', tip_back:'Volver', tip_fit:'Ajustar a la pantalla',
+    tip_cols:'1, 2 o 3 columnas', tip_smaller:'Letra más pequeña',
+    tip_bigger:'Letra más grande', tip_wipe:'Borrar la nota' },
+  en: { name:'English', tab_songs:'Sunday', tab_order:'Order', tab_archive:'Archive',
+    order_title:'Order of service', archive_title:'Archive',
+    songs:'songs', no_songs:'No songs for this service yet.',
+    no_order:'The order of service is not published yet.',
+    arch_empty:'The archive fills up with each Sunday’s songs.',
+    alpha:'alphabetical', key:'Key', capo:'Capo', sounds:'Sounds in',
+    pad_hint:'capo…', fits:'Fits on screen', nofit:'Does not fit even at',
+    one_col:'One column', n_cols:'columns', awake_on:'Screen will stay on',
+    awake_off:'Screen back to normal', no_wake:'This browser does not allow it',
+    cleared:'Note cleared', tip_awake:'Keep the screen on',
+    tip_theme:'Night mode', tip_back:'Back', tip_fit:'Fit to screen',
+    tip_cols:'1, 2 or 3 columns', tip_smaller:'Smaller text',
+    tip_bigger:'Larger text', tip_wipe:'Clear the note' },
+  fr: { name:'Français', tab_songs:'Dimanche', tab_order:'Ordre', tab_archive:'Archives',
+    order_title:'Ordre du culte', archive_title:'Archives',
+    songs:'chants', no_songs:'Pas encore de chants pour ce culte.',
+    no_order:'L’ordre du culte n’est pas encore publié.',
+    arch_empty:'Les archives se remplissent avec les chants de chaque dimanche.',
+    alpha:'ordre alphabétique', key:'Tonalité', capo:'Capo', sounds:'Sonne en',
+    pad_hint:'capo…', fits:'Tient à l’écran', nofit:'Ne tient pas même à',
+    one_col:'Une colonne', n_cols:'colonnes', awake_on:'L’écran restera allumé',
+    awake_off:'Écran normal', no_wake:'Ce navigateur ne le permet pas',
+    cleared:'Note effacée', tip_awake:'Garder l’écran allumé',
+    tip_theme:'Mode nuit', tip_back:'Retour', tip_fit:'Ajuster à l’écran',
+    tip_cols:'1, 2 ou 3 colonnes', tip_smaller:'Texte plus petit',
+    tip_bigger:'Texte plus grand', tip_wipe:'Effacer la note' }
+};
+
 const $ = s => document.querySelector(s);
 const el = (t, c) => { const n = document.createElement(t); if (c) n.className = c; return n; };
+const slugOf = s => String(s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
 
-/* Preferences survive between Sundays. Wrapped because a tablet in
-   private mode, or with site data blocked, throws on access. */
+/* Preferences and pen notes survive between Sundays. Wrapped because
+   a tablet in private mode, or with site data blocked, throws here. */
 const store = {
   get(k, d) { try { const v = localStorage.getItem('eicw.' + k); return v === null ? d : JSON.parse(v); } catch { return d; } },
   set(k, v) { try { localStorage.setItem('eicw.' + k, JSON.stringify(v)); } catch {} }
 };
 
-let size = store.get('size', 16);
+const MIN_PX = 8, MAX_PX = 44;
+
+let size     = store.get('size', 16);
 let colCount = store.get('cols3', 2);
-let auto = store.get('auto', true);
-let svcIx = 0;
-let current = null;   // {song, key}
+let auto     = store.get('auto', true);
+let lang     = store.get('lang', 'es');
+let notes    = store.get('notes', {});      // "slug|key" -> [stroke, …]
+let svcIx    = 0;
+let current  = null;
+
+const T = k => (I18N[lang] || I18N.es)[k] || k;
 
 function toast(msg) {
   const t = $('#toast'); t.textContent = msg; t.classList.add('on');
   clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove('on'), 1700);
 }
 
+/* ---------- language ---------- */
+function applyLang() {
+  document.documentElement.lang = lang;
+  $('#langBtn').textContent = lang.toUpperCase();
+  document.querySelectorAll('[data-t]').forEach(n => n.textContent = T(n.dataset.t));
+  document.querySelectorAll('[data-tt]').forEach(n => n.title = T(n.dataset.tt));
+  store.set('lang', lang);
+  drawSvc(); drawSet(); drawOrder(); drawArchive();
+  if (current) openSong(current.entry, current.key);
+}
+
+(function langMenu() {
+  const m = $('#langMenu'), codes = Object.keys(I18N);
+  codes.forEach(code => {
+    const b = el('button');
+    b.setAttribute('role', 'menuitemradio');
+    const i = el('i'); i.textContent = code.toUpperCase();
+    b.appendChild(i);
+    b.appendChild(document.createTextNode(I18N[code].name));
+    b.onclick = () => { lang = code; m.classList.remove('on'); applyLang(); mark(); };
+    m.appendChild(b);
+  });
+  function mark() {
+    [...m.children].forEach((b, i) => b.setAttribute('aria-checked', codes[i] === lang));
+  }
+  $('#langBtn').onclick = e => { e.stopPropagation(); m.classList.toggle('on'); mark(); };
+  document.addEventListener('click', () => m.classList.remove('on'));
+  mark();
+})();
+
 /* ---------- theme ---------- */
 function applyTheme(dark) {
   document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
   $('#theme').classList.toggle('on', dark);
   store.set('dark', dark);
+  if (current) redrawPad();
 }
 applyTheme(store.get('dark', false));
 $('#theme').onclick = () =>
@@ -354,18 +510,15 @@ function applySize() {
   store.set('size', size);
   $('#fitBtn').classList.toggle('on', auto);
 }
-/* Tocar el tamano a mano apaga el ajuste automatico: manda el. */
-$('#plus').onclick  = () => { size = Math.min(44, size + 1); auto = false; store.set('auto', false); applySize(); };
-$('#minus').onclick = () => { size = Math.max(10, size - 1); auto = false; store.set('auto', false); applySize(); };
+/* Touching the size by hand turns auto-fit off: he is overriding it. */
+$('#plus').onclick  = () => { size = Math.min(MAX_PX, size + 1); auto = false; store.set('auto', false); applySize(); };
+$('#minus').onclick = () => { size = Math.max(MIN_PX, size - 1); auto = false; store.set('auto', false); applySize(); };
 applySize();
 
 /* ---------- columns ---------- */
 function applyCols() {
   const box = $('#s-body').querySelector('.cols');
-  if (box) {
-    box.classList.remove('c2', 'c3');
-    if (colCount > 1) box.classList.add('c' + colCount);
-  }
+  if (box) { box.classList.remove('c2', 'c3'); if (colCount > 1) box.classList.add('c' + colCount); }
   $('#colsN').textContent = colCount;
   store.set('cols3', colCount);
 }
@@ -373,35 +526,32 @@ $('#colsBtn').onclick = () => {
   colCount = colCount % 3 + 1;
   auto = false; store.set('auto', false);
   applyCols(); applySize();
-  toast(colCount === 1 ? 'Una columna' : colCount + ' columnas');
+  toast(colCount === 1 ? T('one_col') : colCount + ' ' + T('n_cols'));
 };
 
-/* ---------- fit the whole song on one screen ----------
+/* ---------- fit a whole song on one screen ----------
    The point of the tablet is to stop turning pages, so the useful
-   question is not "what size do I like" but "what is the largest
-   size at which this song still fits". That is measurable: set a
-   size, ask whether the body still scrolls, binary-search the rest.
+   question is not "what size do I like" but "what is the largest size
+   at which this song still fits". That is measurable: set a size, ask
+   whether the body still scrolls, binary-search the rest.
 
-   Columns belong to the same answer — three narrow columns often
-   allow bigger type than one wide one — so every count is tried and
+   Columns are part of the same answer — three narrow columns often
+   allow bigger type than one wide one — so each count is tried and
    whichever yields the largest type wins. Ties go to fewer columns,
    which read more naturally. */
 function bestFor(n) {
-  const body = $('#s-body');
-  const box = body.querySelector('.cols');
-  if (!box) return { size: 10, fits: false };
-
+  const body = $('#s-body'), box = body.querySelector('.cols');
+  if (!box) return { size: MIN_PX, fits: false };
   box.classList.remove('c2', 'c3');
   if (n > 1) box.classList.add('c' + n);
 
-  let lo = 10, hi = 44, best = 10, fits = false;
+  let lo = MIN_PX, hi = MAX_PX, best = MIN_PX, fits = false;
   while (lo <= hi) {
     const mid = (lo + hi) >> 1;
     document.documentElement.style.setProperty('--song-size', mid + 'px');
-    void body.offsetHeight;                      // force reflow
-    if (body.scrollHeight <= body.clientHeight + 2) {
-      best = mid; fits = true; lo = mid + 1;
-    } else hi = mid - 1;
+    void body.offsetHeight;                        // force reflow
+    if (body.scrollHeight <= body.clientHeight + 2) { best = mid; fits = true; lo = mid + 1; }
+    else hi = mid - 1;
   }
   return { size: best, fits };
 }
@@ -412,47 +562,48 @@ function autoFit(quiet) {
     const r = bestFor(n);
     if (r.size > bestSize) { bestSize = r.size; bestN = n; ok = r.fits; }
   }
-  colCount = bestN;
-  size = bestSize || 10;
+  colCount = bestN; size = bestSize || MIN_PX;
   applyCols(); applySize();
   if (quiet) return;
-  toast(ok ? `Cabe entera · ${size}px · ${colCount} col.`
-           : `No cabe ni a 10px · ${colCount} col.`);
+  toast(ok ? T('fits') + ' · ' + size + 'px · ' + colCount + ' col.'
+           : T('nofit') + ' ' + MIN_PX + 'px · ' + colCount + ' col.');
 }
 
 function fitWhenSettled(quiet = true) {
-  requestAnimationFrame(() =>
-    requestAnimationFrame(() => autoFit(quiet)));
+  /* Two frames, because measuring in the first — before the browser
+     has settled the columns — returns heights that are still moving.
+     The timeout is not a duplicate: requestAnimationFrame is throttled
+     or skipped outright in some contexts (a backgrounded tab, a
+     WebView mid-transition), and a fit that silently never runs leaves
+     him scrolling. Whichever arrives first wins; the other is a no-op. */
+  let done = false;
+  const run = () => { if (done) return; done = true; autoFit(quiet); };
+  requestAnimationFrame(() => requestAnimationFrame(run));
+  setTimeout(run, 90);
 }
-
-$('#fitBtn').onclick = () => {
-  auto = true; store.set('auto', true);
-  fitWhenSettled(false);
-};
+$('#fitBtn').onclick = () => { auto = true; store.set('auto', true); fitWhenSettled(false); };
 
 /* Turning the tablet changes the space available, so a fit made in
-   portrait is wrong in landscape. Recalculated on rotation, and
-   debounced because Android fires resize repeatedly mid-turn. */
+   portrait is wrong in landscape. Debounced: Android fires resize
+   repeatedly through the rotation. */
 let resizeT;
 addEventListener('resize', () => {
-  if (!auto || !$('#sheet').classList.contains('on')) return;
+  if (!$('#sheet').classList.contains('on')) return;
   clearTimeout(resizeT);
-  resizeT = setTimeout(() => fitWhenSettled(true), 180);
+  resizeT = setTimeout(() => { sizePad(); if (auto) fitWhenSettled(true); }, 180);
 });
 
-/* ---------- keep the screen on ----------
-   A song lasts longer than the screen timeout, and the tablet going
-   dark mid-verse is the whole reason paper felt safer. */
+/* ---------- keep the screen on ---------- */
 let lock = null;
 $('#awake').onclick = async () => {
   try {
-    if (lock) { await lock.release(); lock = null; $('#awake').classList.remove('on'); toast('Pantalla normal'); }
+    if (lock) { await lock.release(); lock = null; $('#awake').classList.remove('on'); toast(T('awake_off')); }
     else {
       lock = await navigator.wakeLock.request('screen');
       lock.addEventListener('release', () => { lock = null; $('#awake').classList.remove('on'); });
-      $('#awake').classList.add('on'); toast('La pantalla no se apagará');
+      $('#awake').classList.add('on'); toast(T('awake_on'));
     }
-  } catch { toast('Este navegador no permite mantener la pantalla encendida'); }
+  } catch { toast(T('no_wake')); }
 };
 document.addEventListener('visibilitychange', async () => {
   if (document.visibilityState === 'visible' && $('#awake').classList.contains('on') && !lock) {
@@ -460,37 +611,140 @@ document.addEventListener('visibilitychange', async () => {
   }
 });
 
-/* ---------- rendering a chart ----------
-   Each word is its own inline-block so the chord can be absolutely
-   positioned above it. That is what lets the text reflow at any
-   font size and any column width without the chords drifting off
-   the syllable they belong to. */
+/* ---------- the pen strip ----------
+   Strokes are kept as fractions of the strip, not pixels, so a note
+   written on the tablet still lands correctly if the strip is ever a
+   different width. Saved on lift — there is no save button by design.
+
+   Palm rejection: once a real pen has been seen, touch is ignored, so
+   a hand resting on the tablet cannot scribble. Finger and mouse still
+   work on devices with no pen. */
+const padEl = $('#pad'), padc = $('#padc'), wipeBtn = $('#padwipe');
+let penSeen = false, drawing = false, stroke = null;
+
+const noteKey = () => current ? current.entry.slug + '|' + current.key : null;
+const noteData = () => { const k = noteKey(); return (k && notes[k]) || []; };
+
+function inkStyle(ctx) {
+  ctx.strokeStyle = getComputedStyle(document.documentElement)
+    .getPropertyValue('--chord').trim() || '#C24F0B';
+  ctx.lineWidth = Math.max(1.8, padc.width / 130);
+  ctx.lineCap = ctx.lineJoin = 'round';
+}
+
+function sizePad() {
+  const r = padc.getBoundingClientRect();
+  if (!r.width) return;
+  const dpr = Math.min(window.devicePixelRatio || 1, 3);
+  padc.width = Math.max(1, Math.round(r.width * dpr));
+  padc.height = Math.max(1, Math.round(r.height * dpr));
+  redrawPad();
+}
+
+function redrawPad() {
+  const ctx = padc.getContext('2d');
+  ctx.clearRect(0, 0, padc.width, padc.height);
+  const data = noteData();
+  padEl.classList.toggle('ink', data.length > 0);
+  inkStyle(ctx);
+  data.forEach(s => {
+    if (!s.length) return;
+    ctx.beginPath();
+    s.forEach(([x, y], i) => {
+      const px = x * padc.width, py = y * padc.height;
+      i ? ctx.lineTo(px, py) : ctx.moveTo(px, py);
+    });
+    if (s.length === 1) ctx.lineTo(s[0][0] * padc.width + .5, s[0][1] * padc.height);
+    ctx.stroke();
+  });
+}
+
+const pointOf = e => {
+  const r = padc.getBoundingClientRect();
+  return [(e.clientX - r.left) / r.width, (e.clientY - r.top) / r.height];
+};
+
+padc.addEventListener('pointerdown', e => {
+  if (e.pointerType === 'pen') penSeen = true;
+  else if (penSeen && e.pointerType === 'touch') return;       // palm
+  if (!noteKey()) return;
+  drawing = true;
+  try { padc.setPointerCapture(e.pointerId); } catch {}
+  stroke = [pointOf(e)];
+  e.preventDefault();
+});
+
+padc.addEventListener('pointermove', e => {
+  if (!drawing) return;
+  stroke.push(pointOf(e));
+  const ctx = padc.getContext('2d'), n = stroke.length;
+  inkStyle(ctx);
+  ctx.beginPath();
+  ctx.moveTo(stroke[n - 2][0] * padc.width, stroke[n - 2][1] * padc.height);
+  ctx.lineTo(stroke[n - 1][0] * padc.width, stroke[n - 1][1] * padc.height);
+  ctx.stroke();
+  e.preventDefault();
+});
+
+function endStroke() {
+  if (!drawing) return;
+  drawing = false;
+  const k = noteKey();
+  if (k && stroke && stroke.length) {
+    (notes[k] = notes[k] || []).push(stroke);
+    store.set('notes', notes);               // kept the moment he lifts
+    padEl.classList.add('ink');
+    keyDots(); drawSet(); drawArchive();
+  }
+  stroke = null;
+}
+padc.addEventListener('pointerup', endStroke);
+padc.addEventListener('pointercancel', endStroke);
+padc.addEventListener('pointerleave', endStroke);
+
+wipeBtn.onclick = e => {
+  e.stopPropagation();
+  const k = noteKey();
+  if (!k) return;
+  delete notes[k];
+  store.set('notes', notes);
+  redrawPad(); keyDots(); drawSet(); drawArchive();
+  toast(T('cleared'));
+};
+
+const hasAnyNote = slug =>
+  Object.keys(notes).some(k => k.split('|')[0] === slug && (notes[k] || []).length);
+
+/* A dot on a key pill means there is a note waiting on that key's
+   sheet — so a capo written on G is visible from D. */
+function keyDots() {
+  if (!current) return;
+  [...$('#s-keys').children].forEach((b, i) => {
+    const k = DATA.keys[i];
+    const has = (notes[current.entry.slug + '|' + k] || []).length;
+    const dot = b.querySelector('em');
+    if (has && !dot) b.appendChild(el('em'));
+    if (!has && dot) dot.remove();
+  });
+}
+
+/* ---------- rendering a chart ---------- */
 function renderLine(line) {
   const hasChord = line.parts.some(p => p.chord);
   const p = el('p', 'ln' + (hasChord ? ' c' : ''));
 
-  /* A line with no chords is plain text, so it stays compact and
-     wraps like prose. */
-  if (!hasChord) {
-    p.textContent = line.parts.map(x => x.text || '').join('');
-    return p;
-  }
+  if (!hasChord) { p.textContent = line.parts.map(x => x.text || '').join(''); return p; }
 
-  /* Otherwise every word becomes its own grid cell and the chord
-     rides in the cell of the word it is played on. Trailing spaces
-     stay glued to their word so the wrap points are the real ones. */
   line.parts.forEach(part => {
     const chunks = (part.text || '').match(/\S+\s*|\s+/g) || [];
-    if (!chunks.length) chunks.push(' ');   // a chord with no word
-
+    if (!chunks.length) chunks.push(' ');
     chunks.forEach((chunk, i) => {
       const span = el('span', 'w');
       const b = document.createElement('b');
       b.textContent = (i === 0 && part.chord) ? part.chord : '';
       const txt = document.createElement('i');
       txt.textContent = chunk;
-      span.appendChild(b);
-      span.appendChild(txt);
+      span.appendChild(b); span.appendChild(txt);
       p.appendChild(span);
     });
   });
@@ -499,10 +753,9 @@ function renderLine(line) {
 
 function renderSong(song) {
   const wrap = el('div', 'sheet-in');
-  const meta = el('div', 'meta');
-  const bits = [];
-  if (song.meta.capo)           bits.push('Capo ' + song.meta.capo);
-  if (song.meta.sounds_in)      bits.push('Suena en ' + song.meta.sounds_in);
+  const meta = el('div', 'meta'), bits = [];
+  if (song.meta.capo)           bits.push(T('capo') + ' ' + song.meta.capo);
+  if (song.meta.sounds_in)      bits.push(T('sounds') + ' ' + song.meta.sounds_in);
   if (song.meta.time_signature) bits.push(song.meta.time_signature);
   if (song.meta.tempo)          bits.push(song.meta.tempo);
   bits.forEach(b => { const i = el('i'); i.textContent = b; meta.appendChild(i); });
@@ -525,7 +778,7 @@ function openSong(entry, key) {
   const song = entry.keys[current.key];
 
   $('#s-title').textContent = song.title;
-  $('#s-by').textContent = [song.author, 'Tono ' + current.key].filter(Boolean).join(' · ');
+  $('#s-by').textContent = [song.author, T('key') + ' ' + current.key].filter(Boolean).join(' · ');
 
   const kp = $('#s-keys'); kp.innerHTML = '';
   DATA.keys.forEach(k => {
@@ -534,10 +787,10 @@ function openSong(entry, key) {
     const have = !!entry.keys[k];
     b.disabled = !have;
     b.setAttribute('aria-pressed', k === current.key);
-    b.title = have ? 'Tocar en ' + k : 'No disponible en ' + k;
     if (have) b.onclick = () => openSong(entry, k);
     kp.appendChild(b);
   });
+  keyDots();
 
   const body = $('#s-body');
   body.innerHTML = '';
@@ -545,16 +798,16 @@ function openSong(entry, key) {
   body.scrollTop = 0;
   applyCols();
   $('#sheet').classList.add('on');
-  // Cada cancion tiene su propio largo, asi que el ajuste se
-  // recalcula al abrirla, no una vez y para siempre. Dos frames
-  // porque medir en el primero, antes de que el navegador haya
-  // asentado las columnas, devuelve alturas que aun cambian.
-  if (auto) fitWhenSettled();
+  sizePad();
+  /* Each song has its own length, so the fit is recalculated when it
+     opens. Two frames: measuring in the first, before the browser has
+     settled the columns, returns heights that are still changing. */
+  if (auto) fitWhenSettled(true);
 }
 
-$('#back').onclick = () => $('#sheet').classList.remove('on');
+$('#back').onclick = () => { $('#sheet').classList.remove('on'); current = null; };
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') $('#sheet').classList.remove('on');
+  if (e.key === 'Escape') $('#back').click();
   if (!$('#sheet').classList.contains('on')) return;
   if (e.key === '+' || e.key === '=') $('#plus').click();
   if (e.key === '-') $('#minus').click();
@@ -563,72 +816,107 @@ document.addEventListener('keydown', e => {
 /* ---------- lists ---------- */
 function card(entry, n) {
   const b = el('button', 'card');
-  b.style.animationDelay = (n * 45) + 'ms';
+  b.style.animationDelay = (Math.min(n === null ? 0 : n, 12) * 42) + 'ms';
   if (n !== null) { const i = el('span', 'n'); i.textContent = (n + 1); b.appendChild(i); }
   const h = el('h3'); h.textContent = entry.title; b.appendChild(h);
-  const by = el('p', 'by'); by.textContent = entry.author || ' '; b.appendChild(by);
+  const by = el('p', 'by'); by.textContent = entry.author || ' '; b.appendChild(by);
   const ks = el('div', 'keys');
   DATA.keys.forEach(k => {
     const i = el('i'); i.textContent = k;
     if (entry.keys[k]) i.className = 'has';
     ks.appendChild(i);
   });
+  if (hasAnyNote(entry.slug)) {
+    const pen = el('span', 'pen');
+    pen.innerHTML = '<svg viewBox="0 0 24 24"><path d="M12 19l7-7 3 3-7 7-3-3z"/><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18z"/></svg>';
+    ks.appendChild(pen);
+  }
   b.appendChild(ks);
   b.onclick = () => openSong(entry);
   return b;
 }
 
-function drawSet() {
-  const svc = DATA.services[svcIx];
-  const grid = $('#set-grid'); grid.innerHTML = '';
-  $('#set-title').textContent = svc ? svc.name : 'Domingo';
-  $('#set-sub').textContent = svc
-    ? [svc.date, svc.title, svc.songs.length + ' canciones'].filter(Boolean).join('  ·  ')
-    : '';
-  $('#sub').textContent = svc ? svc.date : 'EIC Paris';
-
-  if (!svc || !svc.songs.length) {
-    const e = el('div', 'empty');
-    e.textContent = 'No hay canciones para este servicio todavía.';
-    grid.appendChild(e);
-    return;
-  }
-  svc.songs.forEach((s, i) => grid.appendChild(card(s, i)));
-}
-
-function drawSvc() {
-  const box = $('#svc'); box.innerHTML = '';
+function svcButtons(box) {
+  box.innerHTML = '';
   if (DATA.services.length < 2) return;
   DATA.services.forEach((s, i) => {
     const b = el('button');
     b.textContent = s.name;
     b.setAttribute('aria-pressed', i === svcIx);
-    b.onclick = () => { svcIx = i; drawSvc(); drawSet(); };
+    b.onclick = () => { svcIx = i; drawSvc(); drawSet(); drawOrder(); };
     box.appendChild(b);
+  });
+}
+function drawSvc() { svcButtons($('#svc')); svcButtons($('#svc2')); }
+
+function drawSet() {
+  const svc = DATA.services[svcIx];
+  const grid = $('#set-grid'); grid.innerHTML = '';
+  $('#set-title').textContent = svc ? svc.name : T('tab_songs');
+  $('#set-sub').textContent = svc
+    ? [svc.date, svc.title, svc.songs.length + ' ' + T('songs')].filter(Boolean).join('  ·  ') : '';
+  $('#sub').textContent = svc ? svc.date : 'EIC Paris';
+
+  if (!svc || !svc.songs.length) {
+    const e = el('div', 'empty'); e.textContent = T('no_songs'); grid.appendChild(e); return;
+  }
+  svc.songs.forEach((s, i) => grid.appendChild(card(s, i)));
+}
+
+function drawOrder() {
+  const svc = DATA.services[svcIx];
+  const box = $('#ordr-list'); box.innerHTML = '';
+  const order = (svc && svc.order) || [];
+  $('#ordr-sub').textContent = svc
+    ? [svc.name, svc.date, svc.title].filter(Boolean).join('  ·  ') : '';
+
+  if (!order.length) {
+    const e = el('div', 'empty'); e.textContent = T('no_order'); box.appendChild(e); return;
+  }
+
+  order.forEach((row, i) => {
+    const isHdr = row.type === 'header', isSong = row.type === 'song';
+    const d = el('div', 'oi' + (isHdr ? ' hdr' : '') + (isSong ? ' sng' : ''));
+    d.style.animationDelay = Math.min(i, 16) * 26 + 'ms';
+
+    const sq = el('span', 'seq');
+    sq.textContent = isHdr ? '' : (row.seq == null ? '' : row.seq);
+    d.appendChild(sq);
+
+    const bd = el('div', 'bd');
+    const ti = el('div', 'ti'); ti.textContent = row.title; bd.appendChild(ti);
+    if (row.detail) { const dt = el('div', 'dt'); dt.textContent = row.detail; bd.appendChild(dt); }
+    d.appendChild(bd);
+
+    if (row.key) { const k = el('span', 'kk'); k.textContent = row.key; d.appendChild(k); }
+
+    /* A song in the liturgy opens its own chart, so the order doubles
+       as a way into the songs and he never hunts for the right card. */
+    if (isSong && svc) {
+      const hit = svc.songs.find(s => slugOf(s.title) === slugOf(row.title));
+      if (hit) { d.classList.add('go'); d.onclick = () => openSong(hit); }
+    }
+    box.appendChild(d);
   });
 }
 
 function drawArchive() {
   const grid = $('#arch-grid'); grid.innerHTML = '';
   $('#arch-sub').textContent = DATA.archive.length
-    ? DATA.archive.length + ' canciones · orden alfabético'
-    : '';
+    ? DATA.archive.length + ' ' + T('songs') + ' · ' + T('alpha') : '';
   if (!DATA.archive.length) {
-    const e = el('div', 'empty');
-    e.textContent = 'El archivo se irá llenando con las canciones de cada domingo.';
-    grid.appendChild(e);
-    return;
+    const e = el('div', 'empty'); e.textContent = T('arch_empty'); grid.appendChild(e); return;
   }
-  DATA.archive.forEach((s, i) => grid.appendChild(card(s, null)));
+  DATA.archive.forEach(s => grid.appendChild(card(s, null)));
 }
 
 document.querySelectorAll('.tab').forEach(t => {
   t.onclick = () => {
     document.querySelectorAll('.tab').forEach(x => x.setAttribute('aria-selected', x === t));
     document.querySelectorAll('.view').forEach(v => v.classList.remove('on'));
-    $(t.dataset.view === 'set' ? '#v-set' : '#v-arch').classList.add('on');
+    $('#v-' + t.dataset.view).classList.add('on');
   };
 });
 
-drawSvc(); drawSet(); drawArchive();
+applyLang();
 </script>
