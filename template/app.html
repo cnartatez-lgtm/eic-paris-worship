@@ -80,6 +80,9 @@ button{font:inherit;color:inherit;border:0;background:none;cursor:pointer}
 .icon svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.9;
   stroke-linecap:round;stroke-linejoin:round}
 .icon.on{color:var(--orange);background:color-mix(in srgb,var(--orange) 13%,transparent)}
+.icon{position:relative}
+.icon>b{position:absolute;right:2px;bottom:0;font-size:9px;font-weight:700;
+  background:var(--surface);border-radius:4px;padding:0 2px;line-height:1.3}
 
 /* ---------------- views ---------------- */
 main{padding:22px 20px 60px;max-width:1500px;margin:0 auto}
@@ -139,7 +142,7 @@ main{padding:22px 20px 60px;max-width:1500px;margin:0 auto}
 @keyframes slide{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
 
 .shead{
-  display:flex;align-items:center;gap:12px;padding:9px 16px;
+  display:flex;align-items:center;gap:10px;padding:5px 11px;
   border-bottom:1px solid var(--line);background:var(--surface);flex:none;
 }
 .shead .t{min-width:0;flex:1}
@@ -158,32 +161,29 @@ main{padding:22px 20px 60px;max-width:1500px;margin:0 auto}
 .kpick button:disabled{opacity:.28;cursor:not-allowed}
 .kpick button:not(:disabled):active{transform:scale(.93)}
 
-.sbody{flex:1;overflow-y:auto;padding:22px 26px 90px;-webkit-overflow-scrolling:touch}
+.sbody{flex:1;overflow-y:auto;padding:8px 12px 12px;-webkit-overflow-scrolling:touch}
 .sheet-in{animation:fade .26s var(--ease)}
 @keyframes fade{from{opacity:0}to{opacity:1}}
 
-.meta{display:flex;gap:9px;flex-wrap:wrap;margin:0 0 20px}
+.meta{display:flex;gap:7px;flex-wrap:wrap;margin:0 0 7px}
 .meta i{
-  font-style:normal;font-size:11.5px;padding:4px 11px;border-radius:999px;
+  font-style:normal;font-size:10.5px;padding:1px 7px;border-radius:999px;
   background:var(--surface-2);color:var(--ink-soft);
 }
 
 /* Two columns on a landscape tablet: the printed charts are laid
    out this way and it is what makes a 10" screen hold a whole song
    without scrolling mid-verse. */
-.cols{column-gap:52px}
-.cols.two{column-count:2}
+.cols{column-gap:22px;column-rule:1px solid var(--line)}
+.cols.c2{column-count:2}
+.cols.c3{column-count:3}
 
-.sec{break-inside:avoid;margin:0 0 20px}
+.sec{break-inside:avoid;margin:0 0 9px}
 .sec h4{
-  margin:0 0 9px;font-size:12px;font-weight:600;letter-spacing:.9px;text-transform:uppercase;
-  color:var(--teal);
+  margin:0 0 2px;font-size:10.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;
+  color:var(--teal);opacity:.85;
 }
 :root[data-theme="dark"] .sec h4{color:var(--accent)}
-.sec h4::after{
-  content:"";display:block;width:26px;height:2px;margin-top:5px;border-radius:2px;
-  background:currentColor;opacity:.4;
-}
 
 /* ---- chords locked to their syllable ----
    Each word is a two-row inline grid: the chord in row 1, the word
@@ -203,19 +203,19 @@ main{padding:22px 20px 60px;max-width:1500px;margin:0 auto}
    two lyric lines can never close up and leave a chord nowhere to
    go. */
 .ln{
-  font-size:var(--song-size); line-height:1.45;
+  font-size:var(--song-size); line-height:1.22; font-weight:700;
   font-family:ui-monospace,"SF Mono","Cascadia Mono",Menlo,Consolas,monospace;
-  white-space:normal; margin:0 0 3px;
+  white-space:normal; margin:0 0 1px; letter-spacing:-.2px;
 }
-.ln.c{margin-bottom:7px}
+.ln.c{margin-bottom:2px}
 .ln.c .w{
-  display:inline-grid; grid-template-rows:1.5em auto;
+  display:inline-grid; grid-template-rows:1.12em auto;
   justify-items:start; vertical-align:top;
 }
 .ln.c .w>b{
-  grid-row:1; align-self:end; line-height:1.15;
-  font-weight:700; font-size:.82em; color:var(--chord);
-  letter-spacing:.3px; white-space:pre; padding-right:.6em;
+  grid-row:1; align-self:end; line-height:1;
+  font-weight:800; font-size:.8em; color:var(--chord);
+  letter-spacing:0; white-space:pre; padding-right:.5em;
 }
 .ln.c .w>i{grid-row:2; font-style:normal; white-space:pre}
 .gap{height:.7em}
@@ -240,11 +240,11 @@ main{padding:22px 20px 60px;max-width:1500px;margin:0 auto}
 }
 .toast.on{opacity:1;transform:translate(-50%,0)}
 
-@media (max-width:820px){
+@media (max-width:760px){
   main{padding:16px 14px 50px}
-  .cols.two{column-count:1}
+  .cols.c2,.cols.c3{column-count:1}
   .brand span{display:none}
-  .sbody{padding:18px 16px 90px}
+  .sbody{padding:8px 10px 12px}
 }
 @media print{.bar,.fab,.shead .kpick,.icon{display:none}}
 </style>
@@ -295,8 +295,12 @@ main{padding:22px 20px 60px;max-width:1500px;margin:0 auto}
     </button>
     <div class="t"><h2 id="s-title"></h2><span id="s-by"></span></div>
     <div class="kpick" id="s-keys"></div>
-    <button class="icon" id="colsBtn" title="Una o dos columnas">
-      <svg viewBox="0 0 24 24"><rect x="3" y="4" width="7" height="16" rx="1"/><rect x="14" y="4" width="7" height="16" rx="1"/></svg>
+    <button class="icon" id="fitBtn" title="Ajustar para que quepa entera en la pantalla">
+      <svg viewBox="0 0 24 24"><path d="M4 9V5a1 1 0 011-1h4M20 9V5a1 1 0 00-1-1h-4M4 15v4a1 1 0 001 1h4M20 15v4a1 1 0 01-1 1h-4"/></svg>
+    </button>
+    <button class="icon" id="colsBtn" title="1, 2 o 3 columnas">
+      <svg viewBox="0 0 24 24"><rect x="3" y="4" width="4.5" height="16" rx="1"/><rect x="9.75" y="4" width="4.5" height="16" rx="1"/><rect x="16.5" y="4" width="4.5" height="16" rx="1"/></svg>
+      <b id="colsN">2</b>
     </button>
   </div>
   <div class="sbody" id="s-body"></div>
@@ -322,8 +326,9 @@ const store = {
   set(k, v) { try { localStorage.setItem('eicw.' + k, JSON.stringify(v)); } catch {} }
 };
 
-let size  = store.get('size', 20);
-let cols  = store.get('cols', true);
+let size = store.get('size', 16);
+let colCount = store.get('cols3', 2);
+let auto = store.get('auto', true);
 let svcIx = 0;
 let current = null;   // {song, key}
 
@@ -347,18 +352,93 @@ function applySize() {
   document.documentElement.style.setProperty('--song-size', size + 'px');
   $('#size').textContent = size + 'px';
   store.set('size', size);
+  $('#fitBtn').classList.toggle('on', auto);
 }
-$('#plus').onclick  = () => { size = Math.min(44, size + 2); applySize(); };
-$('#minus').onclick = () => { size = Math.max(12, size - 2); applySize(); };
+/* Tocar el tamano a mano apaga el ajuste automatico: manda el. */
+$('#plus').onclick  = () => { size = Math.min(44, size + 1); auto = false; store.set('auto', false); applySize(); };
+$('#minus').onclick = () => { size = Math.max(10, size - 1); auto = false; store.set('auto', false); applySize(); };
 applySize();
 
 /* ---------- columns ---------- */
 function applyCols() {
-  $('#s-body').querySelector('.cols')?.classList.toggle('two', cols);
-  $('#colsBtn').classList.toggle('on', cols);
-  store.set('cols', cols);
+  const box = $('#s-body').querySelector('.cols');
+  if (box) {
+    box.classList.remove('c2', 'c3');
+    if (colCount > 1) box.classList.add('c' + colCount);
+  }
+  $('#colsN').textContent = colCount;
+  store.set('cols3', colCount);
 }
-$('#colsBtn').onclick = () => { cols = !cols; applyCols(); toast(cols ? 'Dos columnas' : 'Una columna'); };
+$('#colsBtn').onclick = () => {
+  colCount = colCount % 3 + 1;
+  auto = false; store.set('auto', false);
+  applyCols(); applySize();
+  toast(colCount === 1 ? 'Una columna' : colCount + ' columnas');
+};
+
+/* ---------- fit the whole song on one screen ----------
+   The point of the tablet is to stop turning pages, so the useful
+   question is not "what size do I like" but "what is the largest
+   size at which this song still fits". That is measurable: set a
+   size, ask whether the body still scrolls, binary-search the rest.
+
+   Columns belong to the same answer — three narrow columns often
+   allow bigger type than one wide one — so every count is tried and
+   whichever yields the largest type wins. Ties go to fewer columns,
+   which read more naturally. */
+function bestFor(n) {
+  const body = $('#s-body');
+  const box = body.querySelector('.cols');
+  if (!box) return { size: 10, fits: false };
+
+  box.classList.remove('c2', 'c3');
+  if (n > 1) box.classList.add('c' + n);
+
+  let lo = 10, hi = 44, best = 10, fits = false;
+  while (lo <= hi) {
+    const mid = (lo + hi) >> 1;
+    document.documentElement.style.setProperty('--song-size', mid + 'px');
+    void body.offsetHeight;                      // force reflow
+    if (body.scrollHeight <= body.clientHeight + 2) {
+      best = mid; fits = true; lo = mid + 1;
+    } else hi = mid - 1;
+  }
+  return { size: best, fits };
+}
+
+function autoFit(quiet) {
+  let bestSize = 0, bestN = colCount, ok = false;
+  for (const n of [1, 2, 3]) {
+    const r = bestFor(n);
+    if (r.size > bestSize) { bestSize = r.size; bestN = n; ok = r.fits; }
+  }
+  colCount = bestN;
+  size = bestSize || 10;
+  applyCols(); applySize();
+  if (quiet) return;
+  toast(ok ? `Cabe entera · ${size}px · ${colCount} col.`
+           : `No cabe ni a 10px · ${colCount} col.`);
+}
+
+function fitWhenSettled(quiet = true) {
+  requestAnimationFrame(() =>
+    requestAnimationFrame(() => autoFit(quiet)));
+}
+
+$('#fitBtn').onclick = () => {
+  auto = true; store.set('auto', true);
+  fitWhenSettled(false);
+};
+
+/* Turning the tablet changes the space available, so a fit made in
+   portrait is wrong in landscape. Recalculated on rotation, and
+   debounced because Android fires resize repeatedly mid-turn. */
+let resizeT;
+addEventListener('resize', () => {
+  if (!auto || !$('#sheet').classList.contains('on')) return;
+  clearTimeout(resizeT);
+  resizeT = setTimeout(() => fitWhenSettled(true), 180);
+});
 
 /* ---------- keep the screen on ----------
    A song lasts longer than the screen timeout, and the tablet going
@@ -465,6 +545,11 @@ function openSong(entry, key) {
   body.scrollTop = 0;
   applyCols();
   $('#sheet').classList.add('on');
+  // Cada cancion tiene su propio largo, asi que el ajuste se
+  // recalcula al abrirla, no una vez y para siempre. Dos frames
+  // porque medir en el primero, antes de que el navegador haya
+  // asentado las columnas, devuelve alturas que aun cambian.
+  if (auto) fitWhenSettled();
 }
 
 $('#back').onclick = () => $('#sheet').classList.remove('on');
