@@ -1,0 +1,29 @@
+{
+  "service": "EIC Rueil",
+  "date": "27 September 2026",
+  "sort_date": "2026-09-27",
+  "title": "A Heart for the World (John 3:16)",
+  "songs": [
+    {
+      "slug": "wordofgod",
+      "title": "WordOfGod",
+      "author": "BrentonBrown"
+    },
+    {
+      "slug": "lifthighthename",
+      "title": "LiftHighTheName",
+      "author": "KeithGetty"
+    },
+    {
+      "slug": "togodbetheglory",
+      "title": "ToGodBeTheGlory",
+      "author": "FannyCrosby"
+    },
+    {
+      "slug": "hymnofheaven",
+      "title": "HymnOfHeaven",
+      "author": "PhilWickham"
+    }
+  ],
+  "built_at": "2026-09-26T18:32:44+00:00"
+}

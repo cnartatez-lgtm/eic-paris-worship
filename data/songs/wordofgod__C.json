@@ -1,0 +1,410 @@
+{
+  "title": "Word Of God",
+  "author": "Brenton Brown",
+  "key": "C",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "The Word of God is light in my darkness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Hope for the hopeless "
+            },
+            {
+              "chord": "G",
+              "text": "strong and "
+            },
+            {
+              "chord": "C",
+              "text": "true"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The Word of God is strength for the weary"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A shield for those who "
+            },
+            {
+              "chord": "G",
+              "text": "trust in "
+            },
+            {
+              "chord": "C",
+              "text": "you"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A shield for those who "
+            },
+            {
+              "chord": "G",
+              "text": "trust in "
+            },
+            {
+              "chord": "C",
+              "text": "you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Everything will fade everything will fade"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The heavens and the earth will pass away"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "But you will remain yes you will remain always"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus faithful Word of God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "The anchor of my heart"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You're everything you say you are"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Greater than my deepest needs"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "The ground beneath my feet"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "Your promises won't fail me now"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "The Word of God is light in my darkness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Hope for the hopeless "
+            },
+            {
+              "chord": "G",
+              "text": "strong and "
+            },
+            {
+              "chord": "C",
+              "text": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Everything will fade everything will fade"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The heavens and the earth will pass away"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "But you will remain yes you will remain always"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus faithful Word of God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "The anchor of my heart"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You're everything you say you are"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Greater than my deepest needs"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "The ground beneath my feet"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "Your promises won't fail me now"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "You will not fail us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You will not fail us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "You will not fail us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "Word of God"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "You will not fail us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You will not fail us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "wordofgod",
+  "source_file": "WordOfGod-BrentonBrown-C-Pag1-Horizontal.pdf",
+  "source_hash": "451a702304855780",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-09-26T18:28:37+00:00"
+}

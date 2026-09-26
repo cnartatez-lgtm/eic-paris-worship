@@ -1,0 +1,323 @@
+{
+  "title": "Hymn Of Heaven",
+  "author": "Phil Wickham",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "How I long to breathe the air of heaven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Where pain is gone, and mercy fills the streets"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "To look upon the one who bled to save me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "And walk with him for all eternity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh, there will be a day when all will bow before Him"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "There will be a day when death will be no more"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Standing face to face with He who died and rose again"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Holy, holy is the Lord"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And every prayer we prayed in desperation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "The songs of faith we sang through doubt and fear"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "In the end, we will see that it was worth it"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "When He returns to wipe away our tears"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh, there will be a day when all will bow before Him"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "There will be a day when death will be no more"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Standing face to face with He who died and rose again"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Holy, holy is the Lord"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And on that day, we join the resurrection"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "And stand beside the heroes of the faith"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "So let it be today we shout the hymn of heaven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "With angels and the saints, we raise a mighty roar"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "\"Glory to our God\" who gave us life beyond the grave"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Holy, holy is the Lord"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "So let it be today we shout the hymn of heaven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "With angels and the saints, we raise a mighty roar"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "\"Glory to our God\" who gave us life beyond the grave"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Holy, holy is the Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Holy, holy is the Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Holy, holy is the Lord"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "hymnofheaven",
+  "source_file": "HymnOfHeaven-PhilWickham-G-Pag2.pdf",
+  "source_hash": "2464239eb88e4c59",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-09-26T18:31:46+00:00"
+}

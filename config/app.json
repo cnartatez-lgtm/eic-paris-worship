@@ -1,0 +1,24 @@
+{
+  "church": "EIC Paris",
+  "app_name": "EIC Paris · Worship",
+  "library": "~/AI-Workspace/music/EICMusic",
+  "output": "~/AI-Workspace/worship/tablet/app",
+  "default_service_type": "EIC Rueil",
+  "service_types": [
+    "EIC Rueil",
+    "EIC Rive Gauche"
+  ],
+  "keys": [
+    "G",
+    "D",
+    "C"
+  ],
+  "model_text": "qwen/qwen3-vl-235b-a22b-instruct",
+  "model_vision": "qwen/qwen3-vl-235b-a22b-instruct",
+  "_notes": {
+    "keys": "Los tonos que ofrece el menu de cada cancion. El orden es el que se ve en pantalla.",
+    "model_text": "Lee cartas con capa de texto. Qwen3-VL demostro la mejor precision de acordes. Alternativa barata: google/gemini-3.1-flash-lite",
+    "model_vision": "Lee cartas que son imagen. Qwen3-VL acerto todos los acordes en la prueba; los Gemini lite fallaron. Alternativa: qwen/qwen3-vl-32b-instruct",
+    "output": "Carpeta que Syncthing replica a la tableta. El index.html sale ahi."
+  }
+}
