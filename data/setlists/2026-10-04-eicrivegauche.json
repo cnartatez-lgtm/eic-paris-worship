@@ -1,0 +1,104 @@
+{
+  "service": "EIC Rive Gauche",
+  "date": "4 October 2026",
+  "sort_date": "2026-10-04",
+  "title": "Life of David and the King to Come",
+  "order": [
+    {
+      "seq": 1,
+      "type": "header",
+      "title": "Worship",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 2,
+      "type": "song",
+      "title": "We Will Feast In The House Of Zion",
+      "key": "G",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "header",
+      "title": "What to know - Cafe & Vision",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 4,
+      "type": "song",
+      "title": "Crown Him With Many Crowns",
+      "key": "C",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 5,
+      "type": "song",
+      "title": "Have Mercy",
+      "key": "C",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 6,
+      "type": "header",
+      "title": "Scripture -",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "header",
+      "title": "Sermon -",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "header",
+      "title": "Communion",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "song",
+      "title": "All The Poor And Powerless",
+      "key": "E",
+      "length": 337,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "header",
+      "title": "Closing - what to know",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "header",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "wewillfeastinthehouseofzion",
+      "title": "WeWillFeastInTheHouseOfZion",
+      "author": "JoshMoore"
+    }
+  ],
+  "built_at": "2026-10-03T19:04:18+00:00"
+}

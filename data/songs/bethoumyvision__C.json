@@ -1,0 +1,424 @@
+{
+  "title": "Be Thou My Vision",
+  "author": "Ascend the Hill",
+  "key": "C",
+  "meta": {
+    "capo": "4 (E), Capo 5 (F), Capo 6 (F#)",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Be Thou my vision O Lord of my "
+            },
+            {
+              "chord": "Am",
+              "text": "heart"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Nought be all else to me, save Thou "
+            },
+            {
+              "chord": "Am",
+              "text": "art"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Thou my best thought, by day or by "
+            },
+            {
+              "chord": "F",
+              "text": "night"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Waking or sleeping, Thy presence my "
+            },
+            {
+              "chord": "Am",
+              "text": "light."
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Be Thou my wisdom, Thou my true "
+            },
+            {
+              "chord": "Am",
+              "text": "word"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "I ever with Thee, Thou with me, "
+            },
+            {
+              "chord": "Am",
+              "text": "Lord"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Thou my great Father and I Thy true "
+            },
+            {
+              "chord": "F",
+              "text": "son;"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Thou in me dwelling, and I with Thee "
+            },
+            {
+              "chord": "Am",
+              "text": "one."
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Riches I heed not, nor man's empty "
+            },
+            {
+              "chord": "Am",
+              "text": "praise"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Thou mine inheritance now and "
+            },
+            {
+              "chord": "Am",
+              "text": "always"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Thou and Thou only, but first in my "
+            },
+            {
+              "chord": "F",
+              "text": "heart"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "High King of heaven, my treasure Thou "
+            },
+            {
+              "chord": "Am",
+              "text": "art."
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "O God be my everything, be my "
+            },
+            {
+              "chord": "Am",
+              "text": "delight"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Be Jesus my glory, my soul "
+            },
+            {
+              "chord": "Am",
+              "text": "satisfied"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "High King of heaven, my vict’ry "
+            },
+            {
+              "chord": "Am",
+              "text": "won,"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "May I reach heaven's joys, O bright heaven's "
+            },
+            {
+              "chord": "Am",
+              "text": "Sun!"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Heart of my own heart, whatever be "
+            },
+            {
+              "chord": "F",
+              "text": "fall,"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Still be my vision, O Ruler of "
+            },
+            {
+              "chord": "Am",
+              "text": "all."
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus X2 - (play through it a third time instrumentally)",
+      "lines": []
+    }
+  ],
+  "slug": "bethoumyvision",
+  "source_file": "BeThouMyVision-AscendTheHill-C-Pag1.pdf",
+  "source_hash": "8a6b5adb1a699f6f",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-03T19:03:41+00:00"
+}

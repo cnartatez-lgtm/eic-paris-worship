@@ -1,0 +1,173 @@
+{
+  "service": "EIC Rueil",
+  "date": "4 October 2026",
+  "sort_date": "2026-10-04",
+  "title": "Living On God's Word (2 Timothy 3:14-4:5)",
+  "order": [
+    {
+      "seq": 1,
+      "type": "item",
+      "title": "Comments about Service :",
+      "key": "",
+      "length": 0,
+      "detail": "Scott away\n\nGideon visit\nPotluck"
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "Pre Service Slides",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "song",
+      "title": "Shout to the North",
+      "key": "Eb",
+      "length": 240,
+      "detail": "V1 - C - V2 - C - V3 - C"
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "Opening Scripture",
+      "key": "",
+      "length": 0,
+      "detail": "Isaiah 55: 10-11"
+    },
+    {
+      "seq": 5,
+      "type": "item",
+      "title": "Finishing Song 1",
+      "key": "",
+      "length": 0,
+      "detail": "B - C - C"
+    },
+    {
+      "seq": 6,
+      "type": "item",
+      "title": "Opening Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "song",
+      "title": "Speak O Lord",
+      "key": "D",
+      "length": 240,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "song",
+      "title": "May The Words Of My Mouth (Psalm 19)",
+      "key": "A",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "item",
+      "title": "11.30 Children dismissed",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "item",
+      "title": "Gideon Guest",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "item",
+      "title": "Scripture Reading: 2 Timothy 3:14-4:5",
+      "key": "",
+      "length": 0,
+      "detail": "10 am : Merlis Soto\n11.30 am :Reynold Boringot"
+    },
+    {
+      "seq": 12,
+      "type": "item",
+      "title": "Sermon",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 13,
+      "type": "item",
+      "title": "Prayer for Gideon Distribution",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 14,
+      "type": "item",
+      "title": "Time of Reflection",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 15,
+      "type": "song",
+      "title": "Be Thou My Vision",
+      "key": "C",
+      "length": 240,
+      "detail": ""
+    },
+    {
+      "seq": 16,
+      "type": "item",
+      "title": "Tithes & Offerings",
+      "key": "",
+      "length": 0,
+      "detail": "10 am : Merlis Soto\n11.30 am : Reynold Boringot"
+    },
+    {
+      "seq": 17,
+      "type": "item",
+      "title": "Visitor Welcome & Announcements",
+      "key": "",
+      "length": 0,
+      "detail": "Potluck\nNew Member Lunch\nMinistry Fair\nWomen's Ministry\nSave the date: Men's Retreat (5-7 March 2027), Women's retreat ()"
+    },
+    {
+      "seq": 18,
+      "type": "item",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 19,
+      "type": "item",
+      "title": "Parents collect their Children slide",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "shouttothenorth",
+      "title": "ShoutToTheNorth",
+      "author": "Delirious"
+    },
+    {
+      "slug": "bethoumyvision",
+      "title": "BeThouMyVision",
+      "author": "AscendTheHill"
+    }
+  ],
+  "built_at": "2026-10-03T19:03:41+00:00"
+}

@@ -1,0 +1,231 @@
+{
+  "title": "We Will Feast",
+  "author": "Josh Moore and Sandra McCracken",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "We will feast in the house of "
+            },
+            {
+              "chord": "Em",
+              "text": "Zion"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "We will sing with our hearts "
+            },
+            {
+              "chord": "G",
+              "text": "restored"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "“He has done great things,” we will "
+            },
+            {
+              "chord": "D",
+              "text": "say together"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "We will feast, and weep no "
+            },
+            {
+              "chord": "Am",
+              "text": "more"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "We will not be burned, by the "
+            },
+            {
+              "chord": "C",
+              "text": "fire"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "He is the Lord our "
+            },
+            {
+              "chord": "C",
+              "text": "God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "We are not consumed, by the "
+            },
+            {
+              "chord": "Em",
+              "text": "flood"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Upheld, protected, gathered "
+            },
+            {
+              "chord": "D",
+              "text": "up_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "In the dark of night, before the "
+            },
+            {
+              "chord": "C",
+              "text": "dawn"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "My soul be not "
+            },
+            {
+              "chord": "C",
+              "text": "afraid"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "For the promised mor - "
+            },
+            {
+              "chord": "Em",
+              "text": "ning, Oh how long"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "O God of Jacob, be my "
+            },
+            {
+              "chord": "D",
+              "text": "strength_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Every vow we’ve bro - "
+            },
+            {
+              "chord": "C",
+              "text": "ken and betrayed"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "You are the faithful "
+            },
+            {
+              "chord": "C",
+              "text": "One"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "And_ from the gar - "
+            },
+            {
+              "chord": "Em",
+              "text": "den to the grave"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Bind us together bring "
+            },
+            {
+              "chord": "D",
+              "text": "shalom_"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "wewillfeastinthehouseofzion",
+  "source_file": "WeWillFeastInTheHouseOfZion-JoshMoore-G-Pag1.pdf",
+  "source_hash": "7da801e65ede9a89",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-03T19:04:06+00:00"
+}

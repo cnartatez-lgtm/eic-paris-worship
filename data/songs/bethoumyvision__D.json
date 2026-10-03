@@ -1,0 +1,344 @@
+{
+  "title": "Be Thou My Vision Official",
+  "author": "Misc Praise Songs",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Be Thou my Vision, O Lord of my "
+            },
+            {
+              "chord": "G",
+              "text": "heart"
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Naught be all else to me, save "
+            },
+            {
+              "chord": "A",
+              "text": "that Thou art."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Thou my best Thought, by day or by "
+            },
+            {
+              "chord": "D",
+              "text": "night,"
+            },
+            {
+              "chord": "A",
+              "text": ""
+            },
+            {
+              "chord": "Bm",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Waking or sleeping, Thy presence "
+            },
+            {
+              "chord": "G",
+              "text": "my "
+            },
+            {
+              "chord": "A",
+              "text": "light."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Be Thou my Wisdom, and Thou my "
+            },
+            {
+              "chord": "G",
+              "text": "true "
+            },
+            {
+              "chord": "A",
+              "text": "Word"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "I ever with Thee and Thou with me, "
+            },
+            {
+              "chord": "A",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Thou my great Father, I Thy true "
+            },
+            {
+              "chord": "D",
+              "text": "son"
+            },
+            {
+              "chord": "A",
+              "text": ""
+            },
+            {
+              "chord": "Bm",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Thou in me dwelling, and I with "
+            },
+            {
+              "chord": "G",
+              "text": "Thee "
+            },
+            {
+              "chord": "A",
+              "text": "one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Be Thou my battle Shield, Sword "
+            },
+            {
+              "chord": "G",
+              "text": "for the "
+            },
+            {
+              "chord": "A",
+              "text": "fight"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Be Thou my Dignity, Thou my "
+            },
+            {
+              "chord": "G",
+              "text": "Delight"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Thou my soul's Shelter, Thou my "
+            },
+            {
+              "chord": "D",
+              "text": "high "
+            },
+            {
+              "chord": "A",
+              "text": "Tow'r"
+            },
+            {
+              "chord": "Bm",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Riches I heed not, nor man's empty "
+            },
+            {
+              "chord": "G",
+              "text": "praise,"
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Thou mine Inheritance, now and "
+            },
+            {
+              "chord": "A",
+              "text": "always"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Thou and Thou only, first in my "
+            },
+            {
+              "chord": "D",
+              "text": "heart,"
+            },
+            {
+              "chord": "A",
+              "text": ""
+            },
+            {
+              "chord": "Bm",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "High King of Heaven, my Treasure "
+            },
+            {
+              "chord": "G",
+              "text": "Thou "
+            },
+            {
+              "chord": "A",
+              "text": "art."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "High King of Heaven, my victory "
+            },
+            {
+              "chord": "G",
+              "text": "won,"
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "May I reach Heaven's joys, O "
+            },
+            {
+              "chord": "A",
+              "text": "bright Heav'n's Sun!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Heart of my own heart, whatever "
+            },
+            {
+              "chord": "D",
+              "text": "befall,"
+            },
+            {
+              "chord": "A",
+              "text": ""
+            },
+            {
+              "chord": "Bm",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Still be my Vision, O Ruler of "
+            },
+            {
+              "chord": "G",
+              "text": "all."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "bethoumyvision",
+  "source_file": "BeThouMyVision-DallanForgaill-D-Pag1.pdf",
+  "source_hash": "f9a5edef960bb234",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-03T19:03:13+00:00"
+}

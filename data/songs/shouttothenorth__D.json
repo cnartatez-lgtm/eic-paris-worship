@@ -1,0 +1,504 @@
+{
+  "title": "Shout To The North",
+  "author": "Delirious",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "1"
+            },
+            {
+              "chord": "D",
+              "text": " &2"
+            },
+            {
+              "chord": "D",
+              "text": " &3"
+            },
+            {
+              "chord": "G",
+              "text": " & 4 &"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "1 & 2 & 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Men of faith "
+            },
+            {
+              "chord": "A",
+              "text": "rise up and "
+            },
+            {
+              "chord": "G",
+              "text": "sing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Of the great and "
+            },
+            {
+              "chord": "A",
+              "text": "glorious "
+            },
+            {
+              "chord": "G",
+              "text": "King"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "You are strong when you "
+            },
+            {
+              "chord": "A",
+              "text": "feel"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "weak"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "In your brokenness "
+            },
+            {
+              "chord": "A",
+              "text": "complete"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Shout to the North and the "
+            },
+            {
+              "chord": "G",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Sing to the East and the "
+            },
+            {
+              "chord": "G",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Jesus is Saviour to "
+            },
+            {
+              "chord": "G",
+              "text": "all"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lord of heaven and "
+            },
+            {
+              "chord": "A",
+              "text": "earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Rise up women of the "
+            },
+            {
+              "chord": "A",
+              "text": "truth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Stand and sing to "
+            },
+            {
+              "chord": "A",
+              "text": "broken"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "hearts"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Who can know the healing "
+            },
+            {
+              "chord": "A",
+              "text": "power"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Shout to the North and the "
+            },
+            {
+              "chord": "G",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Sing to the East and the "
+            },
+            {
+              "chord": "G",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Jesus is Saviour to "
+            },
+            {
+              "chord": "G",
+              "text": "all"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lord of heaven and "
+            },
+            {
+              "chord": "A",
+              "text": "earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "We've been through fire, we've "
+            },
+            {
+              "chord": "G",
+              "text": "been through rain"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "We've been refined by the "
+            },
+            {
+              "chord": "G",
+              "text": "power of his name"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "We've fallen deeper in love "
+            },
+            {
+              "chord": "G",
+              "text": "with you"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "You've burned the truth on our "
+            },
+            {
+              "chord": "Asus",
+              "text": "lips"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Shout to the North and the "
+            },
+            {
+              "chord": "G",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Sing to the East and the "
+            },
+            {
+              "chord": "G",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Jesus is Saviour to "
+            },
+            {
+              "chord": "G",
+              "text": "all"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lord of heaven and "
+            },
+            {
+              "chord": "A",
+              "text": "earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Rise up church with "
+            },
+            {
+              "chord": "A",
+              "text": "broken"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "wings"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Fill this place with "
+            },
+            {
+              "chord": "A",
+              "text": "songs"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "again"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Of our God who reigns on "
+            },
+            {
+              "chord": "A",
+              "text": "high"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "By His grace again we'll "
+            },
+            {
+              "chord": "A",
+              "text": "fly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus (kids)",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Shout to the North and the "
+            },
+            {
+              "chord": "G",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Sing to the East and the "
+            },
+            {
+              "chord": "G",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Jesus is Saviour to "
+            },
+            {
+              "chord": "G",
+              "text": "all"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lord of heaven and "
+            },
+            {
+              "chord": "A",
+              "text": "earth"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "shouttothenorth",
+  "source_file": "ShoutToTheNorth-Delirious-D-Pag2.pdf",
+  "source_hash": "68f034f4f80f0f4f",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-03T19:02:25+00:00"
+}
