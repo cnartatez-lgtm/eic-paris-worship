@@ -1,0 +1,663 @@
+{
+  "title": "Christ Be Magnified Official",
+  "author": "Cody Carnes",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro (Fade In)",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Aadd11",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Aadd11",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "Were creation suddenly articulate"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "With a thousand tongues to lift one"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " cry"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "Then from north to south and east to"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " west"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "We'd hear Christ be magnified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Were the whole"
+            },
+            {
+              "chord": "Aadd11",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "earth echoing His eminence"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "His name would burst from sea and sky"
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "From rivers to the mountain tops"
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "We'd hear Christ be magnified"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "O! Christ be magnified"
+            },
+            {
+              "chord": "D/F#",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Let His praise arise"
+            },
+            {
+              "chord": "Bm7",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Christ be magnified"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " in me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "O! Christ be magnified"
+            },
+            {
+              "chord": "D/F#",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": " From the"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "altar of"
+            },
+            {
+              "chord": "Bm7",
+              "text": " my life"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Christ be magnified"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " in me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "When every creature"
+            },
+            {
+              "chord": "Aadd11",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "finds its inmost melody"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "And every human heart its native cry"
+            },
+            {
+              "chord": "D/F#",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "Oh then in one enraptured hymn of"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "We'll sing Christ be magnified"
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "O be lifted high, Jesus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "O! Christ be magnified"
+            },
+            {
+              "chord": "D/F#",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Let His praise arise"
+            },
+            {
+              "chord": "Bm7",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Christ be magnified"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " in me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "O! Christ be magnified"
+            },
+            {
+              "chord": "D/F#",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": " From the"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "altar of"
+            },
+            {
+              "chord": "Bm7",
+              "text": " my life"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Christ be magnified"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " in me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "I won't bow to"
+            },
+            {
+              "chord": "Aadd11",
+              "text": ""
+            },
+            {
+              "chord": "Bm7",
+              "text": ""
+            },
+            {
+              "chord": "D/F#",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": " idols"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "I'll stand strong"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " and worship You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm7",
+              "text": "If it puts me in the fire"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "I'll rejoice 'cause You're there too"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "I won't be formed by feelings"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "I'll hold fast to what is true"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm7",
+              "text": "If the Cross brings transformation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "Then I'll be crucified with You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "'Cause death is just the doorway"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Into resurrection life"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm7",
+              "text": "And If I join You in Your suffering"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "Then I'll join You when You rise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "And when You return in glory"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "With all the angels and the saints"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm7",
+              "text": "My heart will still be singing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "My song will be the same"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "O! Christ be magnified"
+            },
+            {
+              "chord": "D/F#",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Let His praise arise"
+            },
+            {
+              "chord": "Bm7",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Christ be magnified"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " in me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "O! Christ be magnified"
+            },
+            {
+              "chord": "D/F#",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": " From the"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "altar of"
+            },
+            {
+              "chord": "Bm7",
+              "text": " my life"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Aadd11",
+              "text": "Christ be magnified"
+            },
+            {
+              "chord": "Gadd9",
+              "text": " in me"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "christbemagnified",
+  "source_file": "ChristBeMagnified-CodyCarnes-D-Pag2.pdf",
+  "source_hash": "41d534e7cfe0f7ba",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-10T19:09:43+00:00"
+}

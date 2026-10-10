@@ -1,0 +1,101 @@
+{
+  "title": "Create in Me a Clean Heart",
+  "author": "KeithGreen",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Create in me a clean heart, oh "
+            },
+            {
+              "chord": "D",
+              "text": "God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And renew a right spirit within "
+            },
+            {
+              "chord": "D",
+              "text": "me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Cast me not away from thy presence, oh "
+            },
+            {
+              "chord": "D",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Take not thy Holy Spirit from "
+            },
+            {
+              "chord": "D",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Restore unto me the joy of thy "
+            },
+            {
+              "chord": "D",
+              "text": "salvation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "And renew a right spirit within "
+            },
+            {
+              "chord": "D",
+              "text": "me"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "createinmeacleanheart",
+  "source_file": "CreateInMeACleanHeart-KeithGreen-G-Pag1.pdf",
+  "source_hash": "9f041ede986063a8",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-10T19:13:08+00:00"
+}

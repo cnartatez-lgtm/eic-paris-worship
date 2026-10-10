@@ -1,0 +1,230 @@
+{
+  "title": "Indescribable",
+  "author": "Laura Story",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "6/8",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "From the highest of heights to the depths of the "
+            },
+            {
+              "chord": "A",
+              "text": "sea,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Creation's revealing Your "
+            },
+            {
+              "chord": "D",
+              "text": "majesty."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "From the colors of Fall to the fragrance of "
+            },
+            {
+              "chord": "A",
+              "text": "Spring,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Every creature unique in the song that it "
+            },
+            {
+              "chord": "G",
+              "text": "sings."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "All "
+            },
+            {
+              "chord": "A",
+              "text": "exclaiming:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Indescribable, uncontainable; "
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "You placed the stars in the sky and You know them by "
+            },
+            {
+              "chord": "Bm",
+              "text": "name."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "You are amazing, "
+            },
+            {
+              "chord": "G",
+              "text": "God!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "All powerful, untamable. "
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Awestruck, we fall to our knees as we humbly "
+            },
+            {
+              "chord": "Bm",
+              "text": "proclaim,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "You are amazing, "
+            },
+            {
+              "chord": "G",
+              "text": "God."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Who has told every lightning bolt where it should "
+            },
+            {
+              "chord": "A",
+              "text": "go?"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Or seen heavenly storehouses laden with "
+            },
+            {
+              "chord": "D",
+              "text": "snow?"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Who imagined the sun and gives source to its "
+            },
+            {
+              "chord": "A",
+              "text": "light,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Yet conceals it to bring us the coolness of "
+            },
+            {
+              "chord": "G",
+              "text": "night?"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "None can "
+            },
+            {
+              "chord": "A",
+              "text": "fathom!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": []
+    }
+  ],
+  "slug": "indescribable",
+  "source_file": "Indescribable-LauraStory-D-Pag1-Facil.pdf",
+  "source_hash": "be1725314335aff4",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-10T19:02:45+00:00"
+}

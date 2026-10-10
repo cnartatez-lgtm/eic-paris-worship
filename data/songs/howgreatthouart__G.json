@@ -1,0 +1,321 @@
+{
+  "title": "How Great Thou Art",
+  "author": "Passion & Charlie Hall",
+  "key": "G",
+  "meta": {
+    "capo": "4",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": "G"
+  },
+  "sections": [
+    {
+      "label": "[Intro]",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "G"
+            },
+            {
+              "chord": "Gsus",
+              "text": " Gsus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "[Verse 1]",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "O Lord my God, When I in"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/G",
+              "text": "awesome wonder,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "consider all the Worlds Thy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "hand hath made."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "I see the stars, I hear the"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/G",
+              "text": "rolling thunder"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Thy pow'r throughout the"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "universe displayed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Then sings my soul, my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/G",
+              "text": "Savior God, to Thee"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am7",
+              "text": "How great Thou art! How"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "great Thou art!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "[Verse 2]",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And when I think that God,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/G",
+              "text": "His Son not sparing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Sent Him to die, I scarce"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "can take it in"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "That on the cross, my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/G",
+              "text": "burden gladly bearing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "He bled and died to take"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "away my sin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]",
+      "lines": []
+    },
+    {
+      "label": "[Verse 3]",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "When Christ shall come,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/G",
+              "text": "with shouts of acclamation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And take me home, what joy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "shall fill my heart"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Then I shall bow in humble"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/G",
+              "text": "adoration"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And there proclaim, My God,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D/F#",
+              "text": "how great You are!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "[Chorus]",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Then sings my soul, my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/G",
+              "text": "Savior God, to Thee"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am7",
+              "text": "How great Thou art! How"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "great Thou art!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "howgreatthouart",
+  "source_file": "HowGreatThouArt-Passion-G-Pag2.pdf",
+  "source_hash": "c8ea0ce3b1091785",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-10T19:05:32+00:00"
+}

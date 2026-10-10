@@ -1,0 +1,175 @@
+{
+  "service": "EIC Rueil",
+  "date": "11 October 2026",
+  "sort_date": "2026-10-11",
+  "title": "An Old Covenant and a New Promise (Genesis 9:1-17)",
+  "order": [
+    {
+      "seq": 1,
+      "type": "item",
+      "title": "Comments about Service :",
+      "key": "",
+      "length": 0,
+      "detail": "Ministry Fair"
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "Pre Service Slides",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "song",
+      "title": "Indescribable",
+      "key": "G",
+      "length": 245,
+      "detail": "V1 - C1 - V2 - C1"
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "Opening Scripture",
+      "key": "",
+      "length": 0,
+      "detail": "PSALM 104: 1-5, 31-34\n1 Bless the Lord, O my soul! O Lord my God, you are very great! You are clothed with splendor and majesty, 2 covering yourself with light as with a garment, stretching out the heavens like a tent.\n\n3 He lays the beams of his chambers on the waters;\nHe makes the clouds his chariot; He rides on the wings of the wind; 4 He makes His messengers winds, His ministers a flaming fire. 5 He set the earth on its foundations, so that it should never be moved.\n\n31 May the glory of the Lord endure forever; may the Lord rejoice in his works, 32 who looks on the earth and it trembles, who touches the mountains and they smoke!\n33 I will sing to the Lord as long as I live; I will sing praise to my God while I have being. 34 May my meditation be pleasing to him, for I rejoice in the Lord."
+    },
+    {
+      "seq": 5,
+      "type": "song",
+      "title": "Indescribable",
+      "key": "G",
+      "length": 245,
+      "detail": "V2 -C1 - C2"
+    },
+    {
+      "seq": 6,
+      "type": "item",
+      "title": "Opening Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "song",
+      "title": "A Thousand Hallelujahs",
+      "key": "Db",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "song",
+      "title": "How Great Thou Art",
+      "key": "A",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "item",
+      "title": "Pastoral Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "item",
+      "title": "11.30 Children dismissed",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "item",
+      "title": "Scripture Reading: Genesis 9:1-17",
+      "key": "",
+      "length": 0,
+      "detail": "10 am : Damilola Owolabi\n11.30 am :Rosalind Guillemain"
+    },
+    {
+      "seq": 12,
+      "type": "item",
+      "title": "Sermon",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 13,
+      "type": "item",
+      "title": "Time of Reflection",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 14,
+      "type": "song",
+      "title": "Christ Be Magnified",
+      "key": "Ab",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 15,
+      "type": "item",
+      "title": "Tithes & Offerings",
+      "key": "",
+      "length": 0,
+      "detail": "10 am :Damilola Owolabi\n11.30 am :Rosalind Guillemain"
+    },
+    {
+      "seq": 16,
+      "type": "item",
+      "title": "Visitor Welcome & Announcements",
+      "key": "",
+      "length": 0,
+      "detail": "New Member Lunch - moved to 8 November\nMinistry Fair\nWomen's Ministry (Lunch, 17/10, 12:30 at L'Arcole; 24/10 bible study, 14:30)\nSave the date: Men's Retreat (5-7 March 2027), Women's retreat (30 April - 2 May 2027)"
+    },
+    {
+      "seq": 17,
+      "type": "item",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 18,
+      "type": "item",
+      "title": "Parents collect their Children slide",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "indescribable",
+      "title": "Indescribable",
+      "author": "LauraStory"
+    },
+    {
+      "slug": "athousandhallelujahs",
+      "title": "AThousandHallelujahs",
+      "author": "BrookeLigertwood"
+    },
+    {
+      "slug": "howgreatthouart",
+      "title": "HowGreatThouArt",
+      "author": "Passion"
+    },
+    {
+      "slug": "christbemagnified",
+      "title": "ChristBeMagnified",
+      "author": "CodyCarnes"
+    }
+  ],
+  "built_at": "2026-10-10T19:09:43+00:00"
+}

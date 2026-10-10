@@ -1,0 +1,59 @@
+{
+  "title": "A Thousand Hallelujahs",
+  "author": "Brooke Ligertwood",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": []
+    },
+    {
+      "label": "Verse 1",
+      "lines": []
+    },
+    {
+      "label": "Chorus",
+      "lines": []
+    },
+    {
+      "label": "Instrumental",
+      "lines": []
+    },
+    {
+      "label": "Verse 2",
+      "lines": []
+    },
+    {
+      "label": "Bridge",
+      "lines": []
+    },
+    {
+      "label": "Chorus",
+      "lines": []
+    },
+    {
+      "label": "Chorus",
+      "lines": []
+    },
+    {
+      "label": "Instrumental",
+      "lines": []
+    },
+    {
+      "label": "Bridge",
+      "lines": []
+    }
+  ],
+  "slug": "athousandhallelujahs",
+  "source_file": "AThousandHallelujahs-BrookeLigertwood-D-Pag1-Horizontal-2Columnas.pdf",
+  "source_hash": "b40a118cbc4be00b",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-10T19:04:15+00:00"
+}

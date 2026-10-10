@@ -1,0 +1,117 @@
+{
+  "service": "EIC Rive Gauche",
+  "date": "11 October 2026",
+  "sort_date": "2026-10-11",
+  "title": "Life of David and the King to Come",
+  "order": [
+    {
+      "seq": 1,
+      "type": "header",
+      "title": "Worship",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 2,
+      "type": "song",
+      "title": "Across The Lands",
+      "key": "C",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "header",
+      "title": "What to know - Cafe & Vision",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 4,
+      "type": "song",
+      "title": "Nothing But the Blood",
+      "key": "E",
+      "length": 300,
+      "detail": ""
+    },
+    {
+      "seq": 5,
+      "type": "song",
+      "title": "Come Thou Fount of Every Blessing",
+      "key": "C",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 6,
+      "type": "header",
+      "title": "Scripture - 1 Samuel 16:1-13",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "header",
+      "title": "Sermon - JHT",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "header",
+      "title": "Communion",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "song",
+      "title": "Create In Me A Clean Heart",
+      "key": "E",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "song",
+      "title": "Doxology",
+      "key": "E",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "header",
+      "title": "Closing - what to know",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 12,
+      "type": "header",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "acrossthelands",
+      "title": "AcrossTheLands",
+      "author": "KeithGetty"
+    },
+    {
+      "slug": "createinmeacleanheart",
+      "title": "CreateInMeACleanHeart",
+      "author": "KeithGreen"
+    }
+  ],
+  "built_at": "2026-10-10T19:13:08+00:00"
+}
