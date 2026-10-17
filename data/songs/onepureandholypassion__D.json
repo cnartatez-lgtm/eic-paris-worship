@@ -1,0 +1,218 @@
+{
+  "title": "One Pure And Holy Passion",
+  "author": "Passion",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "[Intro]",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            },
+            {
+              "chord": "Bm",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Give me one "
+            },
+            {
+              "chord": "A",
+              "text": "pure and holy "
+            },
+            {
+              "chord": "Bm",
+              "text": "passion"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And give me one "
+            },
+            {
+              "chord": "D",
+              "text": "magnificent "
+            },
+            {
+              "chord": "A",
+              "text": "obsession"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Give me one "
+            },
+            {
+              "chord": "A",
+              "text": "glorious "
+            },
+            {
+              "chord": "Bm",
+              "text": "ambition for my "
+            },
+            {
+              "chord": "A",
+              "text": "life"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "To know and "
+            },
+            {
+              "chord": "A",
+              "text": "follow hard after "
+            },
+            {
+              "chord": "D",
+              "text": "You"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "To know and "
+            },
+            {
+              "chord": "A",
+              "text": "follow hard after "
+            },
+            {
+              "chord": "D",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "To grow as Your "
+            },
+            {
+              "chord": "G",
+              "text": "disciple in the (Your) "
+            },
+            {
+              "chord": "A",
+              "text": "truth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "This world is empty, pale, and "
+            },
+            {
+              "chord": "A",
+              "text": "poor"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Compared to knowing You, my "
+            },
+            {
+              "chord": "A",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lead me on, and I will "
+            },
+            {
+              "chord": "A",
+              "text": "run after "
+            },
+            {
+              "chord": "Bm",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lead me on, and I will "
+            },
+            {
+              "chord": "A",
+              "text": "run after "
+            },
+            {
+              "chord": "D",
+              "text": "You"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "onepureandholypassion",
+  "source_file": "OnePureAndHolyPassion-Passion-D-Pag1.pdf",
+  "source_hash": "85e2222f65bf5bed",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-17T19:04:46+00:00"
+}

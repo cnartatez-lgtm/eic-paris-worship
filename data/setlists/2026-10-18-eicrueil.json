@@ -1,0 +1,178 @@
+{
+  "service": "EIC Rueil",
+  "date": "18 October 2026",
+  "sort_date": "2026-10-18",
+  "title": "The Tower of Babel (Genesis 11:1-9)",
+  "order": [
+    {
+      "seq": 1,
+      "type": "item",
+      "title": "Comments about Service :",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "Pre Service Slides",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "song",
+      "title": "10,000 Reasons (Bless the Lord) [Ps. 103]",
+      "key": "D",
+      "length": 270,
+      "detail": "C - V1 - C - V2 - C"
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "Opening Scripture - Psalm 86:8–12",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 5,
+      "type": "song",
+      "title": "10,000 Reasons (Bless the Lord) [Ps. 103]",
+      "key": "D",
+      "length": 270,
+      "detail": "V3 - C - C"
+    },
+    {
+      "seq": 6,
+      "type": "item",
+      "title": "Opening Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "song",
+      "title": "Across The Lands",
+      "key": "C",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "song",
+      "title": "Cornerstone",
+      "key": "C",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "item",
+      "title": "Pastoral Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "item",
+      "title": "11.30 Children dismissed",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "item",
+      "title": "Scripture Reading. Genesis 11:1-9",
+      "key": "",
+      "length": 0,
+      "detail": "10 am : Paul Pasek\n11.30 am : Aurea laranang"
+    },
+    {
+      "seq": 12,
+      "type": "item",
+      "title": "Sermon",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 13,
+      "type": "item",
+      "title": "Time of Reflection & Preparation",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 14,
+      "type": "item",
+      "title": "Communion",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 15,
+      "type": "song",
+      "title": "One Pure and Holy Passion",
+      "key": "Bb",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 16,
+      "type": "item",
+      "title": "Tithes & Offerings",
+      "key": "",
+      "length": 0,
+      "detail": "10 am : Paul Pasek\n11.30 am : Aurea Laranang"
+    },
+    {
+      "seq": 17,
+      "type": "item",
+      "title": "Visitor Welcome & Announcements",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 18,
+      "type": "item",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 19,
+      "type": "item",
+      "title": "Parents collect their Children slide",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "acrossthelands",
+      "title": "AcrossTheLands",
+      "author": "KeithGetty"
+    },
+    {
+      "slug": "cornerstone",
+      "title": "Cornerstone",
+      "author": "HillsongWorship"
+    },
+    {
+      "slug": "onepureandholypassion",
+      "title": "OnePureAndHolyPassion",
+      "author": "Passion"
+    }
+  ],
+  "built_at": "2026-10-17T19:04:46+00:00"
+}

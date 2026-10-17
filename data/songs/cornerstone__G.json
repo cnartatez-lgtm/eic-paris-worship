@@ -1,0 +1,478 @@
+{
+  "title": "Cornerstone",
+  "author": "Hillsong Worship",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Christ alone, Cornerstone"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Weak made strong in the"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "Savior's love"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Through the storm"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "He is Lord"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Lord of all"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "My hope is built on nothing less"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Than Jesus' blood and righteousness"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "Bm/D",
+              "text": "I dare not trust the sweetest frame"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "But wholly trust in Jesus' name"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "My hope is built on nothing less"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Than Jesus' blood and righteousness"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "Bm/D",
+              "text": "I dare not trust the sweetest frame"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "But wholly trust in Jesus' name"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "When darkness seems to hide His face"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "I rest on His unchanging grace"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "Bm/D",
+              "text": "In every high and stormy gale"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "My anchor holds within the veil"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "My anchor holds within the veil"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "My anchor holds within the veil"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Christ alone, Cornerstone"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "Em",
+              "text": "Weak made strong in the"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "Savior's love"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Through the storm"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "He is Lord"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Lord of all"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "When He shall come with trumpet sound"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Oh may I then in Him be found"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "Bm/D",
+              "text": "Dressed in His righteousness alone"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Faultless, stand before"
+            },
+            {
+              "chord": "G",
+              "text": " the throne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "He is Lord"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Lord of all"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Christ alone, Cornerstone"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "Em",
+              "text": "Weak made strong in the"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "Savior's love"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Through the storm"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "He is Lord"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Lord of all"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Christ alone, Cornerstone"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "Em",
+              "text": "Weak made strong in the"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "Savior's love"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Through the storm"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "He is Lord"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Lord of all"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Christ alone, Cornerstone"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "Em",
+              "text": "Weak made strong in the"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G/B",
+              "text": "Savior's love"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": "Through the storm"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "cornerstone",
+  "source_file": "Cornerstone-HillsongWorship-G-Pag2.pdf",
+  "source_hash": "94bf978ea34f72fb",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-17T19:02:13+00:00"
+}

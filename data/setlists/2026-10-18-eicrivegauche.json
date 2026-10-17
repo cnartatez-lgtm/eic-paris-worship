@@ -1,0 +1,98 @@
+{
+  "service": "EIC Rive Gauche",
+  "date": "18 October 2026",
+  "sort_date": "2026-10-18",
+  "title": "Life of David and the King to Come",
+  "order": [
+    {
+      "seq": 1,
+      "type": "header",
+      "title": "Worship",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "New Song",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "header",
+      "title": "What to know - Cafe & Vision",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "New Song",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 5,
+      "type": "item",
+      "title": "New Song",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 6,
+      "type": "header",
+      "title": "Scripture -",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "header",
+      "title": "Sermon -",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "header",
+      "title": "Communion",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "item",
+      "title": "New Song",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "header",
+      "title": "Closing - what to know",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "header",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [],
+  "built_at": "2026-10-17T19:04:47+00:00"
+}
