@@ -1,0 +1,566 @@
+{
+  "title": "God Of Wonders",
+  "author": "Third Day",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lord of heaven and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lord of all creation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Lord of heaven and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Lord of heaven "
+            },
+            {
+              "chord": "G",
+              "text": "and earth "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "Lord of heaven "
+            },
+            {
+              "chord": "Dsus4",
+              "text": "and earth "
+            },
+            {
+              "chord": "G",
+              "text": "and earth "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "Lord of heaven "
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "and earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Lord of all creation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Of water, earth and "
+            },
+            {
+              "chord": "G",
+              "text": "sky"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "The heavens are Your tabernacle"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Glory to the Lord on "
+            },
+            {
+              "chord": "G",
+              "text": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "God of wonders beyond our galaxy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "You are holy, "
+            },
+            {
+              "chord": "C",
+              "text": "holy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "The universe declares Your majesty"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "You are holy, "
+            },
+            {
+              "chord": "C",
+              "text": "holy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dadd4add9",
+              "text": "Lord of heaven "
+            },
+            {
+              "chord": "C",
+              "text": "and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dadd4add9",
+              "text": "Lord of heaven "
+            },
+            {
+              "chord": "C",
+              "text": "and earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Lord of heaven "
+            },
+            {
+              "chord": "G",
+              "text": "and earth "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "Lord of heaven "
+            },
+            {
+              "chord": "Dsus4",
+              "text": "and earth "
+            },
+            {
+              "chord": "G",
+              "text": "and earth "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "Lord of heaven "
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "and earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Early in the morning"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "I will celebrate the light"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "When I stumble in the darkness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "I will call Your name by night I will "
+            },
+            {
+              "chord": "G",
+              "text": "call"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Cadd9",
+              "text": "Your name by "
+            },
+            {
+              "chord": "G",
+              "text": "night"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "God of wonders beyond our galaxy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "You are holy, "
+            },
+            {
+              "chord": "C",
+              "text": "holy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "The universe declares Your majesty"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "You are holy, "
+            },
+            {
+              "chord": "C",
+              "text": "holy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Hallelujah to the Lord of "
+            },
+            {
+              "chord": "C",
+              "text": "heaven "
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Hallelujah to the Lord of heaven "
+            },
+            {
+              "chord": "C",
+              "text": "and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Hallelujah to the Lord of heaven "
+            },
+            {
+              "chord": "C",
+              "text": "and earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Solo",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Holy, "
+            },
+            {
+              "chord": "Am",
+              "text": "holy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Holy, "
+            },
+            {
+              "chord": "D",
+              "text": "holy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "God of wonders beyond our galaxy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "You are holy, "
+            },
+            {
+              "chord": "C",
+              "text": "holy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Precious Lord, reveal Your heart to me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Father, holy, "
+            },
+            {
+              "chord": "C",
+              "text": "holy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "The universe declares Your majesty"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "You are holy, "
+            },
+            {
+              "chord": "C",
+              "text": "holy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Holy, "
+            },
+            {
+              "chord": "C",
+              "text": "holy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Hallelujah to the Lord of "
+            },
+            {
+              "chord": "C",
+              "text": "heaven "
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Hallelujah to the Lord of heaven "
+            },
+            {
+              "chord": "C",
+              "text": "and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Hallelujah to the Lord of heaven "
+            },
+            {
+              "chord": "C",
+              "text": "and earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Hallelujah to the Lord of heaven "
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Hallelujah to the Lord of heaven "
+            },
+            {
+              "chord": "C",
+              "text": "and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Hallelujah to the Lord of heaven "
+            },
+            {
+              "chord": "C",
+              "text": "and earth"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "godofwonders",
+  "source_file": "GodOfWonders-ThirdDay-G-Pag2.pdf",
+  "source_hash": "b502f17ca2f83ed8",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-24T19:03:48+00:00"
+}

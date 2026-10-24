@@ -1,0 +1,178 @@
+{
+  "service": "EIC Rueil",
+  "date": "25 October 2026",
+  "sort_date": "2026-10-25",
+  "title": "Abram's Call - Genesis 12",
+  "order": [
+    {
+      "seq": 1,
+      "type": "item",
+      "title": "Comments about Service :",
+      "key": "",
+      "length": 0,
+      "detail": "Miray, Liam, Lilas"
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "Pre Service Slides",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "song",
+      "title": "Praise",
+      "key": "Bb",
+      "length": 296,
+      "detail": "Until:\n\"I won't be quiet, my God is alive\nHow could I keep it inside?\nPraise the Lord\nOh, my soul\""
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "Opening Scripture",
+      "key": "",
+      "length": 0,
+      "detail": "Psalm 121"
+    },
+    {
+      "seq": 5,
+      "type": "song",
+      "title": "Praise",
+      "key": "Bb",
+      "length": 296,
+      "detail": "From:\n\"I'll praise 'cause You're sovereign\nPraise 'cause You reign\nPraise 'cause You rose and defeated the\ngrave\"\n\nUntil the end"
+    },
+    {
+      "seq": 6,
+      "type": "item",
+      "title": "Opening Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "song",
+      "title": "God Of Wonders",
+      "key": "Bb",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "song",
+      "title": "Behold Our God",
+      "key": "E",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "item",
+      "title": "11.30 Children dismissed",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "item",
+      "title": "Pastoral Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "item",
+      "title": "Sermon Intro",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 12,
+      "type": "item",
+      "title": "Scripture Reading. Genesis 12:1-9",
+      "key": "",
+      "length": 0,
+      "detail": "10 am :Yolanda Garnier\n11.30 am : Princess Pajarillo"
+    },
+    {
+      "seq": 13,
+      "type": "item",
+      "title": "Sermon",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 14,
+      "type": "item",
+      "title": "Time of Reflection",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 15,
+      "type": "song",
+      "title": "I Have Decided To Follow Jesus",
+      "key": "Bb",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 16,
+      "type": "item",
+      "title": "Tithes & Offerings",
+      "key": "",
+      "length": 0,
+      "detail": "10 am : Yolanda Garnier\n11.30 am :Princess Pajarillo"
+    },
+    {
+      "seq": 17,
+      "type": "item",
+      "title": "Visitor Welcome & Announcements",
+      "key": "",
+      "length": 0,
+      "detail": "Membership Lunch - 8 November\nWomen's ministry - moved to Saturday, 31 Oct; online Bible Study, 31 Oct\nTry Church Sunday - 29 November - cards for prayer\nPotluck next week!\nCity MeetUp every Tuesday at 19h30"
+    },
+    {
+      "seq": 18,
+      "type": "item",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 19,
+      "type": "item",
+      "title": "Parents collect their Children slide",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "praise",
+      "title": "Praise",
+      "author": "ElevationWorship"
+    },
+    {
+      "slug": "godofwonders",
+      "title": "GodOfWonders",
+      "author": "ChrisTomlin"
+    },
+    {
+      "slug": "beholdourgod",
+      "title": "BeholdOurGod",
+      "author": "SovereignGraceMusic"
+    }
+  ],
+  "built_at": "2026-10-24T19:05:44+00:00"
+}

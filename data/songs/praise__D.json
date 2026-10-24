@@ -1,0 +1,538 @@
+{
+  "title": "Praise",
+  "author": "Elevation Worship feat. Brandon Lake, Chris Brown, Chandler Moore",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "N.C.",
+              "text": "Let everything that has breath"
+            },
+            {
+              "chord": "N.C.",
+              "text": " "
+            },
+            {
+              "chord": "N.C.",
+              "text": "Praise the Lord"
+            },
+            {
+              "chord": "N.C.",
+              "text": " "
+            },
+            {
+              "chord": "N.C.",
+              "text": "Oh my soul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse I",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "I’ll praise in the valley"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "My praise is a weapon"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Praise on the mountain"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "I’ll praise when I’m sure"
+            },
+            {
+              "chord": "A/C#",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "Praise when I’m doubting"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "I’ll praise when outnumbered"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Praise when surrounded"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "As long as I’m breathing"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A/C#",
+              "text": "I’ve got a reason to"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Cause praise is the waters"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "My enemies drown in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Praise the Lord"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Oh my soul"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": "Praise the Lord"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Oh my soul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse II",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "I’ll praise when I feel it"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "I’ll praise when I don’t"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "I’ll praise cause I know"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "You’re still in control"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "It’s more than a sound"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "My praise is the shout"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "That brings Jericho down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "As long as I’m breathing"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A/C#",
+              "text": "I’ve got a reason to"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Cause praise is the waters"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "My enemies drown in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Praise the Lord"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Oh my soul"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": "Praise the Lord"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Oh my soul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "I’ll praise cause You’re sovereign"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": "Praise cause You reign"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "I won’t be quiet"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Praise cause You rose and defeated the grave"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": "My God is alive"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "I won’t be quiet"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": "Praise cause You’re faithful"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "I won’t be quiet"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": "Praise cause You’re true"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "My God is alive"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": "Praise cause there’s nobody greater than You"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "I won’t be quiet"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": "How could I keep it inside"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Interlude",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Praise the Lord"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Oh my soul"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": "Praise the Lord"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Oh my soul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "N.C.",
+              "text": "Let everything that has breath"
+            },
+            {
+              "chord": "N.C.",
+              "text": " "
+            },
+            {
+              "chord": "N.C.",
+              "text": "Praise the Lord"
+            },
+            {
+              "chord": "N.C.",
+              "text": " "
+            },
+            {
+              "chord": "N.C.",
+              "text": "Oh my soul"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "praise",
+  "source_file": "Praise-ElevationWorship-D-Pag1-Horizontal.pdf",
+  "source_hash": "059ed51b7bc3c716",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-24T19:01:55+00:00"
+}
