@@ -1,0 +1,360 @@
+{
+  "title": "I Saw The Light",
+  "author": "Hank Williams",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "| G | G | G | G |"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "| G | G | D | G | G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "I wandered so aimless, life filled with sin"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "I wouldn't let my dear savior in"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Then Jesus came like a stranger in the night"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Praise the Lord, "
+            },
+            {
+              "chord": "D",
+              "text": "I saw the "
+            },
+            {
+              "chord": "G",
+              "text": "light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "I saw the light, I saw the light"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "No more darkness, no more night"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Now I'm so happy, no sorrow in sight"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Praise the Lord, "
+            },
+            {
+              "chord": "D",
+              "text": "I saw the "
+            },
+            {
+              "chord": "G",
+              "text": "light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Interlude",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "| G | G | D | G | G |"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Just like a blind man I wandered along"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Worries and fears I claimed for my own"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Then like the blind man that God gave back his sight"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Praise the Lord, "
+            },
+            {
+              "chord": "D",
+              "text": "I saw the "
+            },
+            {
+              "chord": "G",
+              "text": "light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "I saw the light, I saw the light"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "No more darkness, no more night"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Now I'm so happy, no sorrow in sight"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Praise the Lord, "
+            },
+            {
+              "chord": "D",
+              "text": "I saw the "
+            },
+            {
+              "chord": "G",
+              "text": "light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Break",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "| G   | G   | G   | G   |"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "| C   | C   | C   | G   |"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "| G   | G   | G   | G   |"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "| G   | G   | D   | G   | G |"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "I was a fool to wander and stray"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "For straight is the gate and narrow the way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Now I have traded the wrong for the right"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Praise the Lord, "
+            },
+            {
+              "chord": "D",
+              "text": "I saw the "
+            },
+            {
+              "chord": "G",
+              "text": "light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "I saw the light, I saw the light"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "No more darkness, no more night"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Now I'm so happy, no sorrow in sight"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Praise the Lord, "
+            },
+            {
+              "chord": "D",
+              "text": "I saw the "
+            },
+            {
+              "chord": "G",
+              "text": "light"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "isawthelight",
+  "source_file": "ISawTheLight-HankWilliams-G-Pag1-Horizontal.pdf",
+  "source_hash": "b34ebaa87d72accf",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-31T20:00:49+00:00"
+}

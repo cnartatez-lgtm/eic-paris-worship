@@ -1,0 +1,508 @@
+{
+  "title": "When I Survey The Wondrous Cross",
+  "author": "Misc Praise Songs/Isaac Watts",
+  "key": "C",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "When I survey the wondrous cross"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "On which the Prince of glory died,"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "My richest gain I count but loss,"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "And pour contempt on all my pride."
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "Dm",
+              "text": " "
+            },
+            {
+              "chord": "G7",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Forbid it, Lord, that I should"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "boast,"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Save in the death of Christ, my"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "God! All the vain things that charm me"
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": " "
+            },
+            {
+              "chord": "G7",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "most, I sacrifice them to His blood."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "See from his head, His hands, His"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "feet,"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Sorrow and love flow mingled down."
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Did e'er such love and sorrow"
+            },
+            {
+              "chord": "Am",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "meet,"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": " "
+            },
+            {
+              "chord": "Dm",
+              "text": " "
+            },
+            {
+              "chord": "G7",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Or thorns compose so rich a crown."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Were the whole realm of nature"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "mine,"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "That were an off'ring far too"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "small."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Were the whole realm of nature"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "mine,"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": " "
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "That were a present far too small;"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Love so amazing, so divine,"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Demands my soul, my life, my all."
+            },
+            {
+              "chord": "Dm",
+              "text": " "
+            },
+            {
+              "chord": "G7",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Love so amazing, so divine,"
+            },
+            {
+              "chord": "F",
+              "text": " "
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Demands my soul, my life, my all."
+            },
+            {
+              "chord": "Dm",
+              "text": " "
+            },
+            {
+              "chord": "G7",
+              "text": " "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "whenisurveythewondrouscross",
+  "source_file": "WhenISurveyTheWondrousCross-IsaacWatts-C-Pag1.pdf",
+  "source_hash": "a6e5b71b2b1946fc",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-31T20:20:16+00:00"
+}

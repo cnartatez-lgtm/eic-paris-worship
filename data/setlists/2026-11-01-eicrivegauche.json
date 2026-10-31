@@ -1,0 +1,109 @@
+{
+  "service": "EIC Rive Gauche",
+  "date": "1 November 2026",
+  "sort_date": "2026-11-01",
+  "title": "Life of David and the King to Come",
+  "order": [
+    {
+      "seq": 1,
+      "type": "header",
+      "title": "Worship",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 2,
+      "type": "song",
+      "title": "King Of Kings",
+      "key": "D",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "header",
+      "title": "What to know - Cafe & Vision",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 4,
+      "type": "song",
+      "title": "Holy Spirit",
+      "key": "E",
+      "length": 356,
+      "detail": ""
+    },
+    {
+      "seq": 5,
+      "type": "song",
+      "title": "How Great Is Our God",
+      "key": "C",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 6,
+      "type": "header",
+      "title": "Scripture -",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "header",
+      "title": "Sermon -",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "header",
+      "title": "Communion",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "song",
+      "title": "When I Survey The Wondrous Cross",
+      "key": "D-E",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "header",
+      "title": "Closing - what to know",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "header",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "kingofkings",
+      "title": "KingOfKings",
+      "author": "HillsongWorship"
+    },
+    {
+      "slug": "whenisurveythewondrouscross",
+      "title": "WhenISurveyTheWondrousCross",
+      "author": "IsaacWatts"
+    }
+  ],
+  "built_at": "2026-10-31T20:20:16+00:00"
+}

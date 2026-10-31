@@ -1,0 +1,169 @@
+{
+  "title": "By Faith",
+  "author": "Keith and Kristyn Getty",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "By faith we see the hand of "
+            },
+            {
+              "chord": "G",
+              "text": "God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "In the light of creation's "
+            },
+            {
+              "chord": "A",
+              "text": "grand "
+            },
+            {
+              "chord": "D",
+              "text": "design"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "In the lives of those who "
+            },
+            {
+              "chord": "B",
+              "text": "prove "
+            },
+            {
+              "chord": "A",
+              "text": "His faithfulness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Who walk by faith and not by "
+            },
+            {
+              "chord": "G",
+              "text": "sight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "(same as verse 1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "We will stand as children of "
+            },
+            {
+              "chord": "A",
+              "text": "the "
+            },
+            {
+              "chord": "Bm",
+              "text": "promise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "We will fix our eyes on Him, "
+            },
+            {
+              "chord": "Bm",
+              "text": "our soul's "
+            },
+            {
+              "chord": "G",
+              "text": "reward"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "(same as verse 1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "(same as verse 1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "(same as verse 1)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "byfaith",
+  "source_file": "ByFaith-KeithGetty-D-Pag1.pdf",
+  "source_hash": "3e27a39b4f39f824",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-31T20:04:00+00:00"
+}

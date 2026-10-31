@@ -1,0 +1,170 @@
+{
+  "service": "EIC Rueil",
+  "date": "1 November 2026",
+  "sort_date": "2026-11-01",
+  "title": "Which Way to Go? Genesis 13",
+  "order": [
+    {
+      "seq": 1,
+      "type": "item",
+      "title": "Comments about Service :",
+      "key": "",
+      "length": 0,
+      "detail": "Potluck\nFamily of Churches moment"
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "Pre Service Slides",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "song",
+      "title": "I Saw The Light",
+      "key": "F",
+      "length": 210,
+      "detail": "V1 - C - V2 - C"
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "Opening Scripture. Psalm 27:1, 4-5, 13",
+      "key": "",
+      "length": 0,
+      "detail": "1 The Lord is my light and my salvation - whom shall I fear? The Lord is the stronghold of my life - of whom shall I be afraid? 4 One thing I ask from the Lord, this only do I seek: that I may dwell in the house of the Lord all the days of my life, to gaze on the beauty of the Lord and to seek Him in His temple.\n5 For in the day of trouble He will keep me safe in His dwelling; He will hide me in the shelter of His sacred tent and set me high upon a rock. 13 I remain confident of this: I will see the goodness of be strong and take heart and wait for the Lord."
+    },
+    {
+      "seq": 5,
+      "type": "song",
+      "title": "I Saw The Light",
+      "key": "F",
+      "length": 210,
+      "detail": "V3 - C - C"
+    },
+    {
+      "seq": 6,
+      "type": "item",
+      "title": "Opening Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "song",
+      "title": "By Faith",
+      "key": "A",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "song",
+      "title": "Mighty to Save",
+      "key": "F",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "item",
+      "title": "Missions Moment/Family of Churches",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "item",
+      "title": "11.30 Children dismissed",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "item",
+      "title": "Scripture Reading: Genesis 13:1-18",
+      "key": "",
+      "length": 0,
+      "detail": "10 am :Yolanda Garnier\n11.30 am :Aurea Laranang"
+    },
+    {
+      "seq": 12,
+      "type": "item",
+      "title": "Sermon",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 13,
+      "type": "item",
+      "title": "Time of Reflection",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 14,
+      "type": "song",
+      "title": "Wherever He leads",
+      "key": "D",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 15,
+      "type": "item",
+      "title": "Tithes & Offerings",
+      "key": "",
+      "length": 0,
+      "detail": "10 am :Yolanda Garnier\n11.30 am :Aurea Laranang"
+    },
+    {
+      "seq": 16,
+      "type": "item",
+      "title": "Visitor Welcome & Announcements",
+      "key": "",
+      "length": 0,
+      "detail": "Potluck\nMercy Fund\nMembership Lunch\nTry Church Sunday"
+    },
+    {
+      "seq": 17,
+      "type": "item",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 18,
+      "type": "item",
+      "title": "Parents collect their Children slide",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "isawthelight",
+      "title": "ISawTheLight",
+      "author": "HankWilliams"
+    },
+    {
+      "slug": "byfaith",
+      "title": "ByFaith",
+      "author": "KeithGetty"
+    },
+    {
+      "slug": "mightytosave",
+      "title": "MightyToSave",
+      "author": "HillsongWorship"
+    }
+  ],
+  "built_at": "2026-10-31T20:14:12+00:00"
+}

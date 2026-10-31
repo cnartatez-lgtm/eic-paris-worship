@@ -1,0 +1,520 @@
+{
+  "title": "When I Survey The Wondrous Cross",
+  "author": "Misc Praise Songs/Isaac Watts",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "When I survey the wondrous cross"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "On which the Prince of glory died,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "My richest gain I count but loss,"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "A7",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "And pour contempt on all my pride."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Forbid it, Lord, that I should"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "boast,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Save in the death of Christ, my"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "God!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "All the vain things that charm me"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "A7",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "I sacrifice them to His blood."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "See from his head, His hands, His"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "feet,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Sorrow and love flow mingled down."
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Did e'er such love and sorrow"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "meet,"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "A7",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Or thorns compose so rich a crown."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Were the whole realm of nature"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "mine,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "That were an off'ring far too"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "small."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Were the whole realm of nature"
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "mine,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "That were a present far too small;"
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Love so amazing, so divine,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Demands my soul, my life, my all."
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "A7",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Love so amazing, so divine,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Demands my soul, my life, my all."
+            },
+            {
+              "chord": "Bm",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "A7",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": "Demands my soul, my life, my all."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "whenisurveythewondrouscross",
+  "source_file": "WhenISurveyTheWondrousCross-IsaacWatts-D-Pag1.pdf",
+  "source_hash": "27898d1b1c1bede7",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-31T20:18:55+00:00"
+}

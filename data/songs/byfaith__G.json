@@ -1,0 +1,317 @@
+{
+  "title": "By Faith",
+  "author": "Keith and Kristyn Getty",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "By faith we see the hand of "
+            },
+            {
+              "chord": "C",
+              "text": "God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "In the light of creation's "
+            },
+            {
+              "chord": "D",
+              "text": "grand design"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "In the lives of those who "
+            },
+            {
+              "chord": "E",
+              "text": "prove His "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Who walk by faith and not by "
+            },
+            {
+              "chord": "C",
+              "text": "sight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "By faith our fathers roamed "
+            },
+            {
+              "chord": "D",
+              "text": "the earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "With the power of His promise "
+            },
+            {
+              "chord": "E",
+              "text": "in their hearts"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Of a holy city built by God's "
+            },
+            {
+              "chord": "G",
+              "text": "own hand"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "A place where peace and "
+            },
+            {
+              "chord": "D",
+              "text": "justice reign"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "We will stand as children of "
+            },
+            {
+              "chord": "D",
+              "text": "the promise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "We will fix our eyes on Him, "
+            },
+            {
+              "chord": "C",
+              "text": "our soul's reward"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "By faith the prophets saw a "
+            },
+            {
+              "chord": "D",
+              "text": "day"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "When the longed for Messiah "
+            },
+            {
+              "chord": "C",
+              "text": "would appear"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "With the power to break the "
+            },
+            {
+              "chord": "D",
+              "text": "chains of sin and death"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "And rise triumphant form the "
+            },
+            {
+              "chord": "C",
+              "text": "grave"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "By faith the church was called "
+            },
+            {
+              "chord": "D",
+              "text": "to go"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "In the power of the Spirit to "
+            },
+            {
+              "chord": "C",
+              "text": "the lost"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "To deliver captives and to "
+            },
+            {
+              "chord": "D",
+              "text": "preach good news"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "In every corner of the "
+            },
+            {
+              "chord": "C",
+              "text": "earth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "By faith this mountain shall "
+            },
+            {
+              "chord": "D",
+              "text": "be moved"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "And the power of the gospel "
+            },
+            {
+              "chord": "C",
+              "text": "shall prevail"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "For we know in Christ all "
+            },
+            {
+              "chord": "D",
+              "text": "things are possible"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "For all who call upon His "
+            },
+            {
+              "chord": "C",
+              "text": "name"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "byfaith",
+  "source_file": "ByFaith-KeithGetty-G-Pag1.pdf",
+  "source_hash": "1fa8dd9898c10cf0",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-31T20:03:42+00:00"
+}
