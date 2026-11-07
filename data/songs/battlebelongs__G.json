@@ -1,0 +1,618 @@
+{
+  "title": "Battle Belongs",
+  "author": "Phil Wickham",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": "G"
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "(You can throw in a Dsus chord in there to match the recording)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "When all I see is the battle, you see my "
+            },
+            {
+              "chord": "C",
+              "text": "victory"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "When all I see is the mountain, you see a mountain "
+            },
+            {
+              "chord": "D",
+              "text": "moved"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And as I walk through the shadows, your love surrounds "
+            },
+            {
+              "chord": "C",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "There’s nothing to fear now, for I am safe with "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "So when I fight, I’ll fight on my "
+            },
+            {
+              "chord": "G",
+              "text": "knees, with my hands lifted "
+            },
+            {
+              "chord": "D",
+              "text": "high"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh God, the battle belongs to "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "And every fear I lay at your "
+            },
+            {
+              "chord": "G",
+              "text": "feet, I’ll sing through the "
+            },
+            {
+              "chord": "D",
+              "text": "night"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh God, the battle belongs to "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "And if you are for me, who can be against "
+            },
+            {
+              "chord": "C",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "For Jesus there’s nothing impossible for "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "When all I see are the ashes, you see the "
+            },
+            {
+              "chord": "C",
+              "text": "beauty"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "When all I see is a cross, God you see the empty "
+            },
+            {
+              "chord": "D",
+              "text": "tomb"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "So when I fight, I’ll fight on my "
+            },
+            {
+              "chord": "G",
+              "text": "knees, with my hands lifted "
+            },
+            {
+              "chord": "D",
+              "text": "high"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh God, the battle belongs to "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "And every fear I lay at your "
+            },
+            {
+              "chord": "G",
+              "text": "feet, I’ll sing through the "
+            },
+            {
+              "chord": "D",
+              "text": "night"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh God, the battle belongs to "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Almighty fortress, you go before "
+            },
+            {
+              "chord": "G",
+              "text": "us"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Nothing can stand against the power of our "
+            },
+            {
+              "chord": "D",
+              "text": "God"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "You shine in the shadows, you win every "
+            },
+            {
+              "chord": "D",
+              "text": "battle"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Nothing can stand against the power of our "
+            },
+            {
+              "chord": "D",
+              "text": "God"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Almighty fortress, you go before "
+            },
+            {
+              "chord": "G",
+              "text": "us"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Nothing can stand against the power of our "
+            },
+            {
+              "chord": "D",
+              "text": "God"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "You shine in the shadows, you win every "
+            },
+            {
+              "chord": "D",
+              "text": "battle"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Nothing can stand against the power of our "
+            },
+            {
+              "chord": "D",
+              "text": "God"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Almighty fortress, you go before "
+            },
+            {
+              "chord": "G",
+              "text": "us"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Nothing can stand against the power of our "
+            },
+            {
+              "chord": "D",
+              "text": "God"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "You shine in the shadows, you win every "
+            },
+            {
+              "chord": "D",
+              "text": "battle"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Nothing can stand against the power of our "
+            },
+            {
+              "chord": "D",
+              "text": "God"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "So when I fight, I’ll fight on my "
+            },
+            {
+              "chord": "G",
+              "text": "knees, with my hands lifted "
+            },
+            {
+              "chord": "D",
+              "text": "high"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh God, the battle belongs to "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "And every fear I lay at your "
+            },
+            {
+              "chord": "G",
+              "text": "feet, I’ll sing through the "
+            },
+            {
+              "chord": "D",
+              "text": "night"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh God, the battle belongs to "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Oh God, the battle belongs to "
+            },
+            {
+              "chord": "D",
+              "text": "you"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "battlebelongs",
+  "source_file": "BattleBelongs-PhilWickham-G-Pag2.pdf",
+  "source_hash": "d5b3848ba84da398",
+  "method": "vision",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-11-07T20:01:45+00:00"
+}

@@ -47,6 +47,7 @@ import pco_client as pco          # noqa: E402
 import song_library as sl         # noqa: E402
 
 import build_site                 # noqa: E402
+import publish_web                # noqa: E402
 import song_extract               # noqa: E402
 
 
@@ -408,6 +409,11 @@ def main():
         )
 
     lines.append(f"Archivo: {outcome['archive']} canciones.")
+
+    web_line = publish_web.publish(config, outcome["target"])
+
+    if web_line:
+        lines.append(web_line)
 
     if outcome["problems"]:
         lines.append("")

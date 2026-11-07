@@ -1,0 +1,425 @@
+{
+  "title": "Wherever He Leads I'll Go",
+  "author": "B. B. McKinney",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": "D"
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "\"Take up thy cross and follow Me,\""
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " I heard my Master say;"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "E7",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " \"I gave My life to ransom thee,"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " Surrender your all today."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Wherever He leads I'll go,"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " Wherever He leads I'll go,"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "E7",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " I'll follow my Christ who loves me so,"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "F#7",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " Wherever He leads I'll go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He drew me closer to His side,"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " I sought His will to know,"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "E7",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " And in that will I now abide,"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " Wherever He leads I'll go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "It may be through the shadows dim,"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " Or o'er the stormy sea,"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "E7",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " I take my cross and follow Him,"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " Wherever He leadeth me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My heart, my life, my all I bring"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " To Christ who loves me so;"
+            },
+            {
+              "chord": "Em",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "E7",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " He is my Master, Lord, and King,"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " Wherever He leads I'll go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Wherever He leads I'll go,"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " Wherever He leads I'll go,"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "E7",
+              "text": " "
+            },
+            {
+              "chord": "A",
+              "text": " I'll follow my Christ who loves me so,"
+            },
+            {
+              "chord": "A",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": " "
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "F#7",
+              "text": " "
+            },
+            {
+              "chord": "Bm",
+              "text": " Wherever He leads I'll go."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "whereverheleads",
+  "source_file": "WhereverHeLeads-BBMcKinney-D-Pag1-Horizontal-Simplificada.pdf",
+  "source_hash": "13f613a48aacb2b9",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-10-31T21:30:15+00:00"
+}

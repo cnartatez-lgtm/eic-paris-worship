@@ -1,0 +1,12 @@
+{
+  "name": "eic-worship-web",
+  "private": true,
+  "type": "module",
+  "description": "worship.pilgrimagewithgod.org: the Sunday songs app behind one passphrase, offline on the tablet.",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.151.1"
+  }
+}

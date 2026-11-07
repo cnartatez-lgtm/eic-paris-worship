@@ -291,6 +291,16 @@ def main():
             + ", ".join(s["title"] for s in service["songs"])
         )
 
+    # A rebuild by hand must reach the web copy too, or the tablet
+    # would open last week's page from worship.pilgrimagewithgod.org.
+    if not args.output:
+        import publish_web
+
+        line = publish_web.publish(config, target)
+
+        if line:
+            print(line)
+
 
 if __name__ == "__main__":
     main()

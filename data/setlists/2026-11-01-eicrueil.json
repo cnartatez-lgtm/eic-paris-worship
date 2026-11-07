@@ -74,7 +74,7 @@
       "title": "Missions Moment/Family of Churches",
       "key": "",
       "length": 0,
-      "detail": ""
+      "detail": "John Hugh Tate"
     },
     {
       "seq": 10,
@@ -130,7 +130,7 @@
       "title": "Visitor Welcome & Announcements",
       "key": "",
       "length": 0,
-      "detail": "Potluck\nMercy Fund\nMembership Lunch\nTry Church Sunday"
+      "detail": "Potluck\nMercy Fund\nMembership Lunch\nTry Church Sunday\nMen's breakfast\nGame night - 20 November"
     },
     {
       "seq": 17,
@@ -164,7 +164,12 @@
       "slug": "mightytosave",
       "title": "MightyToSave",
       "author": "HillsongWorship"
+    },
+    {
+      "slug": "whereverheleads",
+      "title": "WhereverHeLeads",
+      "author": "BBMcKinney"
     }
   ],
-  "built_at": "2026-10-31T20:14:12+00:00"
+  "built_at": "2026-11-01T08:21:45+00:00"
 }

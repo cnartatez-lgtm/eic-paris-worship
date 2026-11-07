@@ -1,0 +1,170 @@
+{
+  "service": "EIC Rueil",
+  "date": "8 November 2026",
+  "sort_date": "2026-11-08",
+  "title": "Genesis 14",
+  "order": [
+    {
+      "seq": 1,
+      "type": "item",
+      "title": "Comments about Service :",
+      "key": "",
+      "length": 0,
+      "detail": "Scott Out\nChristian preaching"
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "Pre Service Slides",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "song",
+      "title": "Battle Belongs",
+      "key": "G",
+      "length": 270,
+      "detail": "V1 - C - V2 - C - B - B - C"
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "Opening Scripture",
+      "key": "",
+      "length": 0,
+      "detail": "Ephesians 6:10-13"
+    },
+    {
+      "seq": 5,
+      "type": "song",
+      "title": "Battle Belongs",
+      "key": "G",
+      "length": 270,
+      "detail": "B - C - C"
+    },
+    {
+      "seq": 6,
+      "type": "item",
+      "title": "Opening Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "song",
+      "title": "All I Have Is Christ",
+      "key": "C",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 8,
+      "type": "song",
+      "title": "Turn Your Eyes Upon Jesus",
+      "key": "A",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "item",
+      "title": "Pastoral Prayer",
+      "key": "",
+      "length": 0,
+      "detail": "Jeff\nPray for the Persecuted Church"
+    },
+    {
+      "seq": 10,
+      "type": "item",
+      "title": "11.30 Children dismissed",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "item",
+      "title": "Scripture Reading",
+      "key": "",
+      "length": 0,
+      "detail": "Genesis 14:17-24\n10 am :Yolanda Garnier\n11.30 am :Juliet Lawal"
+    },
+    {
+      "seq": 12,
+      "type": "item",
+      "title": "Sermon",
+      "key": "",
+      "length": 0,
+      "detail": "A Greater King"
+    },
+    {
+      "seq": 13,
+      "type": "item",
+      "title": "Time of Reflection",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 14,
+      "type": "song",
+      "title": "Before The Throne Of God Above",
+      "key": "C",
+      "length": 240,
+      "detail": ""
+    },
+    {
+      "seq": 15,
+      "type": "item",
+      "title": "Tithes & Offerings",
+      "key": "",
+      "length": 0,
+      "detail": "10 am :Yolanda Garnier\n11.30 am :Juliet Lawal"
+    },
+    {
+      "seq": 16,
+      "type": "item",
+      "title": "Visitor Welcome & Announcements",
+      "key": "",
+      "length": 0,
+      "detail": "Mercy Fund\nTry church/alpha\nmembership lunch"
+    },
+    {
+      "seq": 17,
+      "type": "item",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": "Christian"
+    },
+    {
+      "seq": 18,
+      "type": "item",
+      "title": "Parents collect their Children slide",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "battlebelongs",
+      "title": "BattleBelongs",
+      "author": "PhilWickham"
+    },
+    {
+      "slug": "allihaveischrist",
+      "title": "AllIHaveIsChrist",
+      "author": "JordanKauflin"
+    },
+    {
+      "slug": "beforethethroneofgodabove",
+      "title": "BeforeTheThroneOfGodAbove",
+      "author": "CharitieLBancroft"
+    }
+  ],
+  "built_at": "2026-11-07T20:05:13+00:00"
+}

@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 dist/
 .index.html.tmp
+
+# The web build carries the songs and the order of service; this repo
+# is public, so only the code of the site is committed.
+web/public/
+web/node_modules/
+web/.wrangler/
+web/.dev.vars

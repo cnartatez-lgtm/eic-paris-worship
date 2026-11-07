@@ -1,0 +1,564 @@
+{
+  "title": "Before The Throne Of God Above",
+  "author": "Charitie Lees Bancroft | Vikki Cook",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "76",
+    "time_signature": "3/4",
+    "sounds_in": "D"
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Before the throne of God "
+            },
+            {
+              "chord": "D",
+              "text": "a - "
+            },
+            {
+              "chord": "Em/D",
+              "text": "bove"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I have a strong and perfect plea"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A great High Priest whose name is "
+            },
+            {
+              "chord": "G",
+              "text": "Love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Who ever lives and pleads for "
+            },
+            {
+              "chord": "G",
+              "text": "      "
+            },
+            {
+              "chord": "Em",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My name is grav - "
+            },
+            {
+              "chord": "G",
+              "text": "en on His hands"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My name is writ - "
+            },
+            {
+              "chord": "D",
+              "text": "ten on His heart"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I know that while in    "
+            },
+            {
+              "chord": "G",
+              "text": "heav'n He stands"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "No tongue can bid me thence de - "
+            },
+            {
+              "chord": "Bm/A",
+              "text": "part"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "No tongue can bid me thence de - "
+            },
+            {
+              "chord": "Bm/A",
+              "text": "part"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Halle - "
+            },
+            {
+              "chord": "Am",
+              "text": "lu - "
+            },
+            {
+              "chord": "C",
+              "text": "jah"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My life is found in "
+            },
+            {
+              "chord": "G",
+              "text": "Jesus Christ"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Halle - "
+            },
+            {
+              "chord": "Am",
+              "text": "lu - "
+            },
+            {
+              "chord": "C",
+              "text": "jah"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For I am His and He is "
+            },
+            {
+              "chord": "G",
+              "text": "mine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "When Satan tempts me to        "
+            },
+            {
+              "chord": "D",
+              "text": "de - "
+            },
+            {
+              "chord": "Em/D",
+              "text": "spair"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And tells me of the guilt with - "
+            },
+            {
+              "chord": "D",
+              "text": "in"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Upward I look and see Him "
+            },
+            {
+              "chord": "G",
+              "text": "there"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Who made an end to all      "
+            },
+            {
+              "chord": "G",
+              "text": "my       "
+            },
+            {
+              "chord": "Em",
+              "text": "sin"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Because the sin - "
+            },
+            {
+              "chord": "G",
+              "text": "less Saviour died"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My sinful soul is counted "
+            },
+            {
+              "chord": "D",
+              "text": "free"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For God the Just is     "
+            },
+            {
+              "chord": "G",
+              "text": "satis - "
+            },
+            {
+              "chord": "D/F#",
+              "text": "fied"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To look on Him and par - "
+            },
+            {
+              "chord": "Bm/A",
+              "text": "don         "
+            },
+            {
+              "chord": "G",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To look on Him and par - "
+            },
+            {
+              "chord": "Bm/A",
+              "text": "don         "
+            },
+            {
+              "chord": "G",
+              "text": "me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Behold Him there the risen     "
+            },
+            {
+              "chord": "D",
+              "text": "Lamb"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My perfect spotless righteous - "
+            },
+            {
+              "chord": "D",
+              "text": "ness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The great un - "
+            },
+            {
+              "chord": "G",
+              "text": "changea - "
+            },
+            {
+              "chord": "A",
+              "text": "ble I Am"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The King of glory and of        "
+            },
+            {
+              "chord": "G",
+              "text": "grace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "One with Him - "
+            },
+            {
+              "chord": "G",
+              "text": "self I     "
+            },
+            {
+              "chord": "D/F#",
+              "text": "cannot die"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My soul is pur - "
+            },
+            {
+              "chord": "D",
+              "text": "chased with His blood"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My life is hid with Christ on "
+            },
+            {
+              "chord": "G",
+              "text": "high"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "With Christ my Saviour and my        "
+            },
+            {
+              "chord": "Bm/A",
+              "text": "God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "With Christ my Saviour and my        "
+            },
+            {
+              "chord": "Bm/A",
+              "text": "God"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I bow be - "
+            },
+            {
+              "chord": "D",
+              "text": "fore the cross of Christ"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And marvel at this love di - "
+            },
+            {
+              "chord": "D",
+              "text": "vine"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "God's perfect Son was sacri - "
+            },
+            {
+              "chord": "G",
+              "text": "ficed"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To make me righteous in       "
+            },
+            {
+              "chord": "G",
+              "text": "God's eyes"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "This river's depths I     "
+            },
+            {
+              "chord": "G",
+              "text": "cannot know"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "But I can glo - "
+            },
+            {
+              "chord": "D",
+              "text": "ry in its flood"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The Lord Most High has bowed down "
+            },
+            {
+              "chord": "G",
+              "text": "low"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And poured on me His glo - "
+            },
+            {
+              "chord": "Bm/A",
+              "text": "rious love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And poured on me His glo - "
+            },
+            {
+              "chord": "Bm/A",
+              "text": "rious love"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "beforethethroneofgodabove",
+  "source_file": "BeforeTheThroneOfGodAbove-CharitieLBancroft-D-Pag2.pdf",
+  "source_hash": "873937f1c1f86b8b",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-11-07T20:04:53+00:00"
+}

@@ -1,0 +1,307 @@
+{
+  "title": "All I Have Is Christ",
+  "author": "Jordan Kauflin",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You bore the wrath reserved"
+            },
+            {
+              "chord": "Am",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "I once was lost in darkest "
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "for me Now all I know is "
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": "grace."
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "night Yet thought I knew"
+            },
+            {
+              "chord": "D",
+              "text": " "
+            },
+            {
+              "chord": "G",
+              "text": "the way."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The sin that promised joy and "
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "life Had led me to the grave. "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "I had no hope that You would "
+            },
+            {
+              "chord": "G",
+              "text": "own A rebel to Your will. "
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": "And if You had not loved me "
+            },
+            {
+              "chord": "G",
+              "text": "first I would refuse You "
+            },
+            {
+              "chord": "Am",
+              "text": "still."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "But as I ran my hell-bound "
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "race Indifferent to the "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "cost "
+            },
+            {
+              "chord": "G",
+              "text": "You looked upon my helpless "
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "state And led me to the "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "cross. "
+            },
+            {
+              "chord": "G",
+              "text": "And I beheld God’s love "
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "displayed You suffered "
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": "in my place"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Hal-le - lu - jah! All I have "
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "is Christ"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Hal-le - lu - jah! Jesus is my "
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "life"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Now, Lord, I would be Yours "
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "alone And live so all might "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "see "
+            },
+            {
+              "chord": "G",
+              "text": "The strength to follow Your "
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "commands Could never come "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "from me. "
+            },
+            {
+              "chord": "G",
+              "text": "Oh Father, use my ransomed "
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "life In any way You choose. "
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": "And let my song forever be My "
+            },
+            {
+              "chord": "G",
+              "text": "only boast is You."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": []
+    }
+  ],
+  "slug": "allihaveischrist",
+  "source_file": "AllIHaveIsChrist-JordanKauflin-G-Pag1.pdf",
+  "source_hash": "aca947bac209d6ae",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-11-07T20:03:16+00:00"
+}

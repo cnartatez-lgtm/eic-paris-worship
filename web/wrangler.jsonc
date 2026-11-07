@@ -1,0 +1,21 @@
+{
+  // worship.pilgrimagewithgod.org — deployed by tools/publish_web.py
+  // after every build of the songs app (Saturday 21:00, or by hand).
+  "name": "eic-worship",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": true
+  },
+  "routes": [
+    { "pattern": "worship.pilgrimagewithgod.org", "custom_domain": true }
+  ],
+  "workers_dev": false,
+  // Last build the tablet reported saving (see src/worker.js).
+  // Namespace "eic-worship-seen".
+  "kv_namespaces": [
+    { "binding": "SEEN", "id": "5e28485963cd4fa0b75b546a6436162d" }
+  ]
+}

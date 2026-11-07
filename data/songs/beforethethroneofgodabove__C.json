@@ -1,0 +1,291 @@
+{
+  "title": "Before the Throne of God Above",
+  "author": "CharitieLBancroft",
+  "key": "C",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Before the throne of God "
+            },
+            {
+              "chord": "F",
+              "text": "Above"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "I have a strong and perfect "
+            },
+            {
+              "chord": "Em",
+              "text": "plea"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "A great high priest whose name is "
+            },
+            {
+              "chord": "G",
+              "text": "love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Who ever lives and pleads for "
+            },
+            {
+              "chord": "F",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "My name is graven on his "
+            },
+            {
+              "chord": "C",
+              "text": "hands"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "My name is written on his "
+            },
+            {
+              "chord": "G",
+              "text": "heart"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "I know that while in heaven he "
+            },
+            {
+              "chord": "F",
+              "text": "stands"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "No tongue can bid me thence de--"
+            },
+            {
+              "chord": "Am",
+              "text": "part"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "No tongue can bid me thence de--"
+            },
+            {
+              "chord": "G",
+              "text": "part"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "When Satan tempts me to despair,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And tells me of the guilt within,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Upward I look, and see Him there"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Who made an end to all my sin."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Because the sinless Savior died,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My sinful soul is counted free"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For God the just is satisfied"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To look on Him and pardon me (2x)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Hallelujah! Hallelujah! Praise the One,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Risen Son of God!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Behold Him there, the Risen Lamb"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My perfect, spotless righteousness,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The great unchangeable I am,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The King of glory and of grace!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "One with Himself I cannot die"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My soul is purchased by His blood"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My life is hid with Christ on high,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "With Christ, my Savior and my God (2x)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "beforethethroneofgodabove",
+  "source_file": "BeforeTheThroneOfGodAbove-CharitieLBancroft-C-Pag1.pdf",
+  "source_hash": "41e7df655cef035d",
+  "method": "text",
+  "model": "qwen/qwen3-vl-235b-a22b-instruct",
+  "extracted_at": "2026-11-07T20:05:13+00:00"
+}
