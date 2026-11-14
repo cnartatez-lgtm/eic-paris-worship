@@ -16,59 +16,87 @@
           "parts": [
             {
               "chord": "",
-              "text": "\"Take up thy cross and follow Me,\""
+              "text": "\"Take "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "up thy "
             },
             {
               "chord": "A",
-              "text": " "
+              "text": "cross and "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "follow "
             },
             {
               "chord": "G",
-              "text": " I heard my Master say;"
-            },
+              "text": "Me,\""
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "Em",
-              "text": " "
+              "text": "I  "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "heard my "
             },
             {
               "chord": "E7",
-              "text": " "
+              "text": "Master "
             },
             {
               "chord": "A",
-              "text": " \"I gave My life to ransom thee,"
-            },
+              "text": "say;"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "A",
-              "text": " "
+              "text": "\"I "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "gave My "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "life to "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "ransom "
             },
             {
               "chord": "Bm",
-              "text": " Surrender your all today."
+              "text": "thee,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Sur"
+            },
+            {
+              "chord": "D",
+              "text": "render your "
+            },
+            {
+              "chord": "A",
+              "text": "all to"
+            },
+            {
+              "chord": "D",
+              "text": "day.\""
             }
           ]
         }
@@ -81,67 +109,99 @@
           "parts": [
             {
               "chord": "",
-              "text": "Wherever He leads I'll go,"
+              "text": "Wher"
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "ever He "
             },
             {
               "chord": "A",
-              "text": " "
+              "text": "leads I'll "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "go,   "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": ""
             },
             {
               "chord": "D",
-              "text": " Wherever He leads I'll go,"
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Wherever He leads "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "I'll "
             },
             {
               "chord": "A",
-              "text": " "
+              "text": "go,    "
             },
             {
               "chord": "E7",
-              "text": " "
+              "text": ""
             },
             {
               "chord": "A",
-              "text": " I'll follow my Christ who loves me so,"
-            },
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "A",
-              "text": " "
+              "text": "I'll "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "follow my "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "Christ who "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "loves "
             },
             {
               "chord": "F#7",
-              "text": " "
+              "text": "me  "
             },
             {
               "chord": "Bm",
-              "text": " Wherever He leads I'll go."
+              "text": "so,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Wher"
+            },
+            {
+              "chord": "D",
+              "text": "ever He "
+            },
+            {
+              "chord": "A",
+              "text": "leads I'll "
+            },
+            {
+              "chord": "D",
+              "text": "go."
             }
           ]
         }
@@ -154,59 +214,87 @@
           "parts": [
             {
               "chord": "",
-              "text": "He drew me closer to His side,"
+              "text": "He "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "drew me "
             },
             {
               "chord": "A",
-              "text": " "
+              "text": "closer "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "to His "
             },
             {
               "chord": "G",
-              "text": " I sought His will to know,"
-            },
+              "text": "side,"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "Em",
-              "text": " "
+              "text": "I  "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "sought His "
             },
             {
               "chord": "E7",
-              "text": " "
+              "text": "will to "
             },
             {
               "chord": "A",
-              "text": " And in that will I now abide,"
-            },
+              "text": "know,"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "A",
-              "text": " "
+              "text": "And "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "in that "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "will I "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "now a"
             },
             {
               "chord": "Bm",
-              "text": " Wherever He leads I'll go."
+              "text": "bide,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Wher"
+            },
+            {
+              "chord": "D",
+              "text": "ever He "
+            },
+            {
+              "chord": "A",
+              "text": "leads I'll "
+            },
+            {
+              "chord": "D",
+              "text": "go."
             }
           ]
         }
@@ -219,59 +307,87 @@
           "parts": [
             {
               "chord": "",
-              "text": "It may be through the shadows dim,"
+              "text": "It "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "may be "
             },
             {
               "chord": "A",
-              "text": " "
+              "text": "through the "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "shadows "
             },
             {
               "chord": "G",
-              "text": " Or o'er the stormy sea,"
-            },
+              "text": "dim,"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "Em",
-              "text": " "
+              "text": "Or "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "o'er the "
             },
             {
               "chord": "E7",
-              "text": " "
+              "text": "stormy "
             },
             {
               "chord": "A",
-              "text": " I take my cross and follow Him,"
-            },
+              "text": "sea,"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "A",
-              "text": " "
+              "text": "I "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "take my "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "cross and "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "follow "
             },
             {
               "chord": "Bm",
-              "text": " Wherever He leadeth me."
+              "text": "Him,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Wher"
+            },
+            {
+              "chord": "D",
+              "text": "ever He "
+            },
+            {
+              "chord": "A",
+              "text": "leadeth "
+            },
+            {
+              "chord": "D",
+              "text": "me."
             }
           ]
         }
@@ -284,59 +400,87 @@
           "parts": [
             {
               "chord": "",
-              "text": "My heart, my life, my all I bring"
+              "text": "My "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "heart, my "
             },
             {
               "chord": "A",
-              "text": " "
+              "text": "life, my "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "all I "
             },
             {
               "chord": "G",
-              "text": " To Christ who loves me so;"
-            },
+              "text": "bring"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "Em",
-              "text": " "
+              "text": "To "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "Christ who "
             },
             {
               "chord": "E7",
-              "text": " "
+              "text": "loves me "
             },
             {
               "chord": "A",
-              "text": " He is my Master, Lord, and King,"
-            },
+              "text": "so;"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "A",
-              "text": " "
+              "text": "He "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "is my "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "Master, "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "Lord, and "
             },
             {
               "chord": "Bm",
-              "text": " Wherever He leads I'll go."
+              "text": "King,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Wher"
+            },
+            {
+              "chord": "D",
+              "text": "ever He "
+            },
+            {
+              "chord": "A",
+              "text": "leads I'll "
+            },
+            {
+              "chord": "D",
+              "text": "go."
             }
           ]
         }
@@ -349,67 +493,99 @@
           "parts": [
             {
               "chord": "",
-              "text": "Wherever He leads I'll go,"
+              "text": "Wher"
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "ever He "
             },
             {
               "chord": "A",
-              "text": " "
+              "text": "leads I'll "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "go,   "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": ""
             },
             {
               "chord": "D",
-              "text": " Wherever He leads I'll go,"
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Wherever He leads "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "I'll "
             },
             {
               "chord": "A",
-              "text": " "
+              "text": "go,    "
             },
             {
               "chord": "E7",
-              "text": " "
+              "text": ""
             },
             {
               "chord": "A",
-              "text": " I'll follow my Christ who loves me so,"
-            },
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "A",
-              "text": " "
+              "text": "I'll "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "follow my "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "Christ who "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "loves "
             },
             {
               "chord": "F#7",
-              "text": " "
+              "text": "me  "
             },
             {
               "chord": "Bm",
-              "text": " Wherever He leads I'll go."
+              "text": "so,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Wher"
+            },
+            {
+              "chord": "D",
+              "text": "ever He "
+            },
+            {
+              "chord": "A",
+              "text": "leads I'll "
+            },
+            {
+              "chord": "D",
+              "text": "go."
             }
           ]
         }
@@ -419,7 +595,498 @@
   "slug": "whereverheleads",
   "source_file": "WhereverHeLeads-BBMcKinney-D-Pag1-Horizontal-Simplificada.pdf",
   "source_hash": "13f613a48aacb2b9",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-31T21:30:15+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "8a07b426a2faa4af"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "reading": {
+      "L1": [
+        [
+          "D",
+          "up"
+        ],
+        [
+          "A",
+          "cross"
+        ],
+        [
+          "D",
+          "follow"
+        ],
+        [
+          "G",
+          "Me,"
+        ]
+      ],
+      "L2": [
+        [
+          "Em",
+          "I"
+        ],
+        [
+          "D",
+          "heard"
+        ],
+        [
+          "E7",
+          "Master"
+        ],
+        [
+          "A",
+          "say;"
+        ]
+      ],
+      "L3": [
+        [
+          "A",
+          "I"
+        ],
+        [
+          "D",
+          "gave"
+        ],
+        [
+          "G",
+          "life"
+        ],
+        [
+          "D",
+          "ransom"
+        ],
+        [
+          "Bm",
+          "thee,"
+        ]
+      ],
+      "L4": [
+        [
+          "Em",
+          "Surrender"
+        ],
+        [
+          "D",
+          "Surrender"
+        ],
+        [
+          "A",
+          "all"
+        ],
+        [
+          "D",
+          "today."
+        ]
+      ],
+      "L5": [
+        [
+          "D",
+          "Wherever"
+        ],
+        [
+          "A",
+          "leads"
+        ],
+        [
+          "D",
+          "go,"
+        ],
+        [
+          "G",
+          "(end)"
+        ],
+        [
+          "D",
+          "(end)"
+        ]
+      ],
+      "L6": [
+        [
+          "D",
+          "I'll"
+        ],
+        [
+          "A",
+          "go,"
+        ],
+        [
+          "E7",
+          "(end)"
+        ],
+        [
+          "A",
+          "(end)"
+        ]
+      ],
+      "L7": [
+        [
+          "A",
+          "I'll"
+        ],
+        [
+          "D",
+          "follow"
+        ],
+        [
+          "G",
+          "Christ"
+        ],
+        [
+          "D",
+          "loves"
+        ],
+        [
+          "F#7",
+          "me"
+        ],
+        [
+          "Bm",
+          "so,"
+        ]
+      ],
+      "L8": [
+        [
+          "Em",
+          "Wherever"
+        ],
+        [
+          "D",
+          "Wherever"
+        ],
+        [
+          "A",
+          "leads"
+        ],
+        [
+          "D",
+          "go."
+        ]
+      ],
+      "L9": [
+        [
+          "D",
+          "drew"
+        ],
+        [
+          "A",
+          "closer"
+        ],
+        [
+          "D",
+          "to"
+        ],
+        [
+          "G",
+          "side,"
+        ]
+      ],
+      "L10": [
+        [
+          "Em",
+          "I"
+        ],
+        [
+          "D",
+          "sought"
+        ],
+        [
+          "E7",
+          "will"
+        ],
+        [
+          "A",
+          "know,"
+        ]
+      ],
+      "L11": [
+        [
+          "A",
+          "And"
+        ],
+        [
+          "D",
+          "in"
+        ],
+        [
+          "G",
+          "will"
+        ],
+        [
+          "D",
+          "now"
+        ],
+        [
+          "Bm",
+          "abide,"
+        ]
+      ],
+      "L12": [
+        [
+          "Em",
+          "Wherever"
+        ],
+        [
+          "D",
+          "Wherever"
+        ],
+        [
+          "A",
+          "leads"
+        ],
+        [
+          "D",
+          "go."
+        ]
+      ],
+      "L13": [
+        [
+          "D",
+          "may"
+        ],
+        [
+          "A",
+          "through"
+        ],
+        [
+          "D",
+          "shadows"
+        ],
+        [
+          "G",
+          "dim,"
+        ]
+      ],
+      "L14": [
+        [
+          "Em",
+          "Or"
+        ],
+        [
+          "D",
+          "o'er"
+        ],
+        [
+          "E7",
+          "stormy"
+        ],
+        [
+          "A",
+          "sea,"
+        ]
+      ],
+      "L15": [
+        [
+          "A",
+          "I"
+        ],
+        [
+          "D",
+          "take"
+        ],
+        [
+          "G",
+          "cross"
+        ],
+        [
+          "D",
+          "follow"
+        ],
+        [
+          "Bm",
+          "Him,"
+        ]
+      ],
+      "L16": [
+        [
+          "Em",
+          "Wherever"
+        ],
+        [
+          "D",
+          "Wherever"
+        ],
+        [
+          "A",
+          "leadeth"
+        ],
+        [
+          "D",
+          "me."
+        ]
+      ],
+      "L17": [
+        [
+          "D",
+          "heart,"
+        ],
+        [
+          "A",
+          "life,"
+        ],
+        [
+          "D",
+          "all"
+        ],
+        [
+          "G",
+          "bring"
+        ]
+      ],
+      "L18": [
+        [
+          "Em",
+          "To"
+        ],
+        [
+          "D",
+          "Christ"
+        ],
+        [
+          "E7",
+          "loves"
+        ],
+        [
+          "A",
+          "so;"
+        ]
+      ],
+      "L19": [
+        [
+          "A",
+          "He"
+        ],
+        [
+          "D",
+          "is"
+        ],
+        [
+          "G",
+          "Master,"
+        ],
+        [
+          "D",
+          "Lord,"
+        ],
+        [
+          "Bm",
+          "King,"
+        ]
+      ],
+      "L20": [
+        [
+          "Em",
+          "Wherever"
+        ],
+        [
+          "D",
+          "Wherever"
+        ],
+        [
+          "A",
+          "leads"
+        ],
+        [
+          "D",
+          "go."
+        ]
+      ],
+      "L21": [
+        [
+          "D",
+          "Wherever"
+        ],
+        [
+          "A",
+          "leads"
+        ],
+        [
+          "D",
+          "go,"
+        ],
+        [
+          "G",
+          "(end)"
+        ],
+        [
+          "D",
+          "(end)"
+        ]
+      ],
+      "L22": [
+        [
+          "D",
+          "I'll"
+        ],
+        [
+          "A",
+          "go,"
+        ],
+        [
+          "E7",
+          "(end)"
+        ],
+        [
+          "A",
+          "(end)"
+        ]
+      ],
+      "L23": [
+        [
+          "A",
+          "I'll"
+        ],
+        [
+          "D",
+          "follow"
+        ],
+        [
+          "G",
+          "Christ"
+        ],
+        [
+          "D",
+          "loves"
+        ],
+        [
+          "F#7",
+          "me"
+        ],
+        [
+          "Bm",
+          "so,"
+        ]
+      ],
+      "L24": [
+        [
+          "Em",
+          "Wherever"
+        ],
+        [
+          "D",
+          "Wherever"
+        ],
+        [
+          "A",
+          "leads"
+        ],
+        [
+          "D",
+          "go."
+        ]
+      ]
+    },
+    "model": "anthropic/claude-sonnet-5.5",
+    "cost": 0.0519,
+    "at": "2026-11-14T12:46:00+00:00",
+    "fingerprint": "8a07b426a2faa4af",
+    "source_hash": "13f613a48aacb2b9"
+  }
 }

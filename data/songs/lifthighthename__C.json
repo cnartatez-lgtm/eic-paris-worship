@@ -15,15 +15,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lift "
+            },
+            {
               "chord": "C",
-              "text": "Lift high the name of Jesus, of Jesus our King"
+              "text": "high the name of Jesus, of Jesus our King"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "Make known the power of His grace"
             }
           ]
@@ -31,7 +35,7 @@
         {
           "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "The beauty of His peace"
             }
           ]
@@ -39,36 +43,64 @@
         {
           "parts": [
             {
-              "chord": "G",
+              "chord": "",
               "text": "Re-"
             },
             {
+              "chord": "G",
+              "text": "member how His "
+            },
+            {
               "chord": "C",
-              "text": "member how His mercy reached"
+              "text": "mercy reached"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "And "
+            },
             {
               "chord": "F",
-              "text": "And we cried out to Him"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "we cried "
+            },
             {
-              "chord": "C",
-              "text": "He lifted us to solid ground"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "Dm",
+              "text": "out to "
+            },
             {
               "chord": "G",
-              "text": "To freedom from our sin"
+              "text": "Him"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He "
+            },
+            {
+              "chord": "C",
+              "text": "lifted us to solid ground"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To "
+            },
+            {
+              "chord": "G",
+              "text": "freedom from our "
+            },
+            {
+              "chord": "C",
+              "text": "sin"
             }
           ]
         }
@@ -80,28 +112,68 @@
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "Oh sing my soul, and tell all He's done"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "",
+              "text": "Oh "
+            },
             {
               "chord": "C",
-              "text": "Till the earth and heavens"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Dm",
-              "text": "Are filled with His glo-"
+              "text": "sing my soul, and tell all He's "
             },
             {
               "chord": "G",
+              "text": "done"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Till the "
+            },
+            {
+              "chord": "C",
+              "text": "earth and "
+            },
+            {
+              "chord": "F",
+              "text": "heavens"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Are "
+            },
+            {
+              "chord": "Dm",
+              "text": "filled with His "
+            },
+            {
+              "chord": "G",
+              "text": "glo-"
+            },
+            {
+              "chord": "C",
               "text": "ry"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Playing guide"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Order: Verse 1 → Chorus → Verse 2 → Chorus → Verse 3 → Chorus twice."
             }
           ]
         }
@@ -113,15 +185,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lift "
+            },
+            {
               "chord": "C",
-              "text": "Lift high the name of Jesus, of Jesus our Lord"
+              "text": "high the name of Jesus, of Jesus our Lord"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "His power in us is greater than"
             }
           ]
@@ -129,7 +205,7 @@
         {
           "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "Is greater than this world"
             }
           ]
@@ -137,65 +213,72 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "To share the reason for our hope"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "F",
-              "text": "To serve with love and grace"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "That all who see Him shine through us"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Might bring the Father praise"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Oh sing my soul, and tell all He's done"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Till the earth and heavens"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Dm",
-              "text": "Are filled with His glo-"
+              "chord": "",
+              "text": "To "
             },
             {
               "chord": "G",
-              "text": "ry"
+              "text": "share the reason "
+            },
+            {
+              "chord": "C",
+              "text": "for our hope"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To "
+            },
+            {
+              "chord": "F",
+              "text": "serve with "
+            },
+            {
+              "chord": "Dm",
+              "text": "love and "
+            },
+            {
+              "chord": "G",
+              "text": "grace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That "
+            },
+            {
+              "chord": "C",
+              "text": "all who see Him shine through us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Might "
+            },
+            {
+              "chord": "G",
+              "text": "bring the Father "
+            },
+            {
+              "chord": "C",
+              "text": "praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Repeat chorus"
             }
           ]
         }
@@ -207,15 +290,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lift "
+            },
+            {
               "chord": "C",
-              "text": "Lift high the name of Jesus"
+              "text": "high the name of Jesus"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "Of Jesus our Light"
             }
           ]
@@ -223,7 +310,7 @@
         {
           "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "No other name on earth can save"
             }
           ]
@@ -231,7 +318,7 @@
         {
           "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "Can raise a soul to life"
             }
           ]
@@ -239,79 +326,276 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "He opens up our eyes to see"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "F",
-              "text": "The harvest He has grown"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "We labor in His fields of grace"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "As He leads sinners home"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Oh sing my soul, and tell all He's done"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Till the earth and heavens"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Dm",
-              "text": "Are filled with His glo-"
+              "chord": "",
+              "text": "He "
             },
             {
               "chord": "G",
-              "text": "ry"
+              "text": "opens up our "
+            },
+            {
+              "chord": "C",
+              "text": "eyes to see"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
+            {
+              "chord": "F",
+              "text": "harvest "
+            },
+            {
+              "chord": "Dm",
+              "text": "He has "
+            },
+            {
+              "chord": "G",
+              "text": "grown"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We "
+            },
+            {
+              "chord": "C",
+              "text": "labor in His fields of grace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "As "
+            },
+            {
+              "chord": "G",
+              "text": "He leads sinners home"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Repeat chorus twice"
             }
           ]
         }
       ]
-    },
-    {
-      "label": "Chorus",
-      "lines": []
     }
   ],
   "slug": "lifthighthename",
   "source_file": "LiftHighTheName-KeithGetty-C-Pag1.pdf",
   "source_hash": "16e64acb85a24ed9",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-09-26T18:29:25+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "ef2a4fec8804d9f9"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "reading": {
+      "L1": [
+        [
+          "C",
+          "high"
+        ]
+      ],
+      "L2": [],
+      "L3": [],
+      "L4": [
+        [
+          "G",
+          "Re-member"
+        ],
+        [
+          "C",
+          "mercy"
+        ]
+      ],
+      "L5": [
+        [
+          "F",
+          "we"
+        ],
+        [
+          "Dm",
+          "out"
+        ],
+        [
+          "G",
+          "Him"
+        ]
+      ],
+      "L6": [
+        [
+          "C",
+          "lifted"
+        ]
+      ],
+      "L7": [
+        [
+          "G",
+          "freedom"
+        ],
+        [
+          "C",
+          "sin"
+        ]
+      ],
+      "L8": [
+        [
+          "C",
+          "sing"
+        ],
+        [
+          "G",
+          "done"
+        ]
+      ],
+      "L9": [
+        [
+          "C",
+          "earth"
+        ],
+        [
+          "F",
+          "heavens"
+        ]
+      ],
+      "L10": [
+        [
+          "Dm",
+          "filled"
+        ],
+        [
+          "G",
+          "glo-ry"
+        ],
+        [
+          "C",
+          "glo-ry"
+        ]
+      ],
+      "L11": [],
+      "L12": [],
+      "L13": [
+        [
+          "C",
+          "high"
+        ]
+      ],
+      "L14": [],
+      "L15": [],
+      "L16": [
+        [
+          "G",
+          "share"
+        ],
+        [
+          "C",
+          "for"
+        ]
+      ],
+      "L17": [
+        [
+          "F",
+          "serve"
+        ],
+        [
+          "Dm",
+          "love"
+        ],
+        [
+          "G",
+          "grace"
+        ]
+      ],
+      "L18": [
+        [
+          "C",
+          "all"
+        ]
+      ],
+      "L19": [
+        [
+          "G",
+          "bring"
+        ],
+        [
+          "C",
+          "praise"
+        ]
+      ],
+      "L20": [],
+      "L21": [
+        [
+          "C",
+          "high"
+        ]
+      ],
+      "L22": [],
+      "L23": [],
+      "L24": [],
+      "L25": [
+        [
+          "G",
+          "opens"
+        ],
+        [
+          "C",
+          "eyes"
+        ]
+      ],
+      "L26": [
+        [
+          "F",
+          "harvest"
+        ],
+        [
+          "Dm",
+          "He"
+        ],
+        [
+          "G",
+          "grown"
+        ]
+      ],
+      "L27": [
+        [
+          "C",
+          "labor"
+        ]
+      ],
+      "L28": [
+        [
+          "G",
+          "He"
+        ]
+      ],
+      "L29": []
+    },
+    "model": "anthropic/claude-sonnet-5.5",
+    "cost": 0.0409,
+    "at": "2026-11-14T12:43:49+00:00",
+    "fingerprint": "ef2a4fec8804d9f9",
+    "source_hash": "16e64acb85a24ed9"
+  }
 }

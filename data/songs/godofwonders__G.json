@@ -23,7 +23,7 @@
         {
           "parts": [
             {
-              "chord": "G",
+              "chord": "",
               "text": "Lord of all creation"
             }
           ]
@@ -31,7 +31,7 @@
         {
           "parts": [
             {
-              "chord": "G",
+              "chord": "",
               "text": "Lord of heaven and earth"
             }
           ]
@@ -40,31 +40,27 @@
           "parts": [
             {
               "chord": "Dsus4",
-              "text": "Lord of heaven "
+              "text": ""
             },
             {
               "chord": "G",
-              "text": "and earth "
+              "text": ""
             },
             {
               "chord": "Cadd9",
-              "text": "Lord of heaven "
+              "text": ""
             },
             {
               "chord": "Dsus4",
-              "text": "and earth "
+              "text": ""
             },
             {
               "chord": "G",
-              "text": "and earth "
+              "text": ""
             },
             {
               "chord": "Cadd9",
-              "text": "Lord of heaven "
-            },
-            {
-              "chord": "Dadd4add9",
-              "text": "and earth"
+              "text": ""
             }
           ]
         }
@@ -77,19 +73,15 @@
           "parts": [
             {
               "chord": "Dsus4",
-              "text": "Lord of all creation"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Dsus4",
-              "text": "Of water, earth and "
+              "text": "Lord "
             },
             {
               "chord": "G",
-              "text": "sky"
+              "text": "of all cre"
+            },
+            {
+              "chord": "Cadd9",
+              "text": "ation"
             }
           ]
         },
@@ -97,18 +89,46 @@
           "parts": [
             {
               "chord": "Dsus4",
-              "text": "The heavens are Your tabernacle"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Dsus4",
-              "text": "Glory to the Lord on "
+              "text": "Of wa"
             },
             {
               "chord": "G",
+              "text": "ter, earth "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "and sky"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "The heavens are "
+            },
+            {
+              "chord": "G",
+              "text": "Your taberna"
+            },
+            {
+              "chord": "Cadd9",
+              "text": "cle"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "Glo"
+            },
+            {
+              "chord": "G",
+              "text": "ry to the Lord on "
+            },
+            {
+              "chord": "Cadd9",
               "text": "high"
             }
           ]
@@ -122,15 +142,23 @@
           "parts": [
             {
               "chord": "G",
-              "text": "God of wonders beyond our galaxy"
+              "text": "God of wonders beyond our gala"
+            },
+            {
+              "chord": "D",
+              "text": "xy"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You are "
+            },
+            {
               "chord": "Am",
-              "text": "You are holy, "
+              "text": "holy, "
             },
             {
               "chord": "C",
@@ -140,17 +168,29 @@
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
             {
               "chord": "G",
-              "text": "The universe declares Your majesty"
+              "text": "universe declares Your majes"
+            },
+            {
+              "chord": "D",
+              "text": "ty"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You are "
+            },
+            {
               "chord": "Am",
-              "text": "You are holy, "
+              "text": "holy, "
             },
             {
               "chord": "C",
@@ -161,24 +201,32 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lord of hea"
+            },
+            {
               "chord": "Dadd4add9",
-              "text": "Lord of heaven "
+              "text": "ven and earth"
             },
             {
               "chord": "C",
-              "text": "and earth"
+              "text": ""
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lord of hea"
+            },
+            {
               "chord": "Dadd4add9",
-              "text": "Lord of heaven "
+              "text": "ven and earth"
             },
             {
               "chord": "C",
-              "text": "and earth"
+              "text": ""
             }
           ]
         }
@@ -191,31 +239,27 @@
           "parts": [
             {
               "chord": "Dsus4",
-              "text": "Lord of heaven "
+              "text": ""
             },
             {
               "chord": "G",
-              "text": "and earth "
+              "text": ""
             },
             {
               "chord": "Cadd9",
-              "text": "Lord of heaven "
+              "text": ""
             },
             {
               "chord": "Dsus4",
-              "text": "and earth "
+              "text": ""
             },
             {
               "chord": "G",
-              "text": "and earth "
+              "text": ""
             },
             {
               "chord": "Cadd9",
-              "text": "Lord of heaven "
-            },
-            {
-              "chord": "Dadd4add9",
-              "text": "and earth"
+              "text": ""
             }
           ]
         }
@@ -228,46 +272,82 @@
           "parts": [
             {
               "chord": "Dsus4",
-              "text": "Early in the morning"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Dsus4",
-              "text": "I will celebrate the light"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Dsus4",
-              "text": "When I stumble in the darkness"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Dsus4",
-              "text": "I will call Your name by night I will "
+              "text": "Ear"
             },
             {
               "chord": "G",
-              "text": "call"
+              "text": "ly in the "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "morning"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "Dsus4",
+              "text": "I will ce"
+            },
+            {
+              "chord": "G",
+              "text": "lebrate the light"
+            },
+            {
               "chord": "Cadd9",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dsus4",
+              "text": "When I stum"
+            },
+            {
+              "chord": "G",
+              "text": "ble in the dark"
+            },
+            {
+              "chord": "Cadd9",
+              "text": "ness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I will call Your name by "
+            },
+            {
+              "chord": "Dsus4",
+              "text": "night I will"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "call"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Your name by "
             },
             {
-              "chord": "G",
+              "chord": "Cadd9",
               "text": "night"
             }
           ]
@@ -281,15 +361,23 @@
           "parts": [
             {
               "chord": "G",
-              "text": "God of wonders beyond our galaxy"
+              "text": "God of wonders beyond our gala"
+            },
+            {
+              "chord": "D",
+              "text": "xy"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You are "
+            },
+            {
               "chord": "Am",
-              "text": "You are holy, "
+              "text": "holy, "
             },
             {
               "chord": "C",
@@ -299,21 +387,69 @@
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
             {
               "chord": "G",
-              "text": "The universe declares Your majesty"
+              "text": "universe declares Your majes"
+            },
+            {
+              "chord": "D",
+              "text": "ty"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You are "
+            },
+            {
               "chord": "Am",
-              "text": "You are holy, "
+              "text": "holy, "
             },
             {
               "chord": "C",
               "text": "holy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord of hea"
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "ven and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of heaven and earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord of hea"
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "ven and earth"
+            },
+            {
+              "chord": "C",
+              "text": ""
             }
           ]
         }
@@ -326,39 +462,79 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "Hallelujah to the Lord of "
+              "text": "Hallelujah to the "
             },
             {
               "chord": "C",
-              "text": "heaven "
+              "text": "Lord of"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dadd4add9",
+              "text": "heaven and "
+            },
+            {
+              "chord": "Am",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Hallelujah to the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord of hea"
             },
             {
               "chord": "Dadd4add9",
-              "text": "and earth"
+              "text": "ven"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "Hallelujah to the Lord of heaven "
+              "chord": "",
+              "text": "and earth"
             },
             {
-              "chord": "C",
-              "text": "and earth"
+              "chord": "Am",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "Hallelujah to the Lord of heaven "
+              "chord": "",
+              "text": "Hallelujah to the "
             },
             {
               "chord": "C",
+              "text": "Lord of hea"
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "ven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "and earth"
+            },
+            {
+              "chord": "G",
+              "text": ""
             }
           ]
         }
@@ -371,10 +547,14 @@
           "parts": [
             {
               "chord": "D",
-              "text": "Holy, "
+              "text": ""
             },
             {
               "chord": "Am",
+              "text": "Holy, "
+            },
+            {
+              "chord": "C",
               "text": "holy"
             }
           ]
@@ -383,11 +563,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Holy, "
+              "text": "Ho"
             },
             {
               "chord": "D",
-              "text": "holy"
+              "text": "ly, holy"
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
             }
           ]
         }
@@ -400,15 +588,23 @@
           "parts": [
             {
               "chord": "G",
-              "text": "God of wonders beyond our galaxy"
+              "text": "God of wonders beyond our gala"
+            },
+            {
+              "chord": "D",
+              "text": "xy"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You are "
+            },
+            {
               "chord": "Am",
-              "text": "You are holy, "
+              "text": "holy, "
             },
             {
               "chord": "C",
@@ -420,15 +616,23 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Precious Lord, reveal Your heart to me"
+              "text": "Precious Lord, reveal Your heart to "
+            },
+            {
+              "chord": "D",
+              "text": "me"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Father, "
+            },
+            {
               "chord": "Am",
-              "text": "Father, holy, "
+              "text": "holy, "
             },
             {
               "chord": "C",
@@ -439,16 +643,28 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "The "
+            },
+            {
               "chord": "G",
-              "text": "The universe declares Your majesty"
+              "text": "universe declares Your majes"
+            },
+            {
+              "chord": "D",
+              "text": "ty"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You are "
+            },
+            {
               "chord": "Am",
-              "text": "You are holy, "
+              "text": "holy, "
             },
             {
               "chord": "C",
@@ -477,79 +693,158 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "Hallelujah to the Lord of "
+              "text": "Hallelujah to the "
             },
             {
               "chord": "C",
-              "text": "heaven "
+              "text": "Lord of"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dadd4add9",
+              "text": "heaven and "
+            },
+            {
+              "chord": "Am",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Hallelujah to the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord of hea"
             },
             {
               "chord": "Dadd4add9",
-              "text": "and earth"
+              "text": "ven"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "Hallelujah to the Lord of heaven "
+              "chord": "",
+              "text": "and earth"
             },
             {
-              "chord": "C",
-              "text": "and earth"
+              "chord": "Am",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "Hallelujah to the Lord of heaven "
+              "chord": "",
+              "text": "Hallelujah to the "
             },
             {
               "chord": "C",
-              "text": "and earth"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Hallelujah to the Lord of heaven "
+              "text": "Lord of hea"
             },
             {
               "chord": "Dadd4add9",
-              "text": "and earth"
+              "text": "ven"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "Hallelujah to the Lord of heaven "
+              "chord": "",
+              "text": "and earth"
             },
             {
-              "chord": "C",
-              "text": "and earth"
+              "chord": "Am",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "Hallelujah to the Lord of heaven "
+              "chord": "",
+              "text": "Hallelujah to the "
             },
             {
               "chord": "C",
+              "text": "Lord of hea"
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "ven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "and earth"
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Hallelujah to the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord of hea"
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "ven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "and earth"
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Hallelujah to the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord of hea"
+            },
+            {
+              "chord": "Dadd4add9",
+              "text": "ven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "and earth"
             }
           ]
@@ -560,7 +855,537 @@
   "slug": "godofwonders",
   "source_file": "GodOfWonders-ThirdDay-G-Pag2.pdf",
   "source_hash": "b502f17ca2f83ed8",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-24T19:03:48+00:00"
+  "method": "transcribed",
+  "model": "",
+  "extracted_at": "2026-11-14T13:59:18+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: transcrita a mano desde la imagen de la impresión Official de UG (2 páginas); cada acorde en su palabra o sílaba",
+    "fingerprint": "f3eccb71be93c6b2",
+    "at": "2026-11-14T13:59:47+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "G",
+            "Lord"
+          ]
+        ],
+        "L2": [],
+        "L3": [],
+        "L4": [
+          [
+            "Dsus4",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "Cadd9",
+            ""
+          ],
+          [
+            "Dsus4",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "Cadd9",
+            ""
+          ]
+        ],
+        "L5": [
+          [
+            "Dsus4",
+            "Lord"
+          ],
+          [
+            "G",
+            "of"
+          ],
+          [
+            "Cadd9",
+            "creation"
+          ]
+        ],
+        "L6": [
+          [
+            "Dsus4",
+            "Of"
+          ],
+          [
+            "G",
+            "water,"
+          ],
+          [
+            "Cadd9",
+            "sky"
+          ]
+        ],
+        "L7": [
+          [
+            "Dsus4",
+            "The"
+          ],
+          [
+            "G",
+            "Your"
+          ],
+          [
+            "Cadd9",
+            "tabernacle"
+          ]
+        ],
+        "L8": [
+          [
+            "Dsus4",
+            "Glory"
+          ],
+          [
+            "G",
+            "the"
+          ],
+          [
+            "Cadd9",
+            "high"
+          ]
+        ],
+        "L9": [
+          [
+            "G",
+            "God"
+          ],
+          [
+            "D",
+            "galaxy"
+          ]
+        ],
+        "L10": [
+          [
+            "Am",
+            "holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L11": [
+          [
+            "G",
+            "universe"
+          ],
+          [
+            "D",
+            "majesty"
+          ]
+        ],
+        "L12": [
+          [
+            "Am",
+            "holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L13": [
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "C",
+            "(end)"
+          ]
+        ],
+        "L14": [
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "C",
+            "(end)"
+          ]
+        ],
+        "L15": [
+          [
+            "Dsus4",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "Cadd9",
+            ""
+          ],
+          [
+            "Dsus4",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "Cadd9",
+            ""
+          ]
+        ],
+        "L16": [
+          [
+            "Dsus4",
+            "Early"
+          ],
+          [
+            "G",
+            "Early"
+          ],
+          [
+            "Cadd9",
+            "morning"
+          ]
+        ],
+        "L17": [
+          [
+            "Dsus4",
+            "I"
+          ],
+          [
+            "G",
+            "celebrate"
+          ],
+          [
+            "Cadd9",
+            "(end)"
+          ]
+        ],
+        "L18": [
+          [
+            "Dsus4",
+            "When"
+          ],
+          [
+            "G",
+            "stumble"
+          ],
+          [
+            "Cadd9",
+            "darkness"
+          ]
+        ],
+        "L19": [
+          [
+            "Dsus4",
+            "night"
+          ],
+          [
+            "G",
+            "(end)"
+          ]
+        ],
+        "L20": [
+          [
+            "Cadd9",
+            "night"
+          ]
+        ],
+        "L21": [
+          [
+            "G",
+            "God"
+          ],
+          [
+            "D",
+            "galaxy"
+          ]
+        ],
+        "L22": [
+          [
+            "Am",
+            "holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L23": [
+          [
+            "G",
+            "universe"
+          ],
+          [
+            "D",
+            "majesty"
+          ]
+        ],
+        "L24": [
+          [
+            "Am",
+            "holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L25": [
+          [
+            "Am",
+            "Hallelujah"
+          ],
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "Am",
+            "earth"
+          ]
+        ],
+        "L26": [
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "Am",
+            "(end)"
+          ]
+        ],
+        "L27": [
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "G",
+            "(end)"
+          ]
+        ],
+        "L28": [
+          [
+            "D",
+            "Holy,"
+          ],
+          [
+            "Am",
+            "Holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L29": [
+          [
+            "G",
+            "Holy,"
+          ],
+          [
+            "D",
+            "Holy,"
+          ],
+          [
+            "Am",
+            "(end)"
+          ],
+          [
+            "C",
+            "(end)"
+          ]
+        ],
+        "L30": [
+          [
+            "G",
+            "God"
+          ],
+          [
+            "D",
+            "galaxy"
+          ]
+        ],
+        "L31": [
+          [
+            "Am",
+            "holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L32": [
+          [
+            "G",
+            "Precious"
+          ],
+          [
+            "D",
+            "me"
+          ]
+        ],
+        "L33": [
+          [
+            "Am",
+            "holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L34": [
+          [
+            "G",
+            "universe"
+          ],
+          [
+            "D",
+            "majesty"
+          ]
+        ],
+        "L35": [
+          [
+            "Am",
+            "holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L36": [
+          [
+            "Am",
+            "Holy,"
+          ],
+          [
+            "C",
+            "holy"
+          ]
+        ],
+        "L37": [
+          [
+            "Am",
+            "Hallelujah"
+          ],
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "Am",
+            "earth"
+          ]
+        ],
+        "L38": [
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "Am",
+            "(end)"
+          ]
+        ],
+        "L39": [
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "Am",
+            "(end)"
+          ]
+        ],
+        "L40": [
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "Am",
+            "(end)"
+          ]
+        ],
+        "L41": [
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ],
+          [
+            "Am",
+            "(end)"
+          ]
+        ],
+        "L42": [
+          [
+            "C",
+            "Lord"
+          ],
+          [
+            "Dadd4add9",
+            "heaven"
+          ]
+        ]
+      },
+      "line_text": null,
+      "source_hash": "b502f17ca2f83ed8"
+    }
+  },
+  "note": "Transcribed by hand from the image of the UG Official printout (2 pages); every chord placed on the word or syllable it is printed over.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "f3eccb71be93c6b2"
+  }
 }

@@ -1,0 +1,647 @@
+{
+  "title": "Remembrance (The Communion Song)",
+  "author": "Matt Maher & Matt Redman",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "4/4",
+    "sounds_in": "D"
+  },
+  "sections": [
+    {
+      "label": "VERSE 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh "
+            },
+            {
+              "chord": "D",
+              "text": "how could it be"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That my "
+            },
+            {
+              "chord": "D",
+              "text": "God would welcome me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In"
+            },
+            {
+              "chord": "G",
+              "text": "to this mystery "
+            },
+            {
+              "chord": "Em7",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Say take this "
+            },
+            {
+              "chord": "D",
+              "text": "bread take this wine"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Now the "
+            },
+            {
+              "chord": "D",
+              "text": "simple made divine"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For "
+            },
+            {
+              "chord": "G",
+              "text": "any to receive "
+            },
+            {
+              "chord": "Em7",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "PRE-CHORUS",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "By Your "
+            },
+            {
+              "chord": "D",
+              "text": "mercy we "
+            },
+            {
+              "chord": "G",
+              "text": "come to Your "
+            },
+            {
+              "chord": "A",
+              "text": "table"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "By Your "
+            },
+            {
+              "chord": "Em7",
+              "text": "grace You are "
+            },
+            {
+              "chord": "D",
+              "text": "making us "
+            },
+            {
+              "chord": "G",
+              "text": "faithful"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "CHORUS",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord we re"
+            },
+            {
+              "chord": "D",
+              "text": "mem"
+            },
+            {
+              "chord": "Bm7",
+              "text": "ber "
+            },
+            {
+              "chord": "A",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And re"
+            },
+            {
+              "chord": "G",
+              "text": "membrance "
+            },
+            {
+              "chord": "D",
+              "text": "leads us to "
+            },
+            {
+              "chord": "A",
+              "text": "worship"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And as we "
+            },
+            {
+              "chord": "G",
+              "text": "wor"
+            },
+            {
+              "chord": "D",
+              "text": "ship "
+            },
+            {
+              "chord": "A",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Our "
+            },
+            {
+              "chord": "G",
+              "text": "worship "
+            },
+            {
+              "chord": "D",
+              "text": "leads to com"
+            },
+            {
+              "chord": "A",
+              "text": "munion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "FIRST ENDING",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We re"
+            },
+            {
+              "chord": "Em7",
+              "text": "spond to "
+            },
+            {
+              "chord": "D",
+              "text": "Your invi"
+            },
+            {
+              "chord": "G",
+              "text": "tation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We re"
+            },
+            {
+              "chord": "A",
+              "text": "member "
+            },
+            {
+              "chord": "D",
+              "text": "You"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "INSTRUMENTAL",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Em7",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Then Verse 2; repeat Pre-Chorus and Chorus.",
+      "lines": []
+    },
+    {
+      "label": "After the first ending, continue to the Bridge.",
+      "lines": []
+    },
+    {
+      "label": "VERSE 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "See His "
+            },
+            {
+              "chord": "D",
+              "text": "body His blood"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Know that "
+            },
+            {
+              "chord": "D",
+              "text": "He has overcome"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Ev'ry "
+            },
+            {
+              "chord": "G",
+              "text": "trial we will face "
+            },
+            {
+              "chord": "Em7",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And none too "
+            },
+            {
+              "chord": "D",
+              "text": "lost to be saved"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "None too "
+            },
+            {
+              "chord": "D",
+              "text": "broken or ashamed"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "All are "
+            },
+            {
+              "chord": "G",
+              "text": "welcome in this place "
+            },
+            {
+              "chord": "Em7",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "BRIDGE",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Dying You de"
+            },
+            {
+              "chord": "G",
+              "text": "stroyed "
+            },
+            {
+              "chord": "A",
+              "text": "our "
+            },
+            {
+              "chord": "D",
+              "text": "death"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Rising You re"
+            },
+            {
+              "chord": "G",
+              "text": "stored "
+            },
+            {
+              "chord": "A",
+              "text": "our "
+            },
+            {
+              "chord": "Bm7",
+              "text": "life"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord Jesus come in "
+            },
+            {
+              "chord": "A",
+              "text": "glory"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord Jesus come in "
+            },
+            {
+              "chord": "G",
+              "text": "glo"
+            },
+            {
+              "chord": "D",
+              "text": "ry"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord Jesus come in "
+            },
+            {
+              "chord": "A",
+              "text": "glory"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord Jesus come in "
+            },
+            {
+              "chord": "G",
+              "text": "glo"
+            },
+            {
+              "chord": "G",
+              "text": "ry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Repeat Chorus, then use the final ending below.",
+      "lines": []
+    },
+    {
+      "label": "FINAL ENDING",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We re"
+            },
+            {
+              "chord": "Em7",
+              "text": "spond to "
+            },
+            {
+              "chord": "D",
+              "text": "Your invi"
+            },
+            {
+              "chord": "G",
+              "text": "tation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We re"
+            },
+            {
+              "chord": "Em7",
+              "text": "spond to "
+            },
+            {
+              "chord": "D",
+              "text": "Your invi"
+            },
+            {
+              "chord": "G",
+              "text": "tation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We re"
+            },
+            {
+              "chord": "Bm7",
+              "text": "mem - "
+            },
+            {
+              "chord": "A",
+              "text": "ber "
+            },
+            {
+              "chord": "D",
+              "text": "You"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ENDING",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Em7",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Repeat the ending progression, then finish on D.",
+      "lines": []
+    }
+  ],
+  "slug": "remembrancethecommunionsong",
+  "source_file": "RemembranceTheCommunionSong-MattMaher-D-Pag1-Horizontal-Simplificada.pdf",
+  "source_hash": "67ef15d61ec41a28",
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:01:28+00:00",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "model": "anthropic/claude-opus-5.5",
+    "at": "2026-11-14T12:25:37+00:00",
+    "fingerprint": "855e5d94d1e95158"
+  },
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T20:00:35+00:00",
+    "fingerprint": "855e5d94d1e95158"
+  },
+  "status": "verified"
+}

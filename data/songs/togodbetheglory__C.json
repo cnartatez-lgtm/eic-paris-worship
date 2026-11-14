@@ -16,43 +16,47 @@
           "parts": [
             {
               "chord": "C",
-              "text": "To God be the glory, great things He has done!"
+              "text": "To God "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "be "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "the glory, "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "great things He has "
+            },
+            {
+              "chord": "C",
+              "text": "done!"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "So loved He the world that He gave us His Son,"
+              "chord": "",
+              "text": "So "
             },
             {
               "chord": "F",
-              "text": ""
+              "text": "loved He the "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "world that He "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "gave us His "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "Son,"
             }
           ]
         },
@@ -60,19 +64,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Who yielded His life an atonement for sin,"
+              "text": "Who "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "yielded His life an "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "atonement for "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "sin,"
             }
           ]
         },
@@ -80,23 +84,23 @@
           "parts": [
             {
               "chord": "C",
-              "text": "and opened the life-gate that all may go in."
+              "text": "and "
             },
             {
               "chord": "F",
-              "text": ""
+              "text": "opened the "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "life-gate that all may "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "go "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "in."
             }
           ]
         }
@@ -108,7 +112,31 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Praise the "
+            },
+            {
               "chord": "C",
+              "text": "Lord, praise the Lord,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "let the earth hear His "
+            },
+            {
+              "chord": "G",
+              "text": "voice!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Praise the Lord, praise the Lord,"
             }
           ]
@@ -116,32 +144,20 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "let the earth hear His voice!"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "",
+              "text": "let the "
+            },
             {
               "chord": "C",
-              "text": "Praise the Lord, praise the Lord,"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "people "
+            },
             {
               "chord": "G",
-              "text": "let the people rejoice!"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": ""
+            },
             {
               "chord": "C",
-              "text": "O come to the Father thru Jesus the Son,"
+              "text": "rejoice!"
             }
           ]
         },
@@ -149,7 +165,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "and give Him the glory,"
+              "text": "O "
+            },
+            {
+              "chord": "C",
+              "text": "come to the Father thru "
+            },
+            {
+              "chord": "G",
+              "text": "Jesus the "
+            },
+            {
+              "chord": "C",
+              "text": "Son,"
             }
           ]
         },
@@ -157,7 +185,31 @@
           "parts": [
             {
               "chord": "C",
-              "text": "great things He hath done!"
+              "text": "and "
+            },
+            {
+              "chord": "F",
+              "text": "give Him the "
+            },
+            {
+              "chord": "C",
+              "text": "glory,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "great things He "
+            },
+            {
+              "chord": "G",
+              "text": "hath "
+            },
+            {
+              "chord": "C",
+              "text": "done!"
             }
           ]
         }
@@ -169,44 +221,52 @@
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "O perfect redemption, the purchase of blood,"
-            },
-            {
-              "chord": "G",
-              "text": ""
+              "chord": "",
+              "text": "O "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "pe"
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "rfect "
+            },
+            {
+              "chord": "C",
+              "text": "redemption, the "
+            },
+            {
+              "chord": "G",
+              "text": "purchase of "
+            },
+            {
+              "chord": "C",
+              "text": "blood,"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "to every believer the promise of God;"
+              "chord": "",
+              "text": "to "
             },
             {
               "chord": "F",
-              "text": ""
+              "text": "every "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "believer the "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "promise of "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "God;"
             }
           ]
         },
@@ -214,19 +274,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "the vilest offender who truly believes,"
+              "text": "the "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "vilest offender who "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "truly "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "believes,"
             }
           ]
         },
@@ -234,15 +294,15 @@
           "parts": [
             {
               "chord": "C",
-              "text": "that moment from Jesus a pardon receives."
+              "text": "that "
             },
             {
               "chord": "F",
-              "text": ""
+              "text": "moment from "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "Jesus a pardon "
             },
             {
               "chord": "G",
@@ -250,15 +310,19 @@
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "receives."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Repeat chorus"
             }
           ]
         }
       ]
-    },
-    {
-      "label": "Repeat chorus",
-      "lines": []
     },
     {
       "label": "Verse 3",
@@ -266,52 +330,60 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Great "
+            },
+            {
               "chord": "C",
-              "text": "Great things He hath taught us,"
+              "text": "things "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "He hath "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "taught us,"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "great "
+            },
+            {
               "chord": "G",
-              "text": "great things He has done,"
+              "text": "things He has "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "done,"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "and great our rejoicing thru Jesus, the Son;"
+              "chord": "",
+              "text": "and "
             },
             {
               "chord": "F",
-              "text": ""
+              "text": "great our "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "rejoicing thru "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "Jesus, the "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "Son;"
             }
           ]
         },
@@ -319,19 +391,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "but purer, and higher, and greater will be"
+              "text": "but "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "purer, and higher, and "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "greater will "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "be"
             }
           ]
         },
@@ -339,37 +411,391 @@
           "parts": [
             {
               "chord": "C",
-              "text": "our wonder, our vict'ry, when Jesus we see!"
+              "text": "our "
             },
             {
               "chord": "F",
-              "text": ""
+              "text": "wonder, our "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "vict'ry, when Jesus "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "we "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "see!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Repeat chorus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Order"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Verse 1 - Chorus - Verse 2 - Chorus - Verse 3 - Chorus"
             }
           ]
         }
       ]
-    },
-    {
-      "label": "Repeat chorus",
-      "lines": []
     }
   ],
   "slug": "togodbetheglory",
   "source_file": "ToGodBeTheGlory-FannyCrosby-C-Pag1.pdf",
   "source_hash": "0389e5a729f40051",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-09-26T18:31:20+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "6cdc3882dba2afc4"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "reading": {
+      "L1": [
+        [
+          "C",
+          "To"
+        ],
+        [
+          "G",
+          "be"
+        ],
+        [
+          "C",
+          "the"
+        ],
+        [
+          "G",
+          "great"
+        ],
+        [
+          "C",
+          "done!"
+        ]
+      ],
+      "L2": [
+        [
+          "F",
+          "loved"
+        ],
+        [
+          "C",
+          "world"
+        ],
+        [
+          "D",
+          "gave"
+        ],
+        [
+          "G",
+          "Son,"
+        ]
+      ],
+      "L3": [
+        [
+          "G",
+          "Who"
+        ],
+        [
+          "C",
+          "yielded"
+        ],
+        [
+          "G",
+          "atonement"
+        ],
+        [
+          "C",
+          "sin,"
+        ]
+      ],
+      "L4": [
+        [
+          "C",
+          "and"
+        ],
+        [
+          "F",
+          "opened"
+        ],
+        [
+          "C",
+          "life-gate"
+        ],
+        [
+          "G",
+          "go"
+        ],
+        [
+          "C",
+          "in."
+        ]
+      ],
+      "L5": [
+        [
+          "C",
+          "Lord,"
+        ]
+      ],
+      "L6": [
+        [
+          "G",
+          "voice!"
+        ]
+      ],
+      "L7": [],
+      "L8": [
+        [
+          "C",
+          "people"
+        ],
+        [
+          "G",
+          "rejoice!"
+        ],
+        [
+          "C",
+          "rejoice!"
+        ]
+      ],
+      "L9": [
+        [
+          "G",
+          "O"
+        ],
+        [
+          "C",
+          "come"
+        ],
+        [
+          "G",
+          "Jesus"
+        ],
+        [
+          "C",
+          "Son,"
+        ]
+      ],
+      "L10": [
+        [
+          "C",
+          "and"
+        ],
+        [
+          "F",
+          "give"
+        ],
+        [
+          "C",
+          "glory,"
+        ]
+      ],
+      "L11": [
+        [
+          "G",
+          "hath"
+        ],
+        [
+          "C",
+          "done!"
+        ]
+      ],
+      "L12": [
+        [
+          "C",
+          "perfect"
+        ],
+        [
+          "G",
+          "perfect"
+        ],
+        [
+          "C",
+          "redemption,"
+        ],
+        [
+          "G",
+          "purchase"
+        ],
+        [
+          "C",
+          "blood,"
+        ]
+      ],
+      "L13": [
+        [
+          "F",
+          "every"
+        ],
+        [
+          "C",
+          "believer"
+        ],
+        [
+          "D",
+          "promise"
+        ],
+        [
+          "G",
+          "God;"
+        ]
+      ],
+      "L14": [
+        [
+          "G",
+          "the"
+        ],
+        [
+          "C",
+          "vilest"
+        ],
+        [
+          "G",
+          "truly"
+        ],
+        [
+          "C",
+          "believes,"
+        ]
+      ],
+      "L15": [
+        [
+          "C",
+          "that"
+        ],
+        [
+          "F",
+          "moment"
+        ],
+        [
+          "C",
+          "Jesus"
+        ],
+        [
+          "G",
+          "receives."
+        ],
+        [
+          "C",
+          "receives."
+        ]
+      ],
+      "L16": [],
+      "L17": [
+        [
+          "C",
+          "things"
+        ],
+        [
+          "G",
+          "He"
+        ],
+        [
+          "C",
+          "taught"
+        ]
+      ],
+      "L18": [
+        [
+          "G",
+          "things"
+        ],
+        [
+          "C",
+          "done,"
+        ]
+      ],
+      "L19": [
+        [
+          "F",
+          "great"
+        ],
+        [
+          "C",
+          "rejoicing"
+        ],
+        [
+          "D",
+          "Jesus,"
+        ],
+        [
+          "G",
+          "Son;"
+        ]
+      ],
+      "L20": [
+        [
+          "G",
+          "but"
+        ],
+        [
+          "C",
+          "purer,"
+        ],
+        [
+          "G",
+          "greater"
+        ],
+        [
+          "C",
+          "be"
+        ]
+      ],
+      "L21": [
+        [
+          "C",
+          "our"
+        ],
+        [
+          "F",
+          "wonder,"
+        ],
+        [
+          "C",
+          "vict'ry,"
+        ],
+        [
+          "G",
+          "we"
+        ],
+        [
+          "C",
+          "see!"
+        ]
+      ],
+      "L22": [],
+      "L23": [],
+      "L24": []
+    },
+    "model": "anthropic/claude-sonnet-5.5",
+    "cost": 0.0535,
+    "at": "2026-11-14T12:45:16+00:00",
+    "fingerprint": "6cdc3882dba2afc4",
+    "source_hash": "0389e5a729f40051"
+  }
 }

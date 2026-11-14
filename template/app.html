@@ -173,6 +173,101 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
   background:var(--surface);border:1px dashed var(--line);border-radius:var(--r);
 }
 
+/* ---- finding a song in the archive ----
+   Christian asked (14 Nov) for a bar to type a song's name. It stays
+   under the top bar while the list scrolls. Accents, capitals and
+   punctuation do not matter; every word typed must appear. Songs whose
+   name matches come first, then songs that have the words in their
+   lyrics, with the line that matched. */
+.findbar{position:sticky;top:57px;z-index:15;margin:-6px -2px 14px;padding:6px 2px 8px;
+  background:var(--bg)}
+.find{display:flex;align-items:center;gap:10px;height:58px;max-width:760px;padding:0 6px 0 17px;
+  background:var(--surface);border:1.5px solid var(--line);border-radius:17px;
+  box-shadow:var(--shadow-s);cursor:text;
+  transition:border-color .2s var(--e),box-shadow .2s var(--e)}
+.find:focus-within{border-color:var(--teal-2);
+  box-shadow:0 0 0 4px color-mix(in srgb,var(--teal-2) 18%,transparent)}
+.find>svg{width:23px;height:23px;flex:none;fill:none;stroke:var(--ink-soft);stroke-width:2.1;
+  stroke-linecap:round}
+.find input{flex:1;min-width:0;height:100%;border:0;outline:0;background:none;color:var(--ink);
+  font:inherit;font-size:18px;font-weight:500}
+.find input::placeholder{color:var(--ink-soft);opacity:.75;font-weight:400}
+.find input::-webkit-search-cancel-button{display:none}
+.find button{width:46px;height:46px;border-radius:13px;display:none;place-items:center;flex:none;
+  color:var(--ink-soft);background:var(--surface-2)}
+.find button svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round}
+.find button:active{transform:scale(.9)}
+.find.has button{display:grid}
+.still .card{animation:none}
+.sep{grid-column:1/-1;margin:10px 0 0;font-size:11.5px;font-weight:700;letter-spacing:.9px;
+  text-transform:uppercase;color:var(--ink-soft)}
+.card mark{background:color-mix(in srgb,var(--orange) 24%,transparent);color:inherit;
+  border-radius:3px;padding:0 1px}
+.card .hit{margin:-6px 0 11px;font-size:12.5px;color:var(--ink-soft);font-style:italic;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* ---------------- tuner ----------------
+   A guitar tuner on the tablet's own microphone (Christian, 14 Nov).
+   The needle crosses four colours: red (more than 30 cents out),
+   orange (15-30), yellow (5-15), green (in tune, within 5). The zone
+   the needle is in lights up; the others stay faint. */
+:root{--t-red:#D7372B;--t-orange:#EC7A16;--t-yellow:#E8BD12;--t-green:#22A447}
+:root[data-theme="dark"]{--t-red:#F0524A;--t-orange:#FF9334;--t-yellow:#F5CD32;--t-green:#3CC566}
+.tuner{max-width:820px;min-height:calc(100vh - 140px);margin:0 auto;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:10px}
+/* As large as the screen allows: the dial is 0.59 as tall as it is wide,
+   and the readout and the strings below it need about 310 px. */
+.gauge{width:min(700px,100%,calc((100vh - 310px) * 1.69));height:auto;display:block;
+  overflow:visible;user-select:none}
+.gauge .zone{fill:none;stroke-width:30;opacity:.2;transition:opacity .16s var(--e)}
+.gauge .zone.lit{opacity:1}
+.gauge .z-red{stroke:var(--t-red)} .gauge .z-orange{stroke:var(--t-orange)}
+.gauge .z-yellow{stroke:var(--t-yellow)} .gauge .z-green{stroke:var(--t-green)}
+.gauge .tick{stroke:var(--ink-soft);stroke-width:2;stroke-linecap:round;opacity:.55}
+.gauge .tick.big{stroke-width:3.2;opacity:.95;stroke:var(--ink)}
+.gauge .lab{fill:var(--ink-soft);font-size:17px;font-weight:700;text-anchor:middle;
+  dominant-baseline:central}
+.gauge .needle line{stroke:var(--ink);stroke-width:6;stroke-linecap:round;
+  transition:stroke .2s var(--e),opacity .2s var(--e)}
+.gauge .hub{fill:var(--surface-2);stroke:var(--line);stroke-width:2;transition:fill .18s var(--e)}
+.gauge .note{fill:var(--ink);font-size:58px;font-weight:700;text-anchor:middle;
+  dominant-baseline:central;transition:fill .18s var(--e)}
+.gauge.z-red .hub{fill:var(--t-red)} .gauge.z-orange .hub{fill:var(--t-orange)}
+.gauge.z-yellow .hub{fill:var(--t-yellow)} .gauge.z-green .hub{fill:var(--t-green)}
+.gauge.z-red .note,.gauge.z-orange .note,.gauge.z-green .note{fill:#fff}
+.gauge.z-yellow .note{fill:#2B2300}
+.gauge.z-green .hub{filter:drop-shadow(0 0 10px color-mix(in srgb,var(--t-green) 70%,transparent))}
+.tuner.idle .gauge .needle line{stroke:var(--ink-soft);opacity:.35}
+.tuner.idle .gauge .note{opacity:.4}
+.tread{display:flex;align-items:baseline;justify-content:center;flex-wrap:wrap;gap:6px 18px;
+  min-height:42px;margin-top:-4px;text-align:center}
+.tcents{font-size:30px;font-weight:700;font-variant-numeric:tabular-nums;min-width:96px}
+.thint{font-size:21px;font-weight:600}
+.thz{font-size:13.5px;color:var(--ink-soft);font-variant-numeric:tabular-nums}
+.tcents.z-red,.thint.z-red{color:var(--t-red)} .tcents.z-orange,.thint.z-orange{color:var(--t-orange)}
+.tcents.z-yellow,.thint.z-yellow{color:color-mix(in srgb,var(--t-yellow) 75%,var(--ink))}
+.tcents.z-green,.thint.z-green{color:var(--t-green)}
+.tuner.idle .thint{color:var(--ink-soft);font-weight:500}
+.strings{display:grid;grid-template-columns:repeat(6,1fr) 1.15fr;gap:10px;width:100%;margin-top:4px}
+.st{position:relative;height:84px;flex-direction:column;gap:2px;padding:0}
+.st b{font-size:29px;line-height:1;font-weight:700}
+.st small{font-size:12px;font-weight:600;color:var(--ink-soft)}
+.st.on{border:2.5px solid var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 18%,transparent)}
+.st[aria-pressed="true"]{background:var(--teal);border-color:var(--teal);color:#fff}
+.st[aria-pressed="true"] small{color:rgba(255,255,255,.82)}
+.st.ok::after{content:"✓";position:absolute;top:-8px;right:-6px;width:26px;height:26px;border-radius:50%;
+  display:grid;place-items:center;font-size:15px;font-weight:800;color:#fff;background:var(--t-green);
+  box-shadow:0 2px 6px rgba(0,0,0,.22);animation:pop .3s var(--e-back)}
+.st.auto b{font-size:19px}
+.tmsg{display:none;width:100%;max-width:620px;padding:16px 18px;border-radius:var(--r);text-align:center;
+  background:var(--surface);border:1px solid var(--line);font-size:15px;line-height:1.45}
+.tmsg.on{display:block}
+.tmsg .nb{margin:12px auto 0;min-width:240px}
+@media (max-width:760px){
+  .strings{grid-template-columns:repeat(6,1fr);}
+  .st.auto{grid-column:1/-1;height:54px}
+}
+
 /* ---------------- order of service ---------------- */
 .ordr{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
   box-shadow:var(--shadow-s);overflow:hidden}
@@ -202,12 +297,17 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
 #sheet.on{display:flex;animation:slide .32s var(--e)}
 @keyframes slide{from{opacity:0;transform:translateY(16px) scale(.995)}to{opacity:1;transform:none}}
 
-.shead{display:flex;align-items:center;gap:9px;padding:5px 10px;flex:none;
+.shead{display:flex;align-items:center;gap:10px;padding:9px 12px;flex:none;
   border-bottom:1px solid var(--line);background:var(--surface)}
 .shead .t{flex:1 1 auto;min-width:130px}
-.shead h2{margin:0;font-size:15px;font-weight:600;white-space:nowrap;overflow:hidden;
+.shead h2{margin:0;font-size:17px;font-weight:600;white-space:nowrap;overflow:hidden;
   text-overflow:ellipsis;letter-spacing:-.2px}
-.shead .t span{font-size:11px;color:var(--ink-soft)}
+.shead .t span{font-size:12.5px;color:var(--ink-soft)}
+/* The bar over the song is for fingertips too (Christian, 14 Nov):
+   every control in it at least 52 px tall. */
+.shead .icon{width:52px;height:52px;border-radius:15px}
+.shead .icon svg{width:23px;height:23px;stroke-width:2.1}
+.shead .icon>b{font-size:10.5px;right:5px;bottom:4px}
 
 /* ---- the pen strip ----
    A slip of paper for the capo. Christian writes "capo 2" with the S
@@ -215,7 +315,7 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
    button. Stored per song AND per key, because a capo that makes G
    sound like A means nothing on the C sheet. */
 .pad{position:relative;flex:3 1 260px;min-width:190px;max-width:560px;
-  height:44px;border-radius:9px;
+  height:52px;border-radius:9px;
   background:var(--surface-2);border:1px dashed var(--line);overflow:hidden;
   transition:border-color .2s var(--e),background .2s var(--e)}
 .pad:hover{border-color:color-mix(in srgb,var(--teal) 40%,var(--line))}
@@ -240,8 +340,8 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
 .pad .wipe svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:1.9;
   stroke-linecap:round;stroke-linejoin:round}
 
-.kpick{display:flex;gap:4px;background:var(--surface-2);padding:3px;border-radius:11px;flex:none}
-.kpick button{min-width:44px;padding:8px 5px;border-radius:8px;font-size:15px;font-weight:600;
+.kpick{display:flex;gap:5px;background:var(--surface-2);padding:4px;border-radius:14px;flex:none}
+.kpick button{min-width:56px;height:48px;padding:0 6px;border-radius:11px;font-size:18px;font-weight:600;
   color:var(--ink-soft);transition:all .22s var(--e);position:relative}
 .kpick button[aria-pressed="true"]{background:var(--orange);color:#fff;
   box-shadow:0 2px 10px rgba(205,90,19,.42)}
@@ -251,21 +351,35 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
   background:var(--orange)}
 .kpick button[aria-pressed="true"] em{background:#fff}
 
-.sbody{flex:1;overflow-y:auto;padding:8px 12px 12px;-webkit-overflow-scrolling:touch}
-.sheet-in{animation:fade .28s var(--e)}
+/* ---- columns that never scroll up and down ----
+   A song is laid out in columns exactly as tall as the screen, so
+   nothing is ever cut at the bottom and nothing hides under a button.
+   Up to three columns show at once. A song too long for one screen at
+   a readable size does not shrink further: it continues in a fourth,
+   fifth... column to the right, and the slider in the strip at the
+   bottom brings them in. The columns are real boxes, filled by the
+   script (layout below), so each one is a snap point: a slide always
+   stops with whole columns on screen, never half a line. */
+.sbody{flex:1;min-height:0;overflow-x:auto;overflow-y:hidden;
+  scroll-snap-type:x mandatory;overscroll-behavior-x:contain;scrollbar-width:none;
+  -webkit-overflow-scrolling:touch}
+.sbody::-webkit-scrollbar{display:none}
+.sbody.free{scroll-snap-type:none}
+.track{display:flex;gap:22px;padding:8px 12px;height:100%;min-width:100%;
+  animation:fade .28s var(--e)}
 @keyframes fade{from{opacity:0}to{opacity:1}}
+.col{flex:none;position:relative;scroll-snap-align:start;scroll-margin-left:12px}
+.col+.col::before{content:"";position:absolute;left:-11px;top:0;bottom:0;
+  border-left:1px solid var(--line)}
 
 .meta{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 7px}
 .meta i{font-style:normal;font-size:10.5px;padding:1px 7px;border-radius:999px;
   background:var(--surface-2);color:var(--ink-soft)}
 
-.cols{column-gap:22px;column-rule:1px solid var(--line)}
-.cols.c2{column-count:2}
-.cols.c3{column-count:3}
-
-.sec{break-inside:avoid;margin:0 0 9px}
+.sec{margin:0 0 9px}
 .sec h4{margin:0 0 2px;font-size:10.5px;font-weight:700;letter-spacing:.8px;
   text-transform:uppercase;color:var(--teal);opacity:.85}
+.sec.cont h4{opacity:.5}
 :root[data-theme="dark"] .sec h4{color:var(--accent)}
 
 /* ---- chords locked to their syllable ----
@@ -289,17 +403,75 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
 .ln.c .w>b{grid-row:1;align-self:end;line-height:1;font-weight:800;font-size:.8em;
   color:var(--chord);white-space:pre;padding-right:.5em}
 .ln.c .w>i{grid-row:2;font-style:normal;white-space:pre}
+/* The pieces of one word (a chord in the middle of "com-passions")
+   stay together: a line may wrap between words, never inside one. */
+.ln.c .wd{display:inline-block;white-space:nowrap;vertical-align:top}
 .gap{height:.6em}
+.ln.tab{white-space:pre;font-size:.78em;font-weight:600;letter-spacing:0;line-height:1.15;
+  color:var(--ink-soft);margin:0}
 
-.fab{position:absolute;right:16px;bottom:14px;display:flex;align-items:center;gap:1px;
-  background:color-mix(in srgb,var(--surface) 94%,transparent);backdrop-filter:blur(10px);
-  border:1px solid var(--line);border-radius:999px;box-shadow:var(--shadow-m);padding:4px;z-index:5}
-.fab button{width:38px;height:38px;border-radius:999px;display:grid;place-items:center;
+/* ---- the strip at the bottom ----
+   Its own row, so the size buttons no longer float over the last lines
+   of the third column. On the left, the slider for long songs: one
+   segment per column, the frame marks the columns on screen. Drag it,
+   or tap where you want to go; it settles on whole columns. */
+.sfoot{flex:none;display:flex;align-items:center;gap:12px;height:58px;padding:0 10px 0 12px;
+  border-top:1px solid var(--line);background:var(--surface)}
+.slide{flex:1;min-width:0;display:flex;align-items:center;gap:11px;visibility:hidden}
+.slide.on{visibility:visible}
+.rail{position:relative;flex:1;min-width:0;height:44px;border-radius:999px;
+  background:var(--surface-2);touch-action:none;cursor:grab}
+.rail.drag{cursor:grabbing}
+.segs{position:absolute;inset:9px 7px;display:flex;gap:4px;pointer-events:none}
+.segs i{flex:1;border-radius:999px;background:color-mix(in srgb,var(--ink-soft) 30%,transparent)}
+.thumb{position:absolute;top:2px;bottom:2px;left:0;border-radius:999px;pointer-events:none;
+  border:2px solid var(--accent);background:color-mix(in srgb,var(--accent) 16%,transparent);
+  will-change:transform}
+.pg{font-size:12.5px;font-weight:600;color:var(--ink-soft);white-space:nowrap;
+  font-variant-numeric:tabular-nums}
+.fab{display:flex;align-items:center;gap:1px;flex:none;
+  background:var(--surface-2);border-radius:999px;padding:2px}
+.fab button{width:44px;height:44px;border-radius:999px;display:grid;place-items:center;
   font-size:14px;font-weight:600;color:var(--ink-soft);transition:all .18s var(--e)}
-.fab button:hover{background:var(--surface-2);color:var(--ink)}
+.fab button:hover{background:var(--surface);color:var(--ink)}
 .fab button:active{transform:scale(.88)}
 .fab .lbl{font-size:11px;color:var(--ink-soft);min-width:33px;text-align:center;
   font-variant-numeric:tabular-nums}
+
+/* ---- buttons made for a fingertip ----
+   Christian asked for buttons that feel good to press while playing:
+   the size of a fingertip (about 10 mm, 52 px on the Tab S8), a soft
+   raised face, and a small give when pressed. */
+.dash,.nb,.st{display:flex;align-items:center;justify-content:center;gap:9px;min-width:0;
+  border-radius:15px;color:var(--ink);font-weight:600;letter-spacing:.2px;
+  background:linear-gradient(180deg,var(--surface),var(--surface-2));
+  border:1px solid color-mix(in srgb,var(--ink-soft) 28%,var(--line));
+  box-shadow:0 1px 0 rgba(255,255,255,.05) inset,0 2px 6px rgba(20,45,65,.10);
+  transition:transform .14s var(--e-back),box-shadow .2s var(--e),opacity .2s var(--e),background .2s var(--e)}
+.dash svg,.nb svg{width:20px;height:20px;flex:none;fill:none;stroke:currentColor;stroke-width:2;
+  stroke-linecap:round;stroke-linejoin:round;color:var(--accent)}
+.dash:not(:disabled):active,.nb:not(:disabled):active,.st:active{transform:scale(.96);
+  box-shadow:0 1px 2px rgba(20,45,65,.12) inset}
+.dash:disabled,.nb:disabled{opacity:.32;cursor:not-allowed;box-shadow:none}
+.dash{flex:none;height:52px;min-width:170px;padding:0 24px;font-size:16.5px}
+.nb{height:54px;padding:0 16px;font-size:15.5px}
+.nb .tx{min-width:0;display:flex;flex-direction:column;align-items:center;line-height:1.2}
+.nb small{max-width:100%;font-size:11.5px;font-weight:500;color:var(--ink-soft);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.nb small:empty{display:none}
+
+/* Under the slider: the order of service, the previous and next song.
+   At the first song "previous" is off, at the last "next" is off. */
+.snav{flex:none;display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;
+  padding:4px 12px calc(10px + env(safe-area-inset-bottom));background:var(--surface)}
+
+/* The order of service, reached from a song: back to that song, or home. */
+.obar{position:fixed;left:0;right:0;bottom:0;z-index:25;display:none;
+  grid-template-columns:1fr 1fr;gap:10px;padding:10px 14px calc(12px + env(safe-area-inset-bottom));
+  background:color-mix(in srgb,var(--surface) 92%,transparent);backdrop-filter:blur(12px);
+  border-top:1px solid var(--line)}
+.obar.on{display:grid}
+main.withbar{padding-bottom:104px}
 
 .toast{position:fixed;left:50%;bottom:22px;transform:translate(-50%,16px);
   background:var(--ink);color:var(--bg);padding:9px 17px;border-radius:999px;
@@ -307,13 +479,17 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
   transition:opacity .28s var(--e),transform .28s var(--e);z-index:60;box-shadow:var(--shadow-l)}
 .toast.on{opacity:1;transform:translate(-50%,0)}
 
+@media (max-width:980px){
+  .dash{min-width:46px;padding:0 12px}
+  .dash span{display:none}
+}
 @media (max-width:760px){
   main{padding:14px 12px 44px}
-  .cols.c2,.cols.c3{column-count:1}
+  .nb small{display:none}
   .brand>div{display:none}
   .pad{flex:1 1 130px;min-width:110px}
 }
-@media print{.bar,.fab,.shead,.toast{display:none}}
+@media print{.bar,.sfoot,.snav,.obar,.shead,.toast{display:none}}
 @media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 </style>
 
@@ -327,6 +503,7 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
     <button class="tab" role="tab" aria-selected="true" data-view="set" data-t="tab_songs"></button>
     <button class="tab" role="tab" aria-selected="false" data-view="ordr" data-t="tab_order"></button>
     <button class="tab" role="tab" aria-selected="false" data-view="arch" data-t="tab_archive"></button>
+    <button class="tab" role="tab" aria-selected="false" data-view="tune" data-t="tab_tuner"></button>
   </div>
   <div class="lang">
     <button id="langBtn">ES</button>
@@ -355,7 +532,38 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
 
   <section class="view" id="v-arch">
     <div class="lead"><h1 data-t="archive_title"></h1><p id="arch-sub"></p></div>
+    <div class="findbar">
+      <label class="find" id="find">
+        <svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L20 20"/></svg>
+        <input id="archQ" type="search" data-ph="search_ph" autocomplete="off" autocorrect="off"
+          autocapitalize="off" spellcheck="false" enterkeyhint="search">
+        <button type="button" id="archClear" data-tt="tip_clear">
+          <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+      </label>
+    </div>
     <div class="grid" id="arch-grid"></div>
+  </section>
+
+  <section class="view" id="v-tune">
+    <div class="tuner idle" id="tuner">
+      <svg class="gauge" id="gauge" viewBox="0 0 400 236" aria-hidden="true">
+        <g id="g-zones"></g>
+        <g id="g-ticks"></g>
+        <g class="needle" id="needle"><line x1="200" y1="107" x2="200" y2="5"/></g>
+        <circle class="hub" cx="200" cy="172" r="60"/>
+        <text class="note" id="tNote" x="200" y="174">–</text>
+      </svg>
+      <div class="tread">
+        <span class="tcents" id="tCents"></span>
+        <span class="thint" id="tHint"></span>
+        <span class="thz" id="tHz"></span>
+      </div>
+      <div class="tmsg" id="tMsg"><span id="tMsgTx"></span>
+        <button class="nb" id="tRetry"><span data-t="tune_mic"></span></button>
+      </div>
+      <div class="strings" id="strings"></div>
+    </div>
   </section>
 </main>
 
@@ -365,6 +573,10 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
       <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
     </button>
     <div class="t"><h2 id="s-title"></h2><span id="s-by"></span></div>
+    <button class="dash" id="toDash" data-tt="tip_dash">
+      <svg viewBox="0 0 24 24"><path d="M3 10.5L12 3l9 7.5"/><path d="M5 9.5V20a1 1 0 001 1h4v-6h4v6h4a1 1 0 001-1V9.5"/></svg>
+      <span data-t="dashboard"></span>
+    </button>
     <div class="pad" id="pad">
       <canvas id="padc"></canvas>
       <div class="hint">
@@ -384,12 +596,43 @@ main{padding:20px 18px 54px;max-width:1560px;margin:0 auto}
       <b id="colsN">2</b>
     </button>
   </div>
-  <div class="sbody" id="s-body"></div>
-  <div class="fab">
-    <button id="minus" data-tt="tip_smaller">A−</button>
-    <span class="lbl" id="size"></span>
-    <button id="plus" data-tt="tip_bigger">A+</button>
+  <div class="sbody" id="s-body"><div class="track" id="track"></div></div>
+  <div class="sfoot">
+    <div class="slide" id="slide">
+      <div class="rail" id="rail" data-tt="tip_slide"><div class="segs" id="segs"></div><div class="thumb" id="thumb"></div></div>
+      <span class="pg" id="pg"></span>
+    </div>
+    <div class="fab">
+      <button id="minus" data-tt="tip_smaller">A−</button>
+      <span class="lbl" id="size"></span>
+      <button id="plus" data-tt="tip_bigger">A+</button>
+    </div>
   </div>
+  <nav class="snav">
+    <button class="nb" id="toOrder">
+      <svg viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h13M3.5 6h.01M3.5 12h.01M3.5 18h.01"/></svg>
+      <span class="tx"><span data-t="service_order"></span></span>
+    </button>
+    <button class="nb" id="prevSong">
+      <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+      <span class="tx"><span data-t="prev_song"></span><small></small></span>
+    </button>
+    <button class="nb" id="nextSong">
+      <span class="tx"><span data-t="next_song"></span><small></small></span>
+      <svg viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg>
+    </button>
+  </nav>
+</div>
+
+<div class="obar" id="obar">
+  <button class="nb" id="ordBack">
+    <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+    <span class="tx"><span data-t="back_song"></span><small id="ordBackName"></small></span>
+  </button>
+  <button class="nb" id="ordDash">
+    <svg viewBox="0 0 24 24"><path d="M3 10.5L12 3l9 7.5"/><path d="M5 9.5V20a1 1 0 001 1h4v-6h4v6h4a1 1 0 001-1V9.5"/></svg>
+    <span class="tx"><span data-t="dashboard"></span></span>
+  </button>
 </div>
 
 <div class="toast" id="toast"></div>
@@ -411,7 +654,22 @@ const I18N = {
     cleared:'Nota borrada', tip_awake:'Mantener la pantalla encendida',
     tip_theme:'Modo noche', tip_back:'Volver', tip_fit:'Ajustar a la pantalla',
     tip_cols:'1, 2 o 3 columnas', tip_smaller:'Letra más pequeña',
-    tip_bigger:'Letra más grande', tip_wipe:'Borrar la nota' },
+    tip_bigger:'Letra más grande', tip_wipe:'Borrar la nota',
+    long_song:'Canción larga', unchecked:'⚠ sin revisar',
+    dashboard:'Inicio', service_order:'Orden del servicio', prev_song:'Canción anterior',
+    next_song:'Canción siguiente', back_song:'Volver a la canción', tip_dash:'Volver al inicio', slide_hint:'desliza abajo',
+    tip_slide:'Desliza para ver las demás columnas',
+    tab_tuner:'Afinador', search_ph:'Buscar una canción…', tip_clear:'Borrar la búsqueda',
+    in_lyrics:'En la letra', of:'de', no_match:'Ninguna canción con',
+    tune_play:'Toca una cuerda', tune_up:'Tensa la cuerda', tune_down:'Afloja la cuerda',
+    tune_ok:'¡Afinada!', tune_far_low:'Muy baja: tensa la cuerda', tune_far_high:'Muy alta: afloja la cuerda',
+    tune_auto:'Auto', tune_hear:'Oigo', tune_all:'Las seis cuerdas afinadas ✓',
+    tune_fail:'No se pudo encender el micrófono. Si otra app lo está usando, ciérrala y vuelve a intentarlo.',
+    tune_mic:'Encender el micrófono', tune_starting:'Encendiendo el micrófono…',
+    tune_denied:'El micrófono está bloqueado para esta app. Permítelo en Chrome: Configuración → Configuración de sitios → Micrófono → worship.pilgrimagewithgod.org.',
+    tune_nomic:'Aquí no se puede usar el micrófono. Abre la app instalada (worship.pilgrimagewithgod.org).',
+    tip_auto:'Reconocer la cuerda sola', tip_string:'Quedarse en esta cuerda (tócala otra vez para volver a Auto)',
+    string_n:'ª' },
   en: { name:'English', tab_songs:'Sunday', tab_order:'Order', tab_archive:'Archive',
     order_title:'Order of service', archive_title:'Archive',
     songs:'songs', no_songs:'No songs for this service yet.',
@@ -424,7 +682,22 @@ const I18N = {
     cleared:'Note cleared', tip_awake:'Keep the screen on',
     tip_theme:'Night mode', tip_back:'Back', tip_fit:'Fit to screen',
     tip_cols:'1, 2 or 3 columns', tip_smaller:'Smaller text',
-    tip_bigger:'Larger text', tip_wipe:'Clear the note' },
+    tip_bigger:'Larger text', tip_wipe:'Clear the note',
+    long_song:'Long song', unchecked:'⚠ not checked',
+    dashboard:'Dashboard', service_order:'Service Order', prev_song:'Previous Song',
+    next_song:'Next Song', back_song:'Back to Song', tip_dash:'Back to the dashboard', slide_hint:'slide below',
+    tip_slide:'Slide to see the other columns',
+    tab_tuner:'Tuner', search_ph:'Search for a song…', tip_clear:'Clear the search',
+    in_lyrics:'In the lyrics', of:'of', no_match:'No song matches',
+    tune_play:'Play a string', tune_up:'Tighten the string', tune_down:'Loosen the string',
+    tune_ok:'In tune!', tune_far_low:'Far too low: tighten', tune_far_high:'Far too high: loosen',
+    tune_auto:'Auto', tune_hear:'Hearing', tune_all:'All six strings in tune ✓',
+    tune_fail:'The microphone could not be turned on. If another app is using it, close it and try again.',
+    tune_mic:'Turn the microphone on', tune_starting:'Turning the microphone on…',
+    tune_denied:'The microphone is blocked for this app. Allow it in Chrome: Settings → Site settings → Microphone → worship.pilgrimagewithgod.org.',
+    tune_nomic:'The microphone cannot be used here. Open the installed app (worship.pilgrimagewithgod.org).',
+    tip_auto:'Recognise the string by itself', tip_string:'Stay on this string (tap again for Auto)',
+    string_n:'' },
   fr: { name:'Français', tab_songs:'Dimanche', tab_order:'Ordre', tab_archive:'Archives',
     order_title:'Ordre du culte', archive_title:'Archives',
     songs:'chants', no_songs:'Pas encore de chants pour ce culte.',
@@ -437,7 +710,22 @@ const I18N = {
     cleared:'Note effacée', tip_awake:'Garder l’écran allumé',
     tip_theme:'Mode nuit', tip_back:'Retour', tip_fit:'Ajuster à l’écran',
     tip_cols:'1, 2 ou 3 colonnes', tip_smaller:'Texte plus petit',
-    tip_bigger:'Texte plus grand', tip_wipe:'Effacer la note' }
+    tip_bigger:'Texte plus grand', tip_wipe:'Effacer la note',
+    long_song:'Chant long', unchecked:'⚠ non vérifié',
+    dashboard:'Accueil', service_order:'Ordre du culte', prev_song:'Chant précédent',
+    next_song:'Chant suivant', back_song:'Retour au chant', tip_dash:'Retour à l’accueil', slide_hint:'glisser en bas',
+    tip_slide:'Glisser pour voir les autres colonnes',
+    tab_tuner:'Accordeur', search_ph:'Chercher un chant…', tip_clear:'Effacer la recherche',
+    in_lyrics:'Dans les paroles', of:'sur', no_match:'Aucun chant pour',
+    tune_play:'Jouez une corde', tune_up:'Tendez la corde', tune_down:'Détendez la corde',
+    tune_ok:'Accordée !', tune_far_low:'Bien trop basse : tendez', tune_far_high:'Bien trop haute : détendez',
+    tune_auto:'Auto', tune_hear:'J’entends', tune_all:'Les six cordes sont accordées ✓',
+    tune_fail:'Le micro n’a pas pu s’allumer. Si une autre app l’utilise, fermez-la et réessayez.',
+    tune_mic:'Allumer le micro', tune_starting:'Le micro s’allume…',
+    tune_denied:'Le micro est bloqué pour cette app. Autorisez-le dans Chrome : Paramètres → Paramètres des sites → Micro → worship.pilgrimagewithgod.org.',
+    tune_nomic:'Le micro n’est pas disponible ici. Ouvrez l’app installée (worship.pilgrimagewithgod.org).',
+    tip_auto:'Reconnaître la corde toute seule', tip_string:'Rester sur cette corde (touchez-la encore pour Auto)',
+    string_n:'e' }
 };
 
 const $ = s => document.querySelector(s);
@@ -474,8 +762,9 @@ function applyLang() {
   $('#langBtn').textContent = lang.toUpperCase();
   document.querySelectorAll('[data-t]').forEach(n => n.textContent = T(n.dataset.t));
   document.querySelectorAll('[data-tt]').forEach(n => n.title = T(n.dataset.tt));
+  document.querySelectorAll('[data-ph]').forEach(n => n.placeholder = T(n.dataset.ph));
   store.set('lang', lang);
-  drawSvc(); drawSet(); drawOrder(); drawArchive();
+  drawSvc(); drawSet(); drawOrder(); drawArchive(); Tuner.lang();
   if (current) openSong(current.entry, current.key);
 }
 
@@ -510,78 +799,252 @@ $('#theme').onclick = () =>
   applyTheme(document.documentElement.getAttribute('data-theme') !== 'dark');
 
 /* ---------- font size ---------- */
-function applySize() {
-  document.documentElement.style.setProperty('--song-size', size + 'px');
+function showSize() {
   $('#size').textContent = size + 'px';
-  store.set('size', size);
   $('#fitBtn').classList.toggle('on', auto);
+  $('#colsN').textContent = colCount;
 }
 /* Touching the size by hand turns auto-fit off: he is overriding it. */
-$('#plus').onclick  = () => { size = Math.min(MAX_PX, size + 1); auto = false; store.set('auto', false); applySize(); };
-$('#minus').onclick = () => { size = Math.max(MIN_PX, size - 1); auto = false; store.set('auto', false); applySize(); };
-applySize();
+function manual() { auto = false; store.set('auto', false); }
+$('#plus').onclick  = () => { size = Math.min(MAX_PX, size + 1); manual(); relayout(); };
+$('#minus').onclick = () => { size = Math.max(MIN_PX, size - 1); manual(); relayout(); };
+showSize();
 
 /* ---------- columns ---------- */
-function applyCols() {
-  const box = $('#s-body').querySelector('.cols');
-  if (box) { box.classList.remove('c2', 'c3'); if (colCount > 1) box.classList.add('c' + colCount); }
-  $('#colsN').textContent = colCount;
-  store.set('cols3', colCount);
-}
 $('#colsBtn').onclick = () => {
   colCount = colCount % 3 + 1;
-  auto = false; store.set('auto', false);
-  applyCols(); applySize();
+  manual(); relayout();
   toast(colCount === 1 ? T('one_col') : colCount + ' ' + T('n_cols'));
 };
 
-/* ---------- fit a whole song on one screen ----------
-   The point of the tablet is to stop turning pages, so the useful
-   question is not "what size do I like" but "what is the largest size
-   at which this song still fits". That is measurable: set a size, ask
-   whether the body still scrolls, binary-search the rest.
+/* ---------- laying a song out in columns ----------
+   The script fills the columns itself instead of leaving it to CSS
+   columns: then it knows exactly how many columns a song takes, each
+   column is a box the slider can stop on, and nothing depends on how
+   a browser balances columns.
 
-   Columns are part of the same answer — three narrow columns often
-   allow bigger type than one wide one — so each count is tried and
-   whichever yields the largest type wins. Ties go to fewer columns,
-   which read more naturally. */
-function bestFor(n) {
-  const body = $('#s-body'), box = body.querySelector('.cols');
-  if (!box) return { size: MIN_PX, fits: false };
-  box.classList.remove('c2', 'c3');
-  if (n > 1) box.classList.add('c' + n);
+   A column is exactly as tall as the space between the header and the
+   strip at the bottom. Sections are kept whole when they fit in a
+   column; only a section taller than a whole column is split between
+   lines, and its label is repeated, faded, where it continues.
+   Measured with offsetTop/offsetHeight, which ignore the slide-in
+   animation's transform, so a song measured while it is still
+   arriving gets the same answer as one measured at rest. */
+const GAP = 22, PADX = 12, PADY = 8;
 
-  let lo = MIN_PX, hi = MAX_PX, best = MIN_PX, fits = false;
-  while (lo <= hi) {
-    const mid = (lo + hi) >> 1;
-    document.documentElement.style.setProperty('--song-size', mid + 'px');
-    void body.offsetHeight;                        // force reflow
-    if (body.scrollHeight <= body.clientHeight + 2) { best = mid; fits = true; lo = mid + 1; }
-    else hi = mid - 1;
+/* Below this size the text is too small to read on a music stand, so
+   a long song does not shrink further: it gets more columns and the
+   slider. Set in config/app.json (tablet.min_font_px). A−/A+ can
+   still go lower by hand. */
+const READ_MIN = Math.max(MIN_PX, Math.min(MAX_PX, Number(DATA.min_px) || 20));
+
+let model = null;                       // the open song, as movable nodes
+let lay = { V: 1, N: 1, step: 0 };      // columns on screen, in total, px per column
+
+/* Measure once: the whole song stacked in one column of the right
+   width at size s. Every line's top and bottom in that stack is all
+   plan() needs; the columns are then worked out by arithmetic, which
+   keeps the fit quick on the tablet however many sizes it tries. */
+function measure(V, s) {
+  document.documentElement.style.setProperty('--song-size', s + 'px');
+  const track = $('#track');
+  const H = Math.max(40, body$.clientHeight - 2 * PADY);
+  const colW = Math.max(60, Math.floor((body$.clientWidth - 2 * PADX - (V - 1) * GAP) / V));
+  track.textContent = '';
+  const col = el('div', 'col');
+  col.style.width = colW + 'px';
+  track.appendChild(col);
+  if (model.meta) col.appendChild(model.meta);
+  const wraps = model.secs.map(sec => {
+    const w = el('div', 'sec');
+    if (sec.head) w.appendChild(sec.head);
+    sec.lines.forEach(l => w.appendChild(l));
+    col.appendChild(w);
+    return w;
+  });
+  const secs = model.secs.map((sec, i) => {
+    const lines = sec.lines.map(l => ({ t: l.offsetTop, b: l.offsetTop + l.offsetHeight }));
+    const top = wraps[i].offsetTop;
+    return { top, head: lines[0].t - top, lines };
+  });
+  const meta = model.meta ? { t: model.meta.offsetTop } : null;
+  /* A word wider than its column would spill into the next one. */
+  const wide = col.scrollWidth > col.clientWidth + 1;
+  return { colW, H, meta, secs, wide };
+}
+
+/* Deal the measured song into columns of height H. A section is kept
+   whole when it fits. With split on, a section that does not fit in
+   what is left of a column may continue in the next one, keeping at
+   least two lines on each side; without it, it moves whole to a new
+   column. Either way, a section taller than a whole column is split
+   between lines. Returns columns of pieces {i, from, to}. */
+function plan(m, split) {
+  const H = m.H, cols = [];
+  let cur = null, start = 0, extra = 0;
+  const open = (y, x) => { cur = []; cols.push(cur); start = y; extra = x; };
+  const h = b => b - start + extra;      // column height down to stack position b
+  if (m.meta) { open(m.meta.t, 0); cur.push({ meta: true }); }
+  m.secs.forEach((sec, i) => {
+    const L = sec.lines, n = L.length, end = L[n - 1].b;
+    let j = 0;
+    while (j < n) {
+      if (cur && cur.length && h(end) <= H) { cur.push({ i, from: j, to: n }); break; }
+      if (cur && cur.length && split) {
+        let k = j;
+        while (k < n && h(L[k].b) <= H) k++;
+        k = Math.min(k, n - 2);
+        if (k - j >= 2) { cur.push({ i, from: j, to: k }); j = k; open(L[j].t, sec.head); continue; }
+      }
+      if (!cur || cur.length) open(j ? L[j].t : sec.top, j ? sec.head : 0);
+      if (h(end) <= H) { cur.push({ i, from: j, to: n }); break; }
+      let k = j;
+      while (k < n && h(L[k].b) <= H) k++;
+      k = Math.max(j + 1, k);
+      cur.push({ i, from: j, to: k });
+      j = k;
+      if (j < n) open(L[j].t, sec.head);
+    }
+  });
+  return cols.length ? cols : [[]];
+}
+
+/* Both ways are planned; splitting is used only when it saves a
+   column, because a whole section reads more easily. */
+function arrange(V, s) {
+  const m = measure(V, s);
+  const whole = plan(m, false), split = plan(m, true);
+  const cols = split.length < whole.length ? split : whole;
+  /* One line (with its label) taller than a column cannot be shown
+     whole at this size, however many columns there are. */
+  const tall = m.secs.some(sec => sec.lines.some(l => l.b - l.t + sec.head > m.H));
+  return { m, cols, N: m.wide || tall ? Infinity : cols.length };
+}
+
+function build(m, cols) {
+  const track = $('#track');
+  track.textContent = '';
+  cols.forEach(pieces => {
+    const c = el('div', 'col');
+    c.style.width = m.colW + 'px'; c.style.height = m.H + 'px';
+    pieces.forEach(p => {
+      if (p.meta) { c.appendChild(model.meta); return; }
+      const sec = model.secs[p.i];
+      const w = el('div', p.from ? 'sec cont' : 'sec');
+      if (p.from && sec.label) { const h4 = el('h4'); h4.textContent = sec.label + ' …'; w.appendChild(h4); }
+      else if (!p.from && sec.head) w.appendChild(sec.head);
+      for (let k = p.from; k < p.to; k++) w.appendChild(sec.lines[k]);
+      c.appendChild(w);
+    });
+    track.appendChild(c);
+  });
+}
+
+function columnsFor(V, s) { return arrange(V, s).N; }
+
+/* The largest size, from lo up, at which the song needs no more than
+   maxCols columns when V of them are on screen. null if even lo needs
+   more. Binary search: a bigger size never needs fewer columns. */
+function largest(V, maxCols, lo) {
+  if (columnsFor(V, lo) > maxCols) return null;
+  let best = lo, a = lo + 1, b = MAX_PX;
+  while (a <= b) {
+    const m = (a + b) >> 1;
+    if (columnsFor(V, m) <= maxCols) { best = m; a = m + 1; } else b = m - 1;
   }
-  return { size: best, fits };
+  return best;
+}
+
+/* How many columns may share the screen when a song has to slide:
+   three on the tablet in landscape, fewer on a narrow screen, where
+   three would leave a handful of letters per line. */
+const slideCols = () => {
+  const w = $('#s-body').clientWidth;
+  return w >= 1000 ? 3 : w >= 640 ? 2 : 1;
+};
+
+/* ---------- fit ----------
+   The point of the tablet is to stop turning pages, so the question is
+   not "what size do I like" but "what is the largest size at which the
+   whole song is on screen". One, two and three columns are tried, and
+   whichever gives the biggest type wins; ties go to fewer columns,
+   which read more naturally.
+
+   The answer must not go below READ_MIN. A song that would need
+   smaller type keeps the rule instead: three columns on screen at the
+   largest size that does not add columns, and the rest to the right,
+   reached with the slider. */
+function fitResult() {
+  let pick = null;
+  for (const V of [1, 2, 3]) {
+    const s = largest(V, V, READ_MIN);
+    if (s !== null && (!pick || s > pick.s)) pick = { V, s };
+  }
+  if (pick) return pick;
+  const V = slideCols();
+  let lo = READ_MIN;
+  /* Only a chart read badly — a whole verse run into one line — can be
+     too tall for a column even at READ_MIN. Then, and only then, the
+     size goes lower, to the largest at which that line shows whole. */
+  if (!isFinite(columnsFor(V, lo))) {
+    let a = MIN_PX, b = READ_MIN - 1; lo = MIN_PX;
+    while (a <= b) {
+      const m = (a + b) >> 1;
+      if (isFinite(columnsFor(V, m))) { lo = m; a = m + 1; } else b = m - 1;
+    }
+  }
+  const N = columnsFor(V, lo);
+  return { V, s: isFinite(N) ? largest(V, N, lo) : lo };
 }
 
 function autoFit(quiet) {
-  let bestSize = 0, bestN = colCount, ok = false;
-  for (const n of [1, 2, 3]) {
-    const r = bestFor(n);
-    if (r.size > bestSize) { bestSize = r.size; bestN = n; ok = r.fits; }
-  }
-  colCount = bestN; size = bestSize || MIN_PX;
-  applyCols(); applySize();
+  /* Read before measuring: every trial layout moves the columns, and
+     the browser's snapping drops the song back to its first one. */
+  const at = here();
+  const r = fitResult();
+  colCount = r.V; size = r.s;
+  relayout(at);
   if (quiet) return;
-  toast(ok ? T('fits') + ' · ' + size + 'px · ' + colCount + ' col.'
-           : T('nofit') + ' ' + MIN_PX + 'px · ' + colCount + ' col.');
+  toast(lay.N > lay.V
+    ? T('long_song') + ' · ' + lay.N + ' ' + T('n_cols') + ' · ' + T('slide_hint') + ' · ' + size + 'px'
+    : T('fits') + ' · ' + size + 'px · ' + colCount + ' col.');
+}
+
+/* Lay the open song out at the current size and column count, keeping
+   whichever column was first on screen. */
+const here = () => lay.step ? Math.round(body$.scrollLeft / lay.step) : 0;
+
+function relayout(at = here()) {
+  store.set('size', size); store.set('cols3', colCount);
+  showSize();
+  if (!model) return;
+  const body = body$;
+  /* A word wider than its column at this size (big type, three narrow
+     columns in portrait) would spill into the next column. Then one
+     column fewer is shown instead: words are never broken, overlapped
+     or cut. */
+  let V = colCount, a = arrange(V, size);
+  /* Also when one line, wrapped into narrow columns at very large
+     type, would be taller than a column: never cut a line. */
+  while (!isFinite(a.N) && V > 1) a = arrange(--V, size);
+  build(a.m, a.cols);
+  const r = { N: a.cols.length, colW: a.m.colW };
+  lay = { V, N: r.N, step: r.colW + GAP };
+  $('#colsN').textContent = V;
+  /* Wide enough to scroll the last column fully into view and no
+     further, so the last stop is a whole column too. */
+  $('#track').style.width = (Math.max(0, r.N - V) * lay.step + body.clientWidth) + 'px';
+  body.scrollLeft = Math.min(at, Math.max(0, r.N - V)) * lay.step;
+  drawSlider();
 }
 
 function fitWhenSettled(quiet = true) {
   /* Two frames, because measuring in the first — before the browser
-     has settled the columns — returns heights that are still moving.
+     has settled the new sheet — returns sizes that are still moving.
      The timeout is not a duplicate: requestAnimationFrame is throttled
      or skipped outright in some contexts (a backgrounded tab, a
      WebView mid-transition), and a fit that silently never runs leaves
-     him scrolling. Whichever arrives first wins; the other is a no-op. */
+     the song at the wrong size. Whichever arrives first wins. */
   let done = false;
   const run = () => { if (done) return; done = true; autoFit(quiet); };
   requestAnimationFrame(() => requestAnimationFrame(run));
@@ -596,8 +1059,103 @@ let resizeT;
 addEventListener('resize', () => {
   if (!$('#sheet').classList.contains('on')) return;
   clearTimeout(resizeT);
-  resizeT = setTimeout(() => { sizePad(); if (auto) fitWhenSettled(true); }, 180);
+  resizeT = setTimeout(() => { sizePad(); if (auto) fitWhenSettled(true); else relayout(); }, 180);
 });
+
+/* ---------- the slider ----------
+   One segment per column; the frame covers the columns on screen.
+   Dragging moves the song with the finger; letting go settles on the
+   nearest whole column. Swiping the song itself does the same, and a
+   pedal or keyboard steps through it: arrows one column, Page Down /
+   Page Up / space one screen. */
+const body$ = $('#s-body'), rail = $('#rail'), thumb = $('#thumb'), segs = $('#segs');
+const maxStart = () => Math.max(0, lay.N - lay.V);
+
+function railGeom() {
+  const inner = rail.clientWidth - 14;
+  const sw = (inner - (lay.N - 1) * 4) / lay.N;
+  return { sw, unit: sw + 4, width: lay.V * sw + (lay.V - 1) * 4 + 8 };
+}
+
+function drawSlider() {
+  const on = lay.N > lay.V;
+  $('#slide').classList.toggle('on', on);
+  if (!on) return;
+  if (segs.childElementCount !== lay.N) {
+    segs.textContent = '';
+    for (let i = 0; i < lay.N; i++) segs.appendChild(el('i'));
+  }
+  placeThumb();
+}
+
+function placeThumb() {
+  if (lay.N <= lay.V || !lay.step) return;
+  const g = railGeom();
+  const start = Math.min(maxStart(), body$.scrollLeft / lay.step);
+  thumb.style.width = g.width + 'px';
+  thumb.style.transform = 'translateX(' + (3 + start * g.unit) + 'px)';
+  const first = Math.round(start);
+  $('#pg').textContent = (first + 1) + '–' + (first + lay.V) + ' / ' + lay.N;
+}
+
+let thumbRaf = 0;
+body$.addEventListener('scroll', () => {
+  if (thumbRaf) return;
+  thumbRaf = requestAnimationFrame(() => { thumbRaf = 0; placeThumb(); });
+}, { passive: true });
+
+function goColumn(k, smooth = true) {
+  if (!lay.step) return;
+  k = Math.max(0, Math.min(maxStart(), k));
+  body$.scrollTo({ left: k * lay.step, behavior: smooth ? 'smooth' : 'auto' });
+}
+const stepCols = d => {
+  if (lay.N <= lay.V) return;
+  goColumn(Math.round(body$.scrollLeft / lay.step) + d);
+};
+
+let grab = null, freeT;
+function dragTo(e) {
+  const r = rail.getBoundingClientRect(), g = railGeom();
+  const start = (e.clientX - r.left - grab - 3) / g.unit;
+  body$.scrollLeft = Math.max(0, Math.min(maxStart(), start)) * lay.step;
+}
+rail.addEventListener('pointerdown', e => {
+  if (lay.N <= lay.V) return;
+  const t = thumb.getBoundingClientRect();
+  /* On the frame: it moves from where it was taken. Elsewhere on the
+     rail: the frame jumps there, centred under the finger. */
+  grab = (e.clientX >= t.left && e.clientX <= t.right) ? e.clientX - t.left : t.width / 2;
+  clearTimeout(freeT);
+  body$.classList.add('free');
+  rail.classList.add('drag');
+  try { rail.setPointerCapture(e.pointerId); } catch {}
+  dragTo(e);
+  e.preventDefault();
+});
+rail.addEventListener('pointermove', e => { if (grab !== null) { dragTo(e); e.preventDefault(); } });
+function dropRail() {
+  if (grab === null) return;
+  grab = null;
+  rail.classList.remove('drag');
+  goColumn(Math.round(body$.scrollLeft / lay.step));
+  /* Snapping stays off until the glide has finished, or turning it
+     back on would jump to the nearest column instead of gliding. */
+  freeT = setTimeout(() => body$.classList.remove('free'), 450);
+}
+rail.addEventListener('pointerup', dropRail);
+rail.addEventListener('pointercancel', dropRail);
+
+/* A mouse wheel on a computer: one column per notch. */
+let wheelAt = 0;
+body$.addEventListener('wheel', e => {
+  if (lay.N <= lay.V || Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return;
+  e.preventDefault();
+  const now = Date.now();
+  if (now - wheelAt < 280) return;
+  wheelAt = now;
+  stepCols(e.deltaY > 0 ? 1 : -1);
+}, { passive: false });
 
 /* ---------- keep the screen on ---------- */
 let lock = null;
@@ -739,8 +1297,16 @@ function renderLine(line) {
   const hasChord = line.parts.some(p => p.chord);
   const p = el('p', 'ln' + (hasChord ? ' c' : ''));
 
-  if (!hasChord) { p.textContent = line.parts.map(x => x.text || '').join(''); return p; }
+  if (!hasChord) {
+    p.textContent = line.parts.map(x => x.text || '').join('');
+    /* A guitar tab staff ("e|-0--2-|") keeps its spacing and is set a
+       little smaller and grey, so the riff fits a column and the words
+       stay the main thing on the page. */
+    if (/^\s*[eBGDAEbgda]\s?[|:]-|^\s*\|?-{4,}/.test(p.textContent)) p.classList.add('tab');
+    return p;
+  }
 
+  let word = null;                       // the word the next piece joins
   line.parts.forEach(part => {
     const chunks = (part.text || '').match(/\S+\s*|\s+/g) || [];
     if (!chunks.length) chunks.push(' ');
@@ -751,40 +1317,53 @@ function renderLine(line) {
       const txt = document.createElement('i');
       txt.textContent = chunk;
       span.appendChild(b); span.appendChild(txt);
-      p.appendChild(span);
+      /* A piece that starts right after a letter (no space between)
+         continues the same word, so it goes in the same unbreakable
+         box. */
+      if (!word) { word = el('span', 'wd'); p.appendChild(word); }
+      word.appendChild(span);
+      if (/\s$/.test(chunk)) word = null;
     });
   });
   return p;
 }
 
+/* A song becomes loose pieces — the meta chips, and for each section
+   its label and its lines — that pack() deals into columns, again for
+   every size it tries. */
 function renderSong(song) {
-  const wrap = el('div', 'sheet-in');
   const meta = el('div', 'meta'), bits = [];
-  if (song.meta.capo)           bits.push(T('capo') + ' ' + song.meta.capo);
-  if (song.meta.sounds_in)      bits.push(T('sounds') + ' ' + song.meta.sounds_in);
-  if (song.meta.time_signature) bits.push(song.meta.time_signature);
-  if (song.meta.tempo)          bits.push(song.meta.tempo);
+  const m = song.meta || {};
+  if (m.capo)           bits.push(T('capo') + ' ' + m.capo);
+  if (m.sounds_in)      bits.push(T('sounds') + ' ' + m.sounds_in);
+  if (m.time_signature) bits.push(m.time_signature);
+  if (m.tempo)          bits.push(m.tempo);
   bits.forEach(b => { const i = el('i'); i.textContent = b; meta.appendChild(i); });
-  if (bits.length) wrap.appendChild(meta);
 
-  const cols = el('div', 'cols');
-  song.sections.forEach(sec => {
-    const s = el('div', 'sec');
-    if (sec.label) { const h = el('h4'); h.textContent = sec.label; s.appendChild(h); }
-    sec.lines.forEach(l => s.appendChild(renderLine(l)));
-    if (!sec.lines.length) s.appendChild(el('div', 'gap'));
-    cols.appendChild(s);
+  const secs = (song.sections || []).map(sec => {
+    let head = null;
+    if (sec.label) { head = el('h4'); head.textContent = sec.label; }
+    const lines = (sec.lines || []).map(renderLine);
+    if (!lines.length) lines.push(el('div', 'gap'));
+    return { label: sec.label || '', head, lines };
   });
-  wrap.appendChild(cols);
-  return wrap;
+  return { meta: bits.length ? meta : null, secs };
 }
 
-function openSong(entry, key) {
-  current = { entry, key: key || entry.default_key };
+/* list: the songs this one was opened among (the Sunday set, the order
+   of service, the archive), for "previous" and "next". Changing key or
+   language keeps the list. */
+function openSong(entry, key, now, list) {
+  if (!list && current && current.list && current.list.includes(entry)) list = current.list;
+  current = { entry, key: key || entry.default_key, list: list || null };
+  neighbours();
   const song = entry.keys[current.key];
 
   $('#s-title').textContent = song.title;
-  $('#s-by').textContent = [song.author, T('key') + ' ' + current.key].filter(Boolean).join(' · ');
+  /* A chart that has not passed the quality gate says so: he then
+     knows to glance at the paper before trusting it on stage. */
+  $('#s-by').textContent = [song.author, T('key') + ' ' + current.key,
+    song.status === 'verified' ? '' : T('unchecked')].filter(Boolean).join(' · ');
 
   const kp = $('#s-keys'); kp.innerHTML = '';
   DATA.keys.forEach(k => {
@@ -798,29 +1377,81 @@ function openSong(entry, key) {
   });
   keyDots();
 
-  const body = $('#s-body');
-  body.innerHTML = '';
-  body.appendChild(renderSong(song));
-  body.scrollTop = 0;
-  applyCols();
+  model = renderSong(song);
+  lay.step = 0;                          // a new song starts at its first column
+  body$.classList.remove('free');
+  body$.scrollLeft = 0;
+  const track = $('#track');
+  track.style.animation = 'none'; void track.offsetWidth; track.style.animation = '';
   $('#sheet').classList.add('on');
   sizePad();
   /* Each song has its own length, so the fit is recalculated when it
-     opens. Two frames: measuring in the first, before the browser has
-     settled the columns, returns heights that are still changing. */
-  if (auto) fitWhenSettled(true);
+     opens. Laid out at once at the current size, so there is never an
+     empty sheet, then fitted when the sheet has settled. */
+  relayout();
+  if (auto) { if (now) autoFit(true); else fitWhenSettled(true); }
 }
 
-$('#back').onclick = () => { $('#sheet').classList.remove('on'); current = null; };
+/* ---------- moving between songs ----------
+   returnTo remembers the song (key and column too) that was open when
+   he went to the order of service, so "Back to Song" puts him exactly
+   where he was. */
+let returnTo = null;
+
+function closeSheet() {
+  if (current) returnTo = { entry: current.entry, key: current.key, list: current.list, col: here() };
+  $('#sheet').classList.remove('on'); current = null; model = null;
+}
+
+function showView(name) {
+  document.querySelectorAll('.tab').forEach(x => x.setAttribute('aria-selected', x.dataset.view === name));
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('on'));
+  $('#v-' + name).classList.add('on');
+  if (name === 'tune') Tuner.open(); else Tuner.close();
+  const bar = name === 'ordr';
+  $('#obar').classList.toggle('on', bar);
+  $('main').classList.toggle('withbar', bar);
+  $('#ordBack').disabled = !returnTo;
+  $('#ordBackName').textContent = returnTo ? returnTo.entry.title + ' · ' + returnTo.key : '';
+  window.scrollTo(0, 0);
+}
+
+function neighbours() {
+  const list = (current && current.list) || [];
+  const i = current ? list.indexOf(current.entry) : -1;
+  [['#prevSong', i > 0 ? list[i - 1] : null],
+   ['#nextSong', i >= 0 && i < list.length - 1 ? list[i + 1] : null]].forEach(([id, to]) => {
+    const b = $(id);
+    b.disabled = !to;
+    b.target = to;
+    b.querySelector('small').textContent = to ? to.title : '';
+  });
+}
+
+$('#back').onclick = () => closeSheet();
+$('#toDash').onclick = () => { closeSheet(); returnTo = null; showView('set'); };
+$('#toOrder').onclick = () => { closeSheet(); showView('ordr'); };
+$('#prevSong').onclick = () => { const to = $('#prevSong').target; if (to) openSong(to, null, false, current.list); };
+$('#nextSong').onclick = () => { const to = $('#nextSong').target; if (to) openSong(to, null, false, current.list); };
+$('#ordBack').onclick = () => {
+  if (!returnTo) return;
+  const r = returnTo;
+  openSong(r.entry, r.key, true, r.list);
+  goColumn(r.col, false);
+};
+$('#ordDash').onclick = () => { returnTo = null; showView('set'); };
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') $('#back').click();
   if (!$('#sheet').classList.contains('on')) return;
   if (e.key === '+' || e.key === '=') $('#plus').click();
   if (e.key === '-') $('#minus').click();
+  /* Page-turner pedals send arrows or Page Down / Page Up. */
+  const step = { ArrowRight: 1, ArrowLeft: -1, PageDown: lay.V, PageUp: -lay.V, ' ': lay.V }[e.key];
+  if (step && lay.N > lay.V) { e.preventDefault(); stepCols(step); }
 });
 
 /* ---------- lists ---------- */
-function card(entry, n) {
+function card(entry, n, list) {
   const b = el('button', 'card');
   b.style.animationDelay = (Math.min(n === null ? 0 : n, 12) * 42) + 'ms';
   if (n !== null) { const i = el('span', 'n'); i.textContent = (n + 1); b.appendChild(i); }
@@ -838,7 +1469,7 @@ function card(entry, n) {
     ks.appendChild(pen);
   }
   b.appendChild(ks);
-  b.onclick = () => openSong(entry);
+  b.onclick = () => openSong(entry, null, false, list);
   return b;
 }
 
@@ -866,7 +1497,7 @@ function drawSet() {
   if (!svc || !svc.songs.length) {
     const e = el('div', 'empty'); e.textContent = T('no_songs'); grid.appendChild(e); return;
   }
-  svc.songs.forEach((s, i) => grid.appendChild(card(s, i)));
+  svc.songs.forEach((s, i) => grid.appendChild(card(s, i, svc.songs)));
 }
 
 function drawOrder() {
@@ -900,29 +1531,431 @@ function drawOrder() {
        as a way into the songs and he never hunts for the right card. */
     if (isSong && svc) {
       const hit = svc.songs.find(s => slugOf(s.title) === slugOf(row.title));
-      if (hit) { d.classList.add('go'); d.onclick = () => openSong(hit); }
+      if (hit) { d.classList.add('go'); d.onclick = () => openSong(hit, null, false, svc.songs); }
     }
     box.appendChild(d);
   });
 }
 
-function drawArchive() {
-  const grid = $('#arch-grid'); grid.innerHTML = '';
-  $('#arch-sub').textContent = DATA.archive.length
-    ? DATA.archive.length + ' ' + T('songs') + ' · ' + T('alpha') : '';
-  if (!DATA.archive.length) {
-    const e = el('div', 'empty'); e.textContent = T('arch_empty'); grid.appendChild(e); return;
+/* ---------- finding a song ----------
+   fold() lowers the case, drops accents and apostrophes, turns other
+   punctuation into spaces, and remembers where each folded letter came
+   from, so a match can be marked in the original title. */
+function fold(s) {
+  let t = '', at = [];
+  for (let i = 0; i < s.length; i++) {
+    let c = s[i].normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    if (/['’`´]/.test(c)) continue;
+    c = c.replace(/[^a-z0-9]/g, ' ');
+    for (const ch of c) { t += ch; at.push(i); }
   }
-  DATA.archive.forEach(s => grid.appendChild(card(s, null)));
+  return { t, at };
+}
+const words = q => fold(q).t.split(' ').filter(Boolean);
+
+/* The original text with every occurrence of the words marked. */
+function marked(text, ws) {
+  const f = fold(text), spans = [];
+  ws.forEach(w => {
+    for (let i = f.t.indexOf(w); i >= 0; i = f.t.indexOf(w, i + 1))
+      spans.push([f.at[i], f.at[i + w.length - 1] + 1]);
+  });
+  spans.sort((a, b) => a[0] - b[0]);
+  const frag = document.createDocumentFragment();
+  let pos = 0;
+  spans.forEach(([a, b]) => {
+    if (b <= pos) return;
+    a = Math.max(a, pos);
+    if (a > pos) frag.appendChild(document.createTextNode(text.slice(pos, a)));
+    const m = el('mark'); m.textContent = text.slice(a, b); frag.appendChild(m);
+    pos = b;
+  });
+  if (pos < text.length) frag.appendChild(document.createTextNode(text.slice(pos)));
+  return frag;
 }
 
-document.querySelectorAll('.tab').forEach(t => {
-  t.onclick = () => {
-    document.querySelectorAll('.tab').forEach(x => x.setAttribute('aria-selected', x === t));
-    document.querySelectorAll('.view').forEach(v => v.classList.remove('on'));
-    $('#v-' + t.dataset.view).classList.add('on');
+/* Each song's lyric lines (its usual key), folded once. */
+const lyricCache = new Map();
+function lyricLines(entry) {
+  if (!lyricCache.has(entry)) {
+    const song = entry.keys[entry.default_key] || Object.values(entry.keys)[0] || {};
+    const lines = [];
+    (song.sections || []).forEach(sec => (sec.lines || []).forEach(l => {
+      const text = (l.parts || []).map(p => p.text || '').join('').replace(/\s+/g, ' ').trim();
+      if (text) lines.push({ text, f: ' ' + fold(text).t + ' ' });
+    }));
+    lyricCache.set(entry, lines);
+  }
+  return lyricCache.get(entry);
+}
+
+function drawArchive() {
+  const grid = $('#arch-grid'); grid.innerHTML = '';
+  const all = DATA.archive, q = $('#archQ').value, ws = words(q);
+  $('#find').classList.toggle('has', !!q);
+  grid.classList.toggle('still', !!ws.length);   // no pop-in on every keystroke
+  if (!all.length) {
+    $('#arch-sub').textContent = '';
+    const e = el('div', 'empty'); e.textContent = T('arch_empty'); grid.appendChild(e); return;
+  }
+  if (!ws.length) {
+    $('#arch-sub').textContent = all.length + ' ' + T('songs') + ' · ' + T('alpha');
+    all.forEach(s => grid.appendChild(card(s, null, all)));
+    return;
+  }
+  const has = t => ws.every(w => t.includes(w));
+  const byName = all.filter(s => has(fold(s.title + ' ' + (s.author || '')).t));
+  const byWords = all.filter(s => !byName.includes(s)).map(s => {
+    const lines = lyricLines(s);
+    if (!has(lines.map(l => l.f).join(' '))) return null;
+    const line = lines.find(l => has(l.f)) || lines.find(l => l.f.includes(ws[0])) || lines[0];
+    return { s, line: line ? line.text : '' };
+  }).filter(Boolean);
+  const list = byName.concat(byWords.map(x => x.s));
+  $('#arch-sub').textContent = list.length + ' ' + T('of') + ' ' + all.length + ' ' + T('songs');
+  if (!list.length) {
+    const e = el('div', 'empty'); e.textContent = T('no_match') + ' «' + q.trim() + '»'; grid.appendChild(e); return;
+  }
+  byName.forEach(s => {
+    const c = card(s, null, list);
+    const h = c.querySelector('h3'); h.textContent = ''; h.appendChild(marked(s.title, ws));
+    grid.appendChild(c);
+  });
+  if (byWords.length) {
+    const sep = el('div', 'sep'); sep.textContent = T('in_lyrics'); grid.appendChild(sep);
+    byWords.forEach(({ s, line }) => {
+      const c = card(s, null, list);
+      const hit = el('p', 'hit'); hit.appendChild(document.createTextNode('«'));
+      hit.appendChild(marked(line, ws)); hit.appendChild(document.createTextNode('»'));
+      c.insertBefore(hit, c.querySelector('.keys'));
+      grid.appendChild(c);
+    });
+  }
+}
+
+$('#archQ').addEventListener('input', () => drawArchive());
+$('#archQ').addEventListener('keydown', e => {
+  /* Enter puts the keyboard away so the results can be seen. */
+  if (e.key === 'Enter') { e.preventDefault(); e.target.blur(); }
+  if (e.key === 'Escape') { e.stopPropagation(); e.target.value = ''; drawArchive(); }
+});
+$('#archClear').onclick = e => {
+  e.preventDefault();
+  $('#archQ').value = ''; drawArchive(); $('#archQ').focus();
+};
+
+/* ---------- tuner ----------
+   Christian asked (14 Nov 2026) for a guitar tuner on the dashboard,
+   on the tablet's microphone, with a needle that moves through red,
+   orange, yellow and green until each string is in tune.
+
+   Standard tuning, A = 440 Hz. The pitch is found by YIN (de Cheveigné
+   & Kawahara, 2002) on the plain microphone signal: Chrome's echo
+   cancelling, noise suppression and automatic gain are switched off,
+   because they eat a held note. In Auto the tuner follows the nearest
+   string; touching a string keeps it on that one (for a string far out
+   of tune, nearer to its neighbour). A string held within 5 cents for
+   most of a second gets its green tick. The microphone is on only
+   while this view is on screen. */
+const Tuner = (() => {
+  const A4 = 440, CX = 200, CY = 172, R = 150, OK = 5;
+  const NAMES = ['C', 'C♯', 'D', 'D♯', 'E', 'F', 'F♯', 'G', 'G♯', 'A', 'A♯', 'B'];
+  const hz = m => A4 * Math.pow(2, (m - 69) / 12);
+  const STRINGS = [[6, 40], [5, 45], [4, 50], [3, 55], [2, 59], [1, 64]]
+    .map(([n, m]) => ({ n, m, f: hz(m), name: NAMES[m % 12] }));
+  const ZONES = [[-50, -30, 'red'], [-30, -15, 'orange'], [-15, -OK, 'yellow'], [-OK, OK, 'green'],
+                 [OK, 15, 'yellow'], [15, 30, 'orange'], [30, 50, 'red']];
+  const zoneOf = c => Math.abs(c) <= OK ? 'green' : Math.abs(c) <= 15 ? 'yellow'
+    : Math.abs(c) <= 30 ? 'orange' : 'red';
+  const SVGNS = 'http://www.w3.org/2000/svg';
+
+  let ctx = null, stream = null, an = null, buf = null, raf = 0, want = false, busy = false, wake = null;
+  let lock = null, tuned = new Set(), told = false, cur = null;
+  let hist = [], goal = 0, shown = 0, lastAn = 0, lastSound = 0, okSince = 0, okString = null;
+
+  /* ---- the dial ---- */
+  const rad = c => Math.max(-50, Math.min(50, c)) * 1.8 * Math.PI / 180;
+  const pt = (c, r) => [CX + r * Math.sin(rad(c)), CY - r * Math.cos(rad(c))];
+  const svg = (tag, attrs) => {
+    const n = document.createElementNS(SVGNS, tag);
+    for (const k in attrs) n.setAttribute(k, attrs[k]);
+    return n;
   };
+  const zoneEls = ZONES.map(([a, b, z]) => {
+    const [x1, y1] = pt(a + .7, R), [x2, y2] = pt(b - .7, R);
+    const p = svg('path', { class: 'zone z-' + z, d: `M${x1.toFixed(1)} ${y1.toFixed(1)}A${R} ${R} 0 0 1 ${x2.toFixed(1)} ${y2.toFixed(1)}` });
+    $('#g-zones').appendChild(p);
+    return { a, b, p };
+  });
+  for (let c = -50; c <= 50; c += 5) {
+    const big = c === 0, mid = c % 25 === 0;
+    const [x1, y1] = pt(c, big ? 103 : mid ? 109 : 113), [x2, y2] = pt(c, 126);
+    $('#g-ticks').appendChild(svg('line', { class: 'tick' + (big ? ' big' : ''),
+      x1: x1.toFixed(1), y1: y1.toFixed(1), x2: x2.toFixed(1), y2: y2.toFixed(1) }));
+  }
+  [[-42, '♭'], [42, '♯']].forEach(([c, t]) => {
+    const [x, y] = pt(c, 90), n = svg('text', { class: 'lab', x: x.toFixed(1), y: y.toFixed(1) });
+    n.textContent = t; $('#g-ticks').appendChild(n);
+  });
+  const needle = $('#needle'), gauge = $('#gauge'), root = $('#tuner');
+
+  /* ---- the strings ---- */
+  const ord = n => lang === 'en' ? n + (['', 'st', 'nd', 'rd'][n] || 'th') : n + T('string_n');
+  function drawStrings() {
+    const box = $('#strings'); box.innerHTML = '';
+    STRINGS.forEach(s => {
+      const b = el('button', 'st' + (tuned.has(s.n) ? ' ok' : '') + (cur === s && !root.classList.contains('idle') ? ' on' : ''));
+      b.setAttribute('aria-pressed', lock === s);
+      b.title = T('tip_string');
+      const l = el('b'); l.textContent = s.name;
+      const n = el('small'); n.textContent = ord(s.n);
+      b.append(l, n);
+      b.onclick = () => { lock = lock === s ? null : s; hist = []; okSince = 0; drawStrings(); };
+      s.btn = b; box.appendChild(b);
+    });
+    const a = el('button', 'st auto');
+    a.setAttribute('aria-pressed', !lock);
+    a.title = T('tip_auto');
+    const l = el('b'); l.textContent = T('tune_auto'); a.appendChild(l);
+    a.onclick = () => { lock = null; hist = []; drawStrings(); };
+    box.appendChild(a);
+  }
+
+  function idle(on) {
+    root.classList.toggle('idle', on);
+    if (!on) return;
+    gauge.setAttribute('class', 'gauge');
+    zoneEls.forEach(z => z.p.classList.remove('lit'));
+    $('#tCents').textContent = ''; $('#tCents').className = 'tcents';
+    $('#tHz').textContent = '';
+    $('#tHint').className = 'thint'; $('#tHint').textContent = stream ? T('tune_play') : '';
+    $('#tNote').textContent = lock ? lock.name : '–';
+    STRINGS.forEach(s => s.btn && s.btn.classList.remove('on'));
+  }
+
+  function message(key, retry) {
+    $('#tMsg').classList.toggle('on', !!key);
+    $('#tMsgTx').textContent = key ? T(key) : '';
+    $('#tRetry').style.display = retry ? '' : 'none';
+    message.key = key; message.retry = retry;
+  }
+
+  /* ---- pitch: YIN ----
+     d(τ) = Σ (x[j] − x[j+τ])², normalised by its running mean; the
+     first dip under the threshold is the period. Stops at the bottom
+     of that dip, so a high string costs a fraction of a low one. The
+     dip's bottom is refined by a parabola through the raw differences. */
+  const dn = new Float64Array(2100), raw = new Float64Array(2100);
+  function yin(x, sr) {
+    const tMin = Math.floor(sr / 1100), tMax = Math.min(Math.floor(sr / 60), 2000);
+    const W = Math.min(2048, x.length - tMax - 2);
+    let run = 0, done = 0;
+    dn[0] = 1;
+    const upTo = n => {                           // fill raw/dn for τ ≤ n
+      for (let tau = done + 1; tau <= n; tau++) {
+        let s = 0;
+        for (let j = 0; j < W; j++) { const v = x[j] - x[j + tau]; s += v * v; }
+        raw[tau] = s; run += s;
+        dn[tau] = run ? s * tau / run : 1;
+      }
+      done = Math.max(done, n);
+    };
+    const bottom = from => {                      // walk down a dip to its lowest point
+      let t = from;
+      for (;; t++) { upTo(t + 1); if (t + 1 > tMax || dn[t + 1] >= dn[t]) return t + 1 > tMax ? -1 : t; }
+    };
+    let best = -1;
+    for (let tau = 1; tau <= tMax; tau++) {
+      upTo(tau);
+      if (tau >= tMin && dn[tau] < 0.12) { best = bottom(tau); break; }
+    }
+    if (best < 1) return 0;
+    /* A weak fundamental (the low strings, through a small microphone)
+       lets the half period dip too, which reads an octave high. If the
+       dip at twice the period is far deeper, that is the real period. */
+    if (dn[best] > 0.03 && best * 2 + 3 <= tMax) {
+      upTo(best * 2 + 3);
+      let t2 = best * 2 - 2;
+      for (let t = t2; t <= best * 2 + 2; t++) if (dn[t] < dn[t2]) t2 = t;
+      if (dn[t2] < dn[best] / 3) best = t2;
+    }
+    const a = raw[best - 1], b = raw[best], c = raw[best + 1];
+    const den = a - 2 * b + c;
+    const shift = den > 0 ? Math.max(-1, Math.min(1, (a - c) / (2 * den))) : 0;
+    return sr / (best + shift);
+  }
+
+  const median = a => { const s = [...a].sort((p, q) => p - q); return s[s.length >> 1]; };
+  const nearest = f => STRINGS.reduce((b, s) =>
+    Math.abs(Math.log2(f / s.f)) < Math.abs(Math.log2(f / b.f)) ? s : b);
+  const noteName = f => { const m = Math.round(69 + 12 * Math.log2(f / A4)); return NAMES[(m % 12 + 12) % 12] + (Math.floor(m / 12) - 1); };
+
+  function listen(t) {
+    an.getFloatTimeDomainData(buf);
+    let e = 0;
+    for (let i = 0; i < buf.length; i++) e += buf[i] * buf[i];
+    const f0 = Math.sqrt(e / buf.length) > 0.0015 ? yin(buf, ctx.sampleRate) : 0;
+    if (!f0) {
+      if (t - lastSound > 350) hist = [];
+      if (t - lastSound > 1500 && !root.classList.contains('idle')) idle(true);
+      okSince = 0;
+      return;
+    }
+    lastSound = t;
+    hist.push(f0); if (hist.length > 5) hist.shift();
+    show(median(hist), t);
+  }
+
+  function show(f, t) {
+    const s = lock || nearest(f);
+    const c = 1200 * Math.log2(f / s.f);
+    const z = zoneOf(c);
+    if (root.classList.contains('idle')) idle(false);
+    if (cur !== s) { STRINGS.forEach(x => x.btn && x.btn.classList.toggle('on', x === s)); cur = s; }
+    else if (s.btn && !s.btn.classList.contains('on')) s.btn.classList.add('on');
+    goal = c;
+    gauge.setAttribute('class', 'gauge z-' + z);
+    const cc = Math.max(-50, Math.min(50, c));
+    zoneEls.forEach(x => x.p.classList.toggle('lit', cc >= x.a && cc <= x.b && zoneOf(cc) === zoneOf((x.a + x.b) / 2)));
+    $('#tNote').textContent = s.name;
+    const r = Math.round(c);
+    $('#tCents').textContent = Math.abs(c) > 99 ? '' : (r > 0 ? '+' : r < 0 ? '−' : '') + Math.abs(r) + ' ¢';
+    $('#tCents').className = 'tcents z-' + z;
+    $('#tHint').textContent = T(Math.abs(c) <= OK ? 'tune_ok' : c < -50 ? 'tune_far_low'
+      : c < 0 ? 'tune_up' : c > 50 ? 'tune_far_high' : 'tune_down');
+    $('#tHint').className = 'thint z-' + z;
+    $('#tHz').textContent = T('tune_hear') + ' ' + noteName(f) + ' · ' + f.toFixed(1) + ' Hz';
+
+    if (Math.abs(c) <= OK) {
+      if (okString !== s) { okString = s; okSince = t; }
+      if (t - okSince > 700 && !tuned.has(s.n)) {
+        tuned.add(s.n); s.btn && s.btn.classList.add('ok');
+        if (tuned.size === STRINGS.length && !told) { told = true; toast(T('tune_all')); }
+      }
+    } else { okString = null; }
+  }
+
+  function frame(t) {
+    raf = requestAnimationFrame(frame);
+    if (t - lastAn >= 33) { lastAn = t; listen(t); }
+    shown += (goal - shown) * 0.24;
+    needle.setAttribute('transform', `rotate(${(Math.max(-52, Math.min(52, shown)) * 1.8).toFixed(2)} ${CX} ${CY})`);
+  }
+
+  /* ---- the microphone ---- */
+  async function start() {
+    want = true;
+    if (stream || busy) return;
+    if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) { message('tune_nomic', false); return; }
+    busy = true; message('tune_starting', false);
+    try {
+      const s = await navigator.mediaDevices.getUserMedia({ audio: {
+        echoCancellation: false, noiseSuppression: false, autoGainControl: false } });
+      if (!want) { s.getTracks().forEach(x => x.stop()); return; }
+      stream = s;
+      ctx = new (window.AudioContext || window.webkitAudioContext)({ latencyHint: 'interactive' });
+      if (ctx.state === 'suspended') await ctx.resume().catch(() => {});
+      const src = ctx.createMediaStreamSource(stream);
+      const hp = ctx.createBiquadFilter(); hp.type = 'highpass'; hp.frequency.value = 55;
+      const lp = ctx.createBiquadFilter(); lp.type = 'lowpass'; lp.frequency.value = 1100;
+      an = ctx.createAnalyser(); an.fftSize = 4096;
+      src.connect(hp); hp.connect(lp); lp.connect(an);
+      buf = new Float32Array(an.fftSize);
+      hist = []; lastSound = 0;
+      message(null); idle(true);
+      cancelAnimationFrame(raf); raf = requestAnimationFrame(frame);
+      /* Tuning six strings outlasts the screen timeout. */
+      try { if (navigator.wakeLock) wake = await navigator.wakeLock.request('screen'); } catch {}
+      if (!want) stop(true);
+    } catch (e) {
+      stop(true);
+      message(e && (e.name === 'NotAllowedError' || e.name === 'SecurityError') ? 'tune_denied' : 'tune_fail', true);
+    } finally { busy = false; }
+  }
+
+  function stop(keepWant) {
+    if (!keepWant) want = false;
+    cancelAnimationFrame(raf); raf = 0;
+    if (stream) stream.getTracks().forEach(x => x.stop());
+    stream = null;
+    if (ctx) ctx.close().catch(() => {});
+    ctx = null; an = null; hist = [];
+    if (wake) { wake.release().catch(() => {}); wake = null; }
+  }
+
+  $('#tRetry').onclick = () => start();
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) { if (stream) stop(true); }
+    else if (want && !stream) start();
+  });
+
+  drawStrings(); idle(true);
+  return {
+    /* Each visit starts with no ticks and in Auto. */
+    open() { tuned.clear(); told = false; lock = null; cur = null; goal = shown = 0; drawStrings(); idle(true); start(); },
+    close() { stop(); message(null); },
+    lang() { drawStrings(); if (message.key) message(message.key, message.retry); idle(root.classList.contains('idle')); },
+    yin, STRINGS,
+  };
+})();
+
+document.querySelectorAll('.tab').forEach(t => {
+  t.onclick = () => showView(t.dataset.view);
 });
 
 applyLang();
+
+/* ---------- audit ----------
+   index.html#audit lays out every chart in the archive at this
+   window's size and writes what it found into the page, for
+   tools/check_fit.py, which Eden runs after each build. It stores
+   nothing; the tablet never opens it. */
+if (location.hash === '#audit') {
+  auto = true;
+  const rows = [];
+  for (const entry of DATA.archive) {
+    for (const k of DATA.keys) {
+      if (!entry.keys[k]) continue;
+      openSong(entry, k, true);
+      const cols = [...document.querySelectorAll('#track .col')];
+      const H = cols.length ? cols[0].clientHeight : 0;
+      /* The quality gate (tools/chart_gate.py) reads these too:
+         every chord of the data drawn, each over the first letter of
+         its piece of word, no two chord names touching, and no word
+         broken across two rows. */
+      const want = (entry.keys[k].sections || []).reduce((n, s) =>
+        n + s.lines.reduce((m, l) => m + l.parts.filter(p => p.chord).length, 0), 0);
+      const drawn = [...document.querySelectorAll('#track .ln.c .w > b')].filter(b => b.textContent);
+      let off = 0, overlap = 0, broken = 0;
+      drawn.forEach(b => {
+        const i = b.parentNode.querySelector('i');
+        if (Math.abs(b.getBoundingClientRect().left - i.getBoundingClientRect().left) > 0.5) off++;
+      });
+      document.querySelectorAll('#track .ln.c').forEach(line => {
+        const bs = [...line.querySelectorAll('.w > b')].filter(b => b.textContent)
+          .map(b => b.getBoundingClientRect());
+        for (let n = 1; n < bs.length; n++)
+          if (Math.abs(bs[n].top - bs[n - 1].top) < 1 && bs[n].left < bs[n - 1].right - 0.5) overlap++;
+      });
+      document.querySelectorAll('#track .wd').forEach(wd => {
+        const tops = [...wd.children].map(w => Math.round(w.getBoundingClientRect().top));
+        if (new Set(tops).size > 1) broken++;
+      });
+      rows.push({
+        slug: entry.slug, title: entry.title, key: k,
+        px: size, on_screen: lay.V, columns: lay.N,
+        lines: model.secs.reduce((n, s) => n + s.lines.length, 0),
+        wide: cols.some(c => c.scrollWidth > c.clientWidth + 1),
+        cut: cols.some(c => [...c.children].some(n => n.offsetTop + n.offsetHeight > H + 1)),
+        chords: want, drawn: drawn.length, off, overlap, broken,
+      });
+    }
+  }
+  $('#back').click();
+  const out = el('pre'); out.id = 'audit';
+  out.textContent = JSON.stringify({
+    viewport: [innerWidth, innerHeight], min_px: READ_MIN, rows,
+  });
+  document.body.appendChild(out);
+}
 </script>

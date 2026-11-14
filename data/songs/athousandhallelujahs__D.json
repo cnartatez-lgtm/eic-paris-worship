@@ -11,49 +11,1446 @@
   "sections": [
     {
       "label": "Intro",
-      "lines": []
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Verse 1",
-      "lines": []
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Who else would "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "rocks cry out to "
+            },
+            {
+              "chord": "D",
+              "text": "worship"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Whose glory "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "taught the stars to "
+            },
+            {
+              "chord": "D",
+              "text": "shine"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "Perhaps cre"
+            },
+            {
+              "chord": "A",
+              "text": "ation longs to "
+            },
+            {
+              "chord": "Bm",
+              "text": "have the "
+            },
+            {
+              "chord": "A",
+              "text": "words to "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "sing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "But this "
+            },
+            {
+              "chord": "A",
+              "text": "joy is "
+            },
+            {
+              "chord": "D",
+              "text": "mine"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Chorus",
-      "lines": []
-    },
-    {
-      "label": "Instrumental",
-      "lines": []
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "With a thousand "
+            },
+            {
+              "chord": "D",
+              "text": "hallelujahs "
+            },
+            {
+              "chord": "A",
+              "text": "we magnify "
+            },
+            {
+              "chord": "Bm",
+              "text": "Your name"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "You alone de"
+            },
+            {
+              "chord": "D",
+              "text": "serve the glory, "
+            },
+            {
+              "chord": "A",
+              "text": "the honor "
+            },
+            {
+              "chord": "Bm",
+              "text": "and the praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "Lord Jesus, "
+            },
+            {
+              "chord": "A",
+              "text": "this song is "
+            },
+            {
+              "chord": "D",
+              "text": "forever "
+            },
+            {
+              "chord": "Bm",
+              "text": "Yours"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "thousand hallelujahs "
+            },
+            {
+              "chord": "D",
+              "text": "and a "
+            },
+            {
+              "chord": "A",
+              "text": "thousand "
+            },
+            {
+              "chord": "D",
+              "text": "more"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Verse 2",
-      "lines": []
-    },
-    {
-      "label": "Bridge",
-      "lines": []
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Who else would "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "die for our re"
+            },
+            {
+              "chord": "D",
+              "text": "demption"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Whose re"
+            },
+            {
+              "chord": "Gadd9",
+              "text": "surrection means I'll "
+            },
+            {
+              "chord": "D",
+              "text": "rise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "There isn't "
+            },
+            {
+              "chord": "A",
+              "text": "time enough to "
+            },
+            {
+              "chord": "Bm",
+              "text": "sing of "
+            },
+            {
+              "chord": "A",
+              "text": "all You've "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "done"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "But I have "
+            },
+            {
+              "chord": "A",
+              "text": "eternity to "
+            },
+            {
+              "chord": "D",
+              "text": "try"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Chorus",
-      "lines": []
-    },
-    {
-      "label": "Chorus",
-      "lines": []
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "With a thousand "
+            },
+            {
+              "chord": "D",
+              "text": "hallelujahs "
+            },
+            {
+              "chord": "A",
+              "text": "we magnify "
+            },
+            {
+              "chord": "Bm",
+              "text": "Your name"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "You alone de"
+            },
+            {
+              "chord": "D",
+              "text": "serve the glory, "
+            },
+            {
+              "chord": "A",
+              "text": "the honor "
+            },
+            {
+              "chord": "Bm",
+              "text": "and the praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "Lord Jesus, "
+            },
+            {
+              "chord": "A",
+              "text": "this song is "
+            },
+            {
+              "chord": "D",
+              "text": "forever "
+            },
+            {
+              "chord": "Bm",
+              "text": "Yours"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "thousand hallelujahs "
+            },
+            {
+              "chord": "D",
+              "text": "and a "
+            },
+            {
+              "chord": "A",
+              "text": "thousand "
+            },
+            {
+              "chord": "D",
+              "text": "more"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Instrumental",
-      "lines": []
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "(D)",
+              "text": ""
+            },
+            {
+              "chord": "Em7",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Bridge",
-      "lines": []
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Praise to the "
+            },
+            {
+              "chord": "Em7",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To the "
+            },
+            {
+              "chord": "D",
+              "text": "Lamb"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To the "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "King of "
+            },
+            {
+              "chord": "A",
+              "text": "heaven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Praise for He "
+            },
+            {
+              "chord": "Em7",
+              "text": "rose"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Now He "
+            },
+            {
+              "chord": "D",
+              "text": "reigns"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We will "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "sing for - "
+            },
+            {
+              "chord": "A",
+              "text": "ever"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "With a thousand "
+            },
+            {
+              "chord": "D",
+              "text": "hallelujahs "
+            },
+            {
+              "chord": "A",
+              "text": "we magnify "
+            },
+            {
+              "chord": "Bm",
+              "text": "Your name"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "You alone de"
+            },
+            {
+              "chord": "D",
+              "text": "serve the glory, "
+            },
+            {
+              "chord": "A",
+              "text": "the honor "
+            },
+            {
+              "chord": "Bm",
+              "text": "and the praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "Lord Jesus, "
+            },
+            {
+              "chord": "A",
+              "text": "this song is "
+            },
+            {
+              "chord": "D",
+              "text": "forever "
+            },
+            {
+              "chord": "Bm",
+              "text": "Yours"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "thousand hallelujahs "
+            },
+            {
+              "chord": "D",
+              "text": "and a "
+            },
+            {
+              "chord": "A",
+              "text": "thousand "
+            },
+            {
+              "chord": "D",
+              "text": "more"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "(D)",
+              "text": ""
+            },
+            {
+              "chord": "Em7",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Gadd9",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Praise to the "
+            },
+            {
+              "chord": "Em7",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To the "
+            },
+            {
+              "chord": "D",
+              "text": "Lamb"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To the "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "King of "
+            },
+            {
+              "chord": "A",
+              "text": "heaven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Praise for He "
+            },
+            {
+              "chord": "Em7",
+              "text": "rose"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Now He "
+            },
+            {
+              "chord": "D",
+              "text": "reigns"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We will "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "sing for - "
+            },
+            {
+              "chord": "A",
+              "text": "ever"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "With a thousand "
+            },
+            {
+              "chord": "D",
+              "text": "hallelujahs "
+            },
+            {
+              "chord": "A",
+              "text": "we magnify "
+            },
+            {
+              "chord": "Bm",
+              "text": "Your name"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "You alone de"
+            },
+            {
+              "chord": "D",
+              "text": "serve the glory, "
+            },
+            {
+              "chord": "A",
+              "text": "the honor "
+            },
+            {
+              "chord": "Bm",
+              "text": "and the praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gadd9",
+              "text": "Lord Jesus, "
+            },
+            {
+              "chord": "A",
+              "text": "this song is "
+            },
+            {
+              "chord": "D",
+              "text": "forever "
+            },
+            {
+              "chord": "Bm",
+              "text": "Yours"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A "
+            },
+            {
+              "chord": "Gadd9",
+              "text": "thousand hallelujahs "
+            },
+            {
+              "chord": "D",
+              "text": "and a "
+            },
+            {
+              "chord": "A",
+              "text": "thousand "
+            },
+            {
+              "chord": "D",
+              "text": "more"
+            }
+          ]
+        }
+      ]
     }
   ],
   "slug": "athousandhallelujahs",
   "source_file": "AThousandHallelujahs-BrookeLigertwood-D-Pag1-Horizontal-2Columnas.pdf",
   "source_hash": "b40a118cbc4be00b",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-10T19:04:15+00:00"
+  "method": "transposed",
+  "model": "",
+  "extracted_at": "2026-11-14T14:02:02+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: G transcrita a mano desde la imagen de la hoja de Christian (acordes debajo de la letra); C y D transpuestas de G y confirmadas contra el OCR de su propio PDF (solo diferencias de OCR)",
+    "fingerprint": "d88a123bb5017fb1",
+    "at": "2026-11-14T14:02:31+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "D",
+            ""
+          ],
+          [
+            "Gadd9",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "Gadd9",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ]
+        ],
+        "L2": [
+          [
+            "D",
+            "Who"
+          ],
+          [
+            "Gadd9",
+            "rocks"
+          ],
+          [
+            "D",
+            "worship"
+          ]
+        ],
+        "L3": [
+          [
+            "D",
+            "Whose"
+          ],
+          [
+            "Gadd9",
+            "taught"
+          ],
+          [
+            "D",
+            "shine"
+          ]
+        ],
+        "L4": [
+          [
+            "Gadd9",
+            "Perhaps"
+          ],
+          [
+            "A",
+            "creation"
+          ],
+          [
+            "Bm",
+            "have"
+          ],
+          [
+            "A",
+            "words"
+          ],
+          [
+            "Gadd9",
+            "sing"
+          ]
+        ],
+        "L5": [
+          [
+            "Gadd9",
+            "But"
+          ],
+          [
+            "A",
+            "joy"
+          ],
+          [
+            "D",
+            "mine"
+          ]
+        ],
+        "L6": [
+          [
+            "Gadd9",
+            "With"
+          ],
+          [
+            "D",
+            "hallelujahs"
+          ],
+          [
+            "A",
+            "we"
+          ],
+          [
+            "Bm",
+            "Your"
+          ]
+        ],
+        "L7": [
+          [
+            "Gadd9",
+            "You"
+          ],
+          [
+            "D",
+            "deserve"
+          ],
+          [
+            "A",
+            "the"
+          ],
+          [
+            "Bm",
+            "and"
+          ]
+        ],
+        "L8": [
+          [
+            "Gadd9",
+            "Lord"
+          ],
+          [
+            "A",
+            "this"
+          ],
+          [
+            "D",
+            "forever"
+          ],
+          [
+            "Bm",
+            "Yours"
+          ]
+        ],
+        "L9": [
+          [
+            "Gadd9",
+            "thousand"
+          ],
+          [
+            "D",
+            "and"
+          ],
+          [
+            "A",
+            "thousand"
+          ],
+          [
+            "D",
+            "more"
+          ]
+        ],
+        "L10": [
+          [
+            "D",
+            "Who"
+          ],
+          [
+            "Gadd9",
+            "die"
+          ],
+          [
+            "D",
+            "redemption"
+          ]
+        ],
+        "L11": [
+          [
+            "D",
+            "Whose"
+          ],
+          [
+            "Gadd9",
+            "resurrection"
+          ],
+          [
+            "D",
+            "rise"
+          ]
+        ],
+        "L12": [],
+        "L13": [
+          [
+            "Gadd9",
+            "There"
+          ],
+          [
+            "A",
+            "time"
+          ],
+          [
+            "Bm",
+            "sing"
+          ],
+          [
+            "A",
+            "all"
+          ],
+          [
+            "Gadd9",
+            "done"
+          ]
+        ],
+        "L14": [
+          [
+            "Gadd9",
+            "But"
+          ],
+          [
+            "A",
+            "eternity"
+          ],
+          [
+            "D",
+            "try"
+          ]
+        ],
+        "L15": [
+          [
+            "Gadd9",
+            "With"
+          ],
+          [
+            "D",
+            "hallelujahs"
+          ],
+          [
+            "A",
+            "we"
+          ],
+          [
+            "Bm",
+            "Your"
+          ]
+        ],
+        "L16": [
+          [
+            "Gadd9",
+            "You"
+          ],
+          [
+            "D",
+            "deserve"
+          ],
+          [
+            "A",
+            "the"
+          ],
+          [
+            "Bm",
+            "and"
+          ]
+        ],
+        "L17": [
+          [
+            "Gadd9",
+            "Lord"
+          ],
+          [
+            "A",
+            "this"
+          ],
+          [
+            "D",
+            "forever"
+          ],
+          [
+            "Bm",
+            "Yours"
+          ]
+        ],
+        "L18": [
+          [
+            "Gadd9",
+            "thousand"
+          ],
+          [
+            "D",
+            "and"
+          ],
+          [
+            "A",
+            "thousand"
+          ],
+          [
+            "D",
+            "more"
+          ]
+        ],
+        "L19": [
+          [
+            "D",
+            ""
+          ],
+          [
+            "Em7",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "Gadd9",
+            ""
+          ],
+          [
+            "A",
+            ""
+          ]
+        ],
+        "L20": [],
+        "L21": [
+          [
+            "D",
+            "praise"
+          ],
+          [
+            "Em7",
+            "Ord"
+          ]
+        ],
+        "L22": [],
+        "L23": [],
+        "L24": [],
+        "L25": [
+          [
+            "D",
+            "Lamb"
+          ]
+        ],
+        "L26": [
+          [
+            "Gadd9",
+            "King"
+          ],
+          [
+            "A",
+            "heaven"
+          ]
+        ],
+        "L27": [
+          [
+            "D",
+            "Praise"
+          ],
+          [
+            "Em7",
+            "rose"
+          ]
+        ],
+        "L28": [
+          [
+            "D",
+            "reigns"
+          ]
+        ],
+        "L29": [
+          [
+            "Gadd9",
+            "sing"
+          ],
+          [
+            "A",
+            "for"
+          ]
+        ],
+        "L30": [
+          [
+            "Gadd9",
+            "With"
+          ],
+          [
+            "D",
+            "hallelujahs"
+          ],
+          [
+            "A",
+            "we"
+          ],
+          [
+            "Bm",
+            "Your"
+          ]
+        ],
+        "L31": [
+          [
+            "Gadd9",
+            "You"
+          ],
+          [
+            "D",
+            "deserve"
+          ],
+          [
+            "A",
+            "the"
+          ],
+          [
+            "Bm",
+            "and"
+          ]
+        ],
+        "L32": [
+          [
+            "Gadd9",
+            "Lord"
+          ],
+          [
+            "A",
+            "this"
+          ],
+          [
+            "D",
+            "forever"
+          ],
+          [
+            "Bm",
+            "Yours"
+          ]
+        ],
+        "L33": [
+          [
+            "Gadd9",
+            "thousand"
+          ],
+          [
+            "D",
+            "and"
+          ],
+          [
+            "A",
+            "thousand"
+          ],
+          [
+            "D",
+            "more"
+          ]
+        ],
+        "L34": [
+          [
+            "D",
+            ""
+          ],
+          [
+            "Em7",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "Gadd9",
+            ""
+          ],
+          [
+            "A",
+            ""
+          ]
+        ],
+        "L35": [
+          [
+            "D",
+            "Praise"
+          ],
+          [
+            "Em7",
+            "Lord"
+          ]
+        ],
+        "L36": [
+          [
+            "D",
+            "Lamb"
+          ]
+        ],
+        "L37": [
+          [
+            "Gadd9",
+            "King"
+          ],
+          [
+            "A",
+            "heaven"
+          ]
+        ],
+        "L38": [
+          [
+            "D",
+            "Praise"
+          ],
+          [
+            "Em7",
+            "rose"
+          ]
+        ],
+        "L39": [
+          [
+            "D",
+            "reigns"
+          ]
+        ],
+        "L40": [
+          [
+            "Gadd9",
+            "sing"
+          ],
+          [
+            "A",
+            "for"
+          ]
+        ],
+        "L41": [
+          [
+            "Gadd9",
+            "With"
+          ],
+          [
+            "D",
+            "hallelujahs"
+          ],
+          [
+            "A",
+            "we"
+          ],
+          [
+            "Bm",
+            "Your"
+          ]
+        ],
+        "L42": [
+          [
+            "Gadd9",
+            "You"
+          ],
+          [
+            "D",
+            "deserve"
+          ],
+          [
+            "A",
+            "the"
+          ],
+          [
+            "Bm",
+            "and"
+          ]
+        ],
+        "L43": [
+          [
+            "Gadd9",
+            "Lord"
+          ],
+          [
+            "A",
+            "this"
+          ],
+          [
+            "D",
+            "forever"
+          ],
+          [
+            "Bm",
+            "Yours"
+          ]
+        ],
+        "L44": [
+          [
+            "Gadd9",
+            "thousand"
+          ],
+          [
+            "D",
+            "and"
+          ],
+          [
+            "A",
+            "thousand"
+          ],
+          [
+            "D",
+            "more"
+          ]
+        ],
+        "L45": []
+      },
+      "line_text": {
+        "L1": "(chords only)",
+        "L2": "Who else would rocks cry out to worship",
+        "L3": "Whose glory taught the stars to shine",
+        "L4": "Perhaps creation longs to have the words to sing",
+        "L5": "But this joy is mine",
+        "L6": "With a thousand hallelujahs we magnify Your name",
+        "L7": "You alone deserve the glory, the honor and the praise",
+        "L8": "Lord Jesus, this song is forever Yours",
+        "L9": "A thousand hallelujahs and a thousand more",
+        "L10": "Who else would die for our redemption",
+        "L11": "Whose resurrection means I'll rise",
+        "L12": "_ Gadd OD",
+        "L13": "There isn’t time enough to sing of all You've done",
+        "L14": "But I have eternity to try",
+        "L15": "With a thousand hallelujahs we magnify Your name",
+        "L16": "You alone deserve the glory, the honor and the praise",
+        "L17": "Lord Jesus, this song is forever Yours",
+        "L18": "A thousand hallelujahs and a thousand more",
+        "L19": "(chords only)",
+        "L20": ", to the",
+        "L21": "praise Ord",
+        "L22": "Leer cada columna de arriba abajo. Letra primero; acordes debajo. Acorde repetido al inicio: se mantiene.",
+        "L23": "Brooke Ligertwood | D",
+        "L24": "To the",
+        "L25": "Lamb",
+        "L26": "To the King of heaven",
+        "L27": "Praise for He rose",
+        "L28": "Now He reigns",
+        "L29": "We will sing ffor - ever",
+        "L30": "With a thousand hallelujahs we magnify Your name",
+        "L31": "You alone deserve the glory, the honor and the praise",
+        "L32": "Lord Jesus, this song is forever Yours",
+        "L33": "A thousand hallelujahs and a thousand more",
+        "L34": "(chords only)",
+        "L35": "Praise to the Lord",
+        "L36": "To the Lamb",
+        "L37": "To the King of heaven",
+        "L38": "Praise for He rose",
+        "L39": "Now He reigns",
+        "L40": "We will sing for - ever",
+        "L41": "GaddoWith aa th mmonsan d Dhallelujaheendens A megneyify Yen ves",
+        "L42": "You alone deserve the glory, the honor and the praise",
+        "L43": "Lord Jesus, this song is forever Yours",
+        "L44": "A thousand hallelujahs and a thousand more",
+        "L45": "Aé4 horizontal | 1 pagina"
+      },
+      "source_hash": "b40a118cbc4be00b"
+    }
+  },
+  "note": "Transposed from athousandhallelujahs__G (hand transcription of the same sheet in G).",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "d88a123bb5017fb1"
+  }
 }

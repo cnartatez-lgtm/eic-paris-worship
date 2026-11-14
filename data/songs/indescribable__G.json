@@ -10,16 +10,20 @@
   },
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "VERSE 1",
       "lines": [
         {
           "parts": [
             {
               "chord": "Em",
-              "text": "From the highest of heights to the depths of the "
+              "text": "From the highest of "
             },
             {
               "chord": "D",
+              "text": "heights to the depths of the "
+            },
+            {
+              "chord": "G",
               "text": "sea,"
             }
           ]
@@ -28,11 +32,15 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "Creation's revealing Your "
+              "text": "Creation's re"
             },
             {
               "chord": "G",
-              "text": "majesty."
+              "text": "vealing Your majes"
+            },
+            {
+              "chord": "F",
+              "text": "ty."
             }
           ]
         },
@@ -40,10 +48,14 @@
           "parts": [
             {
               "chord": "Em",
-              "text": "From the colors of Fall to the fragrance of "
+              "text": "From the colors of "
             },
             {
               "chord": "D",
+              "text": "Fall to the fragrance of "
+            },
+            {
+              "chord": "G",
               "text": "Spring,"
             }
           ]
@@ -52,10 +64,14 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "Every creature unique in the song that it "
+              "text": "Every creature u"
             },
             {
               "chord": "C",
+              "text": "nique in the song that it "
+            },
+            {
+              "chord": "F",
               "text": "sings."
             }
           ]
@@ -64,28 +80,28 @@
           "parts": [
             {
               "chord": "C",
-              "text": "All "
+              "text": "All ex"
             },
             {
               "chord": "D",
-              "text": "exclaiming:"
+              "text": "claiming:"
             }
           ]
         }
       ]
     },
     {
-      "label": "Chorus",
+      "label": "CHORUS",
       "lines": [
         {
           "parts": [
             {
               "chord": "G",
-              "text": "Indescribable, uncontainable; "
+              "text": "Indescribable, "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "uncontainable;"
             }
           ]
         },
@@ -117,11 +133,11 @@
           "parts": [
             {
               "chord": "G",
-              "text": "All powerful, untamable. "
+              "text": "All powerful, "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "untamable."
             }
           ]
         },
@@ -129,11 +145,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Awestruck, we fall to our knees as we humbly "
+              "text": "Awestruck, we fall to our knees as we humbly pro"
             },
             {
               "chord": "Em",
-              "text": "proclaim,"
+              "text": "claim,"
             }
           ]
         },
@@ -152,16 +168,20 @@
       ]
     },
     {
-      "label": "Verse 2",
+      "label": "VERSE 2",
       "lines": [
         {
           "parts": [
             {
               "chord": "Em",
-              "text": "Who has told every lightning bolt where it should "
+              "text": "Who has told every "
             },
             {
               "chord": "D",
+              "text": "lightning bolt where it should "
+            },
+            {
+              "chord": "G",
               "text": "go?"
             }
           ]
@@ -170,10 +190,14 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "Or seen heavenly storehouses laden with "
+              "text": "Or seen heavenly "
             },
             {
               "chord": "G",
+              "text": "storehouses laden with "
+            },
+            {
+              "chord": "F",
               "text": "snow?"
             }
           ]
@@ -182,10 +206,14 @@
           "parts": [
             {
               "chord": "Em",
-              "text": "Who imagined the sun and gives source to its "
+              "text": "Who imagined the "
             },
             {
               "chord": "D",
+              "text": "sun and gives source to its "
+            },
+            {
+              "chord": "G",
               "text": "light,"
             }
           ]
@@ -194,10 +222,14 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "Yet conceals it to bring us the coolness of "
+              "text": "Yet conceals it to "
             },
             {
               "chord": "C",
+              "text": "bring us the coolness of "
+            },
+            {
+              "chord": "F",
               "text": "night?"
             }
           ]
@@ -217,14 +249,229 @@
       ]
     },
     {
-      "label": "Chorus",
+      "label": "CHORUS",
       "lines": []
     }
   ],
   "slug": "indescribable",
   "source_file": "Indescribable-LauraStory-G-Pag1-Facil.pdf",
   "source_hash": "1dfea8a53baaf228",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-10T19:01:43+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T13:50:03+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: leída por posición del PDF con texto; estructura comparada con el texto del PDF; tonalidades idénticas al transponer (0 diferencias)",
+    "fingerprint": "ef313a5b91b59e9a",
+    "at": "2026-11-14T13:50:44+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "Em",
+            "From"
+          ],
+          [
+            "D",
+            "heights"
+          ],
+          [
+            "G",
+            "sea,"
+          ]
+        ],
+        "L2": [
+          [
+            "Am",
+            "Creation's"
+          ],
+          [
+            "G",
+            "revealing"
+          ],
+          [
+            "F",
+            "majesty."
+          ]
+        ],
+        "L3": [
+          [
+            "Em",
+            "From"
+          ],
+          [
+            "D",
+            "Fall"
+          ],
+          [
+            "G",
+            "Spring,"
+          ]
+        ],
+        "L4": [
+          [
+            "Am",
+            "Every"
+          ],
+          [
+            "C",
+            "unique"
+          ],
+          [
+            "F",
+            "sings."
+          ]
+        ],
+        "L5": [
+          [
+            "C",
+            "All"
+          ],
+          [
+            "D",
+            "exclaiming:"
+          ]
+        ],
+        "L6": [
+          [
+            "G",
+            "Indescribable,"
+          ],
+          [
+            "D",
+            "uncontainable;"
+          ]
+        ],
+        "L7": [
+          [
+            "C",
+            "You"
+          ],
+          [
+            "Em",
+            "name."
+          ]
+        ],
+        "L8": [
+          [
+            "G",
+            "You"
+          ],
+          [
+            "C",
+            "God!"
+          ]
+        ],
+        "L9": [
+          [
+            "G",
+            "All"
+          ],
+          [
+            "D",
+            "untamable."
+          ]
+        ],
+        "L10": [
+          [
+            "C",
+            "Awestruck,"
+          ],
+          [
+            "Em",
+            "proclaim,"
+          ]
+        ],
+        "L11": [
+          [
+            "G",
+            "You"
+          ],
+          [
+            "C",
+            "God."
+          ]
+        ],
+        "L12": [
+          [
+            "Em",
+            "Who"
+          ],
+          [
+            "D",
+            "lightning"
+          ],
+          [
+            "G",
+            "go?"
+          ]
+        ],
+        "L13": [
+          [
+            "Am",
+            "Or"
+          ],
+          [
+            "G",
+            "heavenly"
+          ],
+          [
+            "F",
+            "snow?"
+          ]
+        ],
+        "L14": [
+          [
+            "Em",
+            "Who"
+          ],
+          [
+            "D",
+            "sun"
+          ],
+          [
+            "G",
+            "light,"
+          ]
+        ],
+        "L15": [
+          [
+            "Am",
+            "Yet"
+          ],
+          [
+            "C",
+            "bring"
+          ],
+          [
+            "F",
+            "night?"
+          ]
+        ],
+        "L16": [
+          [
+            "C",
+            "None"
+          ],
+          [
+            "D",
+            "fathom!"
+          ]
+        ]
+      },
+      "line_text": null,
+      "source_hash": "1dfea8a53baaf228"
+    }
+  },
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "ef313a5b91b59e9a"
+  }
 }

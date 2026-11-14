@@ -16,19 +16,39 @@
           "parts": [
             {
               "chord": "G",
-              "text": "1"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             },
             {
               "chord": "G",
-              "text": " &2"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             },
             {
               "chord": "G",
-              "text": " &3"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             },
             {
               "chord": "C",
-              "text": " & 4 &"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "(x3)",
+              "text": ""
             }
           ]
         },
@@ -36,7 +56,11 @@
           "parts": [
             {
               "chord": "G",
-              "text": "1 & 2 & 3"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         }
@@ -48,12 +72,16 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Men of "
+            },
+            {
               "chord": "G",
-              "text": "Men of faith "
+              "text": "faith rise "
             },
             {
               "chord": "D",
-              "text": "rise up and "
+              "text": "up and "
             },
             {
               "chord": "C",
@@ -64,8 +92,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Of the "
+            },
+            {
               "chord": "G",
-              "text": "Of the great and "
+              "text": "great and "
             },
             {
               "chord": "D",
@@ -80,17 +112,17 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You are "
+            },
+            {
               "chord": "G",
-              "text": "You are strong when you "
+              "text": "strong when "
             },
             {
               "chord": "D",
-              "text": "feel"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "you feel "
+            },
             {
               "chord": "C",
               "text": "weak"
@@ -100,16 +132,20 @@
         {
           "parts": [
             {
-              "chord": "G",
+              "chord": "",
               "text": "In your "
             },
             {
+              "chord": "G",
+              "text": "broke"
+            },
+            {
               "chord": "D",
-              "text": "brokenness "
+              "text": "nness com"
             },
             {
               "chord": "C",
-              "text": "complete"
+              "text": "plete"
             }
           ]
         }
@@ -122,10 +158,14 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shout to the North and the "
+              "text": "Shout to the "
             },
             {
               "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
               "text": "South"
             }
           ]
@@ -134,10 +174,14 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Sing to the East and the "
+              "text": "Sing to the "
             },
             {
               "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
               "text": "West"
             }
           ]
@@ -146,11 +190,15 @@
           "parts": [
             {
               "chord": "Em",
-              "text": "Jesus is Saviour to "
+              "text": "Jesus is "
             },
             {
               "chord": "C",
-              "text": "all"
+              "text": "Saviour to a"
+            },
+            {
+              "chord": "D",
+              "text": "ll"
             }
           ]
         },
@@ -158,10 +206,14 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Lord of heaven and "
+              "text": "Lord of "
             },
             {
               "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
               "text": "earth"
             }
           ]
@@ -174,11 +226,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Rise up "
+            },
+            {
               "chord": "G",
-              "text": "Rise up women of the "
+              "text": "women "
             },
             {
               "chord": "D",
+              "text": "of the "
+            },
+            {
+              "chord": "C",
               "text": "truth"
             }
           ]
@@ -186,17 +246,17 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Stand and "
+            },
+            {
               "chord": "G",
-              "text": "Stand and sing to "
+              "text": "sing to "
             },
             {
               "chord": "D",
-              "text": "broken"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "broken "
+            },
             {
               "chord": "C",
               "text": "hearts"
@@ -206,12 +266,40 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Who can "
+            },
+            {
               "chord": "G",
-              "text": "Who can know the healing "
+              "text": "know the "
             },
             {
               "chord": "D",
+              "text": "healing "
+            },
+            {
+              "chord": "C",
               "text": "power"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Of our "
+            },
+            {
+              "chord": "G",
+              "text": "awesome "
+            },
+            {
+              "chord": "D",
+              "text": "King of "
+            },
+            {
+              "chord": "C",
+              "text": "love"
             }
           ]
         }
@@ -224,10 +312,14 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shout to the North and the "
+              "text": "Shout to the "
             },
             {
               "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
               "text": "South"
             }
           ]
@@ -236,10 +328,14 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Sing to the East and the "
+              "text": "Sing to the "
             },
             {
               "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
               "text": "West"
             }
           ]
@@ -248,11 +344,15 @@
           "parts": [
             {
               "chord": "Em",
-              "text": "Jesus is Saviour to "
+              "text": "Jesus is "
             },
             {
               "chord": "C",
-              "text": "all"
+              "text": "Saviour to a"
+            },
+            {
+              "chord": "D",
+              "text": "ll"
             }
           ]
         },
@@ -260,10 +360,78 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Lord of heaven and "
+              "text": "Lord of "
             },
             {
               "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Shout to the "
+            },
+            {
+              "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Sing to the "
+            },
+            {
+              "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Jesus is "
+            },
+            {
+              "chord": "C",
+              "text": "Saviour to a"
+            },
+            {
+              "chord": "D",
+              "text": "ll"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of "
+            },
+            {
+              "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
               "text": "earth"
             }
           ]
@@ -277,11 +445,11 @@
           "parts": [
             {
               "chord": "Em",
-              "text": "We've been through fire, we've "
+              "text": "We've been through fire, "
             },
             {
               "chord": "C",
-              "text": "been through rain"
+              "text": "we've been through rain"
             }
           ]
         },
@@ -301,11 +469,11 @@
           "parts": [
             {
               "chord": "Em",
-              "text": "We've fallen deeper in love "
+              "text": "We've fallen deeper "
             },
             {
               "chord": "C",
-              "text": "with you"
+              "text": "in love with you"
             }
           ]
         },
@@ -318,6 +486,10 @@
             {
               "chord": "Dsus",
               "text": "lips"
+            },
+            {
+              "chord": "D",
+              "text": ""
             }
           ]
         }
@@ -330,10 +502,14 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shout to the North and the "
+              "text": "Shout to the "
             },
             {
               "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
               "text": "South"
             }
           ]
@@ -342,10 +518,14 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Sing to the East and the "
+              "text": "Sing to the "
             },
             {
               "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
               "text": "West"
             }
           ]
@@ -354,10 +534,14 @@
           "parts": [
             {
               "chord": "Em",
-              "text": "Jesus is Saviour to "
+              "text": "Jesus is "
             },
             {
               "chord": "C",
+              "text": "Saviour to "
+            },
+            {
+              "chord": "D",
               "text": "all"
             }
           ]
@@ -366,10 +550,78 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Lord of heaven and "
+              "text": "Lord of "
             },
             {
               "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Shout to the "
+            },
+            {
+              "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Sing to the "
+            },
+            {
+              "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Jesus is "
+            },
+            {
+              "chord": "C",
+              "text": "Saviour to "
+            },
+            {
+              "chord": "D",
+              "text": "all"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of "
+            },
+            {
+              "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
               "text": "earth"
             }
           ]
@@ -382,17 +634,17 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Rise up "
+            },
+            {
               "chord": "G",
-              "text": "Rise up church with "
+              "text": "church with "
             },
             {
               "chord": "D",
-              "text": "broken"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "broken "
+            },
             {
               "chord": "C",
               "text": "wings"
@@ -402,31 +654,39 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Fill this "
+            },
+            {
               "chord": "G",
-              "text": "Fill this place with "
+              "text": "place with "
             },
             {
               "chord": "D",
-              "text": "songs"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "songs a"
+            },
             {
               "chord": "C",
-              "text": "again"
+              "text": "gain"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Of our "
+            },
+            {
               "chord": "G",
-              "text": "Of our God who reigns on "
+              "text": "God who "
             },
             {
               "chord": "D",
+              "text": "reigns on "
+            },
+            {
+              "chord": "C",
               "text": "high"
             }
           ]
@@ -434,65 +694,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "By His "
+            },
+            {
               "chord": "G",
-              "text": "By His grace again we'll "
+              "text": "grace a"
             },
             {
               "chord": "D",
+              "text": "gain we'll "
+            },
+            {
+              "chord": "C",
               "text": "fly"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Shout to the North and the "
-            },
-            {
-              "chord": "C",
-              "text": "South"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Sing to the East and the "
-            },
-            {
-              "chord": "C",
-              "text": "West"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Em",
-              "text": "Jesus is Saviour to "
-            },
-            {
-              "chord": "C",
-              "text": "all"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Lord of heaven and "
-            },
-            {
-              "chord": "D",
-              "text": "earth"
             }
           ]
         }
@@ -505,10 +720,14 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shout to the North and the "
+              "text": "Shout to the "
             },
             {
               "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
               "text": "South"
             }
           ]
@@ -517,10 +736,14 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Sing to the East and the "
+              "text": "Sing to the "
             },
             {
               "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
               "text": "West"
             }
           ]
@@ -529,10 +752,206 @@
           "parts": [
             {
               "chord": "Em",
-              "text": "Jesus is Saviour to "
+              "text": "Jesus is "
             },
             {
               "chord": "C",
+              "text": "Saviour to a"
+            },
+            {
+              "chord": "D",
+              "text": "ll"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of "
+            },
+            {
+              "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Shout to the "
+            },
+            {
+              "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Sing to the "
+            },
+            {
+              "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Jesus is "
+            },
+            {
+              "chord": "C",
+              "text": "Saviour to a"
+            },
+            {
+              "chord": "D",
+              "text": "ll"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of "
+            },
+            {
+              "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Shout to the "
+            },
+            {
+              "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Sing to the "
+            },
+            {
+              "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Jesus is "
+            },
+            {
+              "chord": "C",
+              "text": "Saviour to a"
+            },
+            {
+              "chord": "D",
+              "text": "ll"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of "
+            },
+            {
+              "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Shout to the "
+            },
+            {
+              "chord": "C",
+              "text": "North and the "
+            },
+            {
+              "chord": "D",
+              "text": "South"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Sing to the "
+            },
+            {
+              "chord": "C",
+              "text": "East and the "
+            },
+            {
+              "chord": "D",
+              "text": "West"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Jesus is "
+            },
+            {
+              "chord": "C",
+              "text": "Saviour to "
+            },
+            {
+              "chord": "D",
               "text": "all"
             }
           ]
@@ -541,10 +960,62 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Lord of heaven and "
+              "text": "Lord of "
             },
             {
               "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of "
+            },
+            {
+              "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of "
+            },
+            {
+              "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
+              "text": "earth"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Lord of "
+            },
+            {
+              "chord": "D",
+              "text": "heaven and "
+            },
+            {
+              "chord": "G",
               "text": "earth"
             }
           ]
@@ -555,7 +1026,25 @@
   "slug": "shouttothenorth",
   "source_file": "ShoutToTheNorth-Delirious-G-Pag2.pdf",
   "source_hash": "e0adf11b0a379fa5",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-03T19:01:48+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:51:23+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/delirious/shout-to-the-north-chords-1075771",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (transposed +0); match with the PDF reading 0.99.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "94b2fe5114bb85f4"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "94b2fe5114bb85f4",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

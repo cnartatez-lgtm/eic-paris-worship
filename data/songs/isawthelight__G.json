@@ -15,16 +15,84 @@
         {
           "parts": [
             {
+              "chord": "|",
+              "text": ""
+            },
+            {
               "chord": "G",
-              "text": "| G | G | G | G |"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "|",
+              "text": ""
+            },
+            {
               "chord": "G",
-              "text": "| G | G | D | G | G"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
             }
           ]
         }
@@ -36,8 +104,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "I "
+            },
+            {
               "chord": "G",
-              "text": "I wandered so aimless, life filled with sin"
+              "text": "wandered so aimless, life filled with sin"
             }
           ]
         },
@@ -45,7 +117,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "I wouldn't let my dear savior in"
+              "text": "I wouldn't let my dear savior "
+            },
+            {
+              "chord": "G",
+              "text": "in"
             }
           ]
         },
@@ -90,7 +166,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "No more darkness, no more night"
+              "text": "No more darkness, no more "
+            },
+            {
+              "chord": "G",
+              "text": "night"
             }
           ]
         },
@@ -126,8 +206,48 @@
         {
           "parts": [
             {
+              "chord": "|",
+              "text": ""
+            },
+            {
               "chord": "G",
-              "text": "| G | G | D | G | G |"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         }
@@ -148,7 +268,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Worries and fears I claimed for my own"
+              "text": "Worries and fears I claimed for my "
+            },
+            {
+              "chord": "G",
+              "text": "own"
             }
           ]
         },
@@ -193,7 +317,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "No more darkness, no more night"
+              "text": "No more darkness, no more "
+            },
+            {
+              "chord": "G",
+              "text": "night"
             }
           ]
         },
@@ -229,32 +357,168 @@
         {
           "parts": [
             {
+              "chord": "|",
+              "text": ""
+            },
+            {
               "chord": "G",
-              "text": "| G   | G   | G   | G   |"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "|",
+              "text": ""
+            },
             {
               "chord": "C",
-              "text": "| C   | C   | C   | G   |"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "|",
+              "text": ""
+            },
+            {
               "chord": "G",
-              "text": "| G   | G   | G   | G   |"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "|",
+              "text": ""
+            },
+            {
               "chord": "G",
-              "text": "| G   | G   | D   | G   | G |"
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         }
@@ -274,8 +538,16 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "For "
+            },
+            {
               "chord": "C",
-              "text": "For straight is the gate and narrow the way"
+              "text": "straight is the gate and narrow the "
+            },
+            {
+              "chord": "G",
+              "text": "way"
             }
           ]
         },
@@ -307,54 +579,318 @@
     },
     {
       "label": "Chorus",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "I saw the light, I saw the light"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "No more darkness, no more night"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Now I'm so happy, no sorrow in sight"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Praise the Lord, "
-            },
-            {
-              "chord": "D",
-              "text": "I saw the "
-            },
-            {
-              "chord": "G",
-              "text": "light"
-            }
-          ]
-        }
-      ]
+      "lines": []
     }
   ],
   "slug": "isawthelight",
   "source_file": "ISawTheLight-HankWilliams-G-Pag1-Horizontal.pdf",
   "source_hash": "b34ebaa87d72accf",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-31T20:00:49+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T13:36:58+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: leída por posición del PDF con texto; comparada con el texto del PDF y entre tonalidades (0 diferencias)",
+    "fingerprint": "392c9a6b2b99c906",
+    "at": "2026-11-14T13:37:35+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L2": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L3": [
+          [
+            "G",
+            "wandered"
+          ]
+        ],
+        "L4": [
+          [
+            "C",
+            "I"
+          ],
+          [
+            "G",
+            "in"
+          ]
+        ],
+        "L5": [
+          [
+            "G",
+            "Then"
+          ]
+        ],
+        "L6": [
+          [
+            "G",
+            "Praise"
+          ],
+          [
+            "D",
+            "I"
+          ],
+          [
+            "G",
+            "light"
+          ]
+        ],
+        "L7": [
+          [
+            "G",
+            "I"
+          ]
+        ],
+        "L8": [
+          [
+            "C",
+            "No"
+          ],
+          [
+            "G",
+            "night"
+          ]
+        ],
+        "L9": [
+          [
+            "G",
+            "Now"
+          ]
+        ],
+        "L10": [
+          [
+            "G",
+            "Praise"
+          ],
+          [
+            "D",
+            "I"
+          ],
+          [
+            "G",
+            "light"
+          ]
+        ],
+        "L11": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L12": [
+          [
+            "G",
+            "I"
+          ]
+        ],
+        "L13": [
+          [
+            "C",
+            "No"
+          ],
+          [
+            "G",
+            "night"
+          ]
+        ],
+        "L14": [
+          [
+            "G",
+            "Now"
+          ]
+        ],
+        "L15": [
+          [
+            "G",
+            "Praise"
+          ],
+          [
+            "D",
+            "I"
+          ],
+          [
+            "G",
+            "light"
+          ]
+        ],
+        "L16": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L17": [
+          [
+            "C",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L18": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L19": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L20": [
+          [
+            "G",
+            "I"
+          ]
+        ],
+        "L21": [
+          [
+            "C",
+            "straight"
+          ],
+          [
+            "G",
+            "way"
+          ]
+        ],
+        "L22": [
+          [
+            "G",
+            "Now"
+          ]
+        ],
+        "L23": [
+          [
+            "G",
+            "Praise"
+          ],
+          [
+            "D",
+            "I"
+          ],
+          [
+            "G",
+            "light"
+          ]
+        ]
+      },
+      "line_text": null,
+      "source_hash": "b34ebaa87d72accf"
+    }
+  },
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "392c9a6b2b99c906"
+  }
 }

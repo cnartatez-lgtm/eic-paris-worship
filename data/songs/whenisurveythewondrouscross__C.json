@@ -15,16 +15,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "When I "
+            },
+            {
               "chord": "C",
-              "text": "When I survey the wondrous cross"
+              "text": "survey the wo"
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "ndrous "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "cross"
             }
           ]
         },
@@ -32,23 +36,23 @@
           "parts": [
             {
               "chord": "C",
-              "text": "On which the Prince of glory died,"
+              "text": "On whi"
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "ch the "
             },
             {
               "chord": "Am",
-              "text": " "
+              "text": "Prince "
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "of glory "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "died,"
             }
           ]
         },
@@ -56,14 +60,18 @@
           "parts": [
             {
               "chord": "C",
-              "text": "My richest gain I count but loss,"
+              "text": "My richest gain "
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "I count but "
             },
             {
               "chord": "Am",
+              "text": "loss,"
+            },
+            {
+              "chord": "F",
               "text": ""
             }
           ]
@@ -71,24 +79,24 @@
         {
           "parts": [
             {
-              "chord": "F",
-              "text": "And pour contempt on all my pride."
+              "chord": "",
+              "text": "And pour "
             },
             {
               "chord": "C",
-              "text": " "
+              "text": "contempt "
             },
             {
               "chord": "Dm",
-              "text": " "
+              "text": "on "
             },
             {
               "chord": "G7",
-              "text": " "
+              "text": "all my "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "pride."
             }
           ]
         }
@@ -100,40 +108,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Forbid it, "
+            },
+            {
               "chord": "C",
-              "text": "Forbid it, Lord, that I should"
+              "text": "Lord, "
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "that I should "
             },
-            {
-              "chord": "C",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
             {
               "chord": "C",
               "text": "boast,"
-            },
-            {
-              "chord": "G",
-              "text": " "
-            },
-            {
-              "chord": "Am",
-              "text": " "
-            },
-            {
-              "chord": "F",
-              "text": " "
-            },
-            {
-              "chord": "G",
-              "text": ""
             }
           ]
         },
@@ -141,47 +129,63 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Save in the death of Christ, my"
+              "text": "Save i"
             },
             {
-              "chord": "F",
-              "text": " "
+              "chord": "G",
+              "text": "n the "
             },
             {
               "chord": "Am",
-              "text": ""
+              "text": "death o"
+            },
+            {
+              "chord": "F",
+              "text": "f Christ, "
+            },
+            {
+              "chord": "G",
+              "text": "my God!"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "F",
-              "text": "God! All the vain things that charm me"
+              "chord": "C",
+              "text": "All the vain "
             },
             {
-              "chord": "C",
-              "text": " "
+              "chord": "F",
+              "text": "things that char"
             },
             {
               "chord": "Am",
-              "text": " "
+              "text": "m me "
+            },
+            {
+              "chord": "F",
+              "text": "most,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "I sacri"
+            },
+            {
+              "chord": "Am",
+              "text": "fice them "
             },
             {
               "chord": "G7",
-              "text": " "
+              "text": "to His "
             },
             {
               "chord": "C",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "F",
-              "text": "most, I sacrifice them to His blood."
+              "text": "blood."
             }
           ]
         }
@@ -193,16 +197,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "See from his hea"
+            },
+            {
               "chord": "C",
-              "text": "See from his head, His hands, His"
+              "text": "d, Hi"
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "s hands, His fe"
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "et,"
             }
           ]
         },
@@ -210,23 +218,23 @@
           "parts": [
             {
               "chord": "C",
-              "text": "feet,"
+              "text": "Sorrow "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "and lo"
             },
             {
               "chord": "Am",
-              "text": " "
+              "text": "ve flo"
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "w mingled "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "down."
             }
           ]
         },
@@ -234,67 +242,43 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Sorrow and love flow mingled down."
+              "text": "Did e’er such "
             },
             {
               "chord": "F",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Did e'er such love and sorrow"
+              "text": "love and sorrow "
             },
             {
               "chord": "Am",
-              "text": " "
+              "text": "meet"
             },
             {
               "chord": "F",
-              "text": ""
+              "text": ","
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "meet,"
-            },
-            {
-              "chord": "F",
-              "text": " "
+              "chord": "",
+              "text": "Or "
             },
             {
               "chord": "C",
-              "text": " "
+              "text": "thorns "
             },
             {
               "chord": "Dm",
-              "text": " "
+              "text": "com"
             },
             {
               "chord": "G7",
-              "text": " "
+              "text": "pose so rich a "
             },
             {
               "chord": "C",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Or thorns compose so rich a crown."
+              "text": "crown."
             }
           ]
         }
@@ -306,60 +290,92 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Were the whole "
+            },
+            {
               "chord": "C",
-              "text": "Were the whole realm of nature"
+              "text": "real"
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "m of nature "
             },
-            {
-              "chord": "C",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
             {
               "chord": "C",
               "text": "mine,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "That "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "were an "
             },
             {
               "chord": "Am",
-              "text": " "
+              "text": "off’ring "
             },
             {
               "chord": "F",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "That were an off'ring far too"
+              "text": "far too "
             },
             {
               "chord": "G",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": ""
+              "text": "small."
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Love so am"
+            },
+            {
               "chord": "C",
-              "text": "small."
+              "text": "azi"
+            },
+            {
+              "chord": "F",
+              "text": "ng so "
+            },
+            {
+              "chord": "Am",
+              "text": "divine"
+            },
+            {
+              "chord": "F",
+              "text": ","
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Demands my "
+            },
+            {
+              "chord": "C",
+              "text": "soul, my "
+            },
+            {
+              "chord": "Dm",
+              "text": "life, "
+            },
+            {
+              "chord": "G7",
+              "text": "my al"
+            },
+            {
+              "chord": "C",
+              "text": "l."
             }
           ]
         }
@@ -371,128 +387,132 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Were the whole re"
+            },
+            {
               "chord": "C",
-              "text": "Were the whole realm of nature"
+              "text": "alm "
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "of nature "
             },
-            {
-              "chord": "C",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
             {
               "chord": "C",
               "text": "mine,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "That "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "were a "
             },
             {
               "chord": "Am",
-              "text": " "
+              "text": "present "
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "far too "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "small;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Love so a"
+            },
+            {
               "chord": "C",
-              "text": "That were a present far too small;"
+              "text": "mazing, "
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "so divin"
             },
             {
               "chord": "Am",
-              "text": ""
+              "text": "e,"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "Love so amazing, so divine,"
+              "chord": "",
+              "text": "Demands my "
             },
             {
-              "chord": "F",
-              "text": " "
-            },
-            {
-              "chord": "Am",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
               "chord": "C",
-              "text": "Demands my soul, my life, my all."
+              "text": "soul, my "
             },
             {
               "chord": "Dm",
-              "text": " "
+              "text": "life, "
             },
             {
               "chord": "G7",
-              "text": " "
+              "text": "my all"
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "."
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Love so a"
+            },
+            {
               "chord": "C",
-              "text": "Love so amazing, so divine,"
+              "text": "mazing, "
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "so divin"
             },
             {
               "chord": "Am",
-              "text": ""
+              "text": "e,"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Demands my "
+            },
+            {
               "chord": "C",
-              "text": "Demands my soul, my life, my all."
+              "text": "soul, my "
             },
             {
               "chord": "Dm",
-              "text": " "
+              "text": "life, "
             },
             {
               "chord": "G7",
-              "text": " "
+              "text": "my all"
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "."
             }
           ]
         }
@@ -502,7 +522,25 @@
   "slug": "whenisurveythewondrouscross",
   "source_file": "WhenISurveyTheWondrousCross-IsaacWatts-C-Pag1.pdf",
   "source_hash": "a6e5b71b2b1946fc",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-31T20:20:16+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:51:11+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/when-i-survey-the-wondrous-cross-chords-1757900",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (transposed +10); match with the PDF reading 0.99.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "4dd799118b4e1617"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "4dd799118b4e1617",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

@@ -15,7 +15,15 @@
         {
           "parts": [
             {
-              "chord": "N.C.",
+              "chord": "",
+              "text": "N.C."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Let everything that has breath"
             }
           ]
@@ -23,7 +31,15 @@
         {
           "parts": [
             {
-              "chord": "N.C.",
+              "chord": "",
+              "text": "N.C."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Praise the Lord"
             }
           ]
@@ -31,15 +47,15 @@
         {
           "parts": [
             {
-              "chord": "N.C.",
-              "text": "Oh my soul"
+              "chord": "",
+              "text": "N.C."
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "N.C.",
+              "chord": "",
               "text": "Praise the Lord"
             }
           ]
@@ -47,15 +63,31 @@
         {
           "parts": [
             {
-              "chord": "N.C.",
-              "text": "Oh my soul"
+              "chord": "",
+              "text": "N.C."
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "N.C.",
+              "chord": "",
+              "text": "Let everything that has breath"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "N.C."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Praise the Lord"
             }
           ]
@@ -63,8 +95,16 @@
         {
           "parts": [
             {
-              "chord": "N.C.",
-              "text": "Oh my soul"
+              "chord": "",
+              "text": "N.C."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Praise the Lord"
             }
           ]
         }
@@ -76,8 +116,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "I’ll "
+            },
+            {
               "chord": "C",
-              "text": "I’ll praise in the valley"
+              "text": "praise in the valley"
             }
           ]
         },
@@ -85,15 +129,51 @@
           "parts": [
             {
               "chord": "F",
-              "text": "My praise is a weapon"
+              "text": "Praise on the "
+            },
+            {
+              "chord": "C",
+              "text": "mountain"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "I’ll "
+            },
+            {
+              "chord": "G",
+              "text": "praise when I’m sure"
+            },
+            {
+              "chord": "F",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Praise when I’m "
+            },
+            {
               "chord": "C",
-              "text": "Praise on the mountain"
+              "text": "doubting"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I’ll "
+            },
+            {
+              "chord": "C",
+              "text": "praise when outnumbered"
             }
           ]
         },
@@ -101,15 +181,11 @@
           "parts": [
             {
               "chord": "F",
-              "text": "It’s more than a sound"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "Praise when surr"
+            },
             {
               "chord": "C",
-              "text": "I’ll praise when I’m sure"
+              "text": "ounded"
             }
           ]
         },
@@ -117,55 +193,23 @@
           "parts": [
             {
               "chord": "G/B",
-              "text": "My praise is the shout"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "Cause praise is the water"
+            },
             {
               "chord": "F",
-              "text": "Praise when I’m doubting"
+              "text": "s"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "My enemies "
+            },
             {
               "chord": "C",
-              "text": "That brings Jericho down"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "I’ll praise when outnumbered"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "F",
-              "text": "Praise when surrounded"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Cause praise is the waters"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "My enemies drown in"
+              "text": "drown in"
             }
           ]
         }
@@ -177,8 +221,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "As "
+            },
+            {
               "chord": "G",
-              "text": "As long as I’m breathing"
+              "text": "long as I’m breathing"
             }
           ]
         },
@@ -199,23 +247,27 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "Praise the Lord"
+              "text": "Prais"
             },
             {
               "chord": "F",
-              "text": " "
+              "text": "e the "
             },
             {
               "chord": "C",
-              "text": "Oh my soul"
+              "text": "Lord"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Oh my so"
+            },
+            {
               "chord": "G",
-              "text": "Praise the Lord"
+              "text": "ul"
             }
           ]
         },
@@ -223,7 +275,27 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "I won’t be quiet"
+              "text": "Prais"
+            },
+            {
+              "chord": "F",
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh my so"
+            },
+            {
+              "chord": "G",
+              "text": "ul"
             }
           ]
         }
@@ -235,8 +307,40 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "I’ll "
+            },
+            {
               "chord": "C",
-              "text": "I’ll praise when I feel it"
+              "text": "praise when I feel it"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I’ll "
+            },
+            {
+              "chord": "F",
+              "text": "praise when I "
+            },
+            {
+              "chord": "C",
+              "text": "don’t"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I’ll "
+            },
+            {
+              "chord": "G",
+              "text": "praise cause I know"
             }
           ]
         },
@@ -244,31 +348,80 @@
           "parts": [
             {
               "chord": "F",
-              "text": "I’ll praise when I don’t"
+              "text": "You’re still in contr"
+            },
+            {
+              "chord": "C",
+              "text": "ol"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My "
+            },
+            {
               "chord": "C",
-              "text": "I’ll praise cause I know"
+              "text": "praise is a weapon"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "It’s "
+            },
+            {
+              "chord": "F",
+              "text": "more than a "
+            },
+            {
+              "chord": "C",
+              "text": "sound"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "My praise is the shou"
+            },
+            {
+              "chord": "F",
+              "text": "t"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That brings Jericho "
+            },
+            {
+              "chord": "C",
+              "text": "down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "As "
+            },
             {
               "chord": "G",
-              "text": "You’re still in control"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "I’ll praise cause You’re"
+              "text": "long as I’m breathing"
             }
           ]
         },
@@ -276,111 +429,68 @@
           "parts": [
             {
               "chord": "F",
-              "text": "sovereign"
+              "text": "I’ve got a reason to"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "Praise cause You reign"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "I won’t be quiet"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Praise cause You rose and"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "Am",
+              "text": "Prais"
+            },
             {
               "chord": "F",
-              "text": "defeated the grave"
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "My God is alive"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "I’ll praise cause You’re"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "",
+              "text": "Oh my so"
+            },
             {
               "chord": "G",
-              "text": "faithful"
+              "text": "ul"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "I won’t be quiet"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "Am",
+              "text": "Prais"
+            },
             {
               "chord": "F",
-              "text": "Praise cause You’re true"
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "My God is alive"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Praise cause there’s nobody"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "",
+              "text": "Oh my so"
+            },
             {
               "chord": "G",
-              "text": "greater than You"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "How could I keep it inside"
+              "text": "ul"
             }
           ]
         },
@@ -395,8 +505,65 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My "
+            },
+            {
               "chord": "F",
-              "text": "My God is alive"
+              "text": "God is alive"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "How could I keep it ins"
+            },
+            {
+              "chord": "G",
+              "text": "ide"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Prais"
+            },
+            {
+              "chord": "F",
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh my so"
+            },
+            {
+              "chord": "G",
+              "text": "ul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Interlude",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": ""
             }
           ]
         }
@@ -416,7 +583,7 @@
         {
           "parts": [
             {
-              "chord": "F",
+              "chord": "",
               "text": "sovereign"
             }
           ]
@@ -432,14 +599,6 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "I won’t be quiet"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
               "chord": "C",
               "text": "Praise cause You rose and"
             }
@@ -448,16 +607,8 @@
         {
           "parts": [
             {
-              "chord": "F",
+              "chord": "",
               "text": "defeated the grave"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "My God is alive"
             }
           ]
         },
@@ -472,7 +623,7 @@
         {
           "parts": [
             {
-              "chord": "G",
+              "chord": "",
               "text": "faithful"
             }
           ]
@@ -481,23 +632,7 @@
           "parts": [
             {
               "chord": "C",
-              "text": "I won’t be quiet"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "F",
               "text": "Praise cause You’re true"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "My God is alive"
             }
           ]
         },
@@ -512,7 +647,7 @@
         {
           "parts": [
             {
-              "chord": "G",
+              "chord": "",
               "text": "greater than You"
             }
           ]
@@ -520,8 +655,209 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "I’ll "
+            },
+            {
               "chord": "C",
-              "text": "How could I keep it inside"
+              "text": "praise cause You’re"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "sovereign"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dm",
+              "text": "Praise cause You reign"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/E",
+              "text": "Praise cause You rose and"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "def"
+            },
+            {
+              "chord": "F",
+              "text": "eated the grave"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I’ll "
+            },
+            {
+              "chord": "C",
+              "text": "praise cause You’re"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "faithful"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dm",
+              "text": "Praise cause You’re true"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C/E",
+              "text": "Praise cause there’s nobody"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "greater than You"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Prais"
+            },
+            {
+              "chord": "F",
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh my so"
+            },
+            {
+              "chord": "G",
+              "text": "ul"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Prais"
+            },
+            {
+              "chord": "F",
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh my so"
+            },
+            {
+              "chord": "G",
+              "text": "ul"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Prais"
+            },
+            {
+              "chord": "F",
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh my so"
+            },
+            {
+              "chord": "G",
+              "text": "ul"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Prais"
+            },
+            {
+              "chord": "F",
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh my so"
+            },
+            {
+              "chord": "G",
+              "text": "ul"
             }
           ]
         },
@@ -536,8 +872,116 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My "
+            },
+            {
               "chord": "F",
-              "text": "My God is alive"
+              "text": "God is alive"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "How could I keep it ins"
+            },
+            {
+              "chord": "G",
+              "text": "ide"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "I won’t be quiet"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My "
+            },
+            {
+              "chord": "F",
+              "text": "God is alive"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "How could I keep it ins"
+            },
+            {
+              "chord": "G",
+              "text": "ide"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "I won’t be quiet"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My "
+            },
+            {
+              "chord": "F",
+              "text": "God is alive"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "How could I keep it ins"
+            },
+            {
+              "chord": "G",
+              "text": "ide"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Prais"
+            },
+            {
+              "chord": "F",
+              "text": "e the "
+            },
+            {
+              "chord": "C",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh my so"
+            },
+            {
+              "chord": "G",
+              "text": "ul"
             }
           ]
         }
@@ -594,7 +1038,15 @@
         {
           "parts": [
             {
-              "chord": "N.C.",
+              "chord": "",
+              "text": "N.C."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Let everything that has breath"
             }
           ]
@@ -602,8 +1054,8 @@
         {
           "parts": [
             {
-              "chord": "N.C.",
-              "text": "Praise the Lord"
+              "chord": "",
+              "text": "N.C."
             }
           ]
         }
@@ -613,7 +1065,553 @@
   "slug": "praise",
   "source_file": "Praise-ElevationWorship-C-Pag1-Horizontal.pdf",
   "source_hash": "e37ff5e36e53897a",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-24T19:02:54+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T13:50:03+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: leída por posición del PDF con texto; estructura comparada con el texto del PDF; tonalidades idénticas al transponer (0 diferencias)",
+    "fingerprint": "9d6b31add8375928",
+    "at": "2026-11-14T13:50:44+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [],
+        "L2": [],
+        "L3": [],
+        "L4": [],
+        "L5": [],
+        "L6": [],
+        "L7": [],
+        "L8": [],
+        "L9": [],
+        "L10": [],
+        "L11": [],
+        "L12": [],
+        "L13": [
+          [
+            "C",
+            "praise"
+          ]
+        ],
+        "L14": [
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "mountain"
+          ]
+        ],
+        "L15": [
+          [
+            "G",
+            "praise"
+          ],
+          [
+            "F",
+            "(end)"
+          ]
+        ],
+        "L16": [
+          [
+            "C",
+            "doubting"
+          ]
+        ],
+        "L17": [
+          [
+            "C",
+            "praise"
+          ]
+        ],
+        "L18": [
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "surrounded"
+          ]
+        ],
+        "L19": [
+          [
+            "G/B",
+            "Cause"
+          ],
+          [
+            "F",
+            "waters"
+          ]
+        ],
+        "L20": [
+          [
+            "C",
+            "drown"
+          ]
+        ],
+        "L21": [
+          [
+            "G",
+            "long"
+          ]
+        ],
+        "L22": [
+          [
+            "F",
+            "I've"
+          ]
+        ],
+        "L23": [
+          [
+            "Am",
+            "Praise"
+          ],
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "Lord"
+          ]
+        ],
+        "L24": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L25": [
+          [
+            "Am",
+            "Praise"
+          ],
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "Lord"
+          ]
+        ],
+        "L26": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L27": [
+          [
+            "C",
+            "praise"
+          ]
+        ],
+        "L28": [
+          [
+            "F",
+            "praise"
+          ],
+          [
+            "C",
+            "don't"
+          ]
+        ],
+        "L29": [
+          [
+            "G",
+            "praise"
+          ]
+        ],
+        "L30": [
+          [
+            "F",
+            "You're"
+          ],
+          [
+            "C",
+            "control"
+          ]
+        ],
+        "L31": [
+          [
+            "C",
+            "praise"
+          ]
+        ],
+        "L32": [
+          [
+            "F",
+            "more"
+          ],
+          [
+            "C",
+            "sound"
+          ]
+        ],
+        "L33": [
+          [
+            "G/B",
+            "My"
+          ],
+          [
+            "F",
+            "shout"
+          ]
+        ],
+        "L34": [
+          [
+            "C",
+            "down"
+          ]
+        ],
+        "L35": [
+          [
+            "G",
+            "long"
+          ]
+        ],
+        "L36": [
+          [
+            "F",
+            "I've"
+          ]
+        ],
+        "L37": [
+          [
+            "Am",
+            "Praise"
+          ],
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "Lord"
+          ]
+        ],
+        "L38": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L39": [
+          [
+            "Am",
+            "Praise"
+          ],
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "Lord"
+          ]
+        ],
+        "L40": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L41": [
+          [
+            "Am",
+            "I"
+          ]
+        ],
+        "L42": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L43": [
+          [
+            "C",
+            ""
+          ]
+        ],
+        "L44": [
+          [
+            "C",
+            "I'll"
+          ]
+        ],
+        "L45": [],
+        "L46": [
+          [
+            "C",
+            "Praise"
+          ]
+        ],
+        "L47": [
+          [
+            "C",
+            "Praise"
+          ]
+        ],
+        "L48": [],
+        "L49": [
+          [
+            "C",
+            "I'll"
+          ]
+        ],
+        "L50": [],
+        "L51": [
+          [
+            "C",
+            "Praise"
+          ]
+        ],
+        "L52": [
+          [
+            "C",
+            "Praise"
+          ]
+        ],
+        "L53": [],
+        "L54": [
+          [
+            "C",
+            "praise"
+          ]
+        ],
+        "L55": [],
+        "L56": [
+          [
+            "Dm",
+            "Praise"
+          ]
+        ],
+        "L57": [
+          [
+            "C/E",
+            "Praise"
+          ]
+        ],
+        "L58": [
+          [
+            "F",
+            "defeated"
+          ]
+        ],
+        "L59": [
+          [
+            "C",
+            "praise"
+          ]
+        ],
+        "L60": [],
+        "L61": [
+          [
+            "Dm",
+            "Praise"
+          ]
+        ],
+        "L62": [
+          [
+            "C/E",
+            "Praise"
+          ]
+        ],
+        "L63": [
+          [
+            "F",
+            "greater"
+          ]
+        ],
+        "L64": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L65": [
+          [
+            "Am",
+            "Praise"
+          ],
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "Lord"
+          ]
+        ],
+        "L66": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L67": [
+          [
+            "Am",
+            "Praise"
+          ],
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "Lord"
+          ]
+        ],
+        "L68": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L69": [
+          [
+            "Am",
+            "I"
+          ]
+        ],
+        "L70": [
+          [
+            "F",
+            "God"
+          ]
+        ],
+        "L71": [
+          [
+            "C",
+            "How"
+          ],
+          [
+            "G",
+            "inside"
+          ]
+        ],
+        "L72": [
+          [
+            "Am",
+            "I"
+          ]
+        ],
+        "L73": [
+          [
+            "F",
+            "God"
+          ]
+        ],
+        "L74": [
+          [
+            "C",
+            "How"
+          ],
+          [
+            "G",
+            "inside"
+          ]
+        ],
+        "L75": [
+          [
+            "Am",
+            "I"
+          ]
+        ],
+        "L76": [
+          [
+            "F",
+            "God"
+          ]
+        ],
+        "L77": [
+          [
+            "C",
+            "How"
+          ],
+          [
+            "G",
+            "inside"
+          ]
+        ],
+        "L78": [
+          [
+            "Am",
+            "Praise"
+          ],
+          [
+            "F",
+            "Praise"
+          ],
+          [
+            "C",
+            "Lord"
+          ]
+        ],
+        "L79": [
+          [
+            "G",
+            "soul"
+          ]
+        ],
+        "L80": [
+          [
+            "Am",
+            ""
+          ],
+          [
+            "F",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L81": [
+          [
+            "Am",
+            ""
+          ],
+          [
+            "F",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L82": [],
+        "L83": [],
+        "L84": []
+      },
+      "line_text": null,
+      "source_hash": "e37ff5e36e53897a"
+    }
+  },
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "9d6b31add8375928"
+  }
 }

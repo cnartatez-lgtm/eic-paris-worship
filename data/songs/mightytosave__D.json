@@ -61,31 +61,35 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Everyone needs compassion"
+              "text": "Everyone needs comp"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "assion"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "A",
-              "text": "A Love thats never failing"
+              "chord": "",
+              "text": "A Love thats never fa"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "iling"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Let "
+            },
+            {
               "chord": "A",
-              "text": "Let mercy fall on me"
+              "text": "mercy fall on me"
             }
           ]
         },
@@ -93,31 +97,35 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Everyone needs forgiveness"
+              "text": "Everyone needs forg"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "iveness"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "The kindness of a "
+            },
+            {
               "chord": "Bm",
-              "text": "The kindness of a savior"
+              "text": "savior"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The "
             },
             {
               "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A",
-              "text": "The hope of nations"
+              "text": "hope of nations"
             }
           ]
         }
@@ -155,71 +163,91 @@
           "parts": [
             {
               "chord": "D",
-              "text": "Savior, he can move the mountains"
+              "text": "Savior, he can move the "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "mountains"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "My God is "
+            },
             {
               "chord": "G",
-              "text": "My God is mighty to save"
+              "text": "mighty to "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "save"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "He is "
+            },
             {
               "chord": "Bm",
-              "text": "He is mighty to save"
+              "text": "mighty to "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "save"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "Fore"
+            },
             {
               "chord": "D",
-              "text": "Forever, author of salvation"
+              "text": "ver, author of salvatio"
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "n"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "He rose and "
+            },
             {
               "chord": "G",
-              "text": "He rose and conquered the grave"
+              "text": "conquered the "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "grave"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Jesus "
+            },
+            {
               "chord": "Bm",
-              "text": "Jesus conquered the grave"
+              "text": "conquered the "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "grave"
             }
           ]
         }
@@ -257,31 +285,35 @@
           "parts": [
             {
               "chord": "G",
-              "text": "So take me as you find me"
+              "text": "So take me as you "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "find me"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "All my fears "
+            },
+            {
               "chord": "Bm",
-              "text": "All my fears and failures"
+              "text": "and failures"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And "
             },
             {
               "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A",
-              "text": "And fill my life again"
+              "text": "fill my life again"
             }
           ]
         },
@@ -289,11 +321,35 @@
           "parts": [
             {
               "chord": "G",
-              "text": "I give my life to follow"
+              "text": "I give my life to "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "follow"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Everything I bel"
+            },
+            {
+              "chord": "Bm",
+              "text": "ieve in"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Now "
+            },
+            {
+              "chord": "A",
+              "text": "I surrender (I surrender)"
             }
           ]
         }
@@ -325,17 +381,97 @@
       ]
     },
     {
-      "label": "Chorus",
+      "label": "Chorus (x2)",
       "lines": [
         {
           "parts": [
             {
               "chord": "D",
-              "text": "Savior, he can move the mountains"
+              "text": "Savior, he can move the "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "mountains"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My God is "
+            },
+            {
+              "chord": "G",
+              "text": "mighty to "
+            },
+            {
+              "chord": "D",
+              "text": "save"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He is "
+            },
+            {
+              "chord": "Bm",
+              "text": "mighty to "
+            },
+            {
+              "chord": "A",
+              "text": "save"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Fore"
+            },
+            {
+              "chord": "D",
+              "text": "ver, author of salvatio"
+            },
+            {
+              "chord": "A",
+              "text": "n"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He rose and "
+            },
+            {
+              "chord": "G",
+              "text": "conquered the "
+            },
+            {
+              "chord": "D",
+              "text": "grave"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Jesus "
+            },
+            {
+              "chord": "Bm",
+              "text": "conquered the "
+            },
+            {
+              "chord": "A",
+              "text": "grave"
             }
           ]
         },
@@ -343,55 +479,23 @@
           "parts": [
             {
               "chord": "G",
-              "text": "My God is mighty to save"
+              "text": ""
             },
             {
               "chord": "D",
               "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Bm",
-              "text": "He is mighty to save"
             },
             {
               "chord": "A",
               "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "Forever, author of salvation"
             },
-            {
-              "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
             {
               "chord": "G",
-              "text": "He rose and conquered the grave"
+              "text": ""
             },
             {
               "chord": "D",
               "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Bm",
-              "text": "Jesus conquered the grave"
             },
             {
               "chord": "A",
@@ -408,23 +512,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shine your light and let the whole"
+              "text": "Shine your light and "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "let the whole wor"
+            },
             {
               "chord": "A",
-              "text": "world see singing,"
+              "text": "ld see sin"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "ging,"
             }
           ]
         },
@@ -432,20 +532,16 @@
           "parts": [
             {
               "chord": "G",
-              "text": "For the glory of the risen king,"
+              "text": "For the glory "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "of the ris"
             },
             {
               "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "en king, "
+            },
             {
               "chord": "Bm",
               "text": "Jesus"
@@ -456,23 +552,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shine your light and let the whole"
+              "text": "Shine your light and "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "let the whole wor"
+            },
             {
               "chord": "A",
-              "text": "world see singing"
+              "text": "ld see sing"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "ing"
             }
           ]
         },
@@ -480,84 +572,112 @@
           "parts": [
             {
               "chord": "G",
-              "text": "For the glory of the risen king"
+              "text": "For the glory "
+            },
+            {
+              "chord": "D",
+              "text": "of the ris"
+            },
+            {
+              "chord": "A",
+              "text": "en king"
             }
           ]
         }
       ]
     },
     {
-      "label": "Chorus",
+      "label": "Chorus (x2)",
       "lines": [
         {
           "parts": [
             {
               "chord": "D",
-              "text": "Savior, he can move the mountains"
+              "text": "Savior, he can move the "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "mountains"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "My God is "
+            },
             {
               "chord": "G",
-              "text": "My God is mighty to save"
+              "text": "mighty to "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "save"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "He is "
+            },
             {
               "chord": "Bm",
-              "text": "He is mighty to save"
+              "text": "mighty to "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "save"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "Fore"
+            },
             {
               "chord": "D",
-              "text": "Forever, author of salvation"
+              "text": "ver, author of salvatio"
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "n"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "He rose and "
+            },
             {
               "chord": "G",
-              "text": "He rose and conquered the grave"
+              "text": "conquered the "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "grave"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Jesus "
+            },
+            {
               "chord": "Bm",
-              "text": "Jesus conquered the grave"
+              "text": "conquered the "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "grave"
             }
           ]
         }
@@ -570,23 +690,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shine your light and let the whole"
+              "text": "Shine your light and "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "let the whole wor"
+            },
             {
               "chord": "A",
-              "text": "world see singing,"
+              "text": "ld see sing"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "ing,"
             }
           ]
         },
@@ -594,20 +710,16 @@
           "parts": [
             {
               "chord": "G",
-              "text": "For the glory of the risen king,"
+              "text": "For the glory "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "of the ris"
             },
             {
               "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "en king, "
+            },
             {
               "chord": "Bm",
               "text": "Jesus"
@@ -618,23 +730,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shine your light and let the whole"
+              "text": "Shine your light and "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "let the whole wor"
+            },
             {
               "chord": "A",
-              "text": "world see singing,"
+              "text": "ld see sing"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "ing,"
             }
           ]
         },
@@ -642,20 +750,16 @@
           "parts": [
             {
               "chord": "G",
-              "text": "For the glory of the risen king,"
+              "text": "For the glory "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "of the ris"
             },
             {
               "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "en king, "
+            },
             {
               "chord": "Bm",
               "text": "Jesus"
@@ -666,23 +770,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shine your light and let the whole"
+              "text": "Shine your light and "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "let the whole wor"
+            },
             {
               "chord": "A",
-              "text": "world see singing,"
+              "text": "ld see sing"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "ing,"
             }
           ]
         },
@@ -690,20 +790,16 @@
           "parts": [
             {
               "chord": "G",
-              "text": "For the glory of the risen king,"
+              "text": "For the glory "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "of the ris"
             },
             {
               "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "en king, "
+            },
             {
               "chord": "Bm7",
               "text": "Jesus"
@@ -714,23 +810,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shine your light and let the whole"
+              "text": "Shine your light and "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "let the whole wor"
+            },
             {
               "chord": "A",
-              "text": "world see singing,"
+              "text": "ld see sing"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "ing,"
             }
           ]
         },
@@ -738,20 +830,16 @@
           "parts": [
             {
               "chord": "G",
-              "text": "For the glory of the risen king,"
+              "text": "For the glory "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "of the ris"
             },
             {
               "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "en king, "
+            },
             {
               "chord": "Bm",
               "text": "Jesus"
@@ -762,23 +850,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shine your light and let the whole"
+              "text": "Shine your light and "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "let the whole wor"
+            },
             {
               "chord": "A",
-              "text": "world see singing,"
+              "text": "ld see sing"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "ing,"
             }
           ]
         },
@@ -786,20 +870,16 @@
           "parts": [
             {
               "chord": "G",
-              "text": "For the glory of the risen king,"
+              "text": "For the glory "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "of the ris"
             },
             {
               "chord": "A",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "en king, "
+            },
             {
               "chord": "Bm",
               "text": "Jesus"
@@ -810,23 +890,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Shine your light and let the whole"
+              "text": "Shine your light and "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "let the whole wor"
+            },
             {
               "chord": "A",
-              "text": "world see singing,"
+              "text": "ld see sing"
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "ing,"
             }
           ]
         },
@@ -834,7 +910,15 @@
           "parts": [
             {
               "chord": "G",
-              "text": "For the glory of the risen king."
+              "text": "For the glory "
+            },
+            {
+              "chord": "D",
+              "text": "of the ris"
+            },
+            {
+              "chord": "A",
+              "text": "en king."
             }
           ]
         }
@@ -844,7 +928,25 @@
   "slug": "mightytosave",
   "source_file": "MightyToSave-HillsongWorship-D-Pag2-Facil.pdf",
   "source_hash": "db63aa48111ed820",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-31T20:08:56+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:50:54+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/mighty-to-save-chords-665341",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (transposed +7); match with the PDF reading 0.97.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "cfb6f76e68de5726"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "cfb6f76e68de5726",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

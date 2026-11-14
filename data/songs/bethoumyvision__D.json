@@ -1,5 +1,5 @@
 {
-  "title": "Be Thou My Vision Official",
+  "title": "Be Thou My Vision",
   "author": "Misc Praise Songs",
   "key": "D",
   "meta": {
@@ -16,15 +16,23 @@
           "parts": [
             {
               "chord": "D",
-              "text": "Be Thou my Vision, O Lord of my "
+              "text": "Be Thou my "
             },
             {
               "chord": "G",
-              "text": "heart"
+              "text": "Vi"
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "sion, O "
+            },
+            {
+              "chord": "D",
+              "text": "Lord of "
+            },
+            {
+              "chord": "A",
+              "text": "my"
             }
           ]
         },
@@ -32,8 +40,28 @@
           "parts": [
             {
               "chord": "D",
-              "text": "Naught be all else to me, save "
+              "text": "heart"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Naught be all else "
             },
+            {
+              "chord": "D",
+              "text": "to me, "
+            },
+            {
+              "chord": "G",
+              "text": "save"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "A",
               "text": "that Thou art."
@@ -44,19 +72,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Thou my best Thought, by day or by "
+              "text": "Thou my best Thought, "
             },
             {
               "chord": "D",
-              "text": "night,"
+              "text": "by "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "day "
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "or by"
             }
           ]
         },
@@ -64,14 +92,50 @@
           "parts": [
             {
               "chord": "Dsus4",
-              "text": "Waking or sleeping, Thy presence "
+              "text": "night,"
             },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Waking or "
+            },
+            {
+              "chord": "G",
+              "text": "sle"
+            },
+            {
+              "chord": "Bm",
+              "text": "eping, Thy "
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "Bm",
+              "text": "presence"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "G",
               "text": "my "
             },
             {
-              "chord": "A",
+              "chord": "D",
               "text": "light."
             }
           ]
@@ -85,14 +149,30 @@
           "parts": [
             {
               "chord": "D",
-              "text": "Be Thou my Wisdom, and Thou my "
+              "text": "Be Thou my "
             },
             {
               "chord": "G",
-              "text": "true "
+              "text": "Wi"
             },
             {
               "chord": "A",
+              "text": "sdom, and "
+            },
+            {
+              "chord": "D",
+              "text": "Thou my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "true "
+            },
+            {
+              "chord": "D",
               "text": "Word"
             }
           ]
@@ -100,11 +180,27 @@
         {
           "parts": [
             {
+              "chord": "A",
+              "text": "I ever with "
+            },
+            {
               "chord": "D",
-              "text": "I ever with Thee and Thou with me, "
+              "text": "Thee and "
+            },
+            {
+              "chord": "G",
+              "text": "Thou "
             },
             {
               "chord": "A",
+              "text": "with me,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Lord"
             }
           ]
@@ -113,19 +209,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Thou my great Father, I Thy true "
+              "text": "Thou my great "
             },
             {
               "chord": "D",
-              "text": "son"
+              "text": "Father, "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "I "
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "Thy true"
             }
           ]
         },
@@ -133,14 +229,50 @@
           "parts": [
             {
               "chord": "Dsus4",
-              "text": "Thou in me dwelling, and I with "
+              "text": "son"
             },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Thou in me "
+            },
+            {
+              "chord": "G",
+              "text": "dwe"
+            },
+            {
+              "chord": "Bm",
+              "text": "lling, and "
+            },
+            {
+              "chord": "Em",
+              "text": "I "
+            },
+            {
+              "chord": "Bm",
+              "text": "with"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "G",
               "text": "Thee "
             },
             {
-              "chord": "A",
+              "chord": "D",
               "text": "one."
             }
           ]
@@ -154,14 +286,34 @@
           "parts": [
             {
               "chord": "D",
-              "text": "Be Thou my battle Shield, Sword "
+              "text": "Be Thou my "
             },
             {
               "chord": "G",
-              "text": "for the "
+              "text": "ba"
             },
             {
               "chord": "A",
+              "text": "ttle Shield, "
+            },
+            {
+              "chord": "D",
+              "text": "Sword"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "for "
+            },
+            {
+              "chord": "A",
+              "text": "the "
+            },
+            {
+              "chord": "D",
               "text": "fight"
             }
           ]
@@ -169,11 +321,27 @@
         {
           "parts": [
             {
+              "chord": "A",
+              "text": "Be Thou my Dig"
+            },
+            {
               "chord": "D",
-              "text": "Be Thou my Dignity, Thou my "
+              "text": "nity, "
             },
             {
               "chord": "G",
+              "text": "Thou "
+            },
+            {
+              "chord": "A",
+              "text": "my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Delight"
             }
           ]
@@ -181,20 +349,76 @@
         {
           "parts": [
             {
-              "chord": "A",
-              "text": "Thou my soul's Shelter, Thou my "
+              "chord": "G",
+              "text": "Thou my soul's She"
             },
             {
               "chord": "D",
-              "text": "high "
+              "text": "lter, "
             },
             {
               "chord": "A",
-              "text": "Tow'r"
+              "text": "Thou "
             },
             {
               "chord": "Bm",
+              "text": "my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "high "
+            },
+            {
+              "chord": "Dsus4",
+              "text": "Tow'r"
+            },
+            {
+              "chord": "G",
               "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Raise Thou me "
+            },
+            {
+              "chord": "G",
+              "text": "heav'"
+            },
+            {
+              "chord": "Bm",
+              "text": "nward, O "
+            },
+            {
+              "chord": "Em",
+              "text": "Pow'r"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "of "
+            },
+            {
+              "chord": "G",
+              "text": "my "
+            },
+            {
+              "chord": "D",
+              "text": "pow'r."
             }
           ]
         }
@@ -207,15 +431,23 @@
           "parts": [
             {
               "chord": "D",
-              "text": "Riches I heed not, nor man's empty "
+              "text": "Riches I "
             },
             {
               "chord": "G",
-              "text": "praise,"
+              "text": "heed "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "not, nor "
+            },
+            {
+              "chord": "D",
+              "text": "man's em"
+            },
+            {
+              "chord": "A",
+              "text": "pty"
             }
           ]
         },
@@ -223,10 +455,34 @@
           "parts": [
             {
               "chord": "D",
-              "text": "Thou mine Inheritance, now and "
+              "text": "praise,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Thou mine Inhe"
+            },
+            {
+              "chord": "D",
+              "text": "ritance, "
+            },
+            {
+              "chord": "G",
+              "text": "now "
             },
             {
               "chord": "A",
+              "text": "and"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "always"
             }
           ]
@@ -235,19 +491,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Thou and Thou only, first in my "
+              "text": "Thou and Thou o"
             },
             {
               "chord": "D",
-              "text": "heart,"
+              "text": "nly, "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "first "
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "in my"
             }
           ]
         },
@@ -255,14 +511,50 @@
           "parts": [
             {
               "chord": "Dsus4",
-              "text": "High King of Heaven, my Treasure "
+              "text": "heart,"
             },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "High King of He"
+            },
+            {
+              "chord": "G",
+              "text": "av"
+            },
+            {
+              "chord": "Bm",
+              "text": "en, my Tre"
+            },
+            {
+              "chord": "Em",
+              "text": "asur"
+            },
+            {
+              "chord": "Bm",
+              "text": "e"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "G",
               "text": "Thou "
             },
             {
-              "chord": "A",
+              "chord": "D",
               "text": "art."
             }
           ]
@@ -276,15 +568,23 @@
           "parts": [
             {
               "chord": "D",
-              "text": "High King of Heaven, my victory "
+              "text": "High King of "
             },
             {
               "chord": "G",
-              "text": "won,"
+              "text": "He"
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "aven, my "
+            },
+            {
+              "chord": "D",
+              "text": "vict"
+            },
+            {
+              "chord": "A",
+              "text": "ory"
             }
           ]
         },
@@ -292,8 +592,28 @@
           "parts": [
             {
               "chord": "D",
-              "text": "May I reach Heaven's joys, O "
+              "text": "won,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "May I reach Hea"
             },
+            {
+              "chord": "D",
+              "text": "ven's joys, "
+            },
+            {
+              "chord": "G",
+              "text": "O"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "A",
               "text": "bright Heav'n's Sun!"
@@ -304,18 +624,38 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Heart of my own heart, whatever "
+              "text": "Heart of my own "
             },
             {
               "chord": "D",
-              "text": "befall,"
+              "text": "heart, wha"
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "te"
             },
             {
               "chord": "Bm",
+              "text": "ver"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "be"
+            },
+            {
+              "chord": "Dsus4",
+              "text": "fall,"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "A",
               "text": ""
             }
           ]
@@ -323,11 +663,35 @@
         {
           "parts": [
             {
-              "chord": "Dsus4",
-              "text": "Still be my Vision, O Ruler of "
+              "chord": "D",
+              "text": "Still be my "
             },
             {
               "chord": "G",
+              "text": "Vi"
+            },
+            {
+              "chord": "Bm",
+              "text": "sion, O "
+            },
+            {
+              "chord": "Em",
+              "text": "Ru"
+            },
+            {
+              "chord": "Bm",
+              "text": "ler "
+            },
+            {
+              "chord": "G",
+              "text": "of"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
               "text": "all."
             }
           ]
@@ -338,7 +702,23 @@
   "slug": "bethoumyvision",
   "source_file": "BeThouMyVision-DallanForgaill-D-Pag1.pdf",
   "source_hash": "f9a5edef960bb234",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-03T19:03:13+00:00"
+  "method": "ocr-layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "971d6be32e8c195e"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: comparada línea por línea con la imagen del PDF (D); errores de OCR corregidos (Bm leído 6m, O leída 0); G transpuesta de D y confirmada contra el OCR de su propio PDF",
+    "fingerprint": "971d6be32e8c195e",
+    "at": "2026-11-14T13:55:04+00:00"
+  }
 }

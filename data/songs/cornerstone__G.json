@@ -16,51 +16,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Christ alone, Cornerstone"
+              "text": ""
             },
             {
               "chord": "Em",
-              "text": " "
+              "text": ""
             },
             {
               "chord": "C",
-              "text": "Weak made strong in the"
+              "text": ""
             },
             {
               "chord": "D",
-              "text": " "
-            },
-            {
-              "chord": "G/B",
-              "text": "Savior's love"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": "Through the storm"
-            },
-            {
-              "chord": "D",
-              "text": " "
-            },
-            {
-              "chord": "G/B",
-              "text": "He is Lord"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": "Lord of all"
-            },
-            {
-              "chord": "D",
-              "text": " "
+              "text": ""
             }
           ]
         }
@@ -74,34 +42,46 @@
             {
               "chord": "G",
               "text": "My hope is built on nothing less"
-            },
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "C",
-              "text": " "
+              "text": "Than Jesus' blood and "
             },
             {
               "chord": "D",
-              "text": "Than Jesus' blood and righteousness"
-            },
+              "text": "righteousness"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "Em",
-              "text": " "
+              "text": "I dare not trust the "
             },
             {
               "chord": "Bm/D",
-              "text": "I dare not trust the sweetest frame"
-            },
+              "text": "sweetest frame"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "C",
-              "text": " "
+              "text": "But wholly "
             },
             {
               "chord": "D",
-              "text": "But wholly trust in Jesus' name"
+              "text": "trust in Jesus"
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "' name"
             }
           ]
         },
@@ -110,34 +90,127 @@
             {
               "chord": "G",
               "text": "My hope is built on nothing less"
-            },
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "C",
-              "text": " "
+              "text": "Than Jesus' blood and "
             },
             {
               "chord": "D",
-              "text": "Than Jesus' blood and righteousness"
-            },
+              "text": "righteousness"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "Em",
-              "text": " "
+              "text": "I dare not trust the "
             },
             {
               "chord": "Bm/D",
-              "text": "I dare not trust the sweetest frame"
-            },
+              "text": "sweetest frame"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "C",
-              "text": " "
+              "text": "But wholly "
             },
             {
               "chord": "D",
-              "text": "But wholly trust in Jesus' name"
+              "text": "trust in Jesus"
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "' name"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Christ a"
+            },
+            {
+              "chord": "C",
+              "text": "lone, "
+            },
+            {
+              "chord": "Em",
+              "text": "Corner"
+            },
+            {
+              "chord": "D",
+              "text": "stone"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Weak made "
+            },
+            {
+              "chord": "C",
+              "text": "strong in the "
+            },
+            {
+              "chord": "Em",
+              "text": "Savior's "
+            },
+            {
+              "chord": "D",
+              "text": "love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Through the "
+            },
+            {
+              "chord": "C",
+              "text": "storm"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "He is "
+            },
+            {
+              "chord": "D",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord of "
+            },
+            {
+              "chord": "G",
+              "text": "all"
             }
           ]
         }
@@ -151,54 +224,62 @@
             {
               "chord": "G",
               "text": "When darkness seems to hide His face"
-            },
-            {
-              "chord": "C",
-              "text": " "
-            },
-            {
-              "chord": "D",
-              "text": "I rest on His unchanging grace"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "Bm/D",
-              "text": "In every high and stormy gale"
-            },
-            {
-              "chord": "C",
-              "text": " "
-            },
-            {
-              "chord": "D",
-              "text": "My anchor holds within the veil"
-            },
-            {
-              "chord": "G",
-              "text": " "
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "My anchor holds within the veil"
-            },
-            {
               "chord": "C",
-              "text": " "
+              "text": "I rest on His un"
             },
             {
               "chord": "D",
-              "text": "My anchor holds within the veil"
+              "text": "changing grace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "In every high and "
+            },
+            {
+              "chord": "Bm/D",
+              "text": "stormy gale"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "My anchor "
+            },
+            {
+              "chord": "D",
+              "text": "holds within the "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "veil"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "My anchor "
+            },
+            {
+              "chord": "D",
+              "text": "holds within "
+            },
+            {
+              "chord": "G",
+              "text": "the veil"
             }
           ]
         }
@@ -211,51 +292,265 @@
           "parts": [
             {
               "chord": "G/B",
-              "text": "Christ alone, Cornerstone"
+              "text": "Christ a"
             },
             {
               "chord": "C",
-              "text": " "
+              "text": "lone, "
             },
             {
               "chord": "Em",
-              "text": "Weak made strong in the"
+              "text": "Corner"
             },
             {
               "chord": "D",
-              "text": " "
-            },
+              "text": "stone"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "G/B",
-              "text": "Savior's love"
-            },
-            {
-              "chord": "Em",
-              "text": " "
+              "text": "Weak made "
             },
             {
               "chord": "C",
-              "text": "Through the storm"
+              "text": "strong in the "
+            },
+            {
+              "chord": "Em",
+              "text": "Savior's "
             },
             {
               "chord": "D",
-              "text": " "
-            },
+              "text": "love"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "G/B",
-              "text": "He is Lord"
-            },
-            {
-              "chord": "Em",
-              "text": " "
+              "text": "Through the "
             },
             {
               "chord": "C",
-              "text": "Lord of all"
+              "text": "storm"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "He is "
             },
             {
               "chord": "D",
-              "text": " "
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Lord of "
+            },
+            {
+              "chord": "G",
+              "text": "all"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He is "
+            },
+            {
+              "chord": "Em",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Lord of "
+            },
+            {
+              "chord": "C",
+              "text": "all"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Christ a"
+            },
+            {
+              "chord": "C",
+              "text": "lone, "
+            },
+            {
+              "chord": "Em",
+              "text": "Corner"
+            },
+            {
+              "chord": "D",
+              "text": "stone"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Weak made "
+            },
+            {
+              "chord": "C",
+              "text": "strong in the "
+            },
+            {
+              "chord": "Em",
+              "text": "Savior's "
+            },
+            {
+              "chord": "D",
+              "text": "love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Through the "
+            },
+            {
+              "chord": "C",
+              "text": "storm"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "He is "
+            },
+            {
+              "chord": "D",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Lord of "
+            },
+            {
+              "chord": "G",
+              "text": "all"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Christ a"
+            },
+            {
+              "chord": "C",
+              "text": "lone, "
+            },
+            {
+              "chord": "Em",
+              "text": "Corner"
+            },
+            {
+              "chord": "D",
+              "text": "stone"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Weak made "
+            },
+            {
+              "chord": "C",
+              "text": "strong in the "
+            },
+            {
+              "chord": "Em",
+              "text": "Savior's "
+            },
+            {
+              "chord": "D",
+              "text": "love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": "Through the "
+            },
+            {
+              "chord": "C",
+              "text": "storm"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "He is "
+            },
+            {
+              "chord": "D",
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Lord of "
+            },
+            {
+              "chord": "G",
+              "text": "all"
             }
           ]
         }
@@ -269,55 +564,46 @@
             {
               "chord": "G",
               "text": "When He shall come with trumpet sound"
-            },
-            {
-              "chord": "C",
-              "text": " "
-            },
-            {
-              "chord": "D",
-              "text": "Oh may I then in Him be found"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "Bm/D",
-              "text": "Dressed in His righteousness alone"
-            },
-            {
-              "chord": "C",
-              "text": " "
-            },
-            {
-              "chord": "D",
-              "text": "Faultless, stand before"
-            },
-            {
-              "chord": "G",
-              "text": " the throne"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Oh may I then in "
+            },
+            {
+              "chord": "D",
+              "text": "Him be found"
+            }
+          ]
+        },
         {
           "parts": [
             {
               "chord": "Em",
-              "text": "He is Lord"
+              "text": "Dressed in His righteou"
             },
             {
+              "chord": "Bm/D",
+              "text": "sness alone"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
               "chord": "C",
-              "text": " "
+              "text": "Faultless, "
             },
             {
               "chord": "D",
-              "text": "Lord of all"
+              "text": "stand before the "
+            },
+            {
+              "chord": "G",
+              "text": "throne"
             }
           ]
         }
@@ -330,51 +616,19 @@
           "parts": [
             {
               "chord": "G/B",
-              "text": "Christ alone, Cornerstone"
+              "text": "Christ a"
             },
             {
               "chord": "C",
-              "text": " "
+              "text": "lone, "
             },
             {
               "chord": "Em",
-              "text": "Weak made strong in the"
+              "text": "Corner"
             },
             {
               "chord": "D",
-              "text": " "
-            },
-            {
-              "chord": "G/B",
-              "text": "Savior's love"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": "Through the storm"
-            },
-            {
-              "chord": "D",
-              "text": " "
-            },
-            {
-              "chord": "G/B",
-              "text": "He is Lord"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": "Lord of all"
-            },
-            {
-              "chord": "D",
-              "text": " "
+              "text": "stone"
             }
           ]
         },
@@ -382,51 +636,19 @@
           "parts": [
             {
               "chord": "G/B",
-              "text": "Christ alone, Cornerstone"
+              "text": "Weak made "
             },
             {
               "chord": "C",
-              "text": " "
+              "text": "strong in the "
             },
             {
               "chord": "Em",
-              "text": "Weak made strong in the"
+              "text": "Savior's "
             },
             {
               "chord": "D",
-              "text": " "
-            },
-            {
-              "chord": "G/B",
-              "text": "Savior's love"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": "Through the storm"
-            },
-            {
-              "chord": "D",
-              "text": " "
-            },
-            {
-              "chord": "G/B",
-              "text": "He is Lord"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": "Lord of all"
-            },
-            {
-              "chord": "D",
-              "text": " "
+              "text": "love"
             }
           ]
         },
@@ -434,35 +656,35 @@
           "parts": [
             {
               "chord": "G/B",
-              "text": "Christ alone, Cornerstone"
+              "text": "Through the "
             },
             {
               "chord": "C",
-              "text": " "
-            },
+              "text": "storm"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "Em",
-              "text": "Weak made strong in the"
+              "text": "He is "
             },
             {
               "chord": "D",
-              "text": " "
-            },
-            {
-              "chord": "G/B",
-              "text": "Savior's love"
-            },
-            {
-              "chord": "Em",
-              "text": " "
-            },
-            {
-              "chord": "C",
-              "text": "Through the storm"
-            },
+              "text": "Lord"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "D",
-              "text": " "
+              "text": "Lord of "
+            },
+            {
+              "chord": "G",
+              "text": "all"
             }
           ]
         }
@@ -472,7 +694,25 @@
   "slug": "cornerstone",
   "source_file": "Cornerstone-HillsongWorship-G-Pag2.pdf",
   "source_hash": "94bf978ea34f72fb",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-17T19:02:13+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:50:20+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/cornerstone-chords-1149440",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (transposed +7); match with the PDF reading 0.99.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "95c8193fa0b86b10"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "95c8193fa0b86b10",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

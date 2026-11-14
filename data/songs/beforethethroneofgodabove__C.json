@@ -15,11 +15,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Before the "
+            },
+            {
               "chord": "C",
-              "text": "Before the throne of God "
+              "text": "throne of "
             },
             {
               "chord": "F",
+              "text": "God "
+            },
+            {
+              "chord": "C",
               "text": "Above"
             }
           ]
@@ -27,7 +35,7 @@
         {
           "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "I have a strong and perfect "
             },
             {
@@ -39,11 +47,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "A great high "
+            },
+            {
               "chord": "F",
-              "text": "A great high priest whose name is "
+              "text": "priest whose "
             },
             {
               "chord": "G",
+              "text": "name is "
+            },
+            {
+              "chord": "Am",
               "text": "love"
             }
           ]
@@ -51,11 +67,19 @@
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "Who ever lives and pleads for "
+              "chord": "",
+              "text": "Who ever "
             },
             {
               "chord": "F",
+              "text": "lives and "
+            },
+            {
+              "chord": "G",
+              "text": "pleads for "
+            },
+            {
+              "chord": "C",
               "text": "me"
             }
           ]
@@ -63,8 +87,12 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "My name is graven on his "
+              "chord": "",
+              "text": "My name is "
+            },
+            {
+              "chord": "F",
+              "text": "graven on his "
             },
             {
               "chord": "C",
@@ -75,11 +103,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My name is "
+            },
+            {
               "chord": "F",
-              "text": "My name is written on his "
+              "text": "written "
             },
             {
               "chord": "G",
+              "text": "on his "
+            },
+            {
+              "chord": "Am",
               "text": "heart"
             }
           ]
@@ -87,11 +123,19 @@
         {
           "parts": [
             {
-              "chord": "Am",
-              "text": "I know that while in heaven he "
+              "chord": "",
+              "text": "I know that "
             },
             {
               "chord": "F",
+              "text": "while in "
+            },
+            {
+              "chord": "G",
+              "text": "heaven he "
+            },
+            {
+              "chord": "Am",
               "text": "stands"
             }
           ]
@@ -99,8 +143,16 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "No tongue can "
+            },
+            {
+              "chord": "F",
+              "text": "bid me thence "
+            },
+            {
               "chord": "G",
-              "text": "No tongue can bid me thence de--"
+              "text": "de--"
             },
             {
               "chord": "Am",
@@ -111,12 +163,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "No tongue can "
+            },
+            {
               "chord": "F",
-              "text": "No tongue can bid me thence de--"
+              "text": "bid me thence "
             },
             {
               "chord": "G",
-              "text": "part"
+              "text": "de--"
+            },
+            {
+              "chord": "C",
+              "text": "part "
             }
           ]
         }
@@ -285,7 +345,165 @@
   "slug": "beforethethroneofgodabove",
   "source_file": "BeforeTheThroneOfGodAbove-CharitieLBancroft-C-Pag1.pdf",
   "source_hash": "41e7df655cef035d",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-11-07T20:05:13+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T13:50:03+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: leída por posición del PDF con texto; comparada palabra por palabra con el PDF; líneas dudosas revisadas en la imagen",
+    "fingerprint": "9584d60dd4620293",
+    "at": "2026-11-14T13:52:09+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "C",
+            "throne"
+          ],
+          [
+            "F",
+            "God"
+          ],
+          [
+            "C",
+            "Above"
+          ]
+        ],
+        "L2": [
+          [
+            "Em",
+            "plea"
+          ]
+        ],
+        "L3": [
+          [
+            "F",
+            "priest"
+          ],
+          [
+            "G",
+            "name"
+          ],
+          [
+            "Am",
+            "love"
+          ]
+        ],
+        "L4": [
+          [
+            "F",
+            "lives"
+          ],
+          [
+            "G",
+            "pleads"
+          ],
+          [
+            "C",
+            "me"
+          ]
+        ],
+        "L5": [
+          [
+            "F",
+            "graven"
+          ],
+          [
+            "C",
+            "hands"
+          ]
+        ],
+        "L6": [
+          [
+            "F",
+            "written"
+          ],
+          [
+            "G",
+            "his"
+          ],
+          [
+            "Am",
+            "heart"
+          ]
+        ],
+        "L7": [
+          [
+            "F",
+            "while"
+          ],
+          [
+            "G",
+            "heaven"
+          ],
+          [
+            "Am",
+            "stands"
+          ]
+        ],
+        "L8": [
+          [
+            "F",
+            "bid"
+          ],
+          [
+            "G",
+            "de--part"
+          ],
+          [
+            "Am",
+            "de--part"
+          ]
+        ],
+        "L9": [
+          [
+            "F",
+            "bid"
+          ],
+          [
+            "G",
+            "de--part"
+          ],
+          [
+            "C",
+            "de--part"
+          ]
+        ],
+        "L10": [],
+        "L11": [],
+        "L12": [],
+        "L13": [],
+        "L14": [],
+        "L15": [],
+        "L16": [],
+        "L17": [],
+        "L18": [],
+        "L19": [],
+        "L20": [],
+        "L21": [],
+        "L22": [],
+        "L23": [],
+        "L24": [],
+        "L25": [],
+        "L26": [],
+        "L27": [],
+        "L28": [],
+        "L29": [],
+        "L30": []
+      },
+      "line_text": null,
+      "source_hash": "41e7df655cef035d"
+    }
+  },
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "9584d60dd4620293"
+  }
 }

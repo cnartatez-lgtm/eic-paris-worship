@@ -1,0 +1,606 @@
+{
+  "title": "Great Is Thy Faithfulness",
+  "author": "Misc Praise Songs",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "G",
+              "text": "faithfulness, "
+            },
+            {
+              "chord": "A7",
+              "text": "O God my "
+            },
+            {
+              "chord": "D",
+              "text": "Father,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "There is no "
+            },
+            {
+              "chord": "D",
+              "text": "shadow of "
+            },
+            {
+              "chord": "E7",
+              "text": "turning with "
+            },
+            {
+              "chord": "A",
+              "text": "Thee;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "Thou changest "
+            },
+            {
+              "chord": "D",
+              "text": "not, Thy com"
+            },
+            {
+              "chord": "Bm",
+              "text": "passions they "
+            },
+            {
+              "chord": "Em",
+              "text": "fail not"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "As Thou has "
+            },
+            {
+              "chord": "D",
+              "text": "been, Thou for"
+            },
+            {
+              "chord": "A",
+              "text": "ev"
+            },
+            {
+              "chord": "A7",
+              "text": "er wilt "
+            },
+            {
+              "chord": "D",
+              "text": "be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "Em",
+              "text": "faithfulness!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "Morning by "
+            },
+            {
+              "chord": "D",
+              "text": "morning new "
+            },
+            {
+              "chord": "E7",
+              "text": "mercies I "
+            },
+            {
+              "chord": "A",
+              "text": "see."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "All I have "
+            },
+            {
+              "chord": "D",
+              "text": "needed Thy "
+            },
+            {
+              "chord": "Bm",
+              "text": "hand hath pro"
+            },
+            {
+              "chord": "Em",
+              "text": "vided"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness, "
+            },
+            {
+              "chord": "A",
+              "text": "Lord, "
+            },
+            {
+              "chord": "A7",
+              "text": "unto "
+            },
+            {
+              "chord": "D",
+              "text": "me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Summer and "
+            },
+            {
+              "chord": "G",
+              "text": "winter, and "
+            },
+            {
+              "chord": "A7",
+              "text": "springtime and "
+            },
+            {
+              "chord": "D",
+              "text": "harvest,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Sun, moon, and "
+            },
+            {
+              "chord": "D",
+              "text": "stars in their "
+            },
+            {
+              "chord": "E7",
+              "text": "courses a"
+            },
+            {
+              "chord": "A",
+              "text": "bove"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "Join with all "
+            },
+            {
+              "chord": "D",
+              "text": "nature in "
+            },
+            {
+              "chord": "Bm",
+              "text": "manifold "
+            },
+            {
+              "chord": "Em",
+              "text": "witness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "To Thy great "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness, "
+            },
+            {
+              "chord": "A",
+              "text": "mer"
+            },
+            {
+              "chord": "A7",
+              "text": "cy and "
+            },
+            {
+              "chord": "D",
+              "text": "love."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "Em",
+              "text": "faithfulness!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "Morning by "
+            },
+            {
+              "chord": "D",
+              "text": "morning new "
+            },
+            {
+              "chord": "E7",
+              "text": "mercies I "
+            },
+            {
+              "chord": "A",
+              "text": "see."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "All I have "
+            },
+            {
+              "chord": "D",
+              "text": "needed Thy "
+            },
+            {
+              "chord": "Bm",
+              "text": "hand hath pro"
+            },
+            {
+              "chord": "Em",
+              "text": "vided"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness, "
+            },
+            {
+              "chord": "A",
+              "text": "Lord, "
+            },
+            {
+              "chord": "A7",
+              "text": "unto "
+            },
+            {
+              "chord": "D",
+              "text": "me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Pardon for "
+            },
+            {
+              "chord": "G",
+              "text": "sin and a "
+            },
+            {
+              "chord": "A7",
+              "text": "peace that en"
+            },
+            {
+              "chord": "D",
+              "text": "dureth,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Thine own dear "
+            },
+            {
+              "chord": "D",
+              "text": "presence to "
+            },
+            {
+              "chord": "E7",
+              "text": "cheer and to "
+            },
+            {
+              "chord": "A",
+              "text": "guide."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "Strength for to"
+            },
+            {
+              "chord": "D",
+              "text": "day and bright "
+            },
+            {
+              "chord": "Bm",
+              "text": "hope for to"
+            },
+            {
+              "chord": "Em",
+              "text": "morrow"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Blessings all "
+            },
+            {
+              "chord": "D",
+              "text": "mine, with ten "
+            },
+            {
+              "chord": "A",
+              "text": "thou"
+            },
+            {
+              "chord": "A7",
+              "text": "sand be"
+            },
+            {
+              "chord": "D",
+              "text": "side."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "Em",
+              "text": "faithfulness!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "Morning by "
+            },
+            {
+              "chord": "D",
+              "text": "morning new "
+            },
+            {
+              "chord": "E7",
+              "text": "mercies I "
+            },
+            {
+              "chord": "A",
+              "text": "see."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A7",
+              "text": "All I have "
+            },
+            {
+              "chord": "D",
+              "text": "needed Thy "
+            },
+            {
+              "chord": "Bm",
+              "text": "hand hath pro"
+            },
+            {
+              "chord": "Em",
+              "text": "vided"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Great is Thy "
+            },
+            {
+              "chord": "D",
+              "text": "faithfulness, "
+            },
+            {
+              "chord": "A",
+              "text": "Lord, "
+            },
+            {
+              "chord": "A7",
+              "text": "unto "
+            },
+            {
+              "chord": "D",
+              "text": "me."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "greatisthyfaithfulness",
+  "source_file": "GreatIsThyFaithfulness-ThomasChisholm-D-Pag1.pdf",
+  "source_hash": "0b2b3a5474a5c1c9",
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:01:28+00:00",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/misc-praise-songs/great-is-thy-faithfulness-chords-1013215",
+  "note": "Chords placed from the Ultimate Guitar text of the printed chart; checked against the PDF on 2026-11-14. UG + ajustes del PDF",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "model": "anthropic/claude-opus-5.5",
+    "at": "2026-11-14T12:21:38+00:00",
+    "fingerprint": "dec214e333f0d6b1"
+  },
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T20:00:35+00:00",
+    "fingerprint": "dec214e333f0d6b1"
+  },
+  "status": "verified"
+}

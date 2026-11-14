@@ -15,20 +15,24 @@
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "The Word of God is light in my darkness"
-            },
-            {
-              "chord": "G",
-              "text": ""
+              "chord": "",
+              "text": "The "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "Word of "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "God is "
+            },
+            {
+              "chord": "C",
+              "text": "light in my dar"
+            },
+            {
+              "chord": "G",
+              "text": "kness"
             }
           ]
         },
@@ -36,23 +40,35 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Hope for the hopeless, strong and true"
+              "text": "Hope for the hop"
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "eless, strong and true"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "The "
+            },
+            {
               "chord": "C",
-              "text": "The Word of God is strength for the"
+              "text": "Word of "
             },
             {
               "chord": "G",
-              "text": " weary"
+              "text": "God is "
+            },
+            {
+              "chord": "C",
+              "text": "strength for the "
+            },
+            {
+              "chord": "G",
+              "text": "weary"
             }
           ]
         },
@@ -68,7 +84,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "A shield for those who trust in You"
+              "text": "A shield for those who "
+            },
+            {
+              "chord": "D",
+              "text": "trust in "
+            },
+            {
+              "chord": "G",
+              "text": "You"
             }
           ]
         }
@@ -80,8 +104,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Everything will "
+            },
+            {
               "chord": "D",
-              "text": "Everything will fade, everything will fade"
+              "text": "fade, everything will fade"
             }
           ]
         },
@@ -89,23 +117,31 @@
           "parts": [
             {
               "chord": "",
-              "text": "The heavens and the earth will pass away"
+              "text": "The heavens and the ea"
+            },
+            {
+              "chord": "C",
+              "text": "rth will pass a"
+            },
+            {
+              "chord": "G",
+              "text": "way"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "G",
-              "text": ""
+              "chord": "",
+              "text": "But You will re"
             },
             {
               "chord": "D",
-              "text": "But You will remain, yes, You will remain always"
+              "text": "main, yes, You will remain alw"
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "ays"
             }
           ]
         }
@@ -117,56 +153,80 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Je"
+            },
+            {
               "chord": "G",
-              "text": "Jesus, faithful Word of God"
+              "text": "sus, faithful Word of "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "God"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The anchor of my "
+            },
             {
               "chord": "Em",
-              "text": "The anchor of my heart"
+              "text": "heart"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "You're everything You "
+            },
             {
               "chord": "C",
-              "text": "You're everything You say You are"
+              "text": "say You are"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Gre"
+            },
+            {
               "chord": "G",
-              "text": "Greater than my deepest needs"
+              "text": "ater than my deepest ne"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "eds"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The ground beneath my "
+            },
             {
               "chord": "Em",
-              "text": "The ground beneath my feet"
+              "text": "feet"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Your promises won't "
+            },
+            {
               "chord": "C",
-              "text": "Your promises won't fail me now"
+              "text": "fail me now"
             }
           ]
         }
@@ -178,20 +238,24 @@
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "The Word of God is light in my darkness"
-            },
-            {
-              "chord": "G",
-              "text": ""
+              "chord": "",
+              "text": "The "
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "Word of "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "God is "
+            },
+            {
+              "chord": "C",
+              "text": "light in my dar"
+            },
+            {
+              "chord": "G",
+              "text": "kness"
             }
           ]
         },
@@ -199,23 +263,35 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Hope for the hopeless, strong and true"
+              "text": "Hope for the hop"
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "eless, strong and true"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "The "
+            },
+            {
               "chord": "C",
-              "text": "The Word of God is strength for the"
+              "text": "Word of "
             },
             {
               "chord": "G",
-              "text": " weary"
+              "text": "God is "
+            },
+            {
+              "chord": "C",
+              "text": "strength for the "
+            },
+            {
+              "chord": "G",
+              "text": "weary"
             }
           ]
         },
@@ -231,7 +307,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "A shield for those who trust in You"
+              "text": "A shield for those who "
+            },
+            {
+              "chord": "D",
+              "text": "trust in "
+            },
+            {
+              "chord": "G",
+              "text": "You"
             }
           ]
         }
@@ -243,8 +327,44 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Everything will "
+            },
+            {
               "chord": "D",
-              "text": "Everything will fade, everything will fade"
+              "text": "fade, everything will fade"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The heavens and the ea"
+            },
+            {
+              "chord": "C",
+              "text": "rth will pass a"
+            },
+            {
+              "chord": "G",
+              "text": "way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "But You will re"
+            },
+            {
+              "chord": "D",
+              "text": "main, yes, You will remain alw"
+            },
+            {
+              "chord": "C",
+              "text": "ays"
             }
           ]
         }
@@ -256,117 +376,80 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Je"
+            },
+            {
               "chord": "G",
-              "text": "Jesus, faithful Word of God"
+              "text": "sus, faithful Word of "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "God"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The anchor of my "
+            },
             {
               "chord": "Em",
-              "text": "The anchor of my heart"
+              "text": "heart"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "You're everything You "
+            },
             {
               "chord": "C",
-              "text": "You're everything You say You are"
+              "text": "say You are"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Gre"
+            },
+            {
               "chord": "G",
-              "text": "Greater than my deepest needs"
+              "text": "ater than my deepest ne"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "eds"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "The ground beneath my feet"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Your promises won't fail me now"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Jesus, faithful Word of God"
+              "chord": "",
+              "text": "The ground beneath my "
             },
             {
-              "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
               "chord": "Em",
-              "text": "The anchor of my heart"
+              "text": "feet"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "You're everything You say You are"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Greater than my deepest needs"
+              "chord": "",
+              "text": "Your promises won't "
             },
             {
-              "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Em",
-              "text": "The ground beneath my feet"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
               "chord": "C",
-              "text": "Your promises won't fail me now"
+              "text": "fail me now"
             }
           ]
         }
@@ -378,64 +461,96 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You will not "
+            },
+            {
               "chord": "G",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "You will not "
+            },
             {
               "chord": "D",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "You will not "
+            },
             {
               "chord": "C",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Oh, Word of "
+            },
+            {
               "chord": "G",
-              "text": "Oh, Word of God"
+              "text": "God"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You will not "
+            },
+            {
               "chord": "G",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "You will not "
+            },
             {
               "chord": "D",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "You will not "
+            },
             {
               "chord": "C",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Oh, Word of "
+            },
+            {
               "chord": "G",
-              "text": "Oh, Word of God"
+              "text": "God"
             }
           ]
         }
@@ -447,56 +562,80 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Je"
+            },
+            {
               "chord": "G",
-              "text": "Jesus, faithful Word of God"
+              "text": "sus, faithful Word of "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "God"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The anchor of my "
+            },
             {
               "chord": "Em",
-              "text": "The anchor of my heart"
+              "text": "heart"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "You're everything You "
+            },
             {
               "chord": "C",
-              "text": "You're everything You say You are"
+              "text": "say You are"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Gre"
+            },
+            {
               "chord": "G",
-              "text": "Greater than my deepest needs"
+              "text": "ater than my deepest ne"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "eds"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The ground beneath my "
+            },
             {
               "chord": "Em",
-              "text": "The ground beneath my feet"
+              "text": "feet"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Your promises won't "
+            },
+            {
               "chord": "C",
-              "text": "Your promises won't fail me now"
+              "text": "fail me now"
             }
           ]
         }
@@ -506,7 +645,25 @@
   "slug": "wordofgod",
   "source_file": "WordOfGod-VerticalWorship-G-Pag1.pdf",
   "source_hash": "94d149bc90e7c53a",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-09-26T18:22:01+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:51:19+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/vertical-church-band/word-of-god-chords-2099867",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (transposed +9); match with the PDF reading 0.92.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "048d2190837507ce"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "048d2190837507ce",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

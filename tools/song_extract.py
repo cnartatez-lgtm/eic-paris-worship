@@ -52,6 +52,8 @@ OPENROUTER = "https://openrouter.ai/api/v1/chat/completions"
 
 TIMEOUT = 180
 
+LAST_COST = 0.0
+
 # Below this, a "text layer" is really just a stray label or a
 # page number and the page has to be read as an image.
 MIN_TEXT_CHARS = 200
@@ -220,7 +222,7 @@ def page_images(pdf, dpi=150, max_pages=3):
     return images
 
 
-def call_model(messages, model, max_tokens=8000):
+def call_model(messages, model, max_tokens=8000, think=False):
     """One OpenRouter chat call returning the text content.
 
     Reading a chart is perception, not deliberation, so thinking
@@ -236,10 +238,13 @@ def call_model(messages, model, max_tokens=8000):
         "messages": messages,
         "max_tokens": max_tokens,
         "temperature": 0,
+        "usage": {"include": True},
     }
 
+    # Checking a chart (chart_review.py) is deliberation: there the
+    # model is allowed to think before it answers.
     attempts = [
-        dict(payload_base, reasoning={"enabled": False}),
+        dict(payload_base, reasoning={"effort": "medium"} if think else {"enabled": False}),
         payload_base,
     ]
 
@@ -284,6 +289,10 @@ def call_model(messages, model, max_tokens=8000):
             )
     else:
         raise last
+
+    # What the call cost, for the reports (OpenRouter's own figure).
+    global LAST_COST
+    LAST_COST = float((payload.get("usage") or {}).get("cost") or 0)
 
     choices = payload.get("choices") or []
 
@@ -376,8 +385,40 @@ def clean(song, fallback_title, fallback_author, key):
     }
 
 
-def extract(pdf, key, title, author, config, force=False):
-    """Read one chart into structured JSON, using the cache."""
+def chord_count(sections):
+    return sum(
+        1
+        for sec in sections
+        for line in sec.get("lines", [])
+        for part in line.get("parts", [])
+        if part.get("chord")
+    )
+
+
+def readable(title):
+    """'WhereWouldWeBe' -> 'Where Would We Be' (library file names).
+    Ultimate Guitar's "Official" label in a file name is not part of the
+    song's name ("Be Thou My Vision Official")."""
+
+    title = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", title).strip()
+    return re.sub(r"\s*\bOfficial$", "", title).strip()
+
+
+def extract(pdf, key, title, author, config, force=False, unlock=False,
+            display_title=None):
+    """Read one chart into structured JSON, using the cache.
+
+    Since 14 November 2026 a chart is read BY POSITION first
+    (chart_layout.py): a PDF with a text layer exactly, a scanned page
+    with OCR. Only when that finds no usable chart does the model read
+    it. Either way the result is not trusted until the quality gate
+    (chart_gate.py) has compared it with the PDF; worship_app.py runs
+    the gate on every Sunday chart.
+
+    A chart the gate verified is the finished product: it is never read
+    again unless its PDF changes, and --force refuses it without
+    --unlock.
+    """
 
     pdf = Path(pdf)
 
@@ -389,7 +430,9 @@ def extract(pdf, key, title, author, config, force=False):
 
     digest = file_hash(pdf)
 
-    if target.exists() and not force:
+    cached = None
+
+    if target.exists():
         try:
             cached = json.loads(
                 target.read_text(encoding="utf-8")
@@ -397,9 +440,68 @@ def extract(pdf, key, title, author, config, force=False):
         except (OSError, json.JSONDecodeError):
             cached = None
 
+    if force and cached and cached.get("status") == "verified" \
+            and cached.get("source_hash") == digest and not unlock:
+        raise RuntimeError(
+            f"{target.name} está verificada; no se vuelve a leer. "
+            "Si de verdad hay que rehacerla: --force --unlock."
+        )
+
+    if not force:
+
         # Same source file, same content: nothing to pay for.
         if cached and cached.get("source_hash") == digest:
             return cached, "cached"
+
+    # 1. By position: exact for a text layer, OCR for a picture.
+    import chart_layout
+
+    reading = None
+
+    for ocr in (False, True):
+        try:
+            reading = chart_layout.read_pdf(pdf, ocr=ocr)
+        except Exception:  # noqa: BLE001
+            reading = None
+
+        if reading and chord_count(reading["sections"]) >= 4:
+            break
+
+        reading = None
+
+    if reading:
+        song = {
+            "title": display_title or readable(title),
+            "author": readable(author),
+            "key": key,
+            "meta": chart_layout.meta_of(pdf),
+            "sections": reading["sections"],
+        }
+        song.update(
+            {
+                "slug": slug,
+                "source_file": pdf.name,
+                "source_hash": digest,
+                "method": "ocr-layout" if ocr else "layout",
+                "model": "",
+                "status": "new",
+                "extracted_at": datetime.now(
+                    timezone.utc
+                ).isoformat(timespec="seconds"),
+            }
+        )
+
+        if reading.get("doubts"):
+            song["doubts"] = reading["doubts"]
+
+        target.write_text(
+            json.dumps(song, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+        return song, song["method"]
+
+    # 2. The model, when position reading found nothing usable.
 
     text = page_text(pdf)
 
@@ -505,6 +607,8 @@ def main():
     parser.add_argument("--title", required=True)
     parser.add_argument("--author", default="")
     parser.add_argument("--force", action="store_true")
+    parser.add_argument("--unlock", action="store_true",
+                        help="With --force, re-read a chart that is already verified.")
 
     args = parser.parse_args()
 
@@ -515,6 +619,7 @@ def main():
         args.author,
         load_config(),
         force=args.force,
+        unlock=args.unlock,
     )
 
     print(

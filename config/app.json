@@ -20,10 +20,22 @@
     "model_text": "Lee cartas con capa de texto. Qwen3-VL demostro la mejor precision de acordes. Alternativa barata: google/gemini-3.1-flash-lite",
     "model_vision": "Lee cartas que son imagen. Qwen3-VL acerto todos los acordes en la prueba; los Gemini lite fallaron. Alternativa: qwen/qwen3-vl-32b-instruct",
     "output": "Carpeta que Syncthing replica a la tableta. El index.html sale ahi.",
-    "web": "Copia web de la app en worship.pilgrimagewithgod.org (tools/publish_web.py, carpeta web/). Se publica después de cada armado; enabled se activa cuando Cloudflare esté configurado."
+    "web": "Copia web de la app en worship.pilgrimagewithgod.org (tools/publish_web.py, carpeta web/). Se publica después de cada armado; enabled se activa cuando Cloudflare esté configurado.",
+    "tablet": "Galaxy Tab S8 en horizontal. min_font_px: la letra más pequeña a la que se ajusta una canción; si no cabe en una pantalla a ese tamaño, sigue en más columnas a la derecha con el deslizador de abajo. viewport: el tamaño de pantalla (px CSS) con que tools/check_fit.py revisa todas las canciones; la app se ajusta en vivo al tamaño real de la tableta.",
+    "model_review": "Revisor obligatorio de cada carta (tools/chart_gate.py): lee el PDF a ciegas y dice qué acorde va sobre qué palabra; la carta tiene que coincidir. Prueba del 14-11-2026 con 5 cartas conocidas (3 malas, 2 buenas): Sonnet 5.5 y Opus 5.5 acertaron 5/5; Gemini 3.1 Pro y GPT-6 Luna Pro marcaron errores falsos en cartas buenas. Sonnet ~5 céntimos por carta.",
+    "model_review_confirm": "Segunda opinión (Opus 5.5, ~8 céntimos) solo cuando el revisor encuentra diferencias: decide el más fuerte."
   },
   "web": {
     "enabled": true,
     "url": "https://worship.pilgrimagewithgod.org"
-  }
+  },
+  "tablet": {
+    "min_font_px": 20,
+    "viewport": [
+      1280,
+      728
+    ]
+  },
+  "model_review": "anthropic/claude-sonnet-5.5",
+  "model_review_confirm": "anthropic/claude-opus-5.5"
 }

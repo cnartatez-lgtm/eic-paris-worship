@@ -10,7 +10,7 @@
   },
   "sections": [
     {
-      "label": "[Intro]",
+      "label": "Intro",
       "lines": [
         {
           "parts": [
@@ -39,12 +39,7 @@
               "text": ""
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Verse 1",
-      "lines": [
+        },
         {
           "parts": [
             {
@@ -64,16 +59,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And "
+            },
+            {
               "chord": "G",
-              "text": "And give me one "
+              "text": "give me one magn"
             },
             {
               "chord": "D",
-              "text": "magnificent "
+              "text": "ificent ob"
             },
             {
               "chord": "A",
-              "text": "obsession"
+              "text": "session"
             }
           ]
         },
@@ -85,11 +84,11 @@
             },
             {
               "chord": "A",
-              "text": "glorious "
+              "text": "glorious amb"
             },
             {
               "chord": "Bm",
-              "text": "ambition for my "
+              "text": "ition for my "
             },
             {
               "chord": "A",
@@ -100,61 +99,72 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "To "
+            },
+            {
               "chord": "G",
-              "text": "To know and "
+              "text": "know and follow "
             },
             {
               "chord": "A",
-              "text": "follow hard after "
+              "text": "hard after Y"
             },
             {
               "chord": "D",
-              "text": "You"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "To know and "
-            },
-            {
-              "chord": "A",
-              "text": "follow hard after "
-            },
-            {
-              "chord": "D",
-              "text": "You"
+              "text": "ou"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "To "
+            },
+            {
+              "chord": "D",
+              "text": "know and follow "
+            },
+            {
+              "chord": "A",
+              "text": "hard after Y"
+            },
+            {
+              "chord": "D",
+              "text": "ou"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To "
+            },
             {
               "chord": "Bm",
-              "text": "To grow as Your "
+              "text": "grow as Your dis"
             },
             {
               "chord": "G",
-              "text": "disciple in the (Your) "
+              "text": "ciple in "
             },
             {
               "chord": "A",
-              "text": "truth"
+              "text": "the (Your) truth"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "This world is e"
+            },
+            {
               "chord": "D",
-              "text": "This world is empty, pale, and "
+              "text": "mpty, pale, and "
             },
             {
               "chord": "A",
@@ -165,8 +175,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Compared to "
+            },
+            {
               "chord": "Bm",
-              "text": "Compared to knowing You, my "
+              "text": "knowing You, my "
             },
             {
               "chord": "A",
@@ -177,8 +191,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lead me "
+            },
+            {
               "chord": "G",
-              "text": "Lead me on, and I will "
+              "text": "on, and I will "
             },
             {
               "chord": "A",
@@ -193,16 +211,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lead me "
+            },
+            {
               "chord": "G",
-              "text": "Lead me on, and I will "
+              "text": "on, and I will "
             },
             {
               "chord": "A",
-              "text": "run after "
+              "text": "run after Y"
             },
             {
               "chord": "D",
-              "text": "You"
+              "text": "ou"
             }
           ]
         }
@@ -212,7 +234,25 @@
   "slug": "onepureandholypassion",
   "source_file": "OnePureAndHolyPassion-Passion-D-Pag1.pdf",
   "source_hash": "85e2222f65bf5bed",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-17T19:04:46+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:50:57+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/passion/one-pure-and-holy-passion-chords-1428594",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (simplified, transposed +7); match with the PDF reading 0.91.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "9cd4f08d19cf81b6"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "9cd4f08d19cf81b6",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

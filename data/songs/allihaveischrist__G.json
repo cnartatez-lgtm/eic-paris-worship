@@ -15,36 +15,16 @@
         {
           "parts": [
             {
-              "chord": "",
-              "text": "You bore the wrath reserved"
-            },
-            {
-              "chord": "Am",
-              "text": " "
-            },
-            {
               "chord": "G",
-              "text": "I once was lost in darkest "
+              "text": "I once was "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "lost in "
             },
             {
               "chord": "G",
-              "text": "for me Now all I know is "
-            },
-            {
-              "chord": "Em",
-              "text": ""
-            },
-            {
-              "chord": "C",
-              "text": "grace."
-            },
-            {
-              "chord": "D",
-              "text": ""
+              "text": "darkest"
             }
           ]
         },
@@ -52,12 +32,16 @@
           "parts": [
             {
               "chord": "C",
-              "text": "night Yet thought I knew"
+              "text": "night Yet thought I "
             },
             {
               "chord": "D",
-              "text": " "
-            },
+              "text": "knew"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "G",
               "text": "the way."
@@ -68,42 +52,94 @@
           "parts": [
             {
               "chord": "",
-              "text": "The sin that promised joy and "
+              "text": "The sin that "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "promised "
             },
             {
               "chord": "G",
-              "text": "life Had led me to the grave. "
-            },
+              "text": "joy and"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "C",
-              "text": ""
+              "text": "life Had led me "
             },
             {
               "chord": "D",
-              "text": "I had no hope that You would "
+              "text": "to the "
             },
             {
               "chord": "G",
-              "text": "own A rebel to Your will. "
+              "text": "grave."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I had no "
             },
+            {
+              "chord": "D",
+              "text": "hope that You would"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "Em",
-              "text": ""
+              "text": "own A rebel "
             },
             {
               "chord": "C",
-              "text": "And if You had not loved me "
+              "text": "to Your "
             },
             {
               "chord": "G",
-              "text": "first I would refuse You "
+              "text": "will."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And if You "
             },
             {
               "chord": "Am",
+              "text": "had not loved me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "first I would "
+            },
+            {
+              "chord": "C",
+              "text": "refuse You"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "still."
             }
           ]
@@ -117,63 +153,155 @@
           "parts": [
             {
               "chord": "G",
-              "text": "But as I ran my hell-bound "
+              "text": "But as I ra"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "n my hel"
             },
             {
               "chord": "G",
-              "text": "race Indifferent to the "
-            },
+              "text": "l-bound"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "C",
-              "text": ""
+              "text": "race Indifferent "
             },
             {
               "chord": "D",
-              "text": "cost "
+              "text": "to the"
             },
             {
               "chord": "G",
-              "text": "You looked upon my helpless "
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "cost"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You looked u"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "pon my "
             },
             {
               "chord": "G",
-              "text": "state And led me to the "
-            },
+              "text": "helpless"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "C",
-              "text": ""
+              "text": "state And led me "
             },
             {
               "chord": "D",
-              "text": "cross. "
+              "text": "to the"
             },
             {
               "chord": "G",
-              "text": "And I beheld God’s love "
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "cross."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And I beh"
             },
             {
               "chord": "D",
-              "text": ""
-            },
+              "text": "eld God’s love"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "G",
-              "text": "displayed You suffered "
+              "chord": "",
+              "text": "dis"
             },
             {
               "chord": "Em",
-              "text": ""
+              "text": "played You suffered"
             },
             {
               "chord": "C",
-              "text": "in my place"
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "in my "
+            },
+            {
+              "chord": "G",
+              "text": "place"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You bore "
+            },
+            {
+              "chord": "Am",
+              "text": "the wrath reserved"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "for me Now all "
+            },
+            {
+              "chord": "C",
+              "text": "I know is"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "grace."
             }
           ]
         }
@@ -185,35 +313,59 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Hal-le - "
+            },
+            {
               "chord": "C",
-              "text": "Hal-le - lu - jah! All I have "
+              "text": "lu - "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "jah! All I "
             },
             {
               "chord": "D",
-              "text": "is Christ"
-            },
-            {
-              "chord": "Em",
-              "text": ""
+              "text": "have"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "Hal-le - lu - jah! Jesus is my "
+              "chord": "",
+              "text": "is "
             },
             {
               "chord": "Em",
-              "text": ""
+              "text": "Christ"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Hal-le - "
+            },
+            {
+              "chord": "C",
+              "text": "lu - "
+            },
+            {
+              "chord": "Em",
+              "text": "jah! Jesus "
             },
             {
               "chord": "D",
+              "text": "is my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
               "text": "life"
             }
           ]
@@ -227,81 +379,509 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Now, Lord, I would be Yours "
+              "text": "Now, Lord, I "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "would be "
             },
             {
               "chord": "G",
-              "text": "alone And live so all might "
+              "text": "Yours"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "a"
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "lone And live so "
             },
             {
               "chord": "D",
-              "text": "see "
-            },
+              "text": "all might"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "G",
-              "text": "The strength to follow Your "
+              "text": "see"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The strength to "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "follow "
             },
             {
               "chord": "G",
-              "text": "commands Could never come "
+              "text": "Your"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "com"
             },
             {
               "chord": "C",
-              "text": ""
+              "text": "mands Could never "
             },
             {
               "chord": "D",
-              "text": "from me. "
+              "text": "come"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "fro"
             },
             {
               "chord": "G",
-              "text": "Oh Father, use my ransomed "
+              "text": "m me."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh Father, "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "use my ransomed"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "life In any "
+            },
+            {
+              "chord": "C",
+              "text": "way You "
             },
             {
               "chord": "G",
-              "text": "life In any way You choose. "
+              "text": "choose."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And let my "
+            },
+            {
+              "chord": "Am",
+              "text": "song forever "
             },
             {
               "chord": "Em",
-              "text": ""
+              "text": "be My"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "only "
             },
             {
               "chord": "C",
-              "text": "And let my song forever be My "
+              "text": "boast is "
             },
             {
-              "chord": "G",
-              "text": "only boast is You."
+              "chord": "D",
+              "text": "You."
             }
           ]
         }
       ]
     },
     {
-      "label": "Chorus",
+      "label": "Chorus x2",
       "lines": []
     }
   ],
   "slug": "allihaveischrist",
   "source_file": "AllIHaveIsChrist-JordanKauflin-G-Pag1.pdf",
   "source_hash": "aca947bac209d6ae",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-11-07T20:03:16+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "20d8683c71494144"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "20d8683c71494144",
+    "at": "2026-11-14T13:49:48+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "G",
+            "I"
+          ],
+          [
+            "D",
+            "lost"
+          ],
+          [
+            "G",
+            "darkest"
+          ]
+        ],
+        "L2": [
+          [
+            "C",
+            "night"
+          ],
+          [
+            "D",
+            "knew"
+          ]
+        ],
+        "L3": [
+          [
+            "G",
+            "the"
+          ]
+        ],
+        "L4": [
+          [
+            "D",
+            "promised"
+          ],
+          [
+            "G",
+            "joy"
+          ]
+        ],
+        "L5": [
+          [
+            "C",
+            "life"
+          ],
+          [
+            "D",
+            "to"
+          ],
+          [
+            "G",
+            "grave."
+          ]
+        ],
+        "L6": [
+          [
+            "D",
+            "hope"
+          ]
+        ],
+        "L7": [
+          [
+            "Em",
+            "own"
+          ],
+          [
+            "C",
+            "to"
+          ],
+          [
+            "G",
+            "will."
+          ]
+        ],
+        "L8": [
+          [
+            "Am",
+            "had"
+          ]
+        ],
+        "L9": [
+          [
+            "Em",
+            "first"
+          ],
+          [
+            "C",
+            "refuse"
+          ],
+          [
+            "D",
+            "(end)"
+          ]
+        ],
+        "L10": [],
+        "L11": [
+          [
+            "G",
+            "But"
+          ],
+          [
+            "D",
+            "ran"
+          ],
+          [
+            "G",
+            "hell-bound"
+          ]
+        ],
+        "L12": [
+          [
+            "C",
+            "race"
+          ],
+          [
+            "D",
+            "to"
+          ],
+          [
+            "G",
+            "(end)"
+          ]
+        ],
+        "L13": [],
+        "L14": [
+          [
+            "D",
+            "upon"
+          ],
+          [
+            "G",
+            "helpless"
+          ]
+        ],
+        "L15": [
+          [
+            "C",
+            "state"
+          ],
+          [
+            "D",
+            "to"
+          ],
+          [
+            "G",
+            "(end)"
+          ]
+        ],
+        "L16": [],
+        "L17": [
+          [
+            "D",
+            "beheld"
+          ]
+        ],
+        "L18": [
+          [
+            "Em",
+            "displayed"
+          ],
+          [
+            "C",
+            "(end)"
+          ]
+        ],
+        "L19": [
+          [
+            "G",
+            "place"
+          ]
+        ],
+        "L20": [
+          [
+            "Am",
+            "the"
+          ]
+        ],
+        "L21": [
+          [
+            "Em",
+            "for"
+          ],
+          [
+            "C",
+            "I"
+          ],
+          [
+            "D",
+            "(end)"
+          ]
+        ],
+        "L22": [],
+        "L23": [
+          [
+            "C",
+            "lu"
+          ],
+          [
+            "G",
+            "jah!"
+          ],
+          [
+            "D",
+            "have"
+          ]
+        ],
+        "L24": [
+          [
+            "Em",
+            "Christ"
+          ]
+        ],
+        "L25": [
+          [
+            "C",
+            "lu"
+          ],
+          [
+            "Em",
+            "jah!"
+          ],
+          [
+            "D",
+            "is"
+          ]
+        ],
+        "L26": [
+          [
+            "G",
+            "life"
+          ]
+        ],
+        "L27": [
+          [
+            "G",
+            "Now,"
+          ],
+          [
+            "D",
+            "would"
+          ],
+          [
+            "G",
+            "Yours"
+          ]
+        ],
+        "L28": [
+          [
+            "C",
+            "alone"
+          ],
+          [
+            "D",
+            "all"
+          ]
+        ],
+        "L29": [
+          [
+            "G",
+            "see"
+          ]
+        ],
+        "L30": [
+          [
+            "D",
+            "follow"
+          ],
+          [
+            "G",
+            "Your"
+          ]
+        ],
+        "L31": [
+          [
+            "C",
+            "commands"
+          ],
+          [
+            "D",
+            "come"
+          ]
+        ],
+        "L32": [
+          [
+            "G",
+            "from"
+          ]
+        ],
+        "L33": [
+          [
+            "D",
+            "use"
+          ]
+        ],
+        "L34": [
+          [
+            "Em",
+            "life"
+          ],
+          [
+            "C",
+            "way"
+          ],
+          [
+            "G",
+            "choose."
+          ]
+        ],
+        "L35": [
+          [
+            "Am",
+            "song"
+          ],
+          [
+            "Em",
+            "be"
+          ]
+        ],
+        "L36": [
+          [
+            "C",
+            "boast"
+          ],
+          [
+            "D",
+            "You."
+          ]
+        ],
+        "L37": []
+      },
+      "line_text": null,
+      "source_hash": "aca947bac209d6ae"
+    }
+  }
 }

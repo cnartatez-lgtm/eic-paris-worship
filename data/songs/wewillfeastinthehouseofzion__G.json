@@ -10,212 +10,214 @@
   },
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "",
       "lines": [
         {
           "parts": [
             {
               "chord": "G",
-              "text": "We will feast in the house of "
+              "text": ""
             },
             {
-              "chord": "Em",
-              "text": "Zion"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "We will sing with our hearts "
-            },
-            {
-              "chord": "G",
-              "text": "restored"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Em",
-              "text": "“He has done great things,” we will "
+              "chord": "|",
+              "text": ""
             },
             {
               "chord": "D",
-              "text": "say together"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "We will feast, and weep no "
+              "text": ""
             },
             {
-              "chord": "Am",
-              "text": "more"
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
             }
           ]
         }
       ]
     },
     {
-      "label": "Verse 2",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "We will not be burned, by the "
-            },
-            {
-              "chord": "C",
-              "text": "fire"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Em",
-              "text": "He is the Lord our "
-            },
-            {
-              "chord": "C",
-              "text": "God"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "We are not consumed, by the "
-            },
-            {
-              "chord": "Em",
-              "text": "flood"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "Upheld, protected, gathered "
-            },
-            {
-              "chord": "D",
-              "text": "up_"
-            }
-          ]
-        }
-      ]
+      "label": "G Em C G D/F#",
+      "lines": []
     },
     {
-      "label": "Verse 3",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "In the dark of night, before the "
-            },
-            {
-              "chord": "C",
-              "text": "dawn"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Em",
-              "text": "My soul be not "
-            },
-            {
-              "chord": "C",
-              "text": "afraid"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "For the promised mor - "
-            },
-            {
-              "chord": "Em",
-              "text": "ning, Oh how long"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "C",
-              "text": "O God of Jacob, be my "
-            },
-            {
-              "chord": "D",
-              "text": "strength_"
-            }
-          ]
-        }
-      ]
+      "label": "We will feast in the house of Zion",
+      "lines": []
     },
     {
-      "label": "Verse 4",
+      "label": "Em D C Am D",
+      "lines": []
+    },
+    {
+      "label": "We will sing with our hearts restored",
+      "lines": []
+    },
+    {
+      "label": "G Em C G D/F#",
+      "lines": []
+    },
+    {
+      "label": "“He has done great things,” we will say together",
+      "lines": []
+    },
+    {
+      "label": "Em D C D G",
+      "lines": []
+    },
+    {
+      "label": "We will feast, and weep no more",
+      "lines": []
+    },
+    {
+      "label": "",
       "lines": [
         {
           "parts": [
             {
               "chord": "G",
-              "text": "Every vow we’ve bro - "
+              "text": "We will not be "
             },
             {
               "chord": "C",
-              "text": "ken and betrayed"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Em",
-              "text": "You are the faithful "
-            },
-            {
-              "chord": "C",
-              "text": "One"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "And_ from the gar - "
+              "text": "burned, by the "
             },
             {
               "chord": "Em",
-              "text": "den to the grave"
+              "text": "fire "
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "He "
+            },
+            {
               "chord": "C",
-              "text": "Bind us together bring "
+              "text": "is the "
             },
             {
               "chord": "D",
-              "text": "shalom_"
+              "text": "Lord our "
+            },
+            {
+              "chord": "Em",
+              "text": "God "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We are not con"
+            },
+            {
+              "chord": "C",
+              "text": "sumed, by the "
+            },
+            {
+              "chord": "Em",
+              "text": "flood "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Up"
+            },
+            {
+              "chord": "C",
+              "text": "held, pro"
+            },
+            {
+              "chord": "D",
+              "text": "tected, "
+            },
+            {
+              "chord": "Em",
+              "text": "gathered "
+            },
+            {
+              "chord": "D/F#",
+              "text": "up_ "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In the dark of night, before the dawn"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My soul be not afraid"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For the promised mor - ning, Oh how long"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "O God of Jacob, be my strength_"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Every vow we’ve bro - ken and betrayed"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You are the faithful One"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And_ from the gar - den to the grave"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Bind us together bring shalom_"
             }
           ]
         }
@@ -225,7 +227,108 @@
   "slug": "wewillfeastinthehouseofzion",
   "source_file": "WeWillFeastInTheHouseOfZion-JoshMoore-G-Pag1.pdf",
   "source_hash": "7da801e65ede9a89",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-03T19:04:06+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "a1970812f05b4322"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "reading": {
+      "L1": [
+        [
+          "G",
+          ""
+        ],
+        [
+          "D",
+          ""
+        ],
+        [
+          "G",
+          ""
+        ],
+        [
+          "D",
+          ""
+        ]
+      ],
+      "L2": [
+        [
+          "G",
+          "We"
+        ],
+        [
+          "C",
+          "burned,"
+        ],
+        [
+          "Em",
+          "fire"
+        ]
+      ],
+      "L3": [
+        [
+          "C",
+          "is"
+        ],
+        [
+          "D",
+          "Lord"
+        ],
+        [
+          "Em",
+          "God"
+        ]
+      ],
+      "L4": [
+        [
+          "C",
+          "consumed,"
+        ],
+        [
+          "Em",
+          "flood"
+        ]
+      ],
+      "L5": [
+        [
+          "C",
+          "Upheld,"
+        ],
+        [
+          "D",
+          "protected,"
+        ],
+        [
+          "Em",
+          "gathered"
+        ],
+        [
+          "D/F#",
+          "up_"
+        ]
+      ],
+      "L6": [],
+      "L7": [],
+      "L8": [],
+      "L9": [],
+      "L10": [],
+      "L11": [],
+      "L12": [],
+      "L13": []
+    },
+    "model": "anthropic/claude-sonnet-5.5",
+    "cost": 0.0239,
+    "at": "2026-11-14T12:45:12+00:00",
+    "fingerprint": "a1970812f05b4322",
+    "source_hash": "7da801e65ede9a89"
+  }
 }

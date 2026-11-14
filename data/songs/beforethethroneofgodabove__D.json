@@ -10,20 +10,24 @@
   },
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "VERSE 1",
       "lines": [
         {
           "parts": [
             {
               "chord": "",
-              "text": "Before the throne of God "
+              "text": "Before the "
             },
             {
               "chord": "D",
-              "text": "a - "
+              "text": "throne of "
             },
             {
               "chord": "Em/D",
+              "text": "God  a - "
+            },
+            {
+              "chord": "D",
               "text": "bove"
             }
           ]
@@ -32,7 +36,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "I have a strong and perfect plea"
+              "text": "I have a "
+            },
+            {
+              "chord": "D",
+              "text": "strong and perfect "
+            },
+            {
+              "chord": "F#m",
+              "text": "plea"
             }
           ]
         },
@@ -40,10 +52,18 @@
           "parts": [
             {
               "chord": "",
-              "text": "A great High Priest whose name is "
+              "text": "A great High "
             },
             {
               "chord": "G",
+              "text": "Priest whose "
+            },
+            {
+              "chord": "A",
+              "text": "name is "
+            },
+            {
+              "chord": "Bm",
               "text": "Love"
             }
           ]
@@ -52,14 +72,22 @@
           "parts": [
             {
               "chord": "",
-              "text": "Who ever lives and pleads for "
+              "text": "Who ever "
             },
             {
               "chord": "G",
-              "text": "      "
+              "text": "lives and "
             },
             {
               "chord": "Em",
+              "text": "pleads "
+            },
+            {
+              "chord": "G/A",
+              "text": "for "
+            },
+            {
+              "chord": "D",
               "text": "me"
             }
           ]
@@ -68,11 +96,23 @@
           "parts": [
             {
               "chord": "",
-              "text": "My name is grav - "
+              "text": "My name is "
             },
             {
               "chord": "G",
-              "text": "en on His hands"
+              "text": "grav - "
+            },
+            {
+              "chord": "D/F#",
+              "text": "en  on His "
+            },
+            {
+              "chord": "Asus",
+              "text": "hands"
+            },
+            {
+              "chord": "A",
+              "text": ""
             }
           ]
         },
@@ -80,23 +120,23 @@
           "parts": [
             {
               "chord": "",
-              "text": "My name is writ - "
+              "text": "My "
             },
             {
               "chord": "D",
-              "text": "ten on His heart"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "",
-              "text": "I know that while in    "
+              "text": "name is "
             },
             {
               "chord": "G",
-              "text": "heav'n He stands"
+              "text": "writ - "
+            },
+            {
+              "chord": "D/F#",
+              "text": "ten  on His "
+            },
+            {
+              "chord": "Bm",
+              "text": "heart"
             }
           ]
         },
@@ -104,10 +144,50 @@
           "parts": [
             {
               "chord": "",
-              "text": "No tongue can bid me thence de - "
+              "text": "I know that "
+            },
+            {
+              "chord": "G",
+              "text": "while i"
+            },
+            {
+              "chord": "D/F#",
+              "text": "n "
+            },
+            {
+              "chord": "A",
+              "text": "heav'n He "
+            },
+            {
+              "chord": "Bm",
+              "text": "stands"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "No "
             },
             {
               "chord": "Bm/A",
+              "text": "tongue can "
+            },
+            {
+              "chord": "G",
+              "text": "bid me "
+            },
+            {
+              "chord": "Em",
+              "text": "thence "
+            },
+            {
+              "chord": "G/A",
+              "text": "de  -   "
+            },
+            {
+              "chord": "Bm",
               "text": "part"
             }
           ]
@@ -116,10 +196,26 @@
           "parts": [
             {
               "chord": "",
-              "text": "No tongue can bid me thence de - "
+              "text": "No "
             },
             {
               "chord": "Bm/A",
+              "text": "tongue can "
+            },
+            {
+              "chord": "G",
+              "text": "bid me "
+            },
+            {
+              "chord": "Em",
+              "text": "thence "
+            },
+            {
+              "chord": "G/A",
+              "text": "de  -   "
+            },
+            {
+              "chord": "D",
               "text": "part"
             }
           ]
@@ -127,7 +223,7 @@
       ]
     },
     {
-      "label": "Chorus",
+      "label": "CHORUS",
       "lines": [
         {
           "parts": [
@@ -137,7 +233,7 @@
             },
             {
               "chord": "Am",
-              "text": "lu - "
+              "text": "lu  - "
             },
             {
               "chord": "C",
@@ -149,11 +245,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "My life is found in "
+              "text": "My life is "
             },
             {
               "chord": "G",
-              "text": "Jesus Christ"
+              "text": "found in Jesus "
+            },
+            {
+              "chord": "D",
+              "text": "Christ"
             }
           ]
         },
@@ -165,7 +265,7 @@
             },
             {
               "chord": "Am",
-              "text": "lu - "
+              "text": "lu  - "
             },
             {
               "chord": "C",
@@ -177,10 +277,14 @@
           "parts": [
             {
               "chord": "",
-              "text": "For I am His and He is "
+              "text": "For I am "
             },
             {
               "chord": "G",
+              "text": "His and He is "
+            },
+            {
+              "chord": "D",
               "text": "mine"
             }
           ]
@@ -188,20 +292,24 @@
       ]
     },
     {
-      "label": "Verse 2",
+      "label": "VERSE 2",
       "lines": [
         {
           "parts": [
             {
               "chord": "",
-              "text": "When Satan tempts me to        "
+              "text": "When Satan "
             },
             {
               "chord": "D",
-              "text": "de - "
+              "text": "tempts me "
             },
             {
               "chord": "Em/D",
+              "text": "to  de - "
+            },
+            {
+              "chord": "D",
               "text": "spair"
             }
           ]
@@ -210,11 +318,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "And tells me of the guilt with - "
+              "text": "And tells me "
             },
             {
               "chord": "D",
-              "text": "in"
+              "text": "of the guilt with - i"
+            },
+            {
+              "chord": "F#m",
+              "text": "n"
             }
           ]
         },
@@ -222,10 +334,18 @@
           "parts": [
             {
               "chord": "",
-              "text": "Upward I look and see Him "
+              "text": "Upward I "
             },
             {
               "chord": "G",
+              "text": "look and "
+            },
+            {
+              "chord": "A",
+              "text": "see Him "
+            },
+            {
+              "chord": "Bm",
               "text": "there"
             }
           ]
@@ -234,14 +354,22 @@
           "parts": [
             {
               "chord": "",
-              "text": "Who made an end to all      "
+              "text": "Who made an "
             },
             {
               "chord": "G",
-              "text": "my       "
+              "text": "end to "
             },
             {
               "chord": "Em",
+              "text": "all "
+            },
+            {
+              "chord": "G/A",
+              "text": "my "
+            },
+            {
+              "chord": "D",
               "text": "sin"
             }
           ]
@@ -250,11 +378,23 @@
           "parts": [
             {
               "chord": "",
-              "text": "Because the sin - "
+              "text": "Because the "
             },
             {
               "chord": "G",
-              "text": "less Saviour died"
+              "text": "sin - "
+            },
+            {
+              "chord": "D/F#",
+              "text": "less  Saviour "
+            },
+            {
+              "chord": "Asus",
+              "text": "died"
+            },
+            {
+              "chord": "A",
+              "text": ""
             }
           ]
         },
@@ -262,10 +402,22 @@
           "parts": [
             {
               "chord": "",
-              "text": "My sinful soul is counted "
+              "text": "My "
             },
             {
               "chord": "D",
+              "text": "sinful "
+            },
+            {
+              "chord": "G",
+              "text": "soul i"
+            },
+            {
+              "chord": "D/F#",
+              "text": "s  counted "
+            },
+            {
+              "chord": "Bm",
               "text": "free"
             }
           ]
@@ -274,14 +426,22 @@
           "parts": [
             {
               "chord": "",
-              "text": "For God the Just is     "
+              "text": "For God the "
             },
             {
               "chord": "G",
-              "text": "satis - "
+              "text": "Just i"
             },
             {
               "chord": "D/F#",
+              "text": "s "
+            },
+            {
+              "chord": "A",
+              "text": "satis - "
+            },
+            {
+              "chord": "Bm",
               "text": "fied"
             }
           ]
@@ -290,14 +450,26 @@
           "parts": [
             {
               "chord": "",
-              "text": "To look on Him and par - "
+              "text": "To "
             },
             {
               "chord": "Bm/A",
-              "text": "don         "
+              "text": "look  on "
             },
             {
               "chord": "G",
+              "text": "Him and "
+            },
+            {
+              "chord": "Em",
+              "text": "par - "
+            },
+            {
+              "chord": "G/A",
+              "text": "don "
+            },
+            {
+              "chord": "Bm",
               "text": "me"
             }
           ]
@@ -306,14 +478,26 @@
           "parts": [
             {
               "chord": "",
-              "text": "To look on Him and par - "
+              "text": "To "
             },
             {
               "chord": "Bm/A",
-              "text": "don         "
+              "text": "look  on "
             },
             {
               "chord": "G",
+              "text": "Him and "
+            },
+            {
+              "chord": "Em",
+              "text": "par - "
+            },
+            {
+              "chord": "G/A",
+              "text": "don "
+            },
+            {
+              "chord": "D",
               "text": "me"
             }
           ]
@@ -321,13 +505,21 @@
       ]
     },
     {
-      "label": "Verse 3",
+      "label": "VERSE 3",
       "lines": [
         {
           "parts": [
             {
               "chord": "",
-              "text": "Behold Him there the risen     "
+              "text": "Behold Him "
+            },
+            {
+              "chord": "D",
+              "text": "there the "
+            },
+            {
+              "chord": "Em/D",
+              "text": "risen "
             },
             {
               "chord": "D",
@@ -339,10 +531,14 @@
           "parts": [
             {
               "chord": "",
-              "text": "My perfect spotless righteous - "
+              "text": "My perfect "
             },
             {
               "chord": "D",
+              "text": "spotless righteous - "
+            },
+            {
+              "chord": "F#m",
               "text": "ness"
             }
           ]
@@ -359,7 +555,11 @@
             },
             {
               "chord": "A",
-              "text": "ble I Am"
+              "text": "ble I "
+            },
+            {
+              "chord": "Bm",
+              "text": "Am"
             }
           ]
         },
@@ -367,10 +567,22 @@
           "parts": [
             {
               "chord": "",
-              "text": "The King of glory and of        "
+              "text": "The King of "
             },
             {
               "chord": "G",
+              "text": "glory "
+            },
+            {
+              "chord": "Em",
+              "text": "and "
+            },
+            {
+              "chord": "G/A",
+              "text": "of "
+            },
+            {
+              "chord": "D",
               "text": "grace"
             }
           ]
@@ -383,11 +595,19 @@
             },
             {
               "chord": "G",
-              "text": "self I     "
+              "text": "self "
             },
             {
               "chord": "D/F#",
-              "text": "cannot die"
+              "text": "I  cannot "
+            },
+            {
+              "chord": "Asus",
+              "text": "die"
+            },
+            {
+              "chord": "A",
+              "text": ""
             }
           ]
         },
@@ -395,11 +615,23 @@
           "parts": [
             {
               "chord": "",
-              "text": "My soul is pur - "
+              "text": "My "
             },
             {
               "chord": "D",
-              "text": "chased with His blood"
+              "text": "soul is "
+            },
+            {
+              "chord": "G",
+              "text": "pur - "
+            },
+            {
+              "chord": "D/F#",
+              "text": "chased with His "
+            },
+            {
+              "chord": "Bm",
+              "text": "blood"
             }
           ]
         },
@@ -407,10 +639,22 @@
           "parts": [
             {
               "chord": "",
-              "text": "My life is hid with Christ on "
+              "text": "My life is "
             },
             {
               "chord": "G",
+              "text": "hid "
+            },
+            {
+              "chord": "D/F#",
+              "text": "with "
+            },
+            {
+              "chord": "A",
+              "text": "Christ on "
+            },
+            {
+              "chord": "Bm",
               "text": "high"
             }
           ]
@@ -419,10 +663,26 @@
           "parts": [
             {
               "chord": "",
-              "text": "With Christ my Saviour and my        "
+              "text": "With "
             },
             {
               "chord": "Bm/A",
+              "text": "Christ my "
+            },
+            {
+              "chord": "G",
+              "text": "Saviour "
+            },
+            {
+              "chord": "Em",
+              "text": "and "
+            },
+            {
+              "chord": "G/A",
+              "text": "my "
+            },
+            {
+              "chord": "Bm",
               "text": "God"
             }
           ]
@@ -431,10 +691,26 @@
           "parts": [
             {
               "chord": "",
-              "text": "With Christ my Saviour and my        "
+              "text": "With "
             },
             {
               "chord": "Bm/A",
+              "text": "Christ my "
+            },
+            {
+              "chord": "G",
+              "text": "Saviour "
+            },
+            {
+              "chord": "Em",
+              "text": "and "
+            },
+            {
+              "chord": "G/A",
+              "text": "my "
+            },
+            {
+              "chord": "D",
               "text": "God"
             }
           ]
@@ -442,7 +718,7 @@
       ]
     },
     {
-      "label": "Verse 4",
+      "label": "VERSE 4",
       "lines": [
         {
           "parts": [
@@ -452,7 +728,15 @@
             },
             {
               "chord": "D",
-              "text": "fore the cross of Christ"
+              "text": "fore the "
+            },
+            {
+              "chord": "Em/D",
+              "text": "cross of "
+            },
+            {
+              "chord": "D",
+              "text": "Christ"
             }
           ]
         },
@@ -460,10 +744,14 @@
           "parts": [
             {
               "chord": "",
-              "text": "And marvel at this love di - "
+              "text": "And marvel  "
             },
             {
               "chord": "D",
+              "text": "this love di - at "
+            },
+            {
+              "chord": "F#m",
               "text": "vine"
             }
           ]
@@ -472,10 +760,18 @@
           "parts": [
             {
               "chord": "",
-              "text": "God's perfect Son was sacri - "
+              "text": "God's perfect "
             },
             {
               "chord": "G",
+              "text": "Son was "
+            },
+            {
+              "chord": "A",
+              "text": "sacri - "
+            },
+            {
+              "chord": "Bm",
               "text": "ficed"
             }
           ]
@@ -484,35 +780,23 @@
           "parts": [
             {
               "chord": "",
-              "text": "To make me righteous in       "
+              "text": "To make me "
             },
             {
               "chord": "G",
-              "text": "God's eyes"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "",
-              "text": "This river's depths I     "
+              "text": "righteous i"
             },
             {
-              "chord": "G",
-              "text": "cannot know"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "Em",
+              "text": "n "
+            },
             {
-              "chord": "",
-              "text": "But I can glo - "
+              "chord": "G/A",
+              "text": "God's "
             },
             {
               "chord": "D",
-              "text": "ry in its flood"
+              "text": "eyes"
             }
           ]
         },
@@ -520,10 +804,70 @@
           "parts": [
             {
               "chord": "",
-              "text": "The Lord Most High has bowed down "
+              "text": "This river's "
             },
             {
               "chord": "G",
+              "text": "depths "
+            },
+            {
+              "chord": "D/F#",
+              "text": "I  cannot "
+            },
+            {
+              "chord": "Asus",
+              "text": "know"
+            },
+            {
+              "chord": "A",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "But  "
+            },
+            {
+              "chord": "D",
+              "text": "can I "
+            },
+            {
+              "chord": "G",
+              "text": "glo - "
+            },
+            {
+              "chord": "D/F#",
+              "text": "ry  in its "
+            },
+            {
+              "chord": "Bm",
+              "text": "flood"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The Lord Most "
+            },
+            {
+              "chord": "G",
+              "text": "High "
+            },
+            {
+              "chord": "D/F#",
+              "text": "has "
+            },
+            {
+              "chord": "A",
+              "text": "bowed down "
+            },
+            {
+              "chord": "Bm",
               "text": "low"
             }
           ]
@@ -532,11 +876,27 @@
           "parts": [
             {
               "chord": "",
-              "text": "And poured on me His glo - "
+              "text": "And "
             },
             {
               "chord": "Bm/A",
-              "text": "rious love"
+              "text": "poured on "
+            },
+            {
+              "chord": "G",
+              "text": "me His "
+            },
+            {
+              "chord": "Em",
+              "text": "glo -  "
+            },
+            {
+              "chord": "G/A",
+              "text": "rious "
+            },
+            {
+              "chord": "Bm",
+              "text": "love"
             }
           ]
         },
@@ -544,11 +904,27 @@
           "parts": [
             {
               "chord": "",
-              "text": "And poured on me His glo - "
+              "text": "And "
             },
             {
               "chord": "Bm/A",
-              "text": "rious love"
+              "text": "poured on "
+            },
+            {
+              "chord": "G",
+              "text": "me His "
+            },
+            {
+              "chord": "Em",
+              "text": "glo -  "
+            },
+            {
+              "chord": "G/A",
+              "text": "rious "
+            },
+            {
+              "chord": "D",
+              "text": "love"
             }
           ]
         }
@@ -558,7 +934,690 @@
   "slug": "beforethethroneofgodabove",
   "source_file": "BeforeTheThroneOfGodAbove-CharitieLBancroft-D-Pag2.pdf",
   "source_hash": "873937f1c1f86b8b",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-11-07T20:04:53+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T13:50:03+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: leída por posición del PDF con texto; comparada palabra por palabra con el PDF; líneas dudosas revisadas en la imagen",
+    "fingerprint": "ee5d90a48e6aeaa2",
+    "at": "2026-11-14T13:52:09+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "D",
+            "throne"
+          ],
+          [
+            "Em/D",
+            "God"
+          ],
+          [
+            "D",
+            "bove"
+          ]
+        ],
+        "L2": [
+          [
+            "D",
+            "strong"
+          ],
+          [
+            "F#m",
+            "plea"
+          ]
+        ],
+        "L3": [
+          [
+            "G",
+            "Priest"
+          ],
+          [
+            "A",
+            "name"
+          ],
+          [
+            "Bm",
+            "Love"
+          ]
+        ],
+        "L4": [
+          [
+            "G",
+            "lives"
+          ],
+          [
+            "Em",
+            "pleads"
+          ],
+          [
+            "G/A",
+            "for"
+          ],
+          [
+            "D",
+            "me"
+          ]
+        ],
+        "L5": [],
+        "L6": [
+          [
+            "G",
+            "grav"
+          ],
+          [
+            "D/F#",
+            "en"
+          ],
+          [
+            "Asus",
+            "hands"
+          ],
+          [
+            "A",
+            "(end)"
+          ]
+        ],
+        "L7": [
+          [
+            "D",
+            "name"
+          ],
+          [
+            "G",
+            "writ"
+          ],
+          [
+            "D/F#",
+            "ten"
+          ],
+          [
+            "Bm",
+            "heart"
+          ]
+        ],
+        "L8": [
+          [
+            "G",
+            "while"
+          ],
+          [
+            "D/F#",
+            "in"
+          ],
+          [
+            "A",
+            "heav'n"
+          ],
+          [
+            "Bm",
+            "stands"
+          ]
+        ],
+        "L9": [
+          [
+            "Bm/A",
+            "tongue"
+          ],
+          [
+            "G",
+            "bid"
+          ],
+          [
+            "Em",
+            "thence"
+          ],
+          [
+            "G/A",
+            "de"
+          ],
+          [
+            "Bm",
+            "part"
+          ]
+        ],
+        "L10": [
+          [
+            "Bm/A",
+            "tongue"
+          ],
+          [
+            "G",
+            "bid"
+          ],
+          [
+            "Em",
+            "thence"
+          ],
+          [
+            "G/A",
+            "de"
+          ],
+          [
+            "D",
+            "part"
+          ]
+        ],
+        "L11": [
+          [
+            "Am",
+            "lu"
+          ],
+          [
+            "C",
+            "jah"
+          ]
+        ],
+        "L12": [
+          [
+            "G",
+            "found"
+          ],
+          [
+            "D",
+            "Christ"
+          ]
+        ],
+        "L13": [
+          [
+            "Am",
+            "lu"
+          ],
+          [
+            "C",
+            "jah"
+          ]
+        ],
+        "L14": [
+          [
+            "G",
+            "His"
+          ],
+          [
+            "D",
+            "mine"
+          ]
+        ],
+        "L15": [
+          [
+            "D",
+            "tempts"
+          ],
+          [
+            "Em/D",
+            "to"
+          ],
+          [
+            "D",
+            "spair"
+          ]
+        ],
+        "L16": [
+          [
+            "D",
+            "of"
+          ],
+          [
+            "F#m",
+            "in"
+          ]
+        ],
+        "L17": [
+          [
+            "G",
+            "look"
+          ],
+          [
+            "A",
+            "see"
+          ],
+          [
+            "Bm",
+            "there"
+          ]
+        ],
+        "L18": [
+          [
+            "G",
+            "end"
+          ],
+          [
+            "Em",
+            "all"
+          ],
+          [
+            "G/A",
+            "my"
+          ],
+          [
+            "D",
+            "sin"
+          ]
+        ],
+        "L19": [],
+        "L20": [
+          [
+            "G",
+            "sin"
+          ],
+          [
+            "D/F#",
+            "less"
+          ],
+          [
+            "Asus",
+            "died"
+          ],
+          [
+            "A",
+            "(end)"
+          ]
+        ],
+        "L21": [
+          [
+            "D",
+            "sinful"
+          ],
+          [
+            "G",
+            "soul"
+          ],
+          [
+            "D/F#",
+            "is"
+          ],
+          [
+            "Bm",
+            "free"
+          ]
+        ],
+        "L22": [
+          [
+            "G",
+            "Just"
+          ],
+          [
+            "D/F#",
+            "is"
+          ],
+          [
+            "A",
+            "satis"
+          ],
+          [
+            "Bm",
+            "fied"
+          ]
+        ],
+        "L23": [
+          [
+            "Bm/A",
+            "look"
+          ],
+          [
+            "G",
+            "Him"
+          ],
+          [
+            "Em",
+            "par"
+          ],
+          [
+            "G/A",
+            "don"
+          ],
+          [
+            "Bm",
+            "me"
+          ]
+        ],
+        "L24": [
+          [
+            "Bm/A",
+            "look"
+          ],
+          [
+            "G",
+            "Him"
+          ],
+          [
+            "Em",
+            "par"
+          ],
+          [
+            "G/A",
+            "don"
+          ],
+          [
+            "D",
+            "me"
+          ]
+        ],
+        "L25": [
+          [
+            "D",
+            "there"
+          ],
+          [
+            "Em/D",
+            "risen"
+          ],
+          [
+            "D",
+            "Lamb"
+          ]
+        ],
+        "L26": [
+          [
+            "D",
+            "spotless"
+          ],
+          [
+            "F#m",
+            "ness"
+          ]
+        ],
+        "L27": [
+          [
+            "G",
+            "changea"
+          ],
+          [
+            "A",
+            "ble"
+          ],
+          [
+            "Bm",
+            "Am"
+          ]
+        ],
+        "L28": [
+          [
+            "G",
+            "glory"
+          ],
+          [
+            "Em",
+            "and"
+          ],
+          [
+            "G/A",
+            "of"
+          ],
+          [
+            "D",
+            "grace"
+          ]
+        ],
+        "L29": [],
+        "L30": [
+          [
+            "G",
+            "self"
+          ],
+          [
+            "D/F#",
+            "I"
+          ],
+          [
+            "Asus",
+            "die"
+          ],
+          [
+            "A",
+            "(end)"
+          ]
+        ],
+        "L31": [
+          [
+            "D",
+            "soul"
+          ],
+          [
+            "G",
+            "pur"
+          ],
+          [
+            "D/F#",
+            "chased"
+          ],
+          [
+            "Bm",
+            "blood"
+          ]
+        ],
+        "L32": [
+          [
+            "G",
+            "hid"
+          ],
+          [
+            "D/F#",
+            "with"
+          ],
+          [
+            "A",
+            "Christ"
+          ],
+          [
+            "Bm",
+            "high"
+          ]
+        ],
+        "L33": [
+          [
+            "Bm/A",
+            "Christ"
+          ],
+          [
+            "G",
+            "Saviour"
+          ],
+          [
+            "Em",
+            "and"
+          ],
+          [
+            "G/A",
+            "my"
+          ],
+          [
+            "Bm",
+            "God"
+          ]
+        ],
+        "L34": [
+          [
+            "Bm/A",
+            "Christ"
+          ],
+          [
+            "G",
+            "Saviour"
+          ],
+          [
+            "Em",
+            "and"
+          ],
+          [
+            "G/A",
+            "my"
+          ],
+          [
+            "D",
+            "God"
+          ]
+        ],
+        "L35": [
+          [
+            "D",
+            "fore"
+          ],
+          [
+            "Em/D",
+            "cross"
+          ],
+          [
+            "D",
+            "Christ"
+          ]
+        ],
+        "L36": [
+          [
+            "D",
+            "at"
+          ],
+          [
+            "F#m",
+            "vine"
+          ]
+        ],
+        "L37": [
+          [
+            "G",
+            "Son"
+          ],
+          [
+            "A",
+            "sacri"
+          ],
+          [
+            "Bm",
+            "ficed"
+          ]
+        ],
+        "L38": [
+          [
+            "G",
+            "righteous"
+          ],
+          [
+            "Em",
+            "in"
+          ],
+          [
+            "G/A",
+            "God's"
+          ],
+          [
+            "D",
+            "eyes"
+          ]
+        ],
+        "L39": [],
+        "L40": [
+          [
+            "G",
+            "depths"
+          ],
+          [
+            "D/F#",
+            "I"
+          ],
+          [
+            "Asus",
+            "know"
+          ],
+          [
+            "A",
+            "(end)"
+          ]
+        ],
+        "L41": [
+          [
+            "D",
+            "I"
+          ],
+          [
+            "G",
+            "glo"
+          ],
+          [
+            "D/F#",
+            "ry"
+          ],
+          [
+            "Bm",
+            "flood"
+          ]
+        ],
+        "L42": [
+          [
+            "G",
+            "High"
+          ],
+          [
+            "D/F#",
+            "has"
+          ],
+          [
+            "A",
+            "bowed"
+          ],
+          [
+            "Bm",
+            "low"
+          ]
+        ],
+        "L43": [
+          [
+            "Bm/A",
+            "poured"
+          ],
+          [
+            "G",
+            "me"
+          ],
+          [
+            "Em",
+            "glo"
+          ],
+          [
+            "G/A",
+            "rious"
+          ],
+          [
+            "Bm",
+            "love"
+          ]
+        ],
+        "L44": [
+          [
+            "Bm/A",
+            "poured"
+          ],
+          [
+            "G",
+            "me"
+          ],
+          [
+            "Em",
+            "glo"
+          ],
+          [
+            "G/A",
+            "rious"
+          ],
+          [
+            "D",
+            "love"
+          ]
+        ]
+      },
+      "line_text": null,
+      "source_hash": "873937f1c1f86b8b"
+    }
+  },
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "ee5d90a48e6aeaa2"
+  }
 }

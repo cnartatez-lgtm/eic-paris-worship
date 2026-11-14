@@ -1,0 +1,786 @@
+{
+  "title": "Where Would We Be",
+  "author": "Matt Redman",
+  "key": "C",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": "C"
+  },
+  "sections": [
+    {
+      "label": "INTRO",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            },
+            {
+              "chord": "F",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Am",
+              "text": ""
+            },
+            {
+              "chord": "F",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "VERSE 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You came to "
+            },
+            {
+              "chord": "Am7",
+              "text": "search and rescue"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In love the "
+            },
+            {
+              "chord": "F",
+              "text": "Father sent You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Broke through the darkest night"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "You came to "
+            },
+            {
+              "chord": "Am7",
+              "text": "seek and save us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You came to "
+            },
+            {
+              "chord": "F",
+              "text": "liberate us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus You heard our "
+            },
+            {
+              "chord": "G",
+              "text": "cry"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "Jesus You "
+            },
+            {
+              "chord": "Am7",
+              "text": "heard our "
+            },
+            {
+              "chord": "G",
+              "text": "cry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "CHORUS 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Where would we be without Your love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We'd still be lost in dark"
+            },
+            {
+              "chord": "G",
+              "text": "ness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am7",
+              "text": "Where would we be without Your cross"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am7",
+              "text": "That made a way to save us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dm7",
+              "text": "Oh Your love, "
+            },
+            {
+              "chord": "Am7",
+              "text": "Oh Your "
+            },
+            {
+              "chord": "G",
+              "text": "love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "INSTRUMENTAL 1 (2x)",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Am7",
+              "text": ""
+            },
+            {
+              "chord": "F",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "VERSE 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You are the "
+            },
+            {
+              "chord": "Am7",
+              "text": "hope eternal"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You are the "
+            },
+            {
+              "chord": "F",
+              "text": "light of this world"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus our rescuer"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "We live our "
+            },
+            {
+              "chord": "Am7",
+              "text": "lives to thank You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How could we "
+            },
+            {
+              "chord": "F",
+              "text": "not adore You, "
+            },
+            {
+              "chord": "C",
+              "text": "Jesus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Our rescu"
+            },
+            {
+              "chord": "G",
+              "text": "er"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "Jesus, our "
+            },
+            {
+              "chord": "Am7",
+              "text": "rescu"
+            },
+            {
+              "chord": "G",
+              "text": "er"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Repeat Chorus 1",
+      "lines": []
+    },
+    {
+      "label": "CHORUS 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Safe in the arms of Your embrace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Breathing in Your free"
+            },
+            {
+              "chord": "G",
+              "text": "dom"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am7",
+              "text": "Lifting a song of highest praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am7",
+              "text": "And breathing out Your anthem"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dm7",
+              "text": "Oh Your love, "
+            },
+            {
+              "chord": "Am7",
+              "text": "Oh Your "
+            },
+            {
+              "chord": "G",
+              "text": "love we're singing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dm7",
+              "text": "Oh Your love, "
+            },
+            {
+              "chord": "Am7",
+              "text": "Oh Your "
+            },
+            {
+              "chord": "G",
+              "text": "love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "BRIDGE 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We couldn't es"
+            },
+            {
+              "chord": "F",
+              "text": "cape the sin and"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Shame that kept us "
+            },
+            {
+              "chord": "G",
+              "text": "bound"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "We couldn't break "
+            },
+            {
+              "chord": "F",
+              "text": "through"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We couldn't reach "
+            },
+            {
+              "chord": "C",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "So You reached "
+            },
+            {
+              "chord": "G",
+              "text": "down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Repeat Chorus 1 twice",
+      "lines": []
+    },
+    {
+      "label": "INTERLUDE",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We're sing"
+            },
+            {
+              "chord": "Dm7",
+              "text": "ing Oh, "
+            },
+            {
+              "chord": "Am7",
+              "text": "Your love, oh "
+            },
+            {
+              "chord": "G",
+              "text": "Your love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "INSTRUMENTAL 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Am7",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "BRIDGE 2 (2x)",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Dm7",
+              "text": "Oh Your love, "
+            },
+            {
+              "chord": "Am7",
+              "text": "Oh Your "
+            },
+            {
+              "chord": "G",
+              "text": "love we're singing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Dm7",
+              "text": "Oh Your love, "
+            },
+            {
+              "chord": "Am7",
+              "text": "Oh Your "
+            },
+            {
+              "chord": "G",
+              "text": "love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "INSTRUMENTAL 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "F",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "F",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "TAG (repeat as desired)",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "Jesus, "
+            },
+            {
+              "chord": "Am7",
+              "text": "You're the only "
+            },
+            {
+              "chord": "G",
+              "text": "hope, "
+            },
+            {
+              "chord": "F",
+              "text": "Jesus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am7",
+              "text": "Hope for all the "
+            },
+            {
+              "chord": "G",
+              "text": "world"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "wherewouldwebe",
+  "source_file": "WhereWouldWeBe-MattRedman-C-Pag1-Horizontal-Simplificada.pdf",
+  "source_hash": "61861a87cfdd48bb",
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:01:28+00:00",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "model": "anthropic/claude-opus-5.5",
+    "at": "2026-11-14T12:27:01+00:00",
+    "fingerprint": "6744677b0ea140b1"
+  },
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T20:00:35+00:00",
+    "fingerprint": "6744677b0ea140b1"
+  },
+  "status": "verified"
+}

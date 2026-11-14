@@ -10,30 +10,34 @@
   },
   "sections": [
     {
-      "label": "[Intro]",
+      "label": "Intro",
       "lines": [
         {
           "parts": [
             {
               "chord": "D",
-              "text": "D"
+              "text": ""
             },
             {
               "chord": "Dsus",
-              "text": " Dsus"
+              "text": ""
             }
           ]
         }
       ]
     },
     {
-      "label": "[Verse 1]",
+      "label": "Verse 1",
       "lines": [
         {
           "parts": [
             {
+              "chord": "",
+              "text": "O Lord my "
+            },
+            {
               "chord": "D",
-              "text": "O Lord my God, When I in"
+              "text": "God, When I in"
             }
           ]
         },
@@ -48,8 +52,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "consider "
+            },
+            {
               "chord": "D",
-              "text": "consider all the Worlds Thy"
+              "text": "all the Worlds Thy"
             }
           ]
         },
@@ -57,15 +65,23 @@
           "parts": [
             {
               "chord": "A/C#",
-              "text": "hand hath made."
+              "text": "hand hath "
+            },
+            {
+              "chord": "D",
+              "text": "made."
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "I see the "
+            },
+            {
               "chord": "D",
-              "text": "I see the stars, I hear the"
+              "text": "stars, I hear the"
             }
           ]
         },
@@ -80,28 +96,88 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Thy pow'r throu"
+            },
+            {
               "chord": "D",
-              "text": "Thy pow'r throughout the"
+              "text": "ghout the"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "un"
+            },
+            {
               "chord": "A/C#",
-              "text": "universe displayed"
+              "text": "iverse dis"
+            },
+            {
+              "chord": "D",
+              "text": "played"
             }
           ]
         }
       ]
     },
     {
-      "label": "[Chorus]",
+      "label": "Chorus",
       "lines": [
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Then sings my "
+            },
+            {
               "chord": "D",
+              "text": "soul, my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/D",
+              "text": "Savior God, "
+            },
+            {
+              "chord": "D",
+              "text": "to Thee"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How great Thou "
+            },
+            {
+              "chord": "Em7",
+              "text": "art! How"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "great Thou "
+            },
+            {
+              "chord": "D",
+              "text": "art!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Then sings my soul, my"
             }
           ]
@@ -110,52 +186,128 @@
           "parts": [
             {
               "chord": "G/D",
-              "text": "Savior God, to Thee"
+              "text": "Savior God, to "
+            },
+            {
+              "chord": "D",
+              "text": "Thee"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "How great Thou "
+            },
             {
               "chord": "Em7",
-              "text": "How great Thou art! How"
+              "text": "art! How"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "G/D",
               "text": "great Thou art!"
+            },
+            {
+              "chord": "D",
+              "text": ""
             }
           ]
         }
       ]
     },
     {
-      "label": "[Verse 2]",
+      "label": "Verse 2",
       "lines": [
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And when I "
+            },
+            {
               "chord": "D",
-              "text": "And when I think that God,"
+              "text": "think that God,"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "His "
+            },
             {
               "chord": "G/D",
-              "text": "His Son not sparing"
+              "text": "Son not sparing"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Sent Him to "
+            },
+            {
               "chord": "D",
-              "text": "Sent Him to die, I scarce"
+              "text": "die, I scarce"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "can "
+            },
+            {
+              "chord": "A/C#",
+              "text": "take it "
+            },
+            {
+              "chord": "D",
+              "text": "in"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That on the cro"
+            },
+            {
+              "chord": "D",
+              "text": "ss, my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "burden "
+            },
+            {
+              "chord": "G/D",
+              "text": "gladly bearing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He bled and "
+            },
+            {
+              "chord": "D",
+              "text": "died to take"
             }
           ]
         },
@@ -163,15 +315,28 @@
           "parts": [
             {
               "chord": "A/C#",
-              "text": "can take it in"
+              "text": "away my "
+            },
+            {
+              "chord": "D",
+              "text": "sin"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Then sings my "
+            },
+            {
               "chord": "D",
-              "text": "That on the cross, my"
+              "text": "soul, my"
             }
           ]
         },
@@ -179,35 +344,42 @@
           "parts": [
             {
               "chord": "G/D",
-              "text": "burden gladly bearing"
+              "text": "Savior God, "
+            },
+            {
+              "chord": "D",
+              "text": "to Thee"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
-              "text": "He bled and died to take"
+              "chord": "",
+              "text": "How great Thou "
+            },
+            {
+              "chord": "Em7",
+              "text": "art! How"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "A/C#",
-              "text": "away my sin"
+              "chord": "",
+              "text": "great Thou "
+            },
+            {
+              "chord": "D",
+              "text": "art!"
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "[Chorus]",
-      "lines": [
+        },
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "Then sings my soul, my"
             }
           ]
@@ -216,36 +388,23 @@
           "parts": [
             {
               "chord": "G/D",
-              "text": "Savior God, to Thee"
+              "text": "Savior God, to "
+            },
+            {
+              "chord": "D",
+              "text": "Thee"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "How great Thou "
+            },
             {
               "chord": "Em7",
-              "text": "How great Thou art! How"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "great Thou art!"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "[Verse 3]",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "When Christ shall come,"
+              "text": "art! How"
             }
           ]
         },
@@ -253,31 +412,88 @@
           "parts": [
             {
               "chord": "G/D",
-              "text": "with shouts of acclamation"
+              "text": "great Thou art!"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "When Christ shall "
+            },
+            {
+              "chord": "D",
+              "text": "come,"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
-              "text": "And take me home, what joy"
+              "chord": "",
+              "text": "with shouts of"
+            },
+            {
+              "chord": "G/D",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "acclamation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And take me "
+            },
+            {
+              "chord": "D",
+              "text": "home, what joy"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "shall "
+            },
             {
               "chord": "A/C#",
-              "text": "shall fill my heart"
+              "text": "fill my "
+            },
+            {
+              "chord": "D",
+              "text": "heart"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Then I shall "
+            },
+            {
               "chord": "D",
-              "text": "Then I shall bow in humble"
+              "text": "bow in humble"
             }
           ]
         },
@@ -292,28 +508,88 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And there pro"
+            },
+            {
               "chord": "D",
-              "text": "And there proclaim, My God,"
+              "text": "claim, My God,"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "how "
+            },
+            {
               "chord": "A/C#",
-              "text": "how great You are!"
+              "text": "great You a"
+            },
+            {
+              "chord": "D",
+              "text": "re!"
             }
           ]
         }
       ]
     },
     {
-      "label": "[Chorus]",
+      "label": "Chorus",
       "lines": [
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Then sings my "
+            },
+            {
               "chord": "D",
+              "text": "soul, my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/D",
+              "text": "Savior God, "
+            },
+            {
+              "chord": "D",
+              "text": "to Thee"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How great Thou "
+            },
+            {
+              "chord": "Em7",
+              "text": "art! How"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "great Thou "
+            },
+            {
+              "chord": "D",
+              "text": "art!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "Then sings my soul, my"
             }
           ]
@@ -322,23 +598,127 @@
           "parts": [
             {
               "chord": "G/D",
-              "text": "Savior God, to Thee"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Em7",
-              "text": "How great Thou art! How"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "Savior God, to "
+            },
             {
               "chord": "D",
+              "text": "Thee"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How great Thou "
+            },
+            {
+              "chord": "Em7",
+              "text": "art! How"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/D",
               "text": "great Thou art!"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Then sings my "
+            },
+            {
+              "chord": "D",
+              "text": "soul, my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/D",
+              "text": "Savior God, "
+            },
+            {
+              "chord": "D",
+              "text": "to Thee"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How great Thou "
+            },
+            {
+              "chord": "Em7",
+              "text": "art! How"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "great Thou "
+            },
+            {
+              "chord": "D",
+              "text": "art!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Then sings my soul, my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/D",
+              "text": "Savior God, to "
+            },
+            {
+              "chord": "D",
+              "text": "Thee"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How great Thou "
+            },
+            {
+              "chord": "Em7",
+              "text": "art! How"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/D",
+              "text": "great Thou art!"
+            },
+            {
+              "chord": "D",
+              "text": ""
             }
           ]
         }
@@ -348,7 +728,425 @@
   "slug": "howgreatthouart",
   "source_file": "HowGreatThouArt-Passion-D-Pag2.pdf",
   "source_hash": "338fce821b1c2d93",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-10T19:06:17+00:00"
+  "method": "ocr-layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "490a784192e9c59e"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "reading": {
+      "L1": [
+        [
+          "D",
+          ""
+        ],
+        [
+          "Dsus",
+          ""
+        ]
+      ],
+      "L2": [
+        [
+          "D",
+          "God,"
+        ]
+      ],
+      "L3": [
+        [
+          "G/D",
+          "awesome"
+        ]
+      ],
+      "L4": [
+        [
+          "D",
+          "all"
+        ]
+      ],
+      "L5": [
+        [
+          "A/C#",
+          "hand"
+        ],
+        [
+          "D",
+          "made."
+        ]
+      ],
+      "L6": [
+        [
+          "D",
+          "stars,"
+        ]
+      ],
+      "L7": [
+        [
+          "G/D",
+          "rolling"
+        ]
+      ],
+      "L8": [
+        [
+          "D",
+          "throughout"
+        ]
+      ],
+      "L9": [
+        [
+          "A/C#",
+          "universe"
+        ],
+        [
+          "D",
+          "displayed"
+        ]
+      ],
+      "L10": [
+        [
+          "D",
+          "soul,"
+        ]
+      ],
+      "L11": [
+        [
+          "G/D",
+          "Savior"
+        ],
+        [
+          "D",
+          "to"
+        ]
+      ],
+      "L12": [
+        [
+          "Em7",
+          "art!"
+        ]
+      ],
+      "L13": [
+        [
+          "D",
+          "art!"
+        ]
+      ],
+      "L14": [],
+      "L15": [
+        [
+          "G/D",
+          "Savior"
+        ],
+        [
+          "D",
+          "Thee"
+        ]
+      ],
+      "L16": [
+        [
+          "Em7",
+          "art!"
+        ]
+      ],
+      "L17": [
+        [
+          "G/D",
+          "great"
+        ],
+        [
+          "D",
+          "(end)"
+        ]
+      ],
+      "L18": [
+        [
+          "D",
+          "think"
+        ]
+      ],
+      "L19": [
+        [
+          "G/D",
+          "Son"
+        ]
+      ],
+      "L20": [
+        [
+          "D",
+          "die,"
+        ]
+      ],
+      "L21": [
+        [
+          "A/C#",
+          "take"
+        ],
+        [
+          "D",
+          "in"
+        ]
+      ],
+      "L22": [
+        [
+          "D",
+          "cross,"
+        ]
+      ],
+      "L23": [
+        [
+          "G/D",
+          "gladly"
+        ]
+      ],
+      "L24": [
+        [
+          "D",
+          "died"
+        ]
+      ],
+      "L25": [
+        [
+          "A/C#",
+          "away"
+        ],
+        [
+          "D",
+          "sin"
+        ]
+      ],
+      "L26": [
+        [
+          "D",
+          "soul,"
+        ]
+      ],
+      "L27": [
+        [
+          "G/D",
+          "Savior"
+        ],
+        [
+          "D",
+          "to"
+        ]
+      ],
+      "L28": [
+        [
+          "Em7",
+          "art!"
+        ]
+      ],
+      "L29": [
+        [
+          "D",
+          "art!"
+        ]
+      ],
+      "L30": [],
+      "L31": [
+        [
+          "G/D",
+          "Savior"
+        ],
+        [
+          "D",
+          "Thee"
+        ]
+      ],
+      "L32": [
+        [
+          "Em7",
+          "art!"
+        ]
+      ],
+      "L33": [
+        [
+          "G/D",
+          "great"
+        ],
+        [
+          "D",
+          "(end)"
+        ]
+      ],
+      "L34": [
+        [
+          "D",
+          "come,"
+        ]
+      ],
+      "L35": [
+        [
+          "G/D",
+          "(end)"
+        ]
+      ],
+      "L36": [],
+      "L37": [
+        [
+          "D",
+          "home,"
+        ]
+      ],
+      "L38": [
+        [
+          "A/C#",
+          "fill"
+        ],
+        [
+          "D",
+          "heart"
+        ]
+      ],
+      "L39": [
+        [
+          "D",
+          "bow"
+        ]
+      ],
+      "L40": [
+        [
+          "G/D",
+          "adoration"
+        ]
+      ],
+      "L41": [
+        [
+          "D",
+          "proclaim,"
+        ]
+      ],
+      "L42": [
+        [
+          "A/C#",
+          "great"
+        ],
+        [
+          "D",
+          "are!"
+        ]
+      ],
+      "L43": [
+        [
+          "D",
+          "soul,"
+        ]
+      ],
+      "L44": [
+        [
+          "G/D",
+          "Savior"
+        ],
+        [
+          "D",
+          "to"
+        ]
+      ],
+      "L45": [
+        [
+          "Em7",
+          "art!"
+        ]
+      ],
+      "L46": [
+        [
+          "D",
+          "art!"
+        ]
+      ],
+      "L47": [],
+      "L48": [
+        [
+          "G/D",
+          "Savior"
+        ],
+        [
+          "D",
+          "Thee"
+        ]
+      ],
+      "L49": [
+        [
+          "Em7",
+          "art!"
+        ]
+      ],
+      "L50": [
+        [
+          "G/D",
+          "great"
+        ],
+        [
+          "D",
+          "(end)"
+        ]
+      ],
+      "L51": [
+        [
+          "D",
+          "soul,"
+        ]
+      ],
+      "L52": [
+        [
+          "G/D",
+          "Savior"
+        ],
+        [
+          "D",
+          "to"
+        ]
+      ],
+      "L53": [
+        [
+          "Em7",
+          "art!"
+        ]
+      ],
+      "L54": [
+        [
+          "D",
+          "art!"
+        ]
+      ],
+      "L55": [],
+      "L56": [
+        [
+          "G/D",
+          "Savior"
+        ],
+        [
+          "D",
+          "Thee"
+        ]
+      ],
+      "L57": [
+        [
+          "Em7",
+          "art!"
+        ]
+      ],
+      "L58": [
+        [
+          "G/D",
+          "great"
+        ],
+        [
+          "D",
+          "(end)"
+        ]
+      ]
+    },
+    "model": "anthropic/claude-sonnet-5.5",
+    "cost": 0.0753,
+    "at": "2026-11-14T12:42:35+00:00",
+    "fingerprint": "490a784192e9c59e",
+    "source_hash": "338fce821b1c2d93"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "title": "To God Be The Glory Official",
+  "title": "To God Be The Glory",
   "author": "Misc Praise Songs",
   "key": "G",
   "meta": {
@@ -77,51 +77,63 @@
             },
             {
               "chord": "G",
-              "text": "God "
+              "text": "Go"
             },
             {
               "chord": "D",
-              "text": "be the "
+              "text": "d be "
             },
             {
               "chord": "G",
-              "text": "glory, great things "
+              "text": "the glory, "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "great things"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "he has "
+            },
+            {
               "chord": "G",
-              "text": "he has done"
+              "text": "done"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "so "
+            },
             {
               "chord": "C",
-              "text": "so loved he "
+              "text": "loved he the "
             },
             {
               "chord": "G",
-              "text": "the world that he gave us "
+              "text": "world that he "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "gave us"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "his "
+            },
+            {
               "chord": "D",
-              "text": "his Son,"
+              "text": "Son,"
             }
           ]
         },
@@ -133,11 +145,11 @@
             },
             {
               "chord": "G",
-              "text": "yielded his life an a tone ment for "
+              "text": "yielded his life an "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "a tone ment for"
             }
           ]
         },
@@ -157,11 +169,11 @@
             },
             {
               "chord": "C",
-              "text": "opened the life gate that we may "
+              "text": "opened "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "the life gate that we may"
             }
           ]
         },
@@ -185,12 +197,52 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Praise the "
+            },
+            {
               "chord": "G",
-              "text": "Praise the Lord, praise the Lord; "
+              "text": "Lord, praise the Lord;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "let the earth hear his "
+            },
+            {
+              "chord": "D",
+              "text": "voice!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Praise the Lord, praise the Lord;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "let the "
+            },
+            {
+              "chord": "G",
+              "text": "people "
             },
             {
               "chord": "D",
               "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "rejoice!"
             }
           ]
         },
@@ -198,47 +250,15 @@
           "parts": [
             {
               "chord": "D",
-              "text": "let the earth hear his voice! "
+              "text": "O "
             },
             {
               "chord": "G",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Praise the Lord, praise the Lord; "
+              "text": "come to the Father through "
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "let the people rejoice! "
-            },
-            {
-              "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "O come to the Father through Jesus the "
-            },
-            {
-              "chord": "D",
-              "text": ""
+              "text": "Jesus the"
             }
           ]
         },
@@ -258,19 +278,35 @@
             },
             {
               "chord": "C",
-              "text": "give him the glo ry! "
+              "text": "give him "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "the glo ry!"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "D = G"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Great things he "
+            },
+            {
               "chord": "D",
-              "text": "Great things he has done."
+              "text": "has "
+            },
+            {
+              "chord": "G",
+              "text": "done."
             }
           ]
         }
@@ -282,12 +318,24 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Oh "
+            },
+            {
               "chord": "G",
-              "text": "Oh perfect re demption, the purchase of "
+              "text": "pe"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "rfect "
+            },
+            {
+              "chord": "G",
+              "text": "re demption, "
+            },
+            {
+              "chord": "D",
+              "text": "the purchase of"
             }
           ]
         },
@@ -302,16 +350,24 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "To "
+            },
+            {
               "chord": "C",
-              "text": "To every be liever the promise of God; "
+              "text": "every be "
+            },
+            {
+              "chord": "G",
+              "text": "liever "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "the promise "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "of God;"
             }
           ]
         },
@@ -319,11 +375,15 @@
           "parts": [
             {
               "chord": "D7",
-              "text": "The vilest of fender who truly be "
+              "text": "The "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "vilest of fender "
+            },
+            {
+              "chord": "D",
+              "text": "who truly be"
             }
           ]
         },
@@ -343,11 +403,11 @@
             },
             {
               "chord": "C",
-              "text": "moment from Jesus for giveness "
+              "text": "moment "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "from Jesus for giveness"
             }
           ]
         },
@@ -355,7 +415,11 @@
           "parts": [
             {
               "chord": "D",
-              "text": "receives."
+              "text": "re"
+            },
+            {
+              "chord": "G",
+              "text": "ceives."
             }
           ]
         }
@@ -367,12 +431,52 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Praise the "
+            },
+            {
               "chord": "G",
-              "text": "Praise the Lord, praise the Lord; "
+              "text": "Lord, praise the Lord;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "let the earth hear his "
+            },
+            {
+              "chord": "D",
+              "text": "voice!"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Praise the Lord, praise the Lord;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "let the "
+            },
+            {
+              "chord": "G",
+              "text": "people "
             },
             {
               "chord": "D",
               "text": ""
+            },
+            {
+              "chord": "G",
+              "text": "rejoice!"
             }
           ]
         },
@@ -380,47 +484,15 @@
           "parts": [
             {
               "chord": "D",
-              "text": "let the earth hear his voice! "
+              "text": "O "
             },
             {
               "chord": "G",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Praise the Lord, praise the Lord; "
+              "text": "come to the Father throug"
             },
             {
               "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "let the people rejoice! "
-            },
-            {
-              "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "O come to the Father through Jesus the "
-            },
-            {
-              "chord": "D",
-              "text": ""
+              "text": "h Jesus the"
             }
           ]
         },
@@ -435,20 +507,32 @@
         {
           "parts": [
             {
+              "chord": "G/F",
+              "text": "and "
+            },
+            {
               "chord": "C",
-              "text": "and give him the glo ry! "
+              "text": "give him "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "the glo ry!"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Great things he "
+            },
+            {
               "chord": "D",
-              "text": "Great things he has done."
+              "text": "has "
+            },
+            {
+              "chord": "G",
+              "text": "done."
             }
           ]
         }
@@ -460,16 +544,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Great "
+            },
+            {
               "chord": "G",
-              "text": "Great things he has taught us, great "
+              "text": "things "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "he ha"
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "s taught us, great"
             }
           ]
         },
@@ -477,71 +565,83 @@
           "parts": [
             {
               "chord": "D",
-              "text": "things he has done, and great our re "
+              "text": "things he has "
             },
             {
               "chord": "G",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "joic ing through Je sus the Son; but "
-            },
-            {
-              "chord": "A",
-              "text": ""
-            },
-            {
-              "chord": "D",
-              "text": ""
-            },
-            {
-              "chord": "D7",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "pur er and high er and great er will "
-            },
-            {
-              "chord": "D",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "be our "
-            },
-            {
-              "chord": "G/F",
-              "text": "won der, our rap ture, when "
+              "text": "done, an"
             },
             {
               "chord": "C",
-              "text": ""
-            },
-            {
-              "chord": "G",
-              "text": ""
+              "text": "d great our re"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "G",
+              "text": "joic ing through "
+            },
+            {
+              "chord": "A",
+              "text": "Je sus "
+            },
+            {
               "chord": "D",
-              "text": "Je sus we see."
+              "text": "the So"
+            },
+            {
+              "chord": "D7",
+              "text": "n; but"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "pur er and high er and "
+            },
+            {
+              "chord": "D",
+              "text": "great er will"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "be "
+            },
+            {
+              "chord": "G/F",
+              "text": "our "
+            },
+            {
+              "chord": "C",
+              "text": "won der, "
+            },
+            {
+              "chord": "G",
+              "text": "our rap ture, when"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Je sus "
+            },
+            {
+              "chord": "D",
+              "text": "we "
+            },
+            {
+              "chord": "G",
+              "text": "see."
             }
           ]
         }
@@ -553,52 +653,52 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "Praise the Lord, praise the Lord; "
+              "chord": "",
+              "text": "Praise the "
             },
             {
-              "chord": "D",
-              "text": ""
+              "chord": "G",
+              "text": "Lord, praise the Lord:"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
-              "text": "let the earth hear his voice! "
+              "chord": "",
+              "text": "let the earth hear his "
             },
             {
-              "chord": "G",
-              "text": ""
+              "chord": "D",
+              "text": "voice!"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "Praise the Lord, praise the Lord; "
-            },
-            {
-              "chord": "D",
-              "text": ""
+              "chord": "",
+              "text": "Praise the Lord, praise the Lord;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "let the "
+            },
+            {
               "chord": "G",
-              "text": "let the people re__joice! "
+              "text": "people "
             },
             {
               "chord": "D/F#",
-              "text": ""
+              "text": "re__"
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "joice!"
             }
           ]
         },
@@ -606,11 +706,15 @@
           "parts": [
             {
               "chord": "D",
-              "text": "O come to the Father through Jesus the "
+              "text": "O "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "come to the Father throug"
+            },
+            {
+              "chord": "D",
+              "text": "h Jesus the"
             }
           ]
         },
@@ -625,20 +729,32 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "and "
+            },
+            {
               "chord": "C",
-              "text": "and give him the glo ry! "
+              "text": "give him the "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "glo ry!"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Great things he "
+            },
+            {
               "chord": "D",
-              "text": "Great things he has done."
+              "text": "has "
+            },
+            {
+              "chord": "G",
+              "text": "done."
             }
           ]
         }
@@ -648,7 +764,598 @@
   "slug": "togodbetheglory",
   "source_file": "ToGodBeTheGlory-FannyCrosby-G-Pag1.pdf",
   "source_hash": "e0b3d68635226861",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-09-26T18:30:20+00:00"
+  "method": "ocr-layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "f9aa6cd7b3d9ec56"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: comparada línea por línea con la imagen del PDF; 4 errores de OCR corregidos; coincide con la lectura de Sonnet 5.5",
+    "fingerprint": "f9aa6cd7b3d9ec56",
+    "at": "2026-11-14T13:38:40+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "D",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ]
+        ],
+        "L2": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "G7",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L3": [
+          [
+            "D",
+            ""
+          ]
+        ],
+        "L4": [
+          [
+            "G",
+            "To"
+          ],
+          [
+            "G",
+            "God"
+          ],
+          [
+            "D",
+            "God"
+          ],
+          [
+            "G",
+            "the"
+          ],
+          [
+            "D",
+            "great"
+          ]
+        ],
+        "L5": [
+          [
+            "G",
+            "done"
+          ]
+        ],
+        "L6": [
+          [
+            "C",
+            "loved"
+          ],
+          [
+            "G",
+            "world"
+          ],
+          [
+            "A",
+            "gave"
+          ]
+        ],
+        "L7": [
+          [
+            "D",
+            "Son,"
+          ]
+        ],
+        "L8": [
+          [
+            "D7",
+            "who"
+          ],
+          [
+            "G",
+            "yielded"
+          ],
+          [
+            "D",
+            "a"
+          ]
+        ],
+        "L9": [
+          [
+            "G",
+            "sin,"
+          ]
+        ],
+        "L10": [
+          [
+            "G/F",
+            "and"
+          ],
+          [
+            "C",
+            "opened"
+          ],
+          [
+            "G",
+            "the"
+          ]
+        ],
+        "L11": [
+          [
+            "D",
+            "go"
+          ],
+          [
+            "G",
+            "in."
+          ]
+        ],
+        "L12": [
+          [
+            "G",
+            "Lord,"
+          ]
+        ],
+        "L13": [
+          [
+            "D",
+            "voice!"
+          ]
+        ],
+        "L14": [],
+        "L15": [
+          [
+            "G",
+            "people"
+          ],
+          [
+            "D",
+            "rejoice!"
+          ],
+          [
+            "G",
+            "rejoice!"
+          ]
+        ],
+        "L16": [
+          [
+            "D",
+            "O"
+          ],
+          [
+            "G",
+            "come"
+          ],
+          [
+            "D",
+            "through"
+          ]
+        ],
+        "L17": [
+          [
+            "G",
+            "Son,"
+          ]
+        ],
+        "L18": [
+          [
+            "G/F",
+            "and"
+          ],
+          [
+            "C",
+            "give"
+          ],
+          [
+            "G",
+            "the"
+          ]
+        ],
+        "L19": [],
+        "L20": [
+          [
+            "D",
+            "has"
+          ],
+          [
+            "G",
+            "done."
+          ]
+        ],
+        "L21": [
+          [
+            "G",
+            "perfect"
+          ],
+          [
+            "D",
+            "perfect"
+          ],
+          [
+            "G",
+            "re"
+          ],
+          [
+            "D",
+            "the"
+          ]
+        ],
+        "L22": [
+          [
+            "G",
+            "blood,"
+          ]
+        ],
+        "L23": [
+          [
+            "C",
+            "every"
+          ],
+          [
+            "G",
+            "liever"
+          ],
+          [
+            "A",
+            "the"
+          ],
+          [
+            "D",
+            "of"
+          ]
+        ],
+        "L24": [
+          [
+            "D7",
+            "The"
+          ],
+          [
+            "G",
+            "vilest"
+          ],
+          [
+            "D",
+            "who"
+          ]
+        ],
+        "L25": [
+          [
+            "G",
+            "lieves,"
+          ]
+        ],
+        "L26": [
+          [
+            "G/F",
+            "that"
+          ],
+          [
+            "C",
+            "moment"
+          ],
+          [
+            "G",
+            "from"
+          ]
+        ],
+        "L27": [
+          [
+            "D",
+            "receives."
+          ],
+          [
+            "G",
+            "receives."
+          ]
+        ],
+        "L28": [
+          [
+            "G",
+            "Lord,"
+          ]
+        ],
+        "L29": [
+          [
+            "D",
+            "voice!"
+          ]
+        ],
+        "L30": [],
+        "L31": [
+          [
+            "G",
+            "people"
+          ],
+          [
+            "D",
+            "rejoice!"
+          ],
+          [
+            "G",
+            "rejoice!"
+          ]
+        ],
+        "L32": [
+          [
+            "D",
+            "O"
+          ],
+          [
+            "G",
+            "come"
+          ],
+          [
+            "D",
+            "through"
+          ]
+        ],
+        "L33": [
+          [
+            "G",
+            "Son,"
+          ]
+        ],
+        "L34": [
+          [
+            "G/F",
+            "and"
+          ],
+          [
+            "C",
+            "give"
+          ],
+          [
+            "G",
+            "the"
+          ]
+        ],
+        "L35": [
+          [
+            "D",
+            "has"
+          ],
+          [
+            "G",
+            "done."
+          ]
+        ],
+        "L36": [
+          [
+            "G",
+            "things"
+          ],
+          [
+            "D",
+            "he"
+          ],
+          [
+            "G",
+            "has"
+          ]
+        ],
+        "L37": [
+          [
+            "D",
+            "things"
+          ],
+          [
+            "G",
+            "done,"
+          ],
+          [
+            "C",
+            "and"
+          ]
+        ],
+        "L38": [
+          [
+            "G",
+            "joic"
+          ],
+          [
+            "A",
+            "Je"
+          ],
+          [
+            "D",
+            "the"
+          ],
+          [
+            "D7",
+            "Son;"
+          ]
+        ],
+        "L39": [
+          [
+            "G",
+            "pur"
+          ],
+          [
+            "D",
+            "great"
+          ]
+        ],
+        "L40": [
+          [
+            "G",
+            "be"
+          ],
+          [
+            "G/F",
+            "our"
+          ],
+          [
+            "C",
+            "won"
+          ],
+          [
+            "G",
+            "our"
+          ]
+        ],
+        "L41": [
+          [
+            "D",
+            "we"
+          ],
+          [
+            "G",
+            "see."
+          ]
+        ],
+        "L42": [
+          [
+            "G",
+            "Lord:"
+          ]
+        ],
+        "L43": [
+          [
+            "D",
+            "voice!"
+          ]
+        ],
+        "L44": [],
+        "L45": [
+          [
+            "G",
+            "people"
+          ],
+          [
+            "D/F#",
+            "re__joice!"
+          ],
+          [
+            "G",
+            "re__joice!"
+          ]
+        ],
+        "L46": [
+          [
+            "D",
+            "O"
+          ],
+          [
+            "G",
+            "come"
+          ],
+          [
+            "D",
+            "through"
+          ]
+        ],
+        "L47": [
+          [
+            "G",
+            "Son,"
+          ]
+        ],
+        "L48": [
+          [
+            "C",
+            "give"
+          ],
+          [
+            "G",
+            "glo"
+          ]
+        ],
+        "L49": [
+          [
+            "D",
+            "has"
+          ],
+          [
+            "G",
+            "done."
+          ]
+        ]
+      },
+      "line_text": {
+        "L1": "DGDGOD",
+        "L2": "(chords only)",
+        "L3": "(chords only)",
+        "L4": "To God be the glory, great things",
+        "L5": "he has done",
+        "L6": "so loved he the world that he gave us",
+        "L7": "his Son,",
+        "L8": "who yielded his life an a tone ment for",
+        "L9": "sin,",
+        "L10": "and opened the life gate that we may",
+        "L11": "go in.",
+        "L12": "Praise the Lord, praise the Lord;",
+        "L13": "let the earth hear his voice!",
+        "L14": "Praise the Lord, praise the Lord;",
+        "L15": "let the people rejoice!",
+        "L16": "QO come to the Father through Jesus the",
+        "L17": "Son,",
+        "L18": "and give him the glo ry!",
+        "L19": "D = G",
+        "L20": "Great things he has done.",
+        "L21": "Oh perfect re demption, the purchase of",
+        "L22": "blood,",
+        "L23": "To every be liever the promise of God;",
+        "L24": "The vilest of fender who truly be",
+        "L25": "lieves,",
+        "L26": "that moment from Jesus for giveness",
+        "L27": "receives.",
+        "L28": "Praise the Lord, praise the Lord;",
+        "L29": "let the earth hear his voice!",
+        "L30": "Praise the Lord, praise the Lord;",
+        "L31": "let the people rejoice!",
+        "L32": "O come to the Father through Jesus the",
+        "L33": "Son,",
+        "L34": "and give him the glo ry!",
+        "L35": "Great things he has done.",
+        "L36": "Great things he has taught us, great",
+        "L37": "things he has done, and great our re",
+        "L38": "joic ing through Je sus the Son; but",
+        "L39": "pur er and high er and great er will",
+        "L40": "be our won der, our rap ture, when",
+        "L41": "Je sus we see.",
+        "L42": "Praise the Lord, praise the Lord:",
+        "L43": "let the earth hear his voice!",
+        "L44": "Praise the Lord, praise the Lord;",
+        "L45": "let the people re__joice!",
+        "L46": "O come to the Father through Jesus the",
+        "L47": "Son,",
+        "L48": "and give him the glo ry!",
+        "L49": "Great things he has done."
+      },
+      "source_hash": "e0b3d68635226861"
+    }
+  }
 }

@@ -15,32 +15,80 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "How I "
+            },
+            {
               "chord": "G",
-              "text": "How I long to breathe the air of heaven"
+              "text": "long to breathe the air of heaven"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "Where pain is "
+            },
             {
               "chord": "Em",
-              "text": "Where pain is gone, and mercy fills the streets"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "To look upon the one who bled to save me"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "gone, and "
+            },
             {
               "chord": "C",
-              "text": "And walk with him for all eternity"
+              "text": "mercy fills the "
+            },
+            {
+              "chord": "D",
+              "text": "streets"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To look u"
+            },
+            {
+              "chord": "G",
+              "text": "pon the "
+            },
+            {
+              "chord": "C",
+              "text": "one who bled to "
+            },
+            {
+              "chord": "G",
+              "text": "save "
+            },
+            {
+              "chord": "D",
+              "text": "me"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And walk with "
+            },
+            {
+              "chord": "C",
+              "text": "him for "
+            },
+            {
+              "chord": "D",
+              "text": "all etern"
+            },
+            {
+              "chord": "G",
+              "text": "ity"
             }
           ]
         }
@@ -52,24 +100,80 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Oh, "
+            },
+            {
               "chord": "G",
-              "text": "Oh, there will be a day when all will bow before Him"
+              "text": "there will be a "
+            },
+            {
+              "chord": "C",
+              "text": "day when "
+            },
+            {
+              "chord": "D",
+              "text": "all will bow be"
+            },
+            {
+              "chord": "G",
+              "text": "fore Him"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "There will "
+            },
+            {
               "chord": "G",
-              "text": "There will be a day when death will be no more"
+              "text": "be a "
+            },
+            {
+              "chord": "C",
+              "text": "day when "
+            },
+            {
+              "chord": "Em",
+              "text": "death will be no "
+            },
+            {
+              "chord": "D",
+              "text": "more"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Standing "
+            },
+            {
               "chord": "G",
-              "text": "Standing face to face with He who died and rose again"
+              "text": "face to "
+            },
+            {
+              "chord": "C",
+              "text": "face with "
+            },
+            {
+              "chord": "D",
+              "text": "He who died and "
+            },
+            {
+              "chord": "G",
+              "text": "rose "
+            },
+            {
+              "chord": "D",
+              "text": "aga"
+            },
+            {
+              "chord": "Em",
+              "text": "in"
             }
           ]
         },
@@ -77,7 +181,27 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Holy, holy is the Lord"
+              "text": "Holy, "
+            },
+            {
+              "chord": "D",
+              "text": "holy is the "
+            },
+            {
+              "chord": "G",
+              "text": "Lord"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
             }
           ]
         }
@@ -89,32 +213,88 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "And every prayer we prayed in desperation"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Em",
-              "text": "The songs of faith we sang through doubt and fear"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "",
+              "text": "And every "
+            },
             {
               "chord": "G",
-              "text": "In the end, we will see that it was worth it"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "prayer we "
+            },
             {
               "chord": "C",
-              "text": "When He returns to wipe away our tears"
+              "text": "prayed in despe"
+            },
+            {
+              "chord": "G",
+              "text": "ration"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The songs of "
+            },
+            {
+              "chord": "Em",
+              "text": "faith we "
+            },
+            {
+              "chord": "C",
+              "text": "sang through doubt and "
+            },
+            {
+              "chord": "D",
+              "text": "fear"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In the "
+            },
+            {
+              "chord": "G",
+              "text": "end, we will "
+            },
+            {
+              "chord": "C",
+              "text": "see that it was "
+            },
+            {
+              "chord": "G",
+              "text": "worth "
+            },
+            {
+              "chord": "D",
+              "text": "it"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "When He ret"
+            },
+            {
+              "chord": "C",
+              "text": "urns to "
+            },
+            {
+              "chord": "D",
+              "text": "wipe away our "
+            },
+            {
+              "chord": "G",
+              "text": "tears"
             }
           ]
         }
@@ -126,24 +306,80 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Oh, "
+            },
+            {
               "chord": "G",
-              "text": "Oh, there will be a day when all will bow before Him"
+              "text": "there will be a "
+            },
+            {
+              "chord": "C",
+              "text": "day when "
+            },
+            {
+              "chord": "D",
+              "text": "all will bow be"
+            },
+            {
+              "chord": "G",
+              "text": "fore Him"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "There will "
+            },
+            {
               "chord": "G",
-              "text": "There will be a day when death will be no more"
+              "text": "be a "
+            },
+            {
+              "chord": "C",
+              "text": "day when "
+            },
+            {
+              "chord": "Em",
+              "text": "death will be no "
+            },
+            {
+              "chord": "D",
+              "text": "more"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Standing fa"
+            },
+            {
               "chord": "G",
-              "text": "Standing face to face with He who died and rose again"
+              "text": "ce to "
+            },
+            {
+              "chord": "C",
+              "text": "face with "
+            },
+            {
+              "chord": "D",
+              "text": "He who died and "
+            },
+            {
+              "chord": "G",
+              "text": "rose "
+            },
+            {
+              "chord": "D",
+              "text": "aga"
+            },
+            {
+              "chord": "Em",
+              "text": "in"
             }
           ]
         },
@@ -151,7 +387,15 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Holy, holy is the Lord"
+              "text": "Holy, "
+            },
+            {
+              "chord": "D",
+              "text": "holy is the "
+            },
+            {
+              "chord": "G",
+              "text": "Lord"
             }
           ]
         }
@@ -163,41 +407,64 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And on that "
+            },
+            {
               "chord": "G",
-              "text": "And on that day, we join the resurrection"
+              "text": "day, we "
+            },
+            {
+              "chord": "C",
+              "text": "join the resur"
+            },
+            {
+              "chord": "G",
+              "text": "rection"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "And stand beside the heroes of the faith"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Instrumental",
-      "lines": [
-        {
-          "parts": [
+              "chord": "",
+              "text": "And stand be"
+            },
             {
-              "chord": "G",
-              "text": ""
+              "chord": "Em",
+              "text": "side the "
             },
             {
               "chord": "C",
-              "text": ""
-            },
-            {
-              "chord": "G",
-              "text": ""
+              "text": "heroes of the "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "faith"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "With one "
+            },
+            {
+              "chord": "G",
+              "text": "voice, a "
+            },
+            {
+              "chord": "C",
+              "text": "thousand gene"
+            },
+            {
+              "chord": "G",
+              "text": "rat"
+            },
+            {
+              "chord": "D",
+              "text": "ions"
             },
             {
               "chord": "Em",
@@ -208,16 +475,132 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Sing "
+            },
+            {
               "chord": "C",
-              "text": ""
+              "text": "\"Worthy is the "
             },
             {
               "chord": "D",
+              "text": "lamb who was "
+            },
+            {
+              "chord": "G",
+              "text": "slain"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And on that "
+            },
+            {
+              "chord": "G",
+              "text": "day, we "
+            },
+            {
+              "chord": "C",
+              "text": "join the resurr"
+            },
+            {
+              "chord": "G",
+              "text": "ection"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And stand be"
+            },
+            {
+              "chord": "Em",
+              "text": "side the "
+            },
+            {
+              "chord": "C",
+              "text": "heroes of the "
+            },
+            {
+              "chord": "D",
+              "text": "faith"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "With one "
+            },
+            {
+              "chord": "G",
+              "text": "voice, a "
+            },
+            {
+              "chord": "C",
+              "text": "thousand gener"
+            },
+            {
+              "chord": "G",
+              "text": "ati"
+            },
+            {
+              "chord": "D",
+              "text": "ons"
+            },
+            {
+              "chord": "Em",
               "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Sing "
+            },
+            {
+              "chord": "C",
+              "text": "\"Worthy is the "
+            },
+            {
+              "chord": "D",
+              "text": "lamb who was "
+            },
+            {
+              "chord": "Em",
+              "text": "slain"
             },
             {
               "chord": "G",
               "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "\"For"
+            },
+            {
+              "chord": "C",
+              "text": "ever "
+            },
+            {
+              "chord": "D",
+              "text": "He shall rei"
+            },
+            {
+              "chord": "G",
+              "text": "gn\""
             }
           ]
         }
@@ -229,8 +612,48 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "So "
+            },
+            {
               "chord": "G",
-              "text": "So let it be today we shout the hymn of heaven"
+              "text": "let it be tod"
+            },
+            {
+              "chord": "C",
+              "text": "ay we "
+            },
+            {
+              "chord": "D",
+              "text": "shout the hymn of "
+            },
+            {
+              "chord": "G",
+              "text": "heaven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "With angels "
+            },
+            {
+              "chord": "G",
+              "text": "and the "
+            },
+            {
+              "chord": "C",
+              "text": "saints, we "
+            },
+            {
+              "chord": "Em",
+              "text": "raise a mighty "
+            },
+            {
+              "chord": "D",
+              "text": "roar"
             }
           ]
         },
@@ -238,15 +661,27 @@
           "parts": [
             {
               "chord": "G",
-              "text": "With angels and the saints, we raise a mighty roar"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "\"Glory to our "
+            },
+            {
+              "chord": "C",
+              "text": "God\" who "
+            },
+            {
+              "chord": "D",
+              "text": "gave us life "
+            },
             {
               "chord": "G",
-              "text": "\"Glory to our God\" who gave us life beyond the grave"
+              "text": "beyond "
+            },
+            {
+              "chord": "D",
+              "text": "the "
+            },
+            {
+              "chord": "Em",
+              "text": "grave"
             }
           ]
         },
@@ -254,7 +689,15 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Holy, holy is the Lord"
+              "text": "Holy, "
+            },
+            {
+              "chord": "D",
+              "text": "holy is the "
+            },
+            {
+              "chord": "G",
+              "text": "Lord"
             }
           ]
         }
@@ -266,8 +709,48 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "So "
+            },
+            {
               "chord": "G",
-              "text": "So let it be today we shout the hymn of heaven"
+              "text": "let it be to"
+            },
+            {
+              "chord": "C",
+              "text": "day we "
+            },
+            {
+              "chord": "D",
+              "text": "shout the hymn of "
+            },
+            {
+              "chord": "G",
+              "text": "heaven"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "With angels "
+            },
+            {
+              "chord": "G",
+              "text": "and the "
+            },
+            {
+              "chord": "C",
+              "text": "saints, we "
+            },
+            {
+              "chord": "Em",
+              "text": "raise a mighty "
+            },
+            {
+              "chord": "D",
+              "text": "roar"
             }
           ]
         },
@@ -275,15 +758,27 @@
           "parts": [
             {
               "chord": "G",
-              "text": "With angels and the saints, we raise a mighty roar"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "\"Glory to our "
+            },
+            {
+              "chord": "C",
+              "text": "God\" who "
+            },
+            {
+              "chord": "D",
+              "text": "gave us life "
+            },
             {
               "chord": "G",
-              "text": "\"Glory to our God\" who gave us life beyond the grave"
+              "text": "beyond "
+            },
+            {
+              "chord": "D",
+              "text": "the "
+            },
+            {
+              "chord": "Em",
+              "text": "grave"
             }
           ]
         },
@@ -291,7 +786,19 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Holy, holy is the Lord"
+              "text": "Holy, "
+            },
+            {
+              "chord": "D",
+              "text": "holy is the "
+            },
+            {
+              "chord": "Em",
+              "text": "Lord"
+            },
+            {
+              "chord": "G",
+              "text": ""
             }
           ]
         },
@@ -299,7 +806,19 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Holy, holy is the Lord"
+              "text": "Holy, "
+            },
+            {
+              "chord": "D",
+              "text": "holy is the "
+            },
+            {
+              "chord": "Em",
+              "text": "Lord"
+            },
+            {
+              "chord": "G",
+              "text": ""
             }
           ]
         },
@@ -307,7 +826,23 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Holy, holy is the Lord"
+              "text": "Holy, "
+            },
+            {
+              "chord": "D",
+              "text": "holy is the "
+            },
+            {
+              "chord": "G",
+              "text": "Lord"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
             }
           ]
         }
@@ -317,7 +852,25 @@
   "slug": "hymnofheaven",
   "source_file": "HymnOfHeaven-PhilWickham-G-Pag2.pdf",
   "source_hash": "2464239eb88e4c59",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-09-26T18:31:46+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:50:28+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/hymn-of-heaven-chords-3530942",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (simplified, transposed +7); match with the PDF reading 0.94.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "2994b89b6ce52a51"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "2994b89b6ce52a51",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

@@ -17,6 +17,10 @@
             {
               "chord": "C",
               "text": ""
+            },
+            {
+              "chord": "x2",
+              "text": ""
             }
           ]
         }
@@ -97,8 +101,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Everything will "
+            },
+            {
               "chord": "G",
-              "text": "Everything will fade everything will fade"
+              "text": "fade everything will fade"
             }
           ]
         },
@@ -106,7 +114,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "The heavens and the earth will pass away"
+              "text": "The heavens and the "
+            },
+            {
+              "chord": "F",
+              "text": "earth will pass "
+            },
+            {
+              "chord": "C",
+              "text": "away"
             }
           ]
         },
@@ -114,7 +130,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "But you will remain yes you will remain always"
+              "text": "But you will rem"
+            },
+            {
+              "chord": "G",
+              "text": "ain yes you will remain alw"
+            },
+            {
+              "chord": "F",
+              "text": "ays"
             }
           ]
         }
@@ -127,15 +151,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Jesus faithful Word of God"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "Jesus faithful Word of "
+            },
             {
-              "chord": "Am",
-              "text": "The anchor of my heart"
+              "chord": "G",
+              "text": "God"
             }
           ]
         },
@@ -143,7 +163,23 @@
           "parts": [
             {
               "chord": "",
-              "text": "You're everything you say you are"
+              "text": "The anchor of "
+            },
+            {
+              "chord": "Am",
+              "text": "my heart"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You're everything you "
+            },
+            {
+              "chord": "F",
+              "text": "say you are"
             }
           ]
         },
@@ -151,23 +187,39 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Greater than my deepest needs"
+              "text": "Greater than my deepest "
+            },
+            {
+              "chord": "G",
+              "text": "needs"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The ground beneath my "
+            },
             {
               "chord": "Am",
-              "text": "The ground beneath my feet"
+              "text": "feet"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Your promises won't "
+            },
+            {
               "chord": "F",
-              "text": "Your promises won't fail me now"
+              "text": "fail me now"
+            },
+            {
+              "chord": "C",
+              "text": ""
             }
           ]
         }
@@ -224,6 +276,46 @@
               "text": "true"
             }
           ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The Word of God is strength for the weary"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A shield for those who "
+            },
+            {
+              "chord": "G",
+              "text": "trust in "
+            },
+            {
+              "chord": "C",
+              "text": "you"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A shield for those who "
+            },
+            {
+              "chord": "G",
+              "text": "trust in "
+            },
+            {
+              "chord": "C",
+              "text": "you"
+            }
+          ]
         }
       ]
     },
@@ -233,8 +325,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Everything will "
+            },
+            {
               "chord": "G",
-              "text": "Everything will fade everything will fade"
+              "text": "fade everything will fade"
             }
           ]
         },
@@ -242,7 +338,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "The heavens and the earth will pass away"
+              "text": "The heavens and the "
+            },
+            {
+              "chord": "F",
+              "text": "earth will pass "
+            },
+            {
+              "chord": "C",
+              "text": "away"
             }
           ]
         },
@@ -250,7 +354,15 @@
           "parts": [
             {
               "chord": "",
-              "text": "But you will remain yes you will remain always"
+              "text": "But you will rem"
+            },
+            {
+              "chord": "G",
+              "text": "ain yes you will remain alw"
+            },
+            {
+              "chord": "F",
+              "text": "ays"
             }
           ]
         }
@@ -263,15 +375,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Jesus faithful Word of God"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "Jesus faithful Word of "
+            },
             {
-              "chord": "Am",
-              "text": "The anchor of my heart"
+              "chord": "G",
+              "text": "God"
             }
           ]
         },
@@ -279,7 +387,23 @@
           "parts": [
             {
               "chord": "",
-              "text": "You're everything you say you are"
+              "text": "The anchor of "
+            },
+            {
+              "chord": "Am",
+              "text": "my heart"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You're everything you "
+            },
+            {
+              "chord": "F",
+              "text": "say you are"
             }
           ]
         },
@@ -287,23 +411,39 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Greater than my deepest needs"
+              "text": "Greater than my deepest "
+            },
+            {
+              "chord": "G",
+              "text": "needs"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "The ground beneath my "
+            },
             {
               "chord": "Am",
-              "text": "The ground beneath my feet"
+              "text": "feet"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Your promises won't "
+            },
+            {
               "chord": "F",
-              "text": "Your promises won't fail me now"
+              "text": "fail me now"
+            },
+            {
+              "chord": "C",
+              "text": ""
             }
           ]
         }
@@ -340,8 +480,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You will not "
+            },
+            {
               "chord": "C",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
@@ -356,8 +500,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You will not "
+            },
+            {
               "chord": "G",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
@@ -365,7 +513,11 @@
           "parts": [
             {
               "chord": "F",
-              "text": "Word of God"
+              "text": "Word of "
+            },
+            {
+              "chord": "C",
+              "text": "God"
             }
           ]
         }
@@ -377,8 +529,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You will not "
+            },
+            {
               "chord": "C",
-              "text": "You will not fail us"
+              "text": "fail us"
             }
           ]
         },
@@ -393,8 +549,24 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You will not "
+            },
+            {
               "chord": "G",
-              "text": ""
+              "text": "fail us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "F",
+              "text": "Word of "
+            },
+            {
+              "chord": "C",
+              "text": "God"
             }
           ]
         }
@@ -404,7 +576,25 @@
   "slug": "wordofgod",
   "source_file": "WordOfGod-BrentonBrown-C-Pag1-Horizontal.pdf",
   "source_hash": "451a702304855780",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-09-26T18:28:37+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:51:19+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/brenton-brown/word-of-god-chords-2578263",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (simplified, transposed +3); match with the PDF reading 0.97.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "1fef7a54f96d24e3"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "1fef7a54f96d24e3",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

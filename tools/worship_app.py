@@ -47,6 +47,8 @@ import pco_client as pco          # noqa: E402
 import song_library as sl         # noqa: E402
 
 import build_site                 # noqa: E402
+import chart_gate                 # noqa: E402
+import check_fit                  # noqa: E402
 import publish_web                # noqa: E402
 import song_extract               # noqa: E402
 
@@ -206,6 +208,7 @@ def gather(title, index, keys, config, force=False):
                 author,
                 config,
                 force=force,
+                display_title=title,
             )
 
             got[key] = how
@@ -353,6 +356,11 @@ def run(config, force=False, only=None):
         "extracted": spent,
         "target": target,
         "archive": len(data["archive"]),
+        "sunday": [
+            song["slug"]
+            for service in data["services"]
+            for song in service["songs"]
+        ],
     }
 
 
@@ -409,6 +417,38 @@ def main():
         )
 
     lines.append(f"Archivo: {outcome['archive']} canciones.")
+
+    # The quality gate, compulsory (Christian, 14 November 2026): every
+    # chart on this Sunday's plan is compared with its PDF by a strong
+    # vision model and laid out at the tablet's size before it is
+    # trusted. Verified charts are not checked again unless they
+    # change. The page is rebuilt afterwards so a chart that failed
+    # shows "sin revisar" on the tablet.
+    try:
+        keys = config.get("keys", ["G", "D", "C"])
+        paths = [
+            build_site.CACHE / f"{slug}__{key}.json"
+            for slug in outcome["sunday"]
+            for key in keys
+            if (build_site.CACHE / f"{slug}__{key}.json").exists()
+        ]
+        titles = {
+            s["slug"]: s["title"]
+            for s in build_site.build(config)["archive"]
+        }
+        results = chart_gate.gate(paths, review=True, quiet=True)
+        lines += chart_gate.summary(results, titles)
+        build_site.render(build_site.build(config), outcome["target"].parent)
+    except Exception as exc:  # noqa: BLE001
+        lines.append(f"⚠️ Control de calidad: no se pudo completar ({exc}).")
+
+    # Every chart against the tablet screen, and every chart that
+    # looks misread. Free; never stops the run.
+    try:
+        fit = check_fit.check(config, outcome["target"])
+        lines += check_fit.summary(fit, outcome["sunday"])
+    except Exception as exc:  # noqa: BLE001
+        lines.append(f"📏 Tableta: la revisión falló ({exc}).")
 
     web_line = publish_web.publish(config, outcome["target"])
 

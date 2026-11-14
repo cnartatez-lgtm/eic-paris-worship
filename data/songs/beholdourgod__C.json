@@ -41,7 +41,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Who has held the oceans in His hand?"
+              "text": "Who has held the o"
+            },
+            {
+              "chord": "Em",
+              "text": "ceans in His hand?"
             }
           ]
         },
@@ -49,7 +53,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Who has numbered every grain of sand?"
+              "text": "Who has numbered "
+            },
+            {
+              "chord": "Em",
+              "text": "every grain of sand?"
             }
           ]
         },
@@ -57,7 +65,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Kings and nations tremble at His voice"
+              "text": "Kings and nations "
+            },
+            {
+              "chord": "Em",
+              "text": "tremble at His voice"
             }
           ]
         },
@@ -65,7 +77,15 @@
           "parts": [
             {
               "chord": "C",
-              "text": "All creation rises to rejoice"
+              "text": "All creation "
+            },
+            {
+              "chord": "Em",
+              "text": "rises to rejoic"
+            },
+            {
+              "chord": "G",
+              "text": "e"
             }
           ]
         }
@@ -77,32 +97,96 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Beh"
+            },
+            {
               "chord": "C",
-              "text": "Behold our God seated on His throne"
+              "text": "old "
+            },
+            {
+              "chord": "G",
+              "text": "our "
+            },
+            {
+              "chord": "Am",
+              "text": "God seated on His "
+            },
+            {
+              "chord": "F",
+              "text": "throne"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Come let us a"
+            },
+            {
               "chord": "C",
-              "text": "Come let us adore Him"
+              "text": "dore "
+            },
+            {
+              "chord": "G",
+              "text": "Him"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Beh"
+            },
+            {
               "chord": "C",
-              "text": "Behold our King, nothing can compare"
+              "text": "old "
+            },
+            {
+              "chord": "G",
+              "text": "our "
+            },
+            {
+              "chord": "Am",
+              "text": "King, nothing can com"
+            },
+            {
+              "chord": "F",
+              "text": "pare"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Come let us a"
+            },
+            {
               "chord": "C",
-              "text": "Come let us adore Him!"
+              "text": "dor"
+            },
+            {
+              "chord": "G",
+              "text": "e "
+            },
+            {
+              "chord": "C",
+              "text": "Him!"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
             }
           ]
         }
@@ -140,7 +224,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Who has given counsel to the Lord?"
+              "text": "Who has given "
+            },
+            {
+              "chord": "Em",
+              "text": "counsel to the Lord?"
             }
           ]
         },
@@ -148,7 +236,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Who can question any of His words?"
+              "text": "Who can question "
+            },
+            {
+              "chord": "Em",
+              "text": "any of His words?"
             }
           ]
         },
@@ -156,7 +248,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Who can teach the one who knows all things?"
+              "text": "Who can teach the "
+            },
+            {
+              "chord": "Em",
+              "text": "one who knows all things?"
             }
           ]
         },
@@ -164,7 +260,15 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Who can fathom all his wondrous deeds?"
+              "text": "Who can fathom "
+            },
+            {
+              "chord": "Em",
+              "text": "all his wondrous deeds?"
+            },
+            {
+              "chord": "G",
+              "text": ""
             }
           ]
         }
@@ -176,32 +280,84 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Beh"
+            },
+            {
               "chord": "C",
-              "text": "Behold our God seated on His throne"
+              "text": "old "
+            },
+            {
+              "chord": "G",
+              "text": "our "
+            },
+            {
+              "chord": "Am",
+              "text": "God seated on His "
+            },
+            {
+              "chord": "F",
+              "text": "throne"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Come let us a"
+            },
+            {
               "chord": "C",
-              "text": "Come let us adore Him"
+              "text": "dore "
+            },
+            {
+              "chord": "G",
+              "text": "Him"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Beh"
+            },
+            {
               "chord": "C",
-              "text": "Behold our King, nothing can compare"
+              "text": "old "
+            },
+            {
+              "chord": "G",
+              "text": "our "
+            },
+            {
+              "chord": "Am",
+              "text": "King, nothing can com"
+            },
+            {
+              "chord": "F",
+              "text": "pare"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Come let us a"
+            },
+            {
               "chord": "C",
-              "text": "Come let us adore Him!"
+              "text": "dor"
+            },
+            {
+              "chord": "G",
+              "text": "e "
+            },
+            {
+              "chord": "C",
+              "text": "Him!"
             }
           ]
         }
@@ -239,7 +395,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Who has felt the nails upon His hands"
+              "text": "Who has felt the "
+            },
+            {
+              "chord": "Em",
+              "text": "nails upon His hands"
             }
           ]
         },
@@ -247,7 +407,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Bearing all the guilt of sinful man?"
+              "text": "Bearing all the "
+            },
+            {
+              "chord": "Em",
+              "text": "guilt of sinful man?"
             }
           ]
         },
@@ -255,7 +419,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "God eternal, humbled to the grave"
+              "text": "God eternal, "
+            },
+            {
+              "chord": "Em",
+              "text": "humbled to the grave"
             }
           ]
         },
@@ -263,7 +431,15 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Jesus, Savior, risen now to reign"
+              "text": "Jesus, Savior, "
+            },
+            {
+              "chord": "Em",
+              "text": "risen now to "
+            },
+            {
+              "chord": "G",
+              "text": "reign"
             }
           ]
         }
@@ -275,32 +451,84 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Beh"
+            },
+            {
               "chord": "C",
-              "text": "Behold our God seated on His throne"
+              "text": "old "
+            },
+            {
+              "chord": "G",
+              "text": "our "
+            },
+            {
+              "chord": "Am",
+              "text": "God seated on His "
+            },
+            {
+              "chord": "F",
+              "text": "throne"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Come let us a"
+            },
+            {
               "chord": "C",
-              "text": "Come let us adore Him"
+              "text": "dore "
+            },
+            {
+              "chord": "G",
+              "text": "Him"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Beh"
+            },
+            {
               "chord": "C",
-              "text": "Behold our King, nothing can compare"
+              "text": "old "
+            },
+            {
+              "chord": "G",
+              "text": "our "
+            },
+            {
+              "chord": "Am",
+              "text": "King, nothing can com"
+            },
+            {
+              "chord": "F",
+              "text": "pare"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Come let us a"
+            },
+            {
               "chord": "C",
-              "text": "Come let us adore Him!"
+              "text": "dor"
+            },
+            {
+              "chord": "G",
+              "text": "e "
+            },
+            {
+              "chord": "C",
+              "text": "Him!"
             }
           ]
         }
@@ -313,7 +541,11 @@
           "parts": [
             {
               "chord": "C",
-              "text": "You will reign forever! (Let Your glory fill the earth)"
+              "text": "You will reign forev"
+            },
+            {
+              "chord": "F",
+              "text": "er! (Let Your glory fill the earth)"
             }
           ]
         },
@@ -321,7 +553,35 @@
           "parts": [
             {
               "chord": "C",
-              "text": "You will reign forever! (Let your glory fill the earth)"
+              "text": "You will reign forev"
+            },
+            {
+              "chord": "F",
+              "text": "er! (Let your glory fill the earth)"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "You will reign forev"
+            },
+            {
+              "chord": "F",
+              "text": "er! (Let Your glory fill the earth)"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "You will reign forev"
+            },
+            {
+              "chord": "F",
+              "text": "er! (Let your glory fill the earth)"
             }
           ]
         },
@@ -329,7 +589,11 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "You will reign forever! (Let your glory fill the earth)"
+              "text": "You will reign forev"
+            },
+            {
+              "chord": "F",
+              "text": "er! (Let your glory fill the earth)"
             }
           ]
         },
@@ -337,7 +601,35 @@
           "parts": [
             {
               "chord": "Am",
-              "text": "You will reign forever! (Let your glory fill)"
+              "text": "You will reign forev"
+            },
+            {
+              "chord": "F",
+              "text": "er! (Let your glory fill the earth)"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "You will reign forev"
+            },
+            {
+              "chord": "F",
+              "text": "er! (Let your glory fill the earth)"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "You will reign forev"
+            },
+            {
+              "chord": "F",
+              "text": "er! (Let your glory fill)"
             }
           ]
         }
@@ -349,32 +641,84 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Beh"
+            },
+            {
               "chord": "C",
-              "text": "Behold our God seated on His throne"
+              "text": "old "
+            },
+            {
+              "chord": "G",
+              "text": "our "
+            },
+            {
+              "chord": "Am",
+              "text": "God seated on His "
+            },
+            {
+              "chord": "F",
+              "text": "throne"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Come let us a"
+            },
+            {
               "chord": "C",
-              "text": "Come let us adore Him"
+              "text": "dore "
+            },
+            {
+              "chord": "G",
+              "text": "Him"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Beh"
+            },
+            {
               "chord": "C",
-              "text": "Behold our King, nothing can compare"
+              "text": "old "
+            },
+            {
+              "chord": "G",
+              "text": "our "
+            },
+            {
+              "chord": "Am",
+              "text": "King, nothing can com"
+            },
+            {
+              "chord": "F",
+              "text": "pare"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Come let us a"
+            },
+            {
               "chord": "C",
-              "text": "Come let us adore Him!"
+              "text": "dor"
+            },
+            {
+              "chord": "G",
+              "text": "e "
+            },
+            {
+              "chord": "C",
+              "text": "Him!"
             }
           ]
         }
@@ -384,7 +728,565 @@
   "slug": "beholdourgod",
   "source_file": "BeholdOurGod-SovereignGraceMusic-C-Pag2.pdf",
   "source_hash": "142ab52f789fcd19",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-24T19:05:44+00:00"
+  "method": "transposed",
+  "model": "",
+  "extracted_at": "2026-11-14T13:53:40+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: comparada línea por línea con la imagen del PDF (D); errores de OCR corregidos; G y C transpuestas de una tonalidad hermana verificada y confirmadas contra el OCR de su propio PDF",
+    "fingerprint": "810a2bdd6d916f55",
+    "at": "2026-11-14T13:54:40+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "C",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ]
+        ],
+        "L2": [
+          [
+            "C",
+            "Who"
+          ],
+          [
+            "Em",
+            "oceans"
+          ]
+        ],
+        "L3": [
+          [
+            "C",
+            "Who"
+          ],
+          [
+            "Em",
+            "every"
+          ]
+        ],
+        "L4": [
+          [
+            "C",
+            "Kings"
+          ],
+          [
+            "Em",
+            "tremble"
+          ]
+        ],
+        "L5": [
+          [
+            "C",
+            "All"
+          ],
+          [
+            "Em",
+            "rises"
+          ],
+          [
+            "G",
+            "rejoice"
+          ]
+        ],
+        "L6": [
+          [
+            "C",
+            "Behold"
+          ],
+          [
+            "G",
+            "our"
+          ],
+          [
+            "Am",
+            "God"
+          ],
+          [
+            "F",
+            "throne"
+          ]
+        ],
+        "L7": [
+          [
+            "C",
+            "adore"
+          ],
+          [
+            "G",
+            "Him"
+          ]
+        ],
+        "L8": [
+          [
+            "C",
+            "Behold"
+          ],
+          [
+            "G",
+            "our"
+          ],
+          [
+            "Am",
+            "King,"
+          ],
+          [
+            "F",
+            "compare"
+          ]
+        ],
+        "L9": [
+          [
+            "C",
+            "adore"
+          ],
+          [
+            "G",
+            "adore"
+          ],
+          [
+            "C",
+            "Him!"
+          ],
+          [
+            "Em",
+            "(end)"
+          ],
+          [
+            "C",
+            "(end)"
+          ],
+          [
+            "Em",
+            "(end)"
+          ]
+        ],
+        "L10": [
+          [
+            "C",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ]
+        ],
+        "L11": [
+          [
+            "C",
+            "Who"
+          ],
+          [
+            "Em",
+            "counsel"
+          ]
+        ],
+        "L12": [
+          [
+            "C",
+            "Who"
+          ],
+          [
+            "Em",
+            "any"
+          ]
+        ],
+        "L13": [
+          [
+            "C",
+            "Who"
+          ],
+          [
+            "Em",
+            "one"
+          ]
+        ],
+        "L14": [
+          [
+            "C",
+            "Who"
+          ],
+          [
+            "Em",
+            "all"
+          ],
+          [
+            "G",
+            "deeds?"
+          ]
+        ],
+        "L15": [
+          [
+            "C",
+            "Behold"
+          ],
+          [
+            "G",
+            "our"
+          ],
+          [
+            "Am",
+            "God"
+          ],
+          [
+            "F",
+            "throne"
+          ]
+        ],
+        "L16": [
+          [
+            "C",
+            "adore"
+          ],
+          [
+            "G",
+            "Him"
+          ]
+        ],
+        "L17": [
+          [
+            "C",
+            "Behold"
+          ],
+          [
+            "G",
+            "our"
+          ],
+          [
+            "Am",
+            "King,"
+          ],
+          [
+            "F",
+            "compare"
+          ]
+        ],
+        "L18": [
+          [
+            "C",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ]
+        ],
+        "L19": [],
+        "L20": [],
+        "L21": [],
+        "L22": [
+          [
+            "C",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ]
+        ],
+        "L23": [
+          [
+            "C",
+            "Who"
+          ],
+          [
+            "Em",
+            "nails"
+          ]
+        ],
+        "L24": [
+          [
+            "C",
+            "Bearing"
+          ],
+          [
+            "Em",
+            "guilt"
+          ]
+        ],
+        "L25": [
+          [
+            "C",
+            "God"
+          ],
+          [
+            "Em",
+            "humbled"
+          ]
+        ],
+        "L26": [
+          [
+            "C",
+            "Jesus,"
+          ],
+          [
+            "Em",
+            "risen"
+          ],
+          [
+            "G",
+            "reign"
+          ]
+        ],
+        "L27": [
+          [
+            "C",
+            "Behold"
+          ],
+          [
+            "G",
+            "our"
+          ],
+          [
+            "Am",
+            "God"
+          ],
+          [
+            "F",
+            "throne"
+          ]
+        ],
+        "L28": [
+          [
+            "C",
+            "adore"
+          ],
+          [
+            "G",
+            "Him"
+          ]
+        ],
+        "L29": [
+          [
+            "C",
+            "Behold"
+          ],
+          [
+            "G",
+            "our"
+          ],
+          [
+            "Am",
+            "King,"
+          ],
+          [
+            "F",
+            "compare"
+          ]
+        ],
+        "L30": [
+          [
+            "C",
+            "adore"
+          ],
+          [
+            "G",
+            "adore"
+          ],
+          [
+            "C",
+            "Him!"
+          ]
+        ],
+        "L31": [
+          [
+            "C",
+            "You"
+          ],
+          [
+            "F",
+            "(Let"
+          ]
+        ],
+        "L32": [
+          [
+            "C",
+            "You"
+          ],
+          [
+            "F",
+            "(Let"
+          ]
+        ],
+        "L33": [
+          [
+            "Am",
+            "You"
+          ],
+          [
+            "F",
+            "forever!"
+          ]
+        ],
+        "L34": [
+          [
+            "Am",
+            "You"
+          ],
+          [
+            "F",
+            "forever!"
+          ]
+        ],
+        "L35": [
+          [
+            "C",
+            "Behold"
+          ],
+          [
+            "G",
+            "our"
+          ],
+          [
+            "Am",
+            "God"
+          ],
+          [
+            "F",
+            "throne"
+          ]
+        ],
+        "L36": [
+          [
+            "C",
+            "adore"
+          ],
+          [
+            "G",
+            "Him"
+          ]
+        ],
+        "L37": [
+          [
+            "C",
+            "Behold"
+          ],
+          [
+            "G",
+            "our"
+          ],
+          [
+            "Am",
+            "King,"
+          ],
+          [
+            "F",
+            "compare"
+          ]
+        ],
+        "L38": [
+          [
+            "C",
+            "adore"
+          ],
+          [
+            "G",
+            "adore"
+          ],
+          [
+            "C",
+            "Him!"
+          ]
+        ],
+        "L39": []
+      },
+      "line_text": {
+        "L1": "(chords only)",
+        "L2": "Who has held the oceans in His hand?",
+        "L3": "Who has numbered every grain of sand?",
+        "L4": "Kings and nations tremble at His voice",
+        "L5": "All creation rises to rejoice",
+        "L6": "Behold our God seated on His throne",
+        "L7": "Come let us adore Him",
+        "L8": "Behold our King, nothing can compare",
+        "L9": "Come let us adore Him!",
+        "L10": "(chords only)",
+        "L11": "Who has given counsel to the Lord?",
+        "L12": "Who can question any of His words?",
+        "L13": "Who can teach the one who Knows all things?",
+        "L14": "Who can fathom all his wondrous deeds?",
+        "L15": "Behold our God seated on His throne",
+        "L16": "Come let us adore Him",
+        "L17": "Behold our King, nothing can compare",
+        "L18": "(chords only)",
+        "L19": "agea 1/2?",
+        "L20": "Come let us adore Him!",
+        "L21": "[ Interlude|",
+        "L22": "(chords only)",
+        "L23": "Who has felt the nails upon His hands",
+        "L24": "Bearing all the guilt of sinful man?",
+        "L25": "God eternal, humbled to the grave",
+        "L26": "Jesus, Savior, risen now to reign",
+        "L27": "Behold our God se ated on His throne",
+        "L28": "Come let us adore Him",
+        "L29": "Behold our King, nothing can compare",
+        "L30": "Come let us adore Him!",
+        "L31": "You will reign fo rever! (Let Your glory fill the earth)",
+        "L32": "You will reign fo rever! (Let your glory fill the earth)",
+        "L33": "You will reign fo rever! (Let your glory fill the earth)",
+        "L34": "You will reign fo rever! (Let your glory fill)",
+        "L35": "Behold our God se ated on His throne",
+        "L36": "Come let us adore Him",
+        "L37": "Behold our King, nothing can compare",
+        "L38": "Come let us adore Him!",
+        "L39": "age 4/4"
+      },
+      "source_hash": "142ab52f789fcd19"
+    }
+  },
+  "note": "Transposed from beholdourgod__G (UG text of the same printout arrangement, verified); the C printout matches word for word except OCR slips.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "810a2bdd6d916f55"
+  }
 }

@@ -1,0 +1,718 @@
+{
+  "title": "He Will Hold Me Fast",
+  "author": "Matt Merker",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "When I fear my faith will "
+            },
+            {
+              "chord": "C",
+              "text": "fail,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Christ will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "When the tempter "
+            },
+            {
+              "chord": "G",
+              "text": "would pre"
+            },
+            {
+              "chord": "C",
+              "text": "vail,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "I could "
+            },
+            {
+              "chord": "D",
+              "text": "never "
+            },
+            {
+              "chord": "G",
+              "text": "keep my "
+            },
+            {
+              "chord": "C",
+              "text": "hold"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Through life’s "
+            },
+            {
+              "chord": "B",
+              "text": "fearful "
+            },
+            {
+              "chord": "Em",
+              "text": "path;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For my "
+            },
+            {
+              "chord": "D",
+              "text": "love is "
+            },
+            {
+              "chord": "G",
+              "text": "often "
+            },
+            {
+              "chord": "C",
+              "text": "cold;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He must "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "Em",
+              "text": "fast,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "For my "
+            },
+            {
+              "chord": "Am",
+              "text": "Savior loves me   "
+            },
+            {
+              "chord": "C",
+              "text": "so,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Those He saves are His de"
+            },
+            {
+              "chord": "C",
+              "text": "light,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Christ will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Precious in His "
+            },
+            {
+              "chord": "G",
+              "text": "holy "
+            },
+            {
+              "chord": "C",
+              "text": "sight,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "He’ll not "
+            },
+            {
+              "chord": "D",
+              "text": "let my "
+            },
+            {
+              "chord": "G",
+              "text": "soul be "
+            },
+            {
+              "chord": "C",
+              "text": "lost;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "His promi"
+            },
+            {
+              "chord": "B",
+              "text": "ses shall "
+            },
+            {
+              "chord": "Em",
+              "text": "last;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Bought by "
+            },
+            {
+              "chord": "D",
+              "text": "Him at "
+            },
+            {
+              "chord": "G",
+              "text": "such a "
+            },
+            {
+              "chord": "C",
+              "text": "cost,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "Em",
+              "text": "fast,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "For my "
+            },
+            {
+              "chord": "Am",
+              "text": "Savior loves me   "
+            },
+            {
+              "chord": "C",
+              "text": "so,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "For my life He bled and "
+            },
+            {
+              "chord": "C",
+              "text": "died,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Christ will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Justice has been "
+            },
+            {
+              "chord": "G",
+              "text": "satis"
+            },
+            {
+              "chord": "C",
+              "text": "fied;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Raised with "
+            },
+            {
+              "chord": "D",
+              "text": "Him to "
+            },
+            {
+              "chord": "G",
+              "text": "endless "
+            },
+            {
+              "chord": "C",
+              "text": "life,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "B",
+              "text": "hold me "
+            },
+            {
+              "chord": "Em",
+              "text": "fast"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "‘Till our "
+            },
+            {
+              "chord": "D",
+              "text": "faith is "
+            },
+            {
+              "chord": "G",
+              "text": "turned to "
+            },
+            {
+              "chord": "C",
+              "text": "sight"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "When He "
+            },
+            {
+              "chord": "D",
+              "text": "comes at "
+            },
+            {
+              "chord": "G",
+              "text": "last!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "Em",
+              "text": "fast,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "For my "
+            },
+            {
+              "chord": "Am",
+              "text": "Savior loves me   "
+            },
+            {
+              "chord": "C",
+              "text": "so,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "Em",
+              "text": "fast,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "For my "
+            },
+            {
+              "chord": "Am",
+              "text": "Savior loves me   "
+            },
+            {
+              "chord": "C",
+              "text": "so,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He will "
+            },
+            {
+              "chord": "D",
+              "text": "hold me "
+            },
+            {
+              "chord": "G",
+              "text": "fast."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "hewillholdmefast",
+  "source_file": "HeWillHoldMeFast-MattMerker-G-Pag2.pdf",
+  "source_hash": "67bcc9c90e99ce81",
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:01:28+00:00",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/sovereign-grace-music/he-will-hold-me-fast-chords-1903229",
+  "note": "Chords placed from the Ultimate Guitar text of the printed chart; checked against the PDF on 2026-11-14. UG simplificado como el PDF",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "model": "anthropic/claude-opus-5.5",
+    "at": "2026-11-14T12:24:47+00:00",
+    "fingerprint": "0e8af0e0d6db39ef"
+  },
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T20:00:35+00:00",
+    "fingerprint": "0e8af0e0d6db39ef"
+  },
+  "status": "verified"
+}

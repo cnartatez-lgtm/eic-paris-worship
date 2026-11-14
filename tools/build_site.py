@@ -71,6 +71,9 @@ def trim(song):
         "author": song.get("author", ""),
         "meta": song.get("meta", {}),
         "sections": song.get("sections", []),
+        # "verified" once the chart passed the quality gate
+        # (chart_gate.py); anything else shows a warning on the sheet.
+        "status": song.get("status", ""),
     }
 
 
@@ -203,11 +206,16 @@ def build(config, current_only=True):
         key=lambda e: e["title"].lower(),
     )
 
+    # The smallest type the tablet may fit a song to. A longer song
+    # gets more columns and the slider instead of smaller letters.
+    tablet = config.get("tablet") or {}
+
     return {
         "generated_at": datetime.now(
             timezone.utc
         ).isoformat(timespec="seconds"),
         "keys": keys,
+        "min_px": int(tablet.get("min_font_px", 20)),
         "services": services,
         "archive": archive,
     }

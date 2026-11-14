@@ -10,8 +10,238 @@
   },
   "sections": [
     {
-      "label": "[Intro]",
+      "label": "Intro",
       "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "e|---------------0-|-1---0-----------|"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "B|---1-1-----3-3---|---------1-------|"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "G|-------0-0-------|-------------0---|"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D|-----------------|-----------------| x2"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A|-3---------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "E|-----------------|-----------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In the "
+            },
+            {
+              "chord": "D/F#",
+              "text": "darkness, we were "
+            },
+            {
+              "chord": "G",
+              "text": "waiting"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Without "
+            },
+            {
+              "chord": "A",
+              "text": "hope, without "
+            },
+            {
+              "chord": "D",
+              "text": "light"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Till from "
+            },
+            {
+              "chord": "D/F#",
+              "text": "heaven, You came "
+            },
+            {
+              "chord": "G",
+              "text": "running"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "There was "
+            },
+            {
+              "chord": "A",
+              "text": "mercy in Your "
+            },
+            {
+              "chord": "D",
+              "text": "eyes"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To "
+            },
+            {
+              "chord": "D/F#",
+              "text": "fulfil the law and "
+            },
+            {
+              "chord": "G",
+              "text": "prophets"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To a "
+            },
+            {
+              "chord": "A",
+              "text": "virgin came the "
+            },
+            {
+              "chord": "D",
+              "text": "word"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "From a "
+            },
+            {
+              "chord": "D/F#",
+              "text": "throne of endless "
+            },
+            {
+              "chord": "G",
+              "text": "glory"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To a "
+            },
+            {
+              "chord": "A",
+              "text": "cradle in the "
+            },
+            {
+              "chord": "D",
+              "text": "dirt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Praise the Father"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Praise the Son"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm7",
+              "text": "Praise the Spirit"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Asus4",
+              "text": "Three in "
+            },
+            {
+              "chord": "A",
+              "text": "one"
+            }
+          ]
+        },
         {
           "parts": [
             {
@@ -32,12 +262,16 @@
           "parts": [
             {
               "chord": "Bm7",
-              "text": "Praise forever to the King of"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "Praise for"
+            },
+            {
+              "chord": "G",
+              "text": "ever to the "
+            },
+            {
+              "chord": "A",
+              "text": "King of "
+            },
             {
               "chord": "D",
               "text": "Kings"
@@ -47,76 +281,140 @@
       ]
     },
     {
-      "label": "[Verse 1]",
+      "label": "Verse 2",
       "lines": [
         {
           "parts": [
             {
-              "chord": "D/F#",
-              "text": "In the darkness, we were waiting"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A",
-              "text": "Without hope, without light"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "",
+              "text": "To "
+            },
             {
               "chord": "D/F#",
-              "text": "Till from heaven, You came running"
+              "text": "reveal the kingdom "
+            },
+            {
+              "chord": "G",
+              "text": "coming"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And to "
+            },
+            {
               "chord": "A",
-              "text": "There was mercy in Your eyes"
+              "text": "reconcile the "
+            },
+            {
+              "chord": "D",
+              "text": "lost"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "To "
+            },
             {
               "chord": "D/F#",
-              "text": "To fulfill the law and prophets"
+              "text": "redeem the whole "
+            },
+            {
+              "chord": "G",
+              "text": "creation"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You did "
+            },
+            {
               "chord": "A",
-              "text": "To a virgin came the word"
+              "text": "not despise the "
+            },
+            {
+              "chord": "D",
+              "text": "cross"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "For "
+            },
             {
               "chord": "D/F#",
-              "text": "From a throne of endless glory"
+              "text": "even in your "
+            },
+            {
+              "chord": "G",
+              "text": "suffering"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You saw "
+            },
+            {
               "chord": "A",
-              "text": "To a cradle in the dirt"
+              "text": "to the other "
+            },
+            {
+              "chord": "D",
+              "text": "side"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Knowing "
+            },
+            {
+              "chord": "D/F#",
+              "text": "this was our sa"
+            },
+            {
+              "chord": "G",
+              "text": "lvation"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Jesus "
+            },
+            {
+              "chord": "A",
+              "text": "for our sake you "
+            },
+            {
+              "chord": "D",
+              "text": "died"
             }
           ]
         }
       ]
     },
     {
-      "label": "[Chorus]",
+      "label": "Chorus",
       "lines": [
         {
           "parts": [
@@ -146,113 +444,11 @@
           "parts": [
             {
               "chord": "Asus4",
-              "text": "Three in one"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "[Verse 2]",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "D/F#",
-              "text": "To reveal the kingdom coming"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "Three in "
+            },
             {
               "chord": "A",
-              "text": "And to reconcile the lost"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D/F#",
-              "text": "To redeem the whole creation"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A",
-              "text": "You did not despise the cross"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D/F#",
-              "text": "For even in your suffering"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A",
-              "text": "You saw to the other side"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D/F#",
-              "text": "Knowing this was our salvation"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A",
-              "text": "Jesus for our sake you died"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "[Chorus]",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "Praise the Father"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Praise the Son"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Bm7",
-              "text": "Praise the Spirit"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Asus4",
-              "text": "Three in one"
+              "text": "one"
             }
           ]
         },
@@ -276,12 +472,16 @@
           "parts": [
             {
               "chord": "Bm7",
-              "text": "Praise forever to the King of"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "Praise for"
+            },
+            {
+              "chord": "G",
+              "text": "ever to the "
+            },
+            {
+              "chord": "A",
+              "text": "King of "
+            },
             {
               "chord": "D",
               "text": "Kings"
@@ -291,145 +491,273 @@
       ]
     },
     {
-      "label": "[Verse 3]",
+      "label": "Verse 3",
       "lines": [
         {
           "parts": [
             {
-              "chord": "Bm7",
-              "text": "And the morning that You rose"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A",
-              "text": "All of heaven held its breath"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "",
+              "text": "And the "
+            },
             {
               "chord": "Bm7",
-              "text": "Till that stone was moved for good"
+              "text": "morning that You "
+            },
+            {
+              "chord": "G",
+              "text": "rose"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "All of "
+            },
+            {
               "chord": "A",
-              "text": "For the Lamb had conquered death"
+              "text": "heaven held its "
+            },
+            {
+              "chord": "D",
+              "text": "breath"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "Till that "
+            },
             {
               "chord": "Bm7",
-              "text": "And the dead rose from their tombs"
+              "text": "stone was moved for "
+            },
+            {
+              "chord": "G",
+              "text": "good"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "For the "
+            },
+            {
               "chord": "A",
-              "text": "And the angels stood in awe"
+              "text": "Lamb had conquered "
+            },
+            {
+              "chord": "D",
+              "text": "death"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "And the "
+            },
             {
               "chord": "Bm7",
-              "text": "For the souls of all who'd come"
+              "text": "dead rose from thei"
+            },
+            {
+              "chord": "G",
+              "text": "r tombs"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And the "
+            },
+            {
               "chord": "A",
-              "text": "To the Father are restored"
+              "text": "angels stood in "
+            },
+            {
+              "chord": "D",
+              "text": "awe"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For the "
+            },
+            {
+              "chord": "Bm7",
+              "text": "souls of all who'd "
+            },
+            {
+              "chord": "G",
+              "text": "come"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To the "
+            },
+            {
+              "chord": "A",
+              "text": "Father are "
+            },
+            {
+              "chord": "D",
+              "text": "restored"
             }
           ]
         }
       ]
     },
     {
-      "label": "[Verse 4]",
+      "label": "Verse 4",
       "lines": [
         {
           "parts": [
             {
-              "chord": "D/F#",
-              "text": "And the church of Christ was born"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A",
-              "text": "Then the Spirit lit the flame"
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "",
+              "text": "And the "
+            },
             {
               "chord": "D/F#",
-              "text": "Now this gospel truth of old"
+              "text": "church of Christ wa"
+            },
+            {
+              "chord": "G",
+              "text": "s born"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Then the "
+            },
+            {
               "chord": "A",
-              "text": "Shall not kneel, shall not faint"
+              "text": "Spirit lit the "
+            },
+            {
+              "chord": "D",
+              "text": "flame"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "Now this "
+            },
             {
               "chord": "D/F#",
-              "text": "By His blood and in His name"
+              "text": "gospel truth of "
+            },
+            {
+              "chord": "G",
+              "text": "old"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Shall not "
+            },
+            {
               "chord": "A",
-              "text": "In His freedom I am free"
+              "text": "kneel, shall not "
+            },
+            {
+              "chord": "D",
+              "text": "faint"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "By His "
+            },
             {
               "chord": "D/F#",
-              "text": "For the love of Jesus Christ"
+              "text": "blood and in His "
+            },
+            {
+              "chord": "G",
+              "text": "name"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "In His "
+            },
+            {
               "chord": "A",
-              "text": "Who has resurrected me"
+              "text": "freedom I am "
+            },
+            {
+              "chord": "D",
+              "text": "free"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For the "
+            },
+            {
+              "chord": "D/F#",
+              "text": "love of Jesus "
+            },
+            {
+              "chord": "G",
+              "text": "Christ"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Who has "
+            },
+            {
+              "chord": "A",
+              "text": "resurrected "
+            },
+            {
+              "chord": "D",
+              "text": "me"
             }
           ]
         }
       ]
     },
     {
-      "label": "[Chorus]",
+      "label": "Chorus",
       "lines": [
         {
           "parts": [
@@ -459,7 +787,11 @@
           "parts": [
             {
               "chord": "Asus4",
-              "text": "Three in one"
+              "text": "Three in "
+            },
+            {
+              "chord": "A",
+              "text": "one"
             }
           ]
         },
@@ -468,6 +800,54 @@
             {
               "chord": "D",
               "text": "God of glory"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Majesty"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm7",
+              "text": "Praise for"
+            },
+            {
+              "chord": "G",
+              "text": "ever to the "
+            },
+            {
+              "chord": "A",
+              "text": "King of "
+            },
+            {
+              "chord": "D",
+              "text": "Kings"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm7",
+              "text": "Praise for"
+            },
+            {
+              "chord": "G",
+              "text": "ever to the "
+            },
+            {
+              "chord": "A",
+              "text": "King of "
+            },
+            {
+              "chord": "D",
+              "text": "Kings"
             }
           ]
         }
@@ -477,7 +857,25 @@
   "slug": "kingofkings",
   "source_file": "KingOfKings-HillsongWorship-D-Pag2.pdf",
   "source_hash": "58f49ddc4c983094",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-31T20:15:52+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T13:48:59+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/hillsong-worship/king-of-kings-chords-2761663",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (transposed +2); match with the PDF reading 1.00.",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "6cbd9a03a92142a6",
+    "at": "2026-11-14T13:49:48+00:00"
+  },
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "6cbd9a03a92142a6"
+  }
 }

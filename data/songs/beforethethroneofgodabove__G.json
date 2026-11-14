@@ -15,16 +15,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Before the "
+            },
+            {
               "chord": "G",
-              "text": "Before the throne of "
+              "text": "throne of "
             },
             {
               "chord": "C/G",
-              "text": "God "
+              "text": "God a"
             },
             {
               "chord": "G",
-              "text": "above"
+              "text": "bove"
             }
           ]
         },
@@ -43,8 +47,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "A great High "
+            },
+            {
               "chord": "C",
-              "text": "A great High Priest whose name is "
+              "text": "Priest whose name is "
             },
             {
               "chord": "Em",
@@ -55,8 +63,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Who ever "
+            },
+            {
               "chord": "C",
-              "text": "Who ever lives and pleads for "
+              "text": "lives and pleads for "
             },
             {
               "chord": "G",
@@ -67,8 +79,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My name is "
+            },
+            {
               "chord": "C",
-              "text": "My name is graven on His "
+              "text": "graven on His "
             },
             {
               "chord": "D",
@@ -79,8 +95,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My name is "
+            },
+            {
               "chord": "C",
-              "text": "My name is written on His "
+              "text": "written on His "
             },
             {
               "chord": "Em",
@@ -91,8 +111,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "I know that "
+            },
+            {
               "chord": "C",
-              "text": "I know that while in Heaven He "
+              "text": "while in Heaven He "
             },
             {
               "chord": "Em",
@@ -103,8 +127,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "No tongue can "
+            },
+            {
               "chord": "C",
-              "text": "No tongue can bid me thence "
+              "text": "bid me thence "
             },
             {
               "chord": "D",
@@ -119,8 +147,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "No tongue can "
+            },
+            {
               "chord": "C",
-              "text": "No tongue can bid me thence "
+              "text": "bid me thence "
             },
             {
               "chord": "D",
@@ -129,6 +161,50 @@
             {
               "chord": "G",
               "text": "part"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         }
@@ -140,16 +216,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "When Satan "
+            },
+            {
               "chord": "G",
-              "text": "When Satan tempts me to "
+              "text": "tempts me "
             },
             {
               "chord": "C/G",
-              "text": "despair"
+              "text": "to des"
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "pair"
             }
           ]
         },
@@ -157,19 +237,23 @@
           "parts": [
             {
               "chord": "",
-              "text": "And tells me of the guilt "
+              "text": "And tells me of the guilt with"
             },
             {
               "chord": "Bm",
-              "text": "within"
+              "text": "in"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Upward I "
+            },
+            {
               "chord": "C",
-              "text": "Upward I look and see Him "
+              "text": "look and see Him "
             },
             {
               "chord": "Em",
@@ -180,8 +264,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Who made an "
+            },
+            {
               "chord": "C",
-              "text": "Who made an end to all my "
+              "text": "end to all my "
             },
             {
               "chord": "G",
@@ -192,8 +280,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Because the "
+            },
+            {
               "chord": "C",
-              "text": "Because the sinless Savior "
+              "text": "sinless Savior "
             },
             {
               "chord": "D",
@@ -204,8 +296,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My sinful "
+            },
+            {
               "chord": "C",
-              "text": "My sinful soul is counted "
+              "text": "soul is counted "
             },
             {
               "chord": "Em",
@@ -216,24 +312,52 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "For God the "
+            },
+            {
               "chord": "C",
-              "text": "For God the Just is "
+              "text": "Just is satis"
             },
             {
               "chord": "Em",
-              "text": "satisfied"
+              "text": "fied"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "To look on "
+            },
+            {
               "chord": "C",
-              "text": "To look on Him and pardon "
+              "text": "Him and par"
             },
             {
               "chord": "D",
+              "text": "don "
+            },
+            {
+              "chord": "Em",
               "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "F       G      Bb   |    |Am   |    |Bb   |F    |G"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To look on Him and pardon me"
             }
           ]
         }
@@ -245,16 +369,20 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Behold Him "
+            },
+            {
               "chord": "G",
-              "text": "Behold Him there, the risen "
+              "text": "there, the "
             },
             {
               "chord": "C/G",
-              "text": "Lamb!"
+              "text": "risen "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "Lamb!"
             }
           ]
         },
@@ -262,7 +390,7 @@
           "parts": [
             {
               "chord": "",
-              "text": "My perfect, spotless righteous-"
+              "text": "My perfect, spotless righteous"
             },
             {
               "chord": "Bm",
@@ -273,8 +401,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "The great un"
+            },
+            {
               "chord": "C",
-              "text": "The great unchangeable I "
+              "text": "changeable I "
             },
             {
               "chord": "Em",
@@ -285,8 +417,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "The King of "
+            },
+            {
               "chord": "C",
-              "text": "The King of Glory and of "
+              "text": "Glory and of "
             },
             {
               "chord": "G",
@@ -297,8 +433,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "One with Him"
+            },
+            {
               "chord": "C",
-              "text": "One with Himself, I cannot "
+              "text": "self, I cannot "
             },
             {
               "chord": "D",
@@ -309,8 +449,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My soul is "
+            },
+            {
               "chord": "C",
-              "text": "My soul is purchased by His "
+              "text": "purchased by His "
             },
             {
               "chord": "Em",
@@ -321,8 +465,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "My life is "
+            },
+            {
               "chord": "C",
-              "text": "My life is hid with Christ on "
+              "text": "hid with Christ on "
             },
             {
               "chord": "Em",
@@ -333,11 +481,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "With Christ, my "
+            },
+            {
               "chord": "C",
-              "text": "With Christ, my Savior and my "
+              "text": "Savior and "
             },
             {
               "chord": "D",
+              "text": "my "
+            },
+            {
+              "chord": "Em",
               "text": "God"
             }
           ]
@@ -345,12 +501,64 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "With Christ, my "
+            },
+            {
               "chord": "C",
-              "text": "With Christ, my Savior and my "
+              "text": "Savior "
             },
             {
               "chord": "D",
+              "text": "and my "
+            },
+            {
+              "chord": "G",
               "text": "God"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
             }
           ]
         }
@@ -360,7 +568,25 @@
   "slug": "beforethethroneofgodabove",
   "source_file": "BeforeTheThroneOfGodAbove-SovereignGraceMusic-G-Pag2.pdf",
   "source_hash": "3062203965f67d61",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-11-07T20:04:04+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:41:17+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/sovereign-grace-music/before-the-throne-of-god-above-chords-1709070",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (transposed +7); match with the PDF reading 0.88.",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "18b871fce8430c43",
+    "at": "2026-11-14T13:49:48+00:00"
+  },
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "18b871fce8430c43"
+  }
 }

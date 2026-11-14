@@ -16,10 +16,34 @@
           "parts": [
             {
               "chord": "G",
-              "text": "By faith we see the hand of "
+              "text": ""
             },
             {
               "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "By fai"
+            },
+            {
+              "chord": "C",
+              "text": "th we see the hand of"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "God"
             }
           ]
@@ -28,10 +52,34 @@
           "parts": [
             {
               "chord": "G",
-              "text": "In the light of creation's "
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In the "
             },
             {
               "chord": "D",
+              "text": "lig"
+            },
+            {
+              "chord": "G",
+              "text": "ht of creation's"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "grand design"
             }
           ]
@@ -40,15 +88,67 @@
           "parts": [
             {
               "chord": "C",
-              "text": "In the lives of those who "
+              "text": ""
             },
             {
               "chord": "E",
-              "text": "prove His "
+              "text": ""
             },
             {
               "chord": "D",
-              "text": "faithfulness"
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In "
+            },
+            {
+              "chord": "D",
+              "text": "the "
+            },
+            {
+              "chord": "C",
+              "text": "lives "
+            },
+            {
+              "chord": "D",
+              "text": "of "
+            },
+            {
+              "chord": "Em",
+              "text": "those who"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "prove His faithfulness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
             }
           ]
         },
@@ -56,11 +156,19 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Who walk by faith and not by "
+              "text": "Who "
             },
             {
               "chord": "C",
-              "text": "sight"
+              "text": "walk by faith and not by"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Sight"
             }
           ]
         }
@@ -72,11 +180,23 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "By faith our fathers roamed "
-            },
+              "chord": "",
+              "text": "(same as verse 1)"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
+              "chord": "",
+              "text": "By faith our fathers roamed"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "the earth"
             }
           ]
@@ -84,11 +204,15 @@
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "With the power of His promise "
-            },
+              "chord": "",
+              "text": "With the power of His promise"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "E",
+              "chord": "",
               "text": "in their hearts"
             }
           ]
@@ -96,11 +220,15 @@
         {
           "parts": [
             {
-              "chord": "D",
-              "text": "Of a holy city built by God's "
-            },
+              "chord": "",
+              "text": "Of a holy city built by God's"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "G",
+              "chord": "",
               "text": "own hand"
             }
           ]
@@ -108,11 +236,15 @@
         {
           "parts": [
             {
-              "chord": "C",
-              "text": "A place where peace and "
-            },
+              "chord": "",
+              "text": "A place where peace and"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "justice reign"
             }
           ]
@@ -126,10 +258,38 @@
           "parts": [
             {
               "chord": "G",
-              "text": "We will stand as children of "
+              "text": ""
             },
             {
               "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We wi"
+            },
+            {
+              "chord": "G",
+              "text": "ll stand as children of"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "the promise"
             }
           ]
@@ -137,12 +297,136 @@
         {
           "parts": [
             {
+              "chord": "G",
+              "text": ""
+            },
+            {
               "chord": "Em",
-              "text": "We will fix our eyes on Him, "
+              "text": ""
             },
             {
               "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We "
+            },
+            {
+              "chord": "G",
+              "text": "will fix o"
+            },
+            {
+              "chord": "D",
+              "text": "ur eyes on Him,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "our soul's reward"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Till "
+            },
+            {
+              "chord": "G",
+              "text": "the "
+            },
+            {
+              "chord": "Bm",
+              "text": "race "
+            },
+            {
+              "chord": "C",
+              "text": "is finished"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "and the work is’ done"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We"
+            },
+            {
+              "chord": "G",
+              "text": "'ll "
+            },
+            {
+              "chord": "C",
+              "text": "Walk "
+            },
+            {
+              "chord": "G",
+              "text": "by fai"
+            },
+            {
+              "chord": "C",
+              "text": "th and not by"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "sight"
             }
           ]
         }
@@ -154,11 +438,23 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "By faith the prophets saw a "
-            },
+              "chord": "",
+              "text": "(same as verse 1)"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
+              "chord": "",
+              "text": "By faith the prophets saw a"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "day"
             }
           ]
@@ -166,11 +462,15 @@
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "When the longed for Messiah "
-            },
+              "chord": "",
+              "text": "When the longed for Messiah"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "would appear"
             }
           ]
@@ -178,11 +478,15 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "With the power to break the "
-            },
+              "chord": "",
+              "text": "With the power to break the"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "chains of sin and death"
             }
           ]
@@ -190,11 +494,15 @@
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "And rise triumphant form the "
-            },
+              "chord": "",
+              "text": "And rise triumphant form the"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "grave"
             }
           ]
@@ -207,11 +515,23 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "By faith the church was called "
-            },
+              "chord": "",
+              "text": "(same as verse 1)"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
+              "chord": "",
+              "text": "By faith the church was called"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "to go"
             }
           ]
@@ -219,11 +539,15 @@
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "In the power of the Spirit to "
-            },
+              "chord": "",
+              "text": "In the power of the Spirit to"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "the lost"
             }
           ]
@@ -231,11 +555,15 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "To deliver captives and to "
-            },
+              "chord": "",
+              "text": "To deliver captives and to"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "preach good news"
             }
           ]
@@ -243,12 +571,8 @@
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "In every corner of the "
-            },
-            {
-              "chord": "C",
-              "text": "earth"
+              "chord": "",
+              "text": "In every corner of the earth"
             }
           ]
         }
@@ -260,11 +584,23 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "By faith this mountain shall "
-            },
+              "chord": "",
+              "text": "(same as verse 1)"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
+              "chord": "",
+              "text": "By faith this mountain shall"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
               "text": "be moved"
             }
           ]
@@ -272,11 +608,15 @@
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "And the power of the gospel "
-            },
+              "chord": "",
+              "text": "And the power of the gospel"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "C",
+              "chord": "",
               "text": "shall prevail"
             }
           ]
@@ -284,11 +624,15 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "For we know in Christ all "
-            },
+              "chord": "",
+              "text": "For we know in Christ all"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "things are possible"
             }
           ]
@@ -296,12 +640,8 @@
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "For all who call upon His "
-            },
-            {
-              "chord": "C",
-              "text": "name"
+              "chord": "",
+              "text": "For all who call upon His name"
             }
           ]
         }
@@ -311,7 +651,285 @@
   "slug": "byfaith",
   "source_file": "ByFaith-KeithGetty-G-Pag1.pdf",
   "source_hash": "1fa8dd9898c10cf0",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-31T20:03:42+00:00"
+  "method": "ocr-layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "9e45a126d12ecc47"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "9e45a126d12ecc47",
+    "at": "2026-11-14T13:49:48+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ]
+        ],
+        "L2": [
+          [
+            "C",
+            "faith"
+          ]
+        ],
+        "L3": [],
+        "L4": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ]
+        ],
+        "L5": [
+          [
+            "D",
+            "light"
+          ],
+          [
+            "G",
+            "light"
+          ]
+        ],
+        "L6": [],
+        "L7": [
+          [
+            "C",
+            ""
+          ],
+          [
+            "E",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "G",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ]
+        ],
+        "L8": [
+          [
+            "D",
+            "the"
+          ],
+          [
+            "C",
+            "lives"
+          ],
+          [
+            "D",
+            "of"
+          ],
+          [
+            "Em",
+            "those"
+          ]
+        ],
+        "L9": [],
+        "L10": [
+          [
+            "C",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ]
+        ],
+        "L11": [
+          [
+            "G",
+            "Who"
+          ],
+          [
+            "C",
+            "walk"
+          ]
+        ],
+        "L12": [],
+        "L13": [],
+        "L14": [],
+        "L15": [],
+        "L16": [],
+        "L17": [],
+        "L18": [],
+        "L19": [],
+        "L20": [],
+        "L21": [],
+        "L22": [],
+        "L23": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ]
+        ],
+        "L24": [
+          [
+            "G",
+            "will"
+          ]
+        ],
+        "L25": [],
+        "L26": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ]
+        ],
+        "L27": [
+          [
+            "G",
+            "will"
+          ],
+          [
+            "D",
+            "our"
+          ]
+        ],
+        "L28": [],
+        "L29": [
+          [
+            "G",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ],
+          [
+            "Em",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ]
+        ],
+        "L30": [
+          [
+            "G",
+            "the"
+          ],
+          [
+            "Bm",
+            "race"
+          ],
+          [
+            "C",
+            "is"
+          ]
+        ],
+        "L31": [],
+        "L32": [
+          [
+            "Am",
+            ""
+          ],
+          [
+            "C",
+            ""
+          ],
+          [
+            "D",
+            ""
+          ]
+        ],
+        "L33": [
+          [
+            "G",
+            "We'll"
+          ],
+          [
+            "C",
+            "Walk"
+          ],
+          [
+            "G",
+            "by"
+          ],
+          [
+            "C",
+            "faith"
+          ]
+        ],
+        "L34": [],
+        "L35": [],
+        "L36": [],
+        "L37": [],
+        "L38": [],
+        "L39": [],
+        "L40": [],
+        "L41": [],
+        "L42": [],
+        "L43": [],
+        "L44": [],
+        "L45": [],
+        "L46": [],
+        "L47": [],
+        "L48": [],
+        "L49": [],
+        "L50": [],
+        "L51": [],
+        "L52": [],
+        "L53": [],
+        "L54": [],
+        "L55": [],
+        "L56": [],
+        "L57": [],
+        "L58": [],
+        "L59": []
+      },
+      "line_text": null,
+      "source_hash": "1fa8dd9898c10cf0"
+    }
+  }
 }

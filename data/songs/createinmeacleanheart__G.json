@@ -15,11 +15,23 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Cre"
+            },
+            {
               "chord": "G",
-              "text": "Create in me a clean heart, oh "
+              "text": "ate in me a "
             },
             {
               "chord": "D",
+              "text": "clean heart, "
+            },
+            {
+              "chord": "C",
+              "text": "oh "
+            },
+            {
+              "chord": "G",
               "text": "God"
             }
           ]
@@ -28,10 +40,18 @@
           "parts": [
             {
               "chord": "G",
-              "text": "And renew a right spirit within "
+              "text": "And renew a right "
             },
             {
               "chord": "D",
+              "text": "spirit "
+            },
+            {
+              "chord": "C",
+              "text": "within "
+            },
+            {
+              "chord": "G",
               "text": "me"
             }
           ]
@@ -45,10 +65,18 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Cast me not away from thy presence, oh "
+              "text": "Cast me not a"
             },
             {
               "chord": "D",
+              "text": "way from thy "
+            },
+            {
+              "chord": "G",
+              "text": "presence, oh "
+            },
+            {
+              "chord": "Em",
               "text": "Lord"
             }
           ]
@@ -57,11 +85,19 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Take not thy Holy Spirit from "
+              "text": "Take not thy "
             },
             {
               "chord": "D",
+              "text": "Holy Spirit from "
+            },
+            {
+              "chord": "G",
               "text": "me"
+            },
+            {
+              "chord": "G7",
+              "text": ""
             }
           ]
         },
@@ -69,10 +105,18 @@
           "parts": [
             {
               "chord": "C",
-              "text": "Restore unto me the joy of thy "
+              "text": "Restore unto "
             },
             {
               "chord": "D",
+              "text": "me the "
+            },
+            {
+              "chord": "G/B",
+              "text": "joy of thy "
+            },
+            {
+              "chord": "Em",
               "text": "salvation"
             }
           ]
@@ -81,10 +125,18 @@
           "parts": [
             {
               "chord": "C",
-              "text": "And renew a right spirit within "
+              "text": "And renew a right "
             },
             {
               "chord": "D",
+              "text": "spirit "
+            },
+            {
+              "chord": "C",
+              "text": "within "
+            },
+            {
+              "chord": "G",
               "text": "me"
             }
           ]
@@ -95,7 +147,139 @@
   "slug": "createinmeacleanheart",
   "source_file": "CreateInMeACleanHeart-KeithGreen-G-Pag1.pdf",
   "source_hash": "9f041ede986063a8",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-10T19:13:08+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T13:50:03+00:00",
+  "status": "verified",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: leída por posición del PDF con texto; comparada palabra por palabra con el PDF; las dos dudas del revisor IA resueltas en la imagen (la carta tenía razón)",
+    "fingerprint": "8f42648c833adbc5",
+    "at": "2026-11-14T13:52:57+00:00",
+    "ai_reading": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "reading": {
+        "L1": [
+          [
+            "G",
+            "Create"
+          ],
+          [
+            "D",
+            "clean"
+          ],
+          [
+            "C",
+            "oh"
+          ],
+          [
+            "G",
+            "God"
+          ]
+        ],
+        "L2": [],
+        "L3": [
+          [
+            "G",
+            "And"
+          ],
+          [
+            "D",
+            "spirit"
+          ],
+          [
+            "C",
+            "within"
+          ],
+          [
+            "G",
+            "me"
+          ]
+        ],
+        "L4": [
+          [
+            "C",
+            "Cast"
+          ],
+          [
+            "D",
+            "away"
+          ],
+          [
+            "G",
+            "presence,"
+          ],
+          [
+            "Em",
+            "Lord"
+          ]
+        ],
+        "L5": [
+          [
+            "C",
+            "Take"
+          ],
+          [
+            "D",
+            "Holy"
+          ],
+          [
+            "G",
+            "me"
+          ],
+          [
+            "G7",
+            "(end)"
+          ]
+        ],
+        "L6": [
+          [
+            "C",
+            "Restore"
+          ],
+          [
+            "D",
+            "me"
+          ],
+          [
+            "G/B",
+            "joy"
+          ],
+          [
+            "Em",
+            "salvation"
+          ]
+        ],
+        "L7": [
+          [
+            "C",
+            "And"
+          ],
+          [
+            "D",
+            "spirit"
+          ],
+          [
+            "C",
+            "within"
+          ],
+          [
+            "G",
+            "me"
+          ]
+        ]
+      },
+      "line_text": null,
+      "source_hash": "9f041ede986063a8"
+    }
+  },
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "8f42648c833adbc5"
+  }
 }

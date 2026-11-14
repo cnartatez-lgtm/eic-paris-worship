@@ -16,7 +16,7 @@
           "parts": [
             {
               "chord": "D",
-              "text": ""
+              "text": "(You can throw in a Dsus chord in there to match the recording)"
             }
           ]
         }
@@ -41,11 +41,15 @@
           "parts": [
             {
               "chord": "Bm",
-              "text": "When all I see is the mountain, you see a mountain "
+              "text": "When all I see is the mountain, you "
             },
             {
               "chord": "A",
-              "text": "moved"
+              "text": "see a moun"
+            },
+            {
+              "chord": "G",
+              "text": "tain moved"
             }
           ]
         },
@@ -53,11 +57,11 @@
           "parts": [
             {
               "chord": "D",
-              "text": "And as I walk through the shadows, your love surrounds "
+              "text": "And as I walk through the shadows, your love sur"
             },
             {
               "chord": "G",
-              "text": "me"
+              "text": "rounds me"
             }
           ]
         },
@@ -65,11 +69,15 @@
           "parts": [
             {
               "chord": "Bm",
-              "text": "There’s nothing to fear now, for I am safe with "
+              "text": "There’s nothing to fear now, for "
             },
             {
               "chord": "A",
-              "text": "you"
+              "text": "I am saf"
+            },
+            {
+              "chord": "D",
+              "text": "e with you"
             }
           ]
         }
@@ -81,15 +89,27 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "So when I "
+            },
+            {
               "chord": "G",
-              "text": "So when I fight, I’ll fight on my "
+              "text": "fight, I’ll "
             },
             {
               "chord": "D",
-              "text": "knees, with my hands lifted "
+              "text": "fight on my "
             },
             {
               "chord": "A",
+              "text": "knees, with my "
+            },
+            {
+              "chord": "Bm",
+              "text": "hands lifted "
+            },
+            {
+              "chord": "G",
               "text": "high"
             }
           ]
@@ -97,27 +117,47 @@
         {
           "parts": [
             {
-              "chord": "Bm",
-              "text": "Oh God, the battle belongs to "
+              "chord": "",
+              "text": "Oh "
             },
             {
-              "chord": "G",
-              "text": "you"
+              "chord": "D",
+              "text": "God, the battle be"
+            },
+            {
+              "chord": "A",
+              "text": "longs to y"
+            },
+            {
+              "chord": "Bm",
+              "text": "ou"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And every "
+            },
+            {
               "chord": "G",
-              "text": "And every fear I lay at your "
+              "text": "fear I "
             },
             {
               "chord": "D",
-              "text": "feet, I’ll sing through the "
+              "text": "lay at your "
             },
             {
               "chord": "A",
+              "text": "feet, I’ll "
+            },
+            {
+              "chord": "Bm",
+              "text": "sing through the "
+            },
+            {
+              "chord": "G",
               "text": "night"
             }
           ]
@@ -125,12 +165,20 @@
         {
           "parts": [
             {
-              "chord": "Bm",
-              "text": "Oh God, the battle belongs to "
+              "chord": "",
+              "text": "Oh "
             },
             {
-              "chord": "G",
-              "text": "you"
+              "chord": "D",
+              "text": "God, the battle be"
+            },
+            {
+              "chord": "A",
+              "text": "longs to y"
+            },
+            {
+              "chord": "D",
+              "text": "ou"
             }
           ]
         }
@@ -143,11 +191,11 @@
           "parts": [
             {
               "chord": "D",
-              "text": "And if you are for me, who can be against "
+              "text": "And if you are for me, who can be ag"
             },
             {
               "chord": "G",
-              "text": "me"
+              "text": "ainst me"
             }
           ]
         },
@@ -155,11 +203,15 @@
           "parts": [
             {
               "chord": "Bm",
-              "text": "For Jesus there’s nothing impossible for "
+              "text": "For Jesus there’s nothing im"
             },
             {
               "chord": "A",
-              "text": "you"
+              "text": "possible "
+            },
+            {
+              "chord": "G",
+              "text": "for you"
             }
           ]
         },
@@ -167,11 +219,11 @@
           "parts": [
             {
               "chord": "D",
-              "text": "When all I see are the ashes, you see the "
+              "text": "When all I see are the ashes, you see the be"
             },
             {
               "chord": "G",
-              "text": "beauty"
+              "text": "auty"
             }
           ]
         },
@@ -179,11 +231,15 @@
           "parts": [
             {
               "chord": "Bm",
-              "text": "When all I see is a cross, God you see the empty "
+              "text": "When all I see is a cross, God you "
             },
             {
               "chord": "A",
-              "text": "tomb"
+              "text": "see the emp"
+            },
+            {
+              "chord": "D",
+              "text": "ty tomb"
             }
           ]
         }
@@ -195,15 +251,27 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "So when I "
+            },
+            {
               "chord": "G",
-              "text": "So when I fight, I’ll fight on my "
+              "text": "fight, I’ll "
             },
             {
               "chord": "D",
-              "text": "knees, with my hands lifted "
+              "text": "fight on my "
             },
             {
               "chord": "A",
+              "text": "knees, with my "
+            },
+            {
+              "chord": "Bm",
+              "text": "hands lifted "
+            },
+            {
+              "chord": "G",
               "text": "high"
             }
           ]
@@ -211,27 +279,47 @@
         {
           "parts": [
             {
-              "chord": "Bm",
-              "text": "Oh God, the battle belongs to "
+              "chord": "",
+              "text": "Oh "
             },
             {
-              "chord": "G",
-              "text": "you"
+              "chord": "D",
+              "text": "God, the battle be"
+            },
+            {
+              "chord": "A",
+              "text": "longs to y"
+            },
+            {
+              "chord": "Bm",
+              "text": "ou"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And every "
+            },
+            {
               "chord": "G",
-              "text": "And every fear I lay at your "
+              "text": "fear I "
             },
             {
               "chord": "D",
-              "text": "feet, I’ll sing through the "
+              "text": "lay at your "
             },
             {
               "chord": "A",
+              "text": "feet, I’ll "
+            },
+            {
+              "chord": "Bm",
+              "text": "sing through the "
+            },
+            {
+              "chord": "G",
               "text": "night"
             }
           ]
@@ -239,12 +327,20 @@
         {
           "parts": [
             {
-              "chord": "Bm",
-              "text": "Oh God, the battle belongs to "
+              "chord": "",
+              "text": "Oh "
             },
             {
-              "chord": "G",
-              "text": "you"
+              "chord": "D",
+              "text": "God, the battle be"
+            },
+            {
+              "chord": "A",
+              "text": "longs to y"
+            },
+            {
+              "chord": "D",
+              "text": "ou"
             }
           ]
         }
@@ -257,22 +353,34 @@
           "parts": [
             {
               "chord": "G",
-              "text": "Almighty fortress, you go before "
+              "text": "Almighty fo"
             },
             {
               "chord": "D",
-              "text": "us"
+              "text": "rtress, you go be"
+            },
+            {
+              "chord": "A",
+              "text": "fore us"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Nothing can "
+            },
+            {
               "chord": "Bm",
-              "text": "Nothing can stand against the power of our "
+              "text": "stand against the "
             },
             {
               "chord": "A",
+              "text": "power of our "
+            },
+            {
+              "chord": "G",
               "text": "God"
             }
           ]
@@ -280,8 +388,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You shine in the "
+            },
+            {
               "chord": "D",
-              "text": "You shine in the shadows, you win every "
+              "text": "shadows, you win every "
             },
             {
               "chord": "A",
@@ -292,56 +404,16 @@
         {
           "parts": [
             {
-              "chord": "Bm",
-              "text": "Nothing can stand against the power of our "
+              "chord": "",
+              "text": "Nothing can "
             },
             {
-              "chord": "G",
-              "text": "God"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "G",
-              "text": "Almighty fortress, you go before "
-            },
-            {
-              "chord": "D",
-              "text": "us"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
               "chord": "Bm",
-              "text": "Nothing can stand against the power of our "
+              "text": "stand against the "
             },
             {
               "chord": "A",
-              "text": "God"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "You shine in the shadows, you win every "
-            },
-            {
-              "chord": "A",
-              "text": "battle"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "Bm",
-              "text": "Nothing can stand against the power of our "
+              "text": "power of our "
             },
             {
               "chord": "G",
@@ -352,23 +424,35 @@
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "Almighty fortress, you go before "
+              "chord": "(G)",
+              "text": "Almighty fo"
             },
             {
               "chord": "D",
-              "text": "us"
+              "text": "rtress, you go be"
+            },
+            {
+              "chord": "A",
+              "text": "fore us"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Nothing can "
+            },
+            {
               "chord": "Bm",
-              "text": "Nothing can stand against the power of our "
+              "text": "stand against the "
             },
             {
               "chord": "A",
+              "text": "power of our "
+            },
+            {
+              "chord": "G",
               "text": "God"
             }
           ]
@@ -376,8 +460,12 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You shine in the "
+            },
+            {
               "chord": "D",
-              "text": "You shine in the shadows, you win every "
+              "text": "shadows, you win every "
             },
             {
               "chord": "A",
@@ -388,12 +476,92 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Nothing can "
+            },
+            {
               "chord": "Bm",
-              "text": "Nothing can stand against the power of our God"
+              "text": "stand against the "
+            },
+            {
+              "chord": "A",
+              "text": "power of our "
             },
             {
               "chord": "G",
-              "text": " "
+              "text": "God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "(G)",
+              "text": "Almighty fo"
+            },
+            {
+              "chord": "D",
+              "text": "rtress, you go be"
+            },
+            {
+              "chord": "A",
+              "text": "fore us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Nothing can "
+            },
+            {
+              "chord": "Bm",
+              "text": "stand against the "
+            },
+            {
+              "chord": "A",
+              "text": "power of our "
+            },
+            {
+              "chord": "G",
+              "text": "God"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You shine in the "
+            },
+            {
+              "chord": "D",
+              "text": "shadows, you win every "
+            },
+            {
+              "chord": "A",
+              "text": "battle"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Nothing can "
+            },
+            {
+              "chord": "Bm",
+              "text": "stand against the "
+            },
+            {
+              "chord": "A",
+              "text": "power of our "
+            },
+            {
+              "chord": "G",
+              "text": "God"
             },
             {
               "chord": "A",
@@ -409,15 +577,27 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "So when I "
+            },
+            {
               "chord": "G",
-              "text": "So when I fight, I’ll fight on my "
+              "text": "fight, I’ll "
             },
             {
               "chord": "D",
-              "text": "knees, with my hands lifted "
+              "text": "fight on my "
             },
             {
               "chord": "A",
+              "text": "knees, with my "
+            },
+            {
+              "chord": "Bm",
+              "text": "hands lifted "
+            },
+            {
+              "chord": "G",
               "text": "high"
             }
           ]
@@ -425,27 +605,47 @@
         {
           "parts": [
             {
-              "chord": "Bm",
-              "text": "Oh God, the battle belongs to "
+              "chord": "",
+              "text": "Oh "
             },
             {
-              "chord": "G",
-              "text": "you"
+              "chord": "D",
+              "text": "God, the battle be"
+            },
+            {
+              "chord": "A",
+              "text": "longs to y"
+            },
+            {
+              "chord": "Bm",
+              "text": "ou"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And every "
+            },
+            {
               "chord": "G",
-              "text": "And every fear I lay at your "
+              "text": "fear I "
             },
             {
               "chord": "D",
-              "text": "feet, I’ll sing through the "
+              "text": "lay at your "
             },
             {
               "chord": "A",
+              "text": "feet, I’ll "
+            },
+            {
+              "chord": "Bm",
+              "text": "sing through the "
+            },
+            {
+              "chord": "G",
               "text": "night"
             }
           ]
@@ -453,12 +653,44 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Oh "
+            },
+            {
+              "chord": "D",
+              "text": "God, the battle be"
+            },
+            {
+              "chord": "A",
+              "text": "longs to y"
+            },
+            {
               "chord": "Bm",
-              "text": "Oh God, the battle belongs to "
+              "text": "ou"
             },
             {
               "chord": "G",
-              "text": "you"
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Oh "
+            },
+            {
+              "chord": "D",
+              "text": "God, the battle be"
+            },
+            {
+              "chord": "A",
+              "text": "longs to y"
+            },
+            {
+              "chord": "D",
+              "text": "ou"
             }
           ]
         }
@@ -468,7 +700,25 @@
   "slug": "battlebelongs",
   "source_file": "BattleBelongs-PhilWickham-D-Pag2.pdf",
   "source_hash": "c626a9f207cfe221",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-11-07T20:02:19+00:00"
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:49:43+00:00",
+  "status": "verified",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/battle-belongs-chords-2953958",
+  "note": "Rebuilt from the Ultimate Guitar text of the printout (simplified, transposed +0); match with the PDF reading 0.99.",
+  "quality": {
+    "data": [],
+    "review": "OK (revisión manual)",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "e5863b2675982fe2"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "manual": true,
+    "by": "Claude (Opus 5.5), 2026-11-14: impresión de Ultimate Guitar reconstruida desde el texto de UG (o transpuesta de una tonalidad hermana verificada); comparada palabra por palabra con el OCR de su PDF; cada acorde en conflicto revisado en la imagen",
+    "fingerprint": "e5863b2675982fe2",
+    "at": "2026-11-14T13:49:48+00:00"
+  }
 }

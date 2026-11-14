@@ -1,0 +1,567 @@
+{
+  "title": "Where Would We Be",
+  "author": "Matt Redman",
+  "key": "G",
+  "meta": {
+    "capo": "4",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You came to "
+            },
+            {
+              "chord": "Em",
+              "text": "search and rescue"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In love the "
+            },
+            {
+              "chord": "C",
+              "text": "Father sent you"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Broke through the darkest nig"
+            },
+            {
+              "chord": "D",
+              "text": "ht"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You came to "
+            },
+            {
+              "chord": "Em",
+              "text": "seek and save us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You came to "
+            },
+            {
+              "chord": "C",
+              "text": "liberate us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Jesus You heard our "
+            },
+            {
+              "chord": "D",
+              "text": "cry"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus you "
+            },
+            {
+              "chord": "Em",
+              "text": "heard our cry"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Where would we be without Your love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We'd still be lost in darkness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Where would we be without Your cross"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You made a way to save us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Oh Your love,  "
+            },
+            {
+              "chord": "Em",
+              "text": "Oh Your lo"
+            },
+            {
+              "chord": "D",
+              "text": "ve"
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "Em",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You are the "
+            },
+            {
+              "chord": "Em",
+              "text": "hope eternal,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You are the "
+            },
+            {
+              "chord": "C",
+              "text": "Light of this world"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Jesus our rescu"
+            },
+            {
+              "chord": "D",
+              "text": "er"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We live our "
+            },
+            {
+              "chord": "Em",
+              "text": "lives to thank You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How could we "
+            },
+            {
+              "chord": "C",
+              "text": "not adore You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Jesus our rescue"
+            },
+            {
+              "chord": "D",
+              "text": "r"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus our "
+            },
+            {
+              "chord": "Em",
+              "text": "rescue"
+            },
+            {
+              "chord": "D",
+              "text": "r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "Where would we be without Your love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We'd still be lost in darkness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Where would we be without Your cross"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You made a way to save us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Oh Your love,  "
+            },
+            {
+              "chord": "Em",
+              "text": "Oh Your lo"
+            },
+            {
+              "chord": "D",
+              "text": "ve"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We're "
+            },
+            {
+              "chord": "G",
+              "text": "safe in the arms of Your embrace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Breathing in Your freedom"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Em",
+              "text": "Lifting a song of highest praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And breathing out Your anthem"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Oh Your love,  "
+            },
+            {
+              "chord": "Em",
+              "text": "oh Your lov"
+            },
+            {
+              "chord": "D",
+              "text": "e,  we're singing"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Oh Your love,  "
+            },
+            {
+              "chord": "Em",
+              "text": "oh Your lov"
+            },
+            {
+              "chord": "D",
+              "text": "e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We couldn't esc"
+            },
+            {
+              "chord": "C",
+              "text": "ape the sin and the "
+            },
+            {
+              "chord": "G",
+              "text": "shame"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That kept us bo"
+            },
+            {
+              "chord": "D",
+              "text": "und"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We couldn't break "
+            },
+            {
+              "chord": "C",
+              "text": "through, we couldn't reach "
+            },
+            {
+              "chord": "G",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "So "
+            },
+            {
+              "chord": "Em",
+              "text": "You reached "
+            },
+            {
+              "chord": "D",
+              "text": "down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Tag",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus "
+            },
+            {
+              "chord": "Em",
+              "text": "You're the only "
+            },
+            {
+              "chord": "D",
+              "text": "hope"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus "
+            },
+            {
+              "chord": "Em",
+              "text": "Hope for all the "
+            },
+            {
+              "chord": "D",
+              "text": "world"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "Jesus "
+            },
+            {
+              "chord": "Em",
+              "text": "You're the only "
+            },
+            {
+              "chord": "D",
+              "text": "hope"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am7",
+              "text": "Jesus "
+            },
+            {
+              "chord": "Em",
+              "text": "Hope for all the "
+            },
+            {
+              "chord": "D",
+              "text": "world"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "wherewouldwebe",
+  "source_file": "WhereWouldWeBe-MattRedman-G-Pag1.pdf",
+  "source_hash": "7137feaa2447985e",
+  "method": "ug-text",
+  "model": "",
+  "extracted_at": "2026-11-14T12:01:28+00:00",
+  "source_url": "https://tabs.ultimate-guitar.com/tab/matt-redman/where-would-we-be-chords-1197310",
+  "note": "Chords placed from the Ultimate Guitar text of the printed chart; checked against the PDF on 2026-11-14. texto de UG, mismo que el PDF",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "model": "anthropic/claude-opus-5.5",
+    "at": "2026-11-14T12:27:55+00:00",
+    "fingerprint": "bbcb10e9221e8b35"
+  },
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T20:00:35+00:00",
+    "fingerprint": "bbcb10e9221e8b35"
+  },
+  "status": "verified"
+}

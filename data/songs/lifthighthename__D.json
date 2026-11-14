@@ -15,15 +15,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lift "
+            },
+            {
               "chord": "D",
-              "text": "Lift high the name of Jesus, of Jesus our King"
+              "text": "high the name of Jesus, of Jesus our King"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "Make known the power of His grace"
             }
           ]
@@ -31,7 +35,7 @@
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "The beauty of His peace"
             }
           ]
@@ -39,40 +43,68 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Re-"
+            },
+            {
               "chord": "A7",
-              "text": "Re-member how His mercy reached"
+              "text": "member how His "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "mercy reached"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "And "
+            },
             {
               "chord": "G",
-              "text": "And we cried out to Him"
+              "text": "we cried "
+            },
+            {
+              "chord": "Em",
+              "text": "out to "
+            },
+            {
+              "chord": "Asus4",
+              "text": "Him"
+            },
+            {
+              "chord": "A",
+              "text": ""
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
-              "text": "He lifted us to solid ground"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A7",
-              "text": "To freedom from our sin"
+              "chord": "",
+              "text": "He "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "lifted us to solid ground"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To "
+            },
+            {
+              "chord": "A7",
+              "text": "freedom from our "
+            },
+            {
+              "chord": "D",
+              "text": "sin"
             }
           ]
         }
@@ -84,36 +116,120 @@
         {
           "parts": [
             {
-              "chord": "D",
-              "text": "Oh sing my soul, and tell all He's done"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "Till the earth and heavens"
+              "chord": "",
+              "text": "Oh "
             },
             {
-              "chord": "G",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "chord": "D",
+              "text": "sing my soul, and tell all He's "
+            },
             {
-              "chord": "Em",
-              "text": "Are filled with His glo-ry"
+              "chord": "Asus4",
+              "text": "done"
             },
             {
               "chord": "A",
               "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Till the "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "earth and "
+            },
+            {
+              "chord": "G",
+              "text": "heavens"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Are "
+            },
+            {
+              "chord": "Em",
+              "text": "filled with His "
+            },
+            {
+              "chord": "A",
+              "text": "glo-"
+            },
+            {
+              "chord": "D",
+              "text": "ry"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Playing guide"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Order: Verse 1 → Chorus → Verse 2 → Chorus → Verse 3 → Chorus twice."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Shapes from low E to high e; frets relative to capo."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "x = do not play; 0 = open against the capo."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D  xx0232    G  320003    Em 022000"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A7 x02020    A  x02220    Asus4 x02230"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Simplified voicings: D5 → D; D/F# → D; Em7 → Em."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For an easier version, use A instead of Asus4 throughout."
             }
           ]
         }
@@ -125,15 +241,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lift "
+            },
+            {
               "chord": "D",
-              "text": "Lift high the name of Jesus, of Jesus our Lord"
+              "text": "high the name of Jesus, of Jesus our Lord"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "His power in us is greater than"
             }
           ]
@@ -141,7 +261,7 @@
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "Is greater than this world"
             }
           ]
@@ -149,81 +269,76 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "To "
+            },
+            {
               "chord": "A7",
-              "text": "To share the reason for our hope"
+              "text": "share the reason "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "for our hope"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "To serve with love and grace"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "That all who see Him shine through us"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A7",
-              "text": "Might bring the Father praise"
-            },
-            {
-              "chord": "D",
-              "text": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "Oh sing my soul, and tell all He's done"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "Till the earth and heavens"
+              "chord": "",
+              "text": "To "
             },
             {
               "chord": "G",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "serve with "
+            },
             {
               "chord": "Em",
-              "text": "Are filled with His glo-ry"
+              "text": "love and "
+            },
+            {
+              "chord": "Asus4",
+              "text": "grace"
             },
             {
               "chord": "A",
               "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "all who see Him shine through us"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Might "
+            },
+            {
+              "chord": "A7",
+              "text": "bring the Father "
+            },
+            {
+              "chord": "D",
+              "text": "praise"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Repeat chorus"
             }
           ]
         }
@@ -235,15 +350,19 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Lift "
+            },
+            {
               "chord": "D",
-              "text": "Lift high the name of Jesus"
+              "text": "high the name of Jesus"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "Of Jesus our Light"
             }
           ]
@@ -251,7 +370,7 @@
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "No other name on earth can save"
             }
           ]
@@ -259,7 +378,7 @@
         {
           "parts": [
             {
-              "chord": "D",
+              "chord": "",
               "text": "Can raise a soul to life"
             }
           ]
@@ -267,122 +386,72 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "He "
+            },
+            {
               "chord": "A7",
-              "text": "He opens up our eyes to see"
+              "text": "opens up our "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "eyes to see"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "The harvest He has grown"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "We labor in His fields of grace"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "A7",
-              "text": "As He leads sinners home"
-            },
-            {
-              "chord": "D",
-              "text": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "Oh sing my soul, and tell all He's done"
-            }
-          ]
-        },
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "Till the earth and heavens"
+              "chord": "",
+              "text": "The "
             },
             {
               "chord": "G",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "parts": [
+              "text": "harvest "
+            },
             {
               "chord": "Em",
-              "text": "Are filled with His glo-ry"
+              "text": "He has "
+            },
+            {
+              "chord": "Asus4",
+              "text": "grown"
             },
             {
               "chord": "A",
               "text": ""
-            },
-            {
-              "chord": "D",
-              "text": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        {
-          "parts": [
-            {
-              "chord": "D",
-              "text": "Oh sing my soul, and tell all He's done"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "D",
-              "text": "Till the earth and heavens"
+              "chord": "",
+              "text": "We "
             },
             {
-              "chord": "G",
-              "text": ""
+              "chord": "D",
+              "text": "labor in His fields of grace"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "Em",
-              "text": "Are filled with His glo-ry"
+              "chord": "",
+              "text": "As "
             },
             {
-              "chord": "A",
-              "text": ""
-            },
+              "chord": "A7",
+              "text": "He leads sinners home"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
-              "chord": "D",
-              "text": ""
+              "chord": "",
+              "text": "Repeat chorus twice"
             }
           ]
         }
@@ -392,7 +461,227 @@
   "slug": "lifthighthename",
   "source_file": "LiftHighTheName-KeithGetty-D-Pag1.pdf",
   "source_hash": "a56ac3183d27b0f3",
-  "method": "text",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-09-26T18:22:35+00:00"
+  "method": "layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "9a65ada519c442c2"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "reading": {
+      "L1": [
+        [
+          "D",
+          "high"
+        ]
+      ],
+      "L2": [],
+      "L3": [],
+      "L4": [
+        [
+          "A7",
+          "Re-member"
+        ],
+        [
+          "D",
+          "mercy"
+        ]
+      ],
+      "L5": [
+        [
+          "G",
+          "we"
+        ],
+        [
+          "Em",
+          "out"
+        ],
+        [
+          "Asus4",
+          "Him"
+        ],
+        [
+          "A",
+          "(end)"
+        ]
+      ],
+      "L6": [
+        [
+          "D",
+          "lifted"
+        ]
+      ],
+      "L7": [
+        [
+          "A7",
+          "freedom"
+        ],
+        [
+          "D",
+          "sin"
+        ]
+      ],
+      "L8": [
+        [
+          "D",
+          "sing"
+        ],
+        [
+          "Asus4",
+          "done"
+        ],
+        [
+          "A",
+          "(end)"
+        ]
+      ],
+      "L9": [
+        [
+          "D",
+          "earth"
+        ],
+        [
+          "G",
+          "heavens"
+        ]
+      ],
+      "L10": [
+        [
+          "Em",
+          "filled"
+        ],
+        [
+          "A",
+          "glo-ry"
+        ],
+        [
+          "D",
+          "glo-ry"
+        ]
+      ],
+      "L11": [],
+      "L12": [],
+      "L13": [],
+      "L14": [],
+      "L15": [],
+      "L16": [],
+      "L17": [],
+      "L18": [],
+      "L19": [
+        [
+          "D",
+          "high"
+        ]
+      ],
+      "L20": [],
+      "L21": [],
+      "L22": [
+        [
+          "A7",
+          "share"
+        ],
+        [
+          "D",
+          "for"
+        ]
+      ],
+      "L23": [
+        [
+          "G",
+          "serve"
+        ],
+        [
+          "Em",
+          "love"
+        ],
+        [
+          "Asus4",
+          "grace"
+        ],
+        [
+          "A",
+          "(end)"
+        ]
+      ],
+      "L24": [
+        [
+          "D",
+          "all"
+        ]
+      ],
+      "L25": [
+        [
+          "A7",
+          "bring"
+        ],
+        [
+          "D",
+          "praise"
+        ]
+      ],
+      "L26": [],
+      "L27": [
+        [
+          "D",
+          "high"
+        ]
+      ],
+      "L28": [],
+      "L29": [],
+      "L30": [],
+      "L31": [
+        [
+          "A7",
+          "opens"
+        ],
+        [
+          "D",
+          "eyes"
+        ]
+      ],
+      "L32": [
+        [
+          "G",
+          "harvest"
+        ],
+        [
+          "Em",
+          "He"
+        ],
+        [
+          "Asus4",
+          "grown"
+        ],
+        [
+          "A",
+          "(end)"
+        ]
+      ],
+      "L33": [
+        [
+          "D",
+          "labor"
+        ]
+      ],
+      "L34": [
+        [
+          "A7",
+          "He"
+        ]
+      ],
+      "L35": []
+    },
+    "model": "anthropic/claude-sonnet-5.5",
+    "cost": 0.0382,
+    "at": "2026-11-14T12:43:55+00:00",
+    "fingerprint": "9a65ada519c442c2",
+    "source_hash": "a56ac3183d27b0f3"
+  }
 }

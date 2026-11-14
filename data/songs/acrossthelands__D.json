@@ -40,96 +40,128 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
               "chord": "D",
-              "text": "You're the Word of God the Father"
+              "text": "Word of God the "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "Father"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "From be"
+            },
+            {
               "chord": "D",
-              "text": "From before the world began."
+              "text": "fore the world be"
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "gan."
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Ev'ry "
+            },
+            {
               "chord": "G",
-              "text": "Ev'ry star and ev'ry planet"
+              "text": "star and ev'ry "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "planet"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "Has been "
+            },
             {
               "chord": "Em",
-              "text": "Has been fashioned by Your hand."
+              "text": "fashioned by Your "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "hand."
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "All cre"
+            },
+            {
               "chord": "D",
-              "text": "All creation holds together"
+              "text": "ation holds to"
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "gether"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "By the "
+            },
+            {
               "chord": "D",
-              "text": "By the power of Your voice."
+              "text": "power of Your "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "voice."
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Let the "
+            },
+            {
               "chord": "G",
-              "text": "Let the skies declare Your glory;"
+              "text": "skies declare Your "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "glory;"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "Let the "
+            },
             {
               "chord": "Em",
-              "text": "Let the land and seas rejoice!"
+              "text": "land and seas "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "rejoice!"
             }
           ]
         }
@@ -141,36 +173,48 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
               "chord": "G",
-              "text": "You're the Author of creation;"
+              "text": "Author of cre"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "ation;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
               "chord": "G",
-              "text": "You're the Lord of ev'ry man;"
+              "text": "Lord of ev'ry "
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "man;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And Your "
+            },
+            {
               "chord": "G",
-              "text": "And Your cry of love rings out"
+              "text": "cry of love rings "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "out"
             }
           ]
         },
@@ -178,11 +222,11 @@
           "parts": [
             {
               "chord": "A",
-              "text": "across the lands."
+              "text": "across the "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "lands."
             }
           ]
         }
@@ -194,96 +238,128 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Yet You "
+            },
+            {
               "chord": "D",
-              "text": "Yet You left the gaze of angels,"
+              "text": "left the gaze of "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "angels,"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Came to "
+            },
+            {
               "chord": "D",
-              "text": "Came to seek and save the lost,"
+              "text": "seek and save the "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "lost,"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And ex"
+            },
+            {
               "chord": "G",
-              "text": "And exchanged the joy of heaven"
+              "text": "changed the joy of "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "heaven"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "For the "
+            },
             {
               "chord": "Em",
-              "text": "For the anguish of a cross."
+              "text": "anguish of a "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "cross."
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "With a "
+            },
+            {
               "chord": "D",
-              "text": "With a prayer You fed the hungry;"
+              "text": "prayer You fed the "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "hungry;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "With a "
+            },
+            {
               "chord": "D",
-              "text": "With a word You calmed the sea;"
+              "text": "word You calmed the "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "sea;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Yet how "
+            },
+            {
               "chord": "G",
-              "text": "Yet how silently You suffered"
+              "text": "silently You "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "suffered"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "That the "
+            },
             {
               "chord": "Em",
-              "text": "That the guilty may go free!"
+              "text": "guilty may go "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "free!"
             }
           ]
         }
@@ -295,36 +371,48 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
               "chord": "G",
-              "text": "You're the Author of creation;"
+              "text": "Author of cre"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "ation;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
               "chord": "G",
-              "text": "You're the Lord of ev'ry man;"
+              "text": "Lord of ev'ry "
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "man;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And Your "
+            },
+            {
               "chord": "G",
-              "text": "And Your cry of love rings out"
+              "text": "cry of love rings "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "out"
             }
           ]
         },
@@ -332,11 +420,11 @@
           "parts": [
             {
               "chord": "A",
-              "text": "across the lands."
+              "text": "across the "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "lands."
             }
           ]
         }
@@ -348,81 +436,113 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "With a "
+            },
+            {
               "chord": "D",
-              "text": "With a shout You rose victorious,"
+              "text": "shout You rose vic"
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "torious,"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Wresting "
+            },
+            {
               "chord": "D",
-              "text": "Wresting vict'ry from the grave,"
+              "text": "vict'ry from the "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "grave,"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And "
+            },
+            {
               "chord": "G",
-              "text": "And ascended into heaven,"
+              "text": "ascended into "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "heaven,"
             }
           ]
         },
         {
           "parts": [
+            {
+              "chord": "",
+              "text": "Leading "
+            },
             {
               "chord": "Em",
-              "text": "Leading captives in Your way."
+              "text": "captives in Your "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "way."
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Now You "
+            },
+            {
               "chord": "D",
-              "text": "Now You stand before the Father,"
+              "text": "stand before the "
             },
             {
               "chord": "G",
-              "text": ""
+              "text": "Father,"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "Inter"
+            },
+            {
               "chord": "D",
-              "text": "Interceding for Your own;"
+              "text": "ceding for Your "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "own;"
             }
           ]
         },
         {
           "parts": [
             {
-              "chord": "G",
-              "text": "From each tribe and tongue and"
+              "chord": "",
+              "text": "From each "
             },
+            {
+              "chord": "G",
+              "text": "tribe and tongue and"
+            }
+          ]
+        },
+        {
+          "parts": [
             {
               "chord": "D",
               "text": "nation,"
@@ -432,12 +552,16 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You are "
+            },
+            {
               "chord": "Em",
-              "text": "You are leading sinners home!"
+              "text": "leading sinners "
             },
             {
               "chord": "A",
-              "text": ""
+              "text": "home!"
             }
           ]
         }
@@ -449,36 +573,48 @@
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
               "chord": "G",
-              "text": "You're the Author of creation;"
+              "text": "Author of cre"
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "ation;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
               "chord": "G",
-              "text": "You're the Lord of ev'ry man;"
+              "text": "Lord of ev'ry "
             },
             {
               "chord": "Bm",
-              "text": ""
+              "text": "man;"
             }
           ]
         },
         {
           "parts": [
             {
+              "chord": "",
+              "text": "And Your "
+            },
+            {
               "chord": "G",
-              "text": "And Your cry of love rings out"
+              "text": "cry of love rings "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "out"
             }
           ]
         },
@@ -486,11 +622,71 @@
           "parts": [
             {
               "chord": "A",
-              "text": "across the lands."
+              "text": "across the "
             },
             {
               "chord": "D",
-              "text": ""
+              "text": "lands."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
+              "chord": "G",
+              "text": "Author of cre"
+            },
+            {
+              "chord": "D",
+              "text": "ation;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You're the "
+            },
+            {
+              "chord": "G",
+              "text": "Lord of ev'ry "
+            },
+            {
+              "chord": "Bm",
+              "text": "man;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And Your "
+            },
+            {
+              "chord": "G",
+              "text": "cry of love rings "
+            },
+            {
+              "chord": "D",
+              "text": "out"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "across the "
+            },
+            {
+              "chord": "D",
+              "text": "lands."
             }
           ]
         }
@@ -500,7 +696,446 @@
   "slug": "acrossthelands",
   "source_file": "AcrossTheLands-KeithGetty-D-Pag1.pdf",
   "source_hash": "3574967c8b776e15",
-  "method": "vision",
-  "model": "qwen/qwen3-vl-235b-a22b-instruct",
-  "extracted_at": "2026-10-10T19:12:19+00:00"
+  "method": "ocr-layout",
+  "model": "",
+  "extracted_at": "2026-11-14T12:32:47+00:00",
+  "status": "verified",
+  "quality": {
+    "data": [],
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-14T17:47:26+00:00",
+    "fingerprint": "ba752ae95ce9584a"
+  },
+  "review": {
+    "ok": true,
+    "issues": [],
+    "reading": {
+      "L1": [
+        [
+          "D",
+          ""
+        ],
+        [
+          "A",
+          ""
+        ],
+        [
+          "Em",
+          ""
+        ],
+        [
+          "G",
+          ""
+        ]
+      ],
+      "L2": [
+        [
+          "D",
+          "Word"
+        ],
+        [
+          "G",
+          "Father"
+        ]
+      ],
+      "L3": [
+        [
+          "D",
+          "before"
+        ],
+        [
+          "A",
+          "began."
+        ]
+      ],
+      "L4": [
+        [
+          "G",
+          "star"
+        ],
+        [
+          "D",
+          "planet"
+        ]
+      ],
+      "L5": [
+        [
+          "Em",
+          "fashioned"
+        ],
+        [
+          "G",
+          "hand."
+        ]
+      ],
+      "L6": [
+        [
+          "D",
+          "creation"
+        ],
+        [
+          "G",
+          "together"
+        ]
+      ],
+      "L7": [
+        [
+          "D",
+          "power"
+        ],
+        [
+          "A",
+          "voice."
+        ]
+      ],
+      "L8": [
+        [
+          "G",
+          "skies"
+        ],
+        [
+          "D",
+          "glory;"
+        ]
+      ],
+      "L9": [
+        [
+          "Em",
+          "land"
+        ],
+        [
+          "A",
+          "rejoice!"
+        ]
+      ],
+      "L10": [
+        [
+          "G",
+          "Author"
+        ],
+        [
+          "D",
+          "creation;"
+        ]
+      ],
+      "L11": [
+        [
+          "G",
+          "Lord"
+        ],
+        [
+          "Bm",
+          "man;"
+        ]
+      ],
+      "L12": [
+        [
+          "G",
+          "cry"
+        ],
+        [
+          "D",
+          "out"
+        ]
+      ],
+      "L13": [
+        [
+          "A",
+          "across"
+        ],
+        [
+          "D",
+          "lands."
+        ]
+      ],
+      "L14": [
+        [
+          "D",
+          "left"
+        ],
+        [
+          "G",
+          "angels,"
+        ]
+      ],
+      "L15": [
+        [
+          "D",
+          "seek"
+        ],
+        [
+          "A",
+          "lost,"
+        ]
+      ],
+      "L16": [
+        [
+          "G",
+          "exchanged"
+        ],
+        [
+          "D",
+          "heaven"
+        ]
+      ],
+      "L17": [
+        [
+          "Em",
+          "anguish"
+        ],
+        [
+          "G",
+          "cross."
+        ]
+      ],
+      "L18": [
+        [
+          "D",
+          "prayer"
+        ],
+        [
+          "G",
+          "hungry;"
+        ]
+      ],
+      "L19": [
+        [
+          "D",
+          "word"
+        ],
+        [
+          "A",
+          "sea;"
+        ]
+      ],
+      "L20": [
+        [
+          "G",
+          "silently"
+        ],
+        [
+          "D",
+          "suffered"
+        ]
+      ],
+      "L21": [
+        [
+          "Em",
+          "guilty"
+        ],
+        [
+          "A",
+          "free!"
+        ]
+      ],
+      "L22": [
+        [
+          "G",
+          "Author"
+        ],
+        [
+          "D",
+          "creation;"
+        ]
+      ],
+      "L23": [
+        [
+          "G",
+          "Lord"
+        ],
+        [
+          "Bm",
+          "man;"
+        ]
+      ],
+      "L24": [
+        [
+          "G",
+          "cry"
+        ],
+        [
+          "D",
+          "out"
+        ]
+      ],
+      "L25": [
+        [
+          "A",
+          "across"
+        ],
+        [
+          "D",
+          "lands."
+        ]
+      ],
+      "L26": [
+        [
+          "D",
+          "shout"
+        ],
+        [
+          "G",
+          "victorious,"
+        ]
+      ],
+      "L27": [
+        [
+          "D",
+          "vict'ry"
+        ],
+        [
+          "A",
+          "grave,"
+        ]
+      ],
+      "L28": [
+        [
+          "G",
+          "ascended"
+        ],
+        [
+          "D",
+          "heaven,"
+        ]
+      ],
+      "L29": [
+        [
+          "Em",
+          "captives"
+        ],
+        [
+          "G",
+          "way."
+        ]
+      ],
+      "L30": [
+        [
+          "D",
+          "stand"
+        ],
+        [
+          "G",
+          "Father,"
+        ]
+      ],
+      "L31": [
+        [
+          "D",
+          "Interceding"
+        ],
+        [
+          "A",
+          "own;"
+        ]
+      ],
+      "L32": [
+        [
+          "G",
+          "tribe"
+        ]
+      ],
+      "L33": [
+        [
+          "D",
+          "nation,"
+        ]
+      ],
+      "L34": [
+        [
+          "Em",
+          "leading"
+        ],
+        [
+          "A",
+          "home!"
+        ]
+      ],
+      "L35": [
+        [
+          "G",
+          "Author"
+        ],
+        [
+          "D",
+          "creation;"
+        ]
+      ],
+      "L36": [
+        [
+          "G",
+          "Lord"
+        ],
+        [
+          "Bm",
+          "man;"
+        ]
+      ],
+      "L37": [
+        [
+          "G",
+          "cry"
+        ],
+        [
+          "D",
+          "out"
+        ]
+      ],
+      "L38": [
+        [
+          "A",
+          "across"
+        ],
+        [
+          "D",
+          "lands."
+        ]
+      ],
+      "L39": [
+        [
+          "G",
+          "Author"
+        ],
+        [
+          "D",
+          "creation;"
+        ]
+      ],
+      "L40": [
+        [
+          "G",
+          "Lord"
+        ],
+        [
+          "Bm",
+          "man;"
+        ]
+      ],
+      "L41": [
+        [
+          "G",
+          "cry"
+        ],
+        [
+          "D",
+          "out"
+        ]
+      ],
+      "L42": [
+        [
+          "A",
+          "across"
+        ],
+        [
+          "D",
+          "lands."
+        ]
+      ]
+    },
+    "model": "anthropic/claude-sonnet-5.5",
+    "cost": 0.0466,
+    "at": "2026-11-14T12:39:34+00:00",
+    "fingerprint": "ba752ae95ce9584a",
+    "source_hash": "3574967c8b776e15"
+  }
 }
