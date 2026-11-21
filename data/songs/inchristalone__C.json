@@ -1,0 +1,1948 @@
+{
+  "title": "In Christ Alone",
+  "author": "Keith Getty",
+  "key": "C",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Gm",
+              "text": ""
+            },
+            {
+              "chord": "Dm",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "F/C",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gm",
+              "text": "c "
+            },
+            {
+              "chord": "Dm",
+              "text": "F/c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "In Christ a"
+            },
+            {
+              "chord": "C",
+              "text": "lone my "
+            },
+            {
+              "chord": "F",
+              "text": "hope is "
+            },
+            {
+              "chord": "G",
+              "text": "found"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Ain F Dim G Cc"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He is my light, my strength, my song"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "This cornerstone, this "
+            },
+            {
+              "chord": "F",
+              "text": "solid "
+            },
+            {
+              "chord": "G",
+              "text": "ground"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Am F Dim G"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Firm through the fiercest drought and"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "storm"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "What heights of "
+            },
+            {
+              "chord": "F",
+              "text": "love, what "
+            },
+            {
+              "chord": "C/E",
+              "text": "depths of"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "peace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "When "
+            },
+            {
+              "chord": "Am",
+              "text": "fears are "
+            },
+            {
+              "chord": "F",
+              "text": "stilled, when "
+            },
+            {
+              "chord": "C/E",
+              "text": "strivings"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "cease"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "i F G"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My comforter, my all in all"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Here, in the "
+            },
+            {
+              "chord": "F",
+              "text": "love of "
+            },
+            {
+              "chord": "Dm",
+              "text": "Christ, "
+            },
+            {
+              "chord": "G",
+              "text": "I "
+            },
+            {
+              "chord": "C",
+              "text": "stand"
+            },
+            {
+              "chord": "F/C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "In Christ a"
+            },
+            {
+              "chord": "C",
+              "text": "lone, who "
+            },
+            {
+              "chord": "F",
+              "text": "took on "
+            },
+            {
+              "chord": "G",
+              "text": "flesh"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Fullness of "
+            },
+            {
+              "chord": "F",
+              "text": "God in "
+            },
+            {
+              "chord": "Dm",
+              "text": "help"
+            },
+            {
+              "chord": "G",
+              "text": "less "
+            },
+            {
+              "chord": "C",
+              "text": "babe"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "This gift of love and "
+            },
+            {
+              "chord": "F",
+              "text": "righteous"
+            },
+            {
+              "chord": "G",
+              "text": "ness"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Scorned by the "
+            },
+            {
+              "chord": "F",
+              "text": "ones He "
+            },
+            {
+              "chord": "Dm",
+              "text": "came "
+            },
+            {
+              "chord": "G",
+              "text": "to "
+            },
+            {
+              "chord": "C",
+              "text": "save"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "\"Til on that "
+            },
+            {
+              "chord": "F",
+              "text": "cross, as "
+            },
+            {
+              "chord": "C/E",
+              "text": "Jesus "
+            },
+            {
+              "chord": "G",
+              "text": "died"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
+            {
+              "chord": "Am",
+              "text": "wrath of "
+            },
+            {
+              "chord": "F",
+              "text": "God was "
+            },
+            {
+              "chord": "C/E",
+              "text": "satis"
+            },
+            {
+              "chord": "G",
+              "text": "fied"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For every "
+            },
+            {
+              "chord": "C",
+              "text": "sin, on "
+            },
+            {
+              "chord": "F",
+              "text": "Him, was "
+            },
+            {
+              "chord": "G",
+              "text": "laid"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Here, in the "
+            },
+            {
+              "chord": "F",
+              "text": "death of "
+            },
+            {
+              "chord": "Dm",
+              "text": "Christ, "
+            },
+            {
+              "chord": "G",
+              "text": "I "
+            },
+            {
+              "chord": "C",
+              "text": "live"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Gm",
+              "text": ""
+            },
+            {
+              "chord": "Dm",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "F/C",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Gm",
+              "text": ""
+            },
+            {
+              "chord": "Dm",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "F/C",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "There in the "
+            },
+            {
+              "chord": "C",
+              "text": "ground, His "
+            },
+            {
+              "chord": "F",
+              "text": "body "
+            },
+            {
+              "chord": "G",
+              "text": "lay"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Am",
+              "text": "Light of the "
+            },
+            {
+              "chord": "F",
+              "text": "world, by "
+            },
+            {
+              "chord": "Dm",
+              "text": "dark"
+            },
+            {
+              "chord": "G",
+              "text": "ness, "
+            },
+            {
+              "chord": "C",
+              "text": "slain"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Then "
+            },
+            {
+              "chord": "G#",
+              "text": "bursting "
+            },
+            {
+              "chord": "C#",
+              "text": "forth in "
+            },
+            {
+              "chord": "F#",
+              "text": "glorious "
+            },
+            {
+              "chord": "G#",
+              "text": "day"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A#m",
+              "text": "Up from the "
+            },
+            {
+              "chord": "F#",
+              "text": "grave, He "
+            },
+            {
+              "chord": "D#m",
+              "text": "rose "
+            },
+            {
+              "chord": "G#",
+              "text": "a"
+            },
+            {
+              "chord": "C#",
+              "text": "gain"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And as He "
+            },
+            {
+              "chord": "F#",
+              "text": "stands in "
+            },
+            {
+              "chord": "A#m",
+              "text": "victo"
+            },
+            {
+              "chord": "G#",
+              "text": "ry"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Sin's "
+            },
+            {
+              "chord": "Bbm/F",
+              "text": "curse has "
+            },
+            {
+              "chord": "F#",
+              "text": "lost its "
+            },
+            {
+              "chord": "C#/F",
+              "text": "grip on "
+            },
+            {
+              "chord": "G#",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For I am "
+            },
+            {
+              "chord": "C#",
+              "text": "His and "
+            },
+            {
+              "chord": "F#",
+              "text": "He is "
+            },
+            {
+              "chord": "G#",
+              "text": "mine"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A#m",
+              "text": "Bought with the "
+            },
+            {
+              "chord": "F#",
+              "text": "pre"
+            },
+            {
+              "chord": "C#/F",
+              "text": "cious "
+            },
+            {
+              "chord": "D#m",
+              "text": "blood "
+            },
+            {
+              "chord": "G#",
+              "text": "of"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C#",
+              "text": "Christ"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Ah-ah-ah-"
+            },
+            {
+              "chord": "G#m",
+              "text": "ah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Interlude",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D#m",
+              "text": "Ah-a"
+            },
+            {
+              "chord": "C#",
+              "text": "h"
+            },
+            {
+              "chord": "F#/C#",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C#",
+              "text": "Ah-ah-"
+            },
+            {
+              "chord": "G#m",
+              "text": "ah"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D#m7",
+              "text": "Ah__a"
+            },
+            {
+              "chord": "A",
+              "text": "h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "No guilt in "
+            },
+            {
+              "chord": "D",
+              "text": "life, no "
+            },
+            {
+              "chord": "G",
+              "text": "fear in "
+            },
+            {
+              "chord": "A",
+              "text": "death"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "This is the "
+            },
+            {
+              "chord": "G",
+              "text": "power of "
+            },
+            {
+              "chord": "Em",
+              "text": "Christ "
+            },
+            {
+              "chord": "A",
+              "text": "in "
+            },
+            {
+              "chord": "D",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "From life's first cry to "
+            },
+            {
+              "chord": "G",
+              "text": "final "
+            },
+            {
+              "chord": "A",
+              "text": "breath"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Jesus com"
+            },
+            {
+              "chord": "G",
+              "text": "mands my "
+            },
+            {
+              "chord": "Em",
+              "text": "des"
+            },
+            {
+              "chord": "A",
+              "text": "ti"
+            },
+            {
+              "chord": "D",
+              "text": "ny"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "No power of "
+            },
+            {
+              "chord": "G",
+              "text": "hell, no "
+            },
+            {
+              "chord": "Bm",
+              "text": "scheme of "
+            },
+            {
+              "chord": "A",
+              "text": "man"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Could "
+            },
+            {
+              "chord": "F#m",
+              "text": "ever "
+            },
+            {
+              "chord": "G",
+              "text": "pluck me "
+            },
+            {
+              "chord": "Bm",
+              "text": "from His "
+            },
+            {
+              "chord": "A",
+              "text": "hand"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "‘Til He re"
+            },
+            {
+              "chord": "D",
+              "text": "turns or "
+            },
+            {
+              "chord": "G",
+              "text": "calls me "
+            },
+            {
+              "chord": "A",
+              "text": "home"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Bin G D/F# Em A OD"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Here, in the power of Christ, I stand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "No power of "
+            },
+            {
+              "chord": "G",
+              "text": "hell, no "
+            },
+            {
+              "chord": "D/F#",
+              "text": "scheme of "
+            },
+            {
+              "chord": "A",
+              "text": "man"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Could "
+            },
+            {
+              "chord": "Bm",
+              "text": "ever "
+            },
+            {
+              "chord": "G",
+              "text": "pluck me "
+            },
+            {
+              "chord": "D/F#",
+              "text": "from His "
+            },
+            {
+              "chord": "A",
+              "text": "hand"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "‘Til He re"
+            },
+            {
+              "chord": "D",
+              "text": "turns or "
+            },
+            {
+              "chord": "G",
+              "text": "calls me "
+            },
+            {
+              "chord": "A",
+              "text": "home"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "Bm",
+              "text": "Here, in the "
+            },
+            {
+              "chord": "G",
+              "text": "power "
+            },
+            {
+              "chord": "D/F#",
+              "text": "of "
+            },
+            {
+              "chord": "Em",
+              "text": "Christ, "
+            },
+            {
+              "chord": "A",
+              "text": "I "
+            },
+            {
+              "chord": "D",
+              "text": "stand"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "inchristalone",
+  "source_file": "InChristAlone-KeithGetty-C-Pag1.pdf",
+  "source_hash": "c613fec88ea4390b",
+  "method": "ocr-layout",
+  "model": "",
+  "status": "needs-review",
+  "extracted_at": "2026-11-21T20:01:00+00:00",
+  "review": {
+    "ok": false,
+    "issues": [
+      {
+        "line": "L1",
+        "kind": "missing",
+        "found": "",
+        "expected": "Gm@ Dm@"
+      },
+      {
+        "line": "L2",
+        "kind": "wrong_name",
+        "found": "Gm sobre «c»",
+        "expected": "C sobre «»"
+      },
+      {
+        "line": "L2",
+        "kind": "wrong_name",
+        "found": "Dm sobre «F/c»",
+        "expected": "F/C sobre «»"
+      },
+      {
+        "line": "L5",
+        "kind": "missing",
+        "found": "",
+        "expected": "Am@He F@light Dm@strength G@my C@song"
+      },
+      {
+        "line": "L8",
+        "kind": "missing",
+        "found": "",
+        "expected": "Am@Firm F@fiercest Dm@drought G@and"
+      },
+      {
+        "line": "L15",
+        "kind": "missing",
+        "found": "",
+        "expected": "C@comforter F@all G@all"
+      },
+      {
+        "line": "L30",
+        "kind": "wrong_place",
+        "found": "G# sobre «again»",
+        "expected": "G# sobre «rose»"
+      },
+      {
+        "line": "L48",
+        "kind": "missing",
+        "found": "",
+        "expected": "Bm@Here G@power D/F#@of Em@Christ A@I D@stand"
+      }
+    ],
+    "reading": {
+      "L1": [
+        [
+          "Gm",
+          ""
+        ],
+        [
+          "Dm",
+          ""
+        ],
+        [
+          "C",
+          ""
+        ],
+        [
+          "F/C",
+          ""
+        ],
+        [
+          "C",
+          ""
+        ],
+        [
+          "Gm",
+          ""
+        ],
+        [
+          "Dm",
+          ""
+        ]
+      ],
+      "L2": [
+        [
+          "C",
+          ""
+        ],
+        [
+          "F/C",
+          ""
+        ]
+      ],
+      "L3": [
+        [
+          "C",
+          "In"
+        ],
+        [
+          "C",
+          "alone"
+        ],
+        [
+          "F",
+          "hope"
+        ],
+        [
+          "G",
+          "found"
+        ]
+      ],
+      "L4": [],
+      "L5": [
+        [
+          "Am",
+          "He"
+        ],
+        [
+          "F",
+          "light"
+        ],
+        [
+          "Dm",
+          "strength"
+        ],
+        [
+          "G",
+          "my"
+        ],
+        [
+          "C",
+          "song"
+        ]
+      ],
+      "L6": [
+        [
+          "F",
+          "solid"
+        ],
+        [
+          "G",
+          "ground"
+        ]
+      ],
+      "L7": [],
+      "L8": [
+        [
+          "Am",
+          "Firm"
+        ],
+        [
+          "F",
+          "fiercest"
+        ],
+        [
+          "Dm",
+          "drought"
+        ],
+        [
+          "G",
+          "and"
+        ]
+      ],
+      "L9": [
+        [
+          "C",
+          "storm"
+        ]
+      ],
+      "L10": [
+        [
+          "F",
+          "love"
+        ],
+        [
+          "C/E",
+          "depths"
+        ]
+      ],
+      "L11": [
+        [
+          "G",
+          "peace"
+        ]
+      ],
+      "L12": [
+        [
+          "Am",
+          "fears"
+        ],
+        [
+          "F",
+          "stilled"
+        ],
+        [
+          "C/E",
+          "strivings"
+        ]
+      ],
+      "L13": [
+        [
+          "G",
+          "cease"
+        ]
+      ],
+      "L14": [],
+      "L15": [
+        [
+          "C",
+          "comforter"
+        ],
+        [
+          "F",
+          "all"
+        ],
+        [
+          "G",
+          "all"
+        ]
+      ],
+      "L16": [
+        [
+          "Am",
+          "Here"
+        ],
+        [
+          "F",
+          "love"
+        ],
+        [
+          "Dm",
+          "Christ"
+        ],
+        [
+          "G",
+          "I"
+        ],
+        [
+          "C",
+          "stand"
+        ],
+        [
+          "F/C",
+          "(end)"
+        ]
+      ],
+      "L17": [
+        [
+          "C",
+          "In"
+        ],
+        [
+          "C",
+          "alone"
+        ],
+        [
+          "F",
+          "took"
+        ],
+        [
+          "G",
+          "flesh"
+        ]
+      ],
+      "L18": [
+        [
+          "Am",
+          "Fullness"
+        ],
+        [
+          "F",
+          "God"
+        ],
+        [
+          "Dm",
+          "helpless"
+        ],
+        [
+          "G",
+          "helpless"
+        ],
+        [
+          "C",
+          "babe"
+        ]
+      ],
+      "L19": [
+        [
+          "F",
+          "righteousness"
+        ],
+        [
+          "G",
+          "righteousness"
+        ]
+      ],
+      "L20": [
+        [
+          "Am",
+          "Scorned"
+        ],
+        [
+          "F",
+          "ones"
+        ],
+        [
+          "Dm",
+          "came"
+        ],
+        [
+          "G",
+          "to"
+        ],
+        [
+          "C",
+          "save"
+        ]
+      ],
+      "L21": [
+        [
+          "F",
+          "cross"
+        ],
+        [
+          "C/E",
+          "Jesus"
+        ],
+        [
+          "G",
+          "died"
+        ]
+      ],
+      "L22": [
+        [
+          "Am",
+          "wrath"
+        ],
+        [
+          "F",
+          "God"
+        ],
+        [
+          "C/E",
+          "satisfied"
+        ],
+        [
+          "G",
+          "satisfied"
+        ]
+      ],
+      "L23": [
+        [
+          "C",
+          "sin"
+        ],
+        [
+          "F",
+          "Him"
+        ],
+        [
+          "G",
+          "laid"
+        ]
+      ],
+      "L24": [
+        [
+          "Am",
+          "Here"
+        ],
+        [
+          "F",
+          "death"
+        ],
+        [
+          "Dm",
+          "Christ"
+        ],
+        [
+          "G",
+          "I"
+        ],
+        [
+          "C",
+          "live"
+        ]
+      ],
+      "L25": [
+        [
+          "Gm",
+          ""
+        ],
+        [
+          "Dm",
+          ""
+        ],
+        [
+          "C",
+          ""
+        ],
+        [
+          "F/C",
+          ""
+        ],
+        [
+          "C",
+          ""
+        ]
+      ],
+      "L26": [
+        [
+          "Gm",
+          ""
+        ],
+        [
+          "Dm",
+          ""
+        ],
+        [
+          "C",
+          ""
+        ],
+        [
+          "F/C",
+          ""
+        ]
+      ],
+      "L27": [
+        [
+          "C",
+          "There"
+        ],
+        [
+          "C",
+          "ground"
+        ],
+        [
+          "F",
+          "body"
+        ],
+        [
+          "G",
+          "lay"
+        ]
+      ],
+      "L28": [
+        [
+          "Am",
+          "Light"
+        ],
+        [
+          "F",
+          "world"
+        ],
+        [
+          "Dm",
+          "darkness"
+        ],
+        [
+          "G",
+          "darkness"
+        ],
+        [
+          "C",
+          "slain"
+        ]
+      ],
+      "L29": [
+        [
+          "G#",
+          "bursting"
+        ],
+        [
+          "C#",
+          "forth"
+        ],
+        [
+          "F#",
+          "glorious"
+        ],
+        [
+          "G#",
+          "day"
+        ]
+      ],
+      "L30": [
+        [
+          "A#m",
+          "Up"
+        ],
+        [
+          "F#",
+          "grave"
+        ],
+        [
+          "D#m",
+          "rose"
+        ],
+        [
+          "G#",
+          "rose"
+        ],
+        [
+          "C#",
+          "again"
+        ]
+      ],
+      "L31": [
+        [
+          "F#",
+          "stands"
+        ],
+        [
+          "A#m",
+          "victory"
+        ],
+        [
+          "G#",
+          "victory"
+        ]
+      ],
+      "L32": [
+        [
+          "Bbm/F",
+          "curse"
+        ],
+        [
+          "F#",
+          "lost"
+        ],
+        [
+          "C#/F",
+          "grip"
+        ],
+        [
+          "G#",
+          "me"
+        ]
+      ],
+      "L33": [
+        [
+          "C#",
+          "His"
+        ],
+        [
+          "F#",
+          "He"
+        ],
+        [
+          "G#",
+          "mine"
+        ]
+      ],
+      "L34": [
+        [
+          "A#m",
+          "Bought"
+        ],
+        [
+          "F#",
+          "precious"
+        ],
+        [
+          "C#/F",
+          "precious"
+        ],
+        [
+          "D#m",
+          "blood"
+        ],
+        [
+          "G#",
+          "of"
+        ]
+      ],
+      "L35": [
+        [
+          "C#",
+          "Christ"
+        ]
+      ],
+      "L36": [
+        [
+          "G#m",
+          "Ah-ah-ah-ah"
+        ]
+      ],
+      "L37": [
+        [
+          "D#m",
+          "Ah-ah"
+        ],
+        [
+          "C#",
+          "Ah-ah"
+        ],
+        [
+          "F#/C#",
+          "(end)"
+        ]
+      ],
+      "L38": [
+        [
+          "C#",
+          "Ah-ah-ah"
+        ],
+        [
+          "G#m",
+          "Ah-ah-ah"
+        ]
+      ],
+      "L39": [
+        [
+          "D#m7",
+          "Ah__ah"
+        ],
+        [
+          "A",
+          "Ah__ah"
+        ]
+      ],
+      "L40": [
+        [
+          "D",
+          "life"
+        ],
+        [
+          "G",
+          "fear"
+        ],
+        [
+          "A",
+          "death"
+        ]
+      ],
+      "L41": [
+        [
+          "Bm",
+          "This"
+        ],
+        [
+          "G",
+          "power"
+        ],
+        [
+          "Em",
+          "Christ"
+        ],
+        [
+          "A",
+          "in"
+        ],
+        [
+          "D",
+          "me"
+        ]
+      ],
+      "L42": [
+        [
+          "G",
+          "final"
+        ],
+        [
+          "A",
+          "breath"
+        ]
+      ],
+      "L43": [
+        [
+          "Bm",
+          "Jesus"
+        ],
+        [
+          "G",
+          "commands"
+        ],
+        [
+          "Em",
+          "destiny"
+        ],
+        [
+          "A",
+          "destiny"
+        ],
+        [
+          "D",
+          "destiny"
+        ]
+      ],
+      "L44": [
+        [
+          "G",
+          "hell"
+        ],
+        [
+          "Bm",
+          "scheme"
+        ],
+        [
+          "A",
+          "man"
+        ]
+      ],
+      "L45": [
+        [
+          "F#m",
+          "ever"
+        ],
+        [
+          "G",
+          "pluck"
+        ],
+        [
+          "Bm",
+          "from"
+        ],
+        [
+          "A",
+          "hand"
+        ]
+      ],
+      "L46": [
+        [
+          "D",
+          "returns"
+        ],
+        [
+          "G",
+          "calls"
+        ],
+        [
+          "A",
+          "home"
+        ]
+      ],
+      "L47": [],
+      "L48": [
+        [
+          "Bm",
+          "Here"
+        ],
+        [
+          "G",
+          "power"
+        ],
+        [
+          "D/F#",
+          "of"
+        ],
+        [
+          "Em",
+          "Christ"
+        ],
+        [
+          "A",
+          "I"
+        ],
+        [
+          "D",
+          "stand"
+        ]
+      ],
+      "L49": [
+        [
+          "G",
+          "hell"
+        ],
+        [
+          "D/F#",
+          "scheme"
+        ],
+        [
+          "A",
+          "man"
+        ]
+      ],
+      "L50": [
+        [
+          "Bm",
+          "ever"
+        ],
+        [
+          "G",
+          "pluck"
+        ],
+        [
+          "D/F#",
+          "from"
+        ],
+        [
+          "A",
+          "hand"
+        ]
+      ],
+      "L51": [
+        [
+          "D",
+          "returns"
+        ],
+        [
+          "G",
+          "calls"
+        ],
+        [
+          "A",
+          "home"
+        ]
+      ],
+      "L52": [
+        [
+          "Bm",
+          "Here"
+        ],
+        [
+          "G",
+          "power"
+        ],
+        [
+          "D/F#",
+          "of"
+        ],
+        [
+          "Em",
+          "Christ"
+        ],
+        [
+          "A",
+          "I"
+        ],
+        [
+          "D",
+          "stand"
+        ]
+      ]
+    },
+    "line_text": {
+      "L1": "(chords only)",
+      "L2": "c F/c",
+      "L3": "In Christ alone my hope is found",
+      "L4": "Ain F Dim G Cc",
+      "L5": "He is my light, my strength, my song",
+      "L6": "This cornerstone, this solid ground",
+      "L7": "Am F Dim G",
+      "L8": "Firm through the fiercest drought and",
+      "L9": "storm",
+      "L10": "What heights of love, what depths of",
+      "L11": "peace",
+      "L12": "When fears are stilled, when strivings",
+      "L13": "cease",
+      "L14": "i F G",
+      "L15": "My comforter, my all in all",
+      "L16": "Here, in the love of Christ, I stand",
+      "L17": "In Christ alone, who took on flesh",
+      "L18": "Fullness of God in helpless babe",
+      "L19": "This gift of love and righteousness",
+      "L20": "Scorned by the ones He came to save",
+      "L21": "\"Til on that cross, as Jesus died",
+      "L22": "The wrath of God was satisfied",
+      "L23": "For every sin, on Him, was laid",
+      "L24": "Here, in the death of Christ, I live",
+      "L25": "(chords only)",
+      "L26": "(chords only)",
+      "L27": "There in the ground, His body lay",
+      "L28": "Light of the world, by darkness, slain",
+      "L29": "Then bursting forth in glorious day",
+      "L30": "Up from the grave, He rose again",
+      "L31": "And as He stands in victory",
+      "L32": "Sin's curse has lost its grip on me",
+      "L33": "For I am His and He is mine",
+      "L34": "Bought with the precious blood of",
+      "L35": "Christ",
+      "L36": "Ah-ah-ah-ah",
+      "L37": "Ah-ah",
+      "L38": "Ah-ah-ah",
+      "L39": "Ah__ah",
+      "L40": "No guilt in life, no fear in death",
+      "L41": "This is the power of Christ in me",
+      "L42": "From life's first cry to final breath",
+      "L43": "Jesus commands my destiny",
+      "L44": "No power of hell, no scheme of man",
+      "L45": "Could ever pluck me from His hand",
+      "L46": "‘Til He returns or calls me home",
+      "L47": "Bin G D/F# Em A OD",
+      "L48": "Here, in the power of Christ, I stand",
+      "L49": "No power of hell, no scheme of man",
+      "L50": "Could ever pluck me from His hand",
+      "L51": "‘Til He returns or calls me home",
+      "L52": "Here, in the power of Christ, I stand"
+    },
+    "source_hash": "c613fec88ea4390b",
+    "model": "anthropic/claude-opus-5.5",
+    "cost": 0.1721,
+    "at": "2026-11-21T20:07:12+00:00",
+    "first_opinion": {
+      "model": "anthropic/claude-sonnet-5.5",
+      "issues": [
+        {
+          "line": "L1",
+          "kind": "extra",
+          "found": "Gm@ Dm@",
+          "expected": ""
+        },
+        {
+          "line": "L1",
+          "kind": "extra",
+          "found": "F/C@",
+          "expected": ""
+        },
+        {
+          "line": "L1",
+          "kind": "missing",
+          "found": "",
+          "expected": "C@ C@ C@"
+        },
+        {
+          "line": "L2",
+          "kind": "wrong_place",
+          "found": "Gm sobre «c»",
+          "expected": "Gm sobre «»"
+        },
+        {
+          "line": "L2",
+          "kind": "wrong_place",
+          "found": "Dm sobre «F/c»",
+          "expected": "Dm sobre «»"
+        },
+        {
+          "line": "L2",
+          "kind": "missing",
+          "found": "",
+          "expected": "C@ F/C@"
+        },
+        {
+          "line": "L5",
+          "kind": "missing",
+          "found": "",
+          "expected": "Am@He F@light, Dm@strength, G@my C@song"
+        },
+        {
+          "line": "L8",
+          "kind": "missing",
+          "found": "",
+          "expected": "Am@Firm F@fiercest Dm@drought G@and"
+        },
+        {
+          "line": "L15",
+          "kind": "missing",
+          "found": "",
+          "expected": "C@comforter, F@all G@all"
+        },
+        {
+          "line": "L48",
+          "kind": "missing",
+          "found": "",
+          "expected": "Bm@Here, G@power D/F#@of Em@Christ, A@I D@stand"
+        }
+      ],
+      "cost": 0.1214
+    },
+    "fingerprint": "1f593d122a3ef9ca"
+  },
+  "quality": {
+    "data": [],
+    "coverage": 1.0,
+    "review": "8 diferencias con el PDF",
+    "screen": [],
+    "checked_at": "2026-11-21T20:07:12+00:00",
+    "fingerprint": "1f593d122a3ef9ca"
+  }
+}

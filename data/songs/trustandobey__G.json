@@ -1,0 +1,695 @@
+{
+  "title": "Trust And Obey",
+  "author": "John HSammis",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "Am022000",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C320003",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "Trust and o"
+            },
+            {
+              "chord": "G",
+              "text": "bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Verse 1: For there's "
+            },
+            {
+              "chord": "E",
+              "text": "no other "
+            },
+            {
+              "chord": "Am",
+              "text": "way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "G D G To be "
+            },
+            {
+              "chord": "D",
+              "text": "happy in "
+            },
+            {
+              "chord": "G",
+              "text": "Jesus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "When we walk with the Lord G D G"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D G But to trust and o-bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "In the light of His Word"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "C G D Verse 3:"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "What a glory He sheds on our way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "While we "
+            },
+            {
+              "chord": "G",
+              "text": "do His "
+            },
+            {
+              "chord": "D",
+              "text": "good "
+            },
+            {
+              "chord": "G",
+              "text": "will But we ne"
+            },
+            {
+              "chord": "G",
+              "text": "ver "
+            },
+            {
+              "chord": "D",
+              "text": "can "
+            },
+            {
+              "chord": "G",
+              "text": "prove"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He a"
+            },
+            {
+              "chord": "D",
+              "text": "bides with us "
+            },
+            {
+              "chord": "G",
+              "text": "still The del"
+            },
+            {
+              "chord": "D",
+              "text": "ights of His "
+            },
+            {
+              "chord": "G",
+              "text": "love"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "G "
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": "Until a"
+            },
+            {
+              "chord": "C",
+              "text": "ll on the al"
+            },
+            {
+              "chord": "G",
+              "text": "tar we "
+            },
+            {
+              "chord": "D",
+              "text": "lay"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And with all who will trust and G D G"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "o-bey For the favor He shows"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And the "
+            },
+            {
+              "chord": "D",
+              "text": "joy He bes"
+            },
+            {
+              "chord": "G",
+              "text": "tows"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Refrain: Cc G D"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D G "
+            },
+            {
+              "chord": "G",
+              "text": "Are for them who will trust and"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Trust and obey o-bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For there's "
+            },
+            {
+              "chord": "E",
+              "text": "no other "
+            },
+            {
+              "chord": "Am",
+              "text": "way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D G Refrain"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To be happy in Jesus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "But to "
+            },
+            {
+              "chord": "D",
+              "text": "trust and o-"
+            },
+            {
+              "chord": "G",
+              "text": "bey "
+            },
+            {
+              "chord": "D",
+              "text": "Trust and o"
+            },
+            {
+              "chord": "G",
+              "text": "bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For there's "
+            },
+            {
+              "chord": "E",
+              "text": "no other "
+            },
+            {
+              "chord": "Am",
+              "text": "way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Verse 2: D G"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To be happy in Jesus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Not a bu"
+            },
+            {
+              "chord": "G",
+              "text": "rden "
+            },
+            {
+              "chord": "D",
+              "text": "we "
+            },
+            {
+              "chord": "G",
+              "text": "bear "
+            },
+            {
+              "chord": "G",
+              "text": "But to "
+            },
+            {
+              "chord": "D",
+              "text": "trust and o-"
+            },
+            {
+              "chord": "G",
+              "text": "bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Not a "
+            },
+            {
+              "chord": "D",
+              "text": "sorrow we "
+            },
+            {
+              "chord": "G",
+              "text": "share Verse 4:"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "But our "
+            },
+            {
+              "chord": "C",
+              "text": "toil He doth "
+            },
+            {
+              "chord": "G",
+              "text": "richly re"
+            },
+            {
+              "chord": "D",
+              "text": "pay D G"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "G D 6G Then in fellowship sweet"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "det"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "We will "
+            },
+            {
+              "chord": "D",
+              "text": "sit at His "
+            },
+            {
+              "chord": "G",
+              "text": "feet"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Or we'll "
+            },
+            {
+              "chord": "C",
+              "text": "walk by His "
+            },
+            {
+              "chord": "G",
+              "text": "side in the"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "What He "
+            },
+            {
+              "chord": "G",
+              "text": "says we "
+            },
+            {
+              "chord": "D",
+              "text": "will "
+            },
+            {
+              "chord": "G",
+              "text": "do"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Where He "
+            },
+            {
+              "chord": "D",
+              "text": "sends we will "
+            },
+            {
+              "chord": "G",
+              "text": "go"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Never "
+            },
+            {
+              "chord": "C",
+              "text": "fear, only "
+            },
+            {
+              "chord": "G",
+              "text": "trust and "
+            },
+            {
+              "chord": "D",
+              "text": "o"
+            },
+            {
+              "chord": "G",
+              "text": "-bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Trust and o"
+            },
+            {
+              "chord": "G",
+              "text": "bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For there’s "
+            },
+            {
+              "chord": "E",
+              "text": "no other "
+            },
+            {
+              "chord": "Am",
+              "text": "way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To be "
+            },
+            {
+              "chord": "D",
+              "text": "happy in "
+            },
+            {
+              "chord": "G",
+              "text": "Jesus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "But to "
+            },
+            {
+              "chord": "D",
+              "text": "trust and o-"
+            },
+            {
+              "chord": "G",
+              "text": "bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "D",
+              "text": "Trust and o"
+            },
+            {
+              "chord": "G",
+              "text": "bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "For there’s "
+            },
+            {
+              "chord": "E",
+              "text": "no other "
+            },
+            {
+              "chord": "Am",
+              "text": "way"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "To be "
+            },
+            {
+              "chord": "D",
+              "text": "happy in "
+            },
+            {
+              "chord": "G",
+              "text": "Jesus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": "But to "
+            },
+            {
+              "chord": "D",
+              "text": "trust and o-"
+            },
+            {
+              "chord": "G",
+              "text": "bey"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Inga D/ >"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "aet #74"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "trustandobey",
+  "source_file": "TrustAndObey-JohnHSammis-G-Pag2.pdf",
+  "source_hash": "7628b7cb5e791497",
+  "method": "ocr-layout",
+  "model": "",
+  "status": "needs-review",
+  "extracted_at": "2026-11-21T20:01:04+00:00",
+  "review": {
+    "ok": false,
+    "issues": [
+      {
+        "kind": "error",
+        "found": "The model did not return JSON: "
+      }
+    ],
+    "fingerprint": ""
+  },
+  "quality": {
+    "data": [],
+    "coverage": 1.0,
+    "review": "sin revisión de IA",
+    "screen": [],
+    "checked_at": "2026-11-21T20:09:16+00:00",
+    "fingerprint": "d3787aba05b58a15"
+  }
+}

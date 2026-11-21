@@ -1,0 +1,173 @@
+{
+  "service": "EIC Rueil",
+  "date": "22 November 2026",
+  "sort_date": "2026-11-22",
+  "title": "Genesis 16: \"Not Forgotten\"",
+  "order": [
+    {
+      "seq": 1,
+      "type": "item",
+      "title": "Comments about Service :",
+      "key": "",
+      "length": 0,
+      "detail": "Christian Preaching\nClara taking a break\nBaby dedication"
+    },
+    {
+      "seq": 2,
+      "type": "item",
+      "title": "Pre Service Slides",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 3,
+      "type": "song",
+      "title": "They that Wait",
+      "key": "G",
+      "length": 0,
+      "detail": "\"They that wait up on the Lord shall renew their strength. They shall mount up with wings like eagles, they shall run and never faint.\nTeach me Lord, teach me Lord, teach me Lord to wait."
+    },
+    {
+      "seq": 4,
+      "type": "item",
+      "title": "Opening Scripture. Isaiah 40:28-31",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 5,
+      "type": "item",
+      "title": "Finishing Song 1",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 6,
+      "type": "item",
+      "title": "Opening Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 7,
+      "type": "item",
+      "title": "Parent/Child Dedication",
+      "key": "",
+      "length": 0,
+      "detail": "Lucas Rodriguez Claro\nDOB 2 April 2026"
+    },
+    {
+      "seq": 8,
+      "type": "song",
+      "title": "In Christ Alone",
+      "key": "D",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 9,
+      "type": "song",
+      "title": "Psalm 34 (Taste And See)",
+      "key": "C",
+      "length": 270,
+      "detail": ""
+    },
+    {
+      "seq": 10,
+      "type": "item",
+      "title": "Pastoral Prayer",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 11,
+      "type": "item",
+      "title": "11.30 Children dismissed",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 12,
+      "type": "item",
+      "title": "Scripture Reading:Genesis 16:2-8",
+      "key": "",
+      "length": 0,
+      "detail": "10 am :Mary Idanan\n11.30 am :Sandra Petrignani"
+    },
+    {
+      "seq": 13,
+      "type": "item",
+      "title": "Sermon \"Not Forgotten\"",
+      "key": "",
+      "length": 0,
+      "detail": "Christian preaching"
+    },
+    {
+      "seq": 14,
+      "type": "item",
+      "title": "Time of Reflection",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 15,
+      "type": "song",
+      "title": "Trust And Obey",
+      "key": "Eb",
+      "length": 0,
+      "detail": ""
+    },
+    {
+      "seq": 16,
+      "type": "item",
+      "title": "Tithes & Offerings",
+      "key": "",
+      "length": 0,
+      "detail": "10 am :Mary Idanan\n11.30 am :Sandra Petrignani"
+    },
+    {
+      "seq": 17,
+      "type": "item",
+      "title": "Visitor Welcome & Announcements",
+      "key": "",
+      "length": 0,
+      "detail": "Jeff"
+    },
+    {
+      "seq": 18,
+      "type": "item",
+      "title": "Benediction",
+      "key": "",
+      "length": 0,
+      "detail": "Christian"
+    },
+    {
+      "seq": 19,
+      "type": "item",
+      "title": "Parents collect their Children slide",
+      "key": "",
+      "length": 0,
+      "detail": ""
+    }
+  ],
+  "songs": [
+    {
+      "slug": "inchristalone",
+      "title": "InChristAlone",
+      "author": "KeithGetty"
+    },
+    {
+      "slug": "trustandobey",
+      "title": "TrustAndObey",
+      "author": "JohnHSammis"
+    }
+  ],
+  "built_at": "2026-11-21T20:01:11+00:00"
+}
