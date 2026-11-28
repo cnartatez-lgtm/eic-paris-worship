@@ -1,0 +1,1315 @@
+{
+  "title": "Amazing Grace (My Chains Are Gone)",
+  "author": "Chris Tomlin",
+  "key": "G",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "2/2",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Amaz"
+            },
+            {
+              "chord": "G",
+              "text": "ing grace how "
+            },
+            {
+              "chord": "C",
+              "text": "sweet the"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "sound"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That saved a wretch like "
+            },
+            {
+              "chord": "D",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I "
+            },
+            {
+              "chord": "G",
+              "text": "once was lost "
+            },
+            {
+              "chord": "G/B",
+              "text": "but "
+            },
+            {
+              "chord": "C",
+              "text": "now"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "am "
+            },
+            {
+              "chord": "G",
+              "text": "found"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Was "
+            },
+            {
+              "chord": "G",
+              "text": "blind but "
+            },
+            {
+              "chord": "D",
+              "text": "now I "
+            },
+            {
+              "chord": "G",
+              "text": "see"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Twas "
+            },
+            {
+              "chord": "G",
+              "text": "grace that taught my"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "heart to fear"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And Grace my fears re"
+            },
+            {
+              "chord": "D",
+              "text": "lieved"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How "
+            },
+            {
+              "chord": "G",
+              "text": "precious "
+            },
+            {
+              "chord": "G/B",
+              "text": "did that "
+            },
+            {
+              "chord": "C",
+              "text": "Grace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "appear"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
+            {
+              "chord": "G",
+              "text": "hour I "
+            },
+            {
+              "chord": "D",
+              "text": "first believed"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My chains are "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "gone"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Iâve been set "
+            },
+            {
+              "chord": "G/B",
+              "text": "free"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My God my "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "Savior has"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "ransomed "
+            },
+            {
+              "chord": "G/B",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And like a "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "flood His"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "mercy "
+            },
+            {
+              "chord": "G/B",
+              "text": "rains"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Unending love"
+            },
+            {
+              "chord": "A7sus4",
+              "text": ""
+            },
+            {
+              "chord": "Dsus4",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "amazing Grace"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The Lord "
+            },
+            {
+              "chord": "G",
+              "text": "has promised good"
+            },
+            {
+              "chord": "C",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "to me"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "His word my hope secures"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He "
+            },
+            {
+              "chord": "G",
+              "text": "will my "
+            },
+            {
+              "chord": "G/B",
+              "text": "shield and"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "C",
+              "text": "portion be"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "As "
+            },
+            {
+              "chord": "G",
+              "text": "long as "
+            },
+            {
+              "chord": "D",
+              "text": "life endures"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "G/B",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My chains are "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "gone"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Iâve been set "
+            },
+            {
+              "chord": "G/B",
+              "text": "free"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My God my "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "Savior has"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "ransomed "
+            },
+            {
+              "chord": "G/B",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And like a "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "flood His"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "mercy "
+            },
+            {
+              "chord": "G/B",
+              "text": "rains"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Unending love"
+            },
+            {
+              "chord": "A7sus4",
+              "text": ""
+            },
+            {
+              "chord": "Dsus4",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "amazing Grace"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "G/B",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My chains are "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "gone"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Iâve been set "
+            },
+            {
+              "chord": "G/B",
+              "text": "free"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My God my "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "Savior has"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "ransomed "
+            },
+            {
+              "chord": "G/B",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And like a "
+            },
+            {
+              "chord": "Cadd9",
+              "text": "flood His"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "mercy "
+            },
+            {
+              "chord": "G/B",
+              "text": "rains"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Unending love"
+            },
+            {
+              "chord": "A7sus4",
+              "text": ""
+            },
+            {
+              "chord": "Dsus4",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "amazing Grace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The earth "
+            },
+            {
+              "chord": "G",
+              "text": "shall soon"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "dissolve "
+            },
+            {
+              "chord": "C",
+              "text": "like "
+            },
+            {
+              "chord": "G",
+              "text": "snow"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The sun forbear to shine"
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "But "
+            },
+            {
+              "chord": "G",
+              "text": "God who "
+            },
+            {
+              "chord": "G/B",
+              "text": "called me "
+            },
+            {
+              "chord": "C",
+              "text": "here"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "below"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Will "
+            },
+            {
+              "chord": "G",
+              "text": "be for"
+            },
+            {
+              "chord": "D",
+              "text": "ever mine"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Will be "
+            },
+            {
+              "chord": "G",
+              "text": "for"
+            },
+            {
+              "chord": "D",
+              "text": "ever mine"
+            },
+            {
+              "chord": "G",
+              "text": ""
+            },
+            {
+              "chord": "C",
+              "text": ""
+            },
+            {
+              "chord": "G",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You are "
+            },
+            {
+              "chord": "G",
+              "text": "for"
+            },
+            {
+              "chord": "D",
+              "text": "ever "
+            },
+            {
+              "chord": "G",
+              "text": "mine"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "amazinggracemychainsaregone",
+  "source_file": "AmazingGraceMyChainsAreGone-ChrisTomlin-G-Pag1-Horizontal.pdf",
+  "source_hash": "29c2c57be49bffce",
+  "method": "layout",
+  "model": "",
+  "status": "verified",
+  "extracted_at": "2026-11-28T20:00:19+00:00",
+  "review": {
+    "ok": true,
+    "issues": [],
+    "reading": {
+      "L1": [
+        [
+          "G",
+          ""
+        ]
+      ],
+      "L2": [
+        [
+          "G",
+          "Amazing"
+        ],
+        [
+          "C",
+          "sweet"
+        ]
+      ],
+      "L3": [
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L4": [
+        [
+          "D",
+          "me"
+        ]
+      ],
+      "L5": [
+        [
+          "G",
+          "once"
+        ],
+        [
+          "G/B",
+          "but"
+        ],
+        [
+          "C",
+          "now"
+        ]
+      ],
+      "L6": [
+        [
+          "G",
+          "found"
+        ]
+      ],
+      "L7": [
+        [
+          "G",
+          "blind"
+        ],
+        [
+          "D",
+          "now"
+        ],
+        [
+          "G",
+          "see"
+        ]
+      ],
+      "L8": [
+        [
+          "G",
+          "grace"
+        ]
+      ],
+      "L9": [
+        [
+          "C",
+          "heart"
+        ],
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L10": [
+        [
+          "D",
+          "relieved"
+        ]
+      ],
+      "L11": [
+        [
+          "G",
+          "precious"
+        ],
+        [
+          "G/B",
+          "did"
+        ],
+        [
+          "C",
+          "Grace"
+        ]
+      ],
+      "L12": [
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L13": [
+        [
+          "G",
+          "hour"
+        ],
+        [
+          "D",
+          "first"
+        ],
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L14": [
+        [
+          "G/B",
+          ""
+        ]
+      ],
+      "L15": [
+        [
+          "Cadd9",
+          "gone"
+        ]
+      ],
+      "L16": [
+        [
+          "G/B",
+          "free"
+        ]
+      ],
+      "L17": [
+        [
+          "Cadd9",
+          "Savior"
+        ]
+      ],
+      "L18": [
+        [
+          "G/B",
+          "me"
+        ]
+      ],
+      "L19": [
+        [
+          "Cadd9",
+          "flood"
+        ]
+      ],
+      "L20": [
+        [
+          "G/B",
+          "rains"
+        ]
+      ],
+      "L21": [
+        [
+          "A7sus4",
+          "(end)"
+        ],
+        [
+          "Dsus4",
+          "(end)"
+        ]
+      ],
+      "L22": [
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L23": [
+        [
+          "G",
+          "has"
+        ],
+        [
+          "C",
+          "(end)"
+        ]
+      ],
+      "L24": [
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L25": [
+        [
+          "D",
+          "(end)"
+        ]
+      ],
+      "L26": [
+        [
+          "G",
+          "will"
+        ],
+        [
+          "G/B",
+          "shield"
+        ]
+      ],
+      "L27": [
+        [
+          "C",
+          "portion"
+        ],
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L28": [
+        [
+          "G",
+          "long"
+        ],
+        [
+          "D",
+          "life"
+        ],
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L29": [
+        [
+          "G/B",
+          ""
+        ]
+      ],
+      "L30": [
+        [
+          "Cadd9",
+          "gone"
+        ]
+      ],
+      "L31": [
+        [
+          "G/B",
+          "free"
+        ]
+      ],
+      "L32": [
+        [
+          "Cadd9",
+          "Savior"
+        ]
+      ],
+      "L33": [
+        [
+          "G/B",
+          "me"
+        ]
+      ],
+      "L34": [
+        [
+          "Cadd9",
+          "flood"
+        ]
+      ],
+      "L35": [
+        [
+          "G/B",
+          "rains"
+        ]
+      ],
+      "L36": [
+        [
+          "A7sus4",
+          "(end)"
+        ],
+        [
+          "Dsus4",
+          "(end)"
+        ]
+      ],
+      "L37": [
+        [
+          "G",
+          "(end)"
+        ],
+        [
+          "G/B",
+          "(end)"
+        ]
+      ],
+      "L38": [
+        [
+          "Cadd9",
+          "gone"
+        ]
+      ],
+      "L39": [
+        [
+          "G/B",
+          "free"
+        ]
+      ],
+      "L40": [
+        [
+          "Cadd9",
+          "Savior"
+        ]
+      ],
+      "L41": [
+        [
+          "G/B",
+          "me"
+        ]
+      ],
+      "L42": [
+        [
+          "Cadd9",
+          "flood"
+        ]
+      ],
+      "L43": [
+        [
+          "G/B",
+          "rains"
+        ]
+      ],
+      "L44": [
+        [
+          "A7sus4",
+          "(end)"
+        ],
+        [
+          "Dsus4",
+          "(end)"
+        ]
+      ],
+      "L45": [],
+      "L46": [
+        [
+          "G",
+          "shall"
+        ]
+      ],
+      "L47": [
+        [
+          "C",
+          "like"
+        ],
+        [
+          "G",
+          "snow"
+        ]
+      ],
+      "L48": [
+        [
+          "D",
+          "(end)"
+        ]
+      ],
+      "L49": [
+        [
+          "G",
+          "God"
+        ],
+        [
+          "G/B",
+          "called"
+        ],
+        [
+          "C",
+          "here"
+        ]
+      ],
+      "L50": [
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L51": [
+        [
+          "G",
+          "be"
+        ],
+        [
+          "D",
+          "forever"
+        ],
+        [
+          "G",
+          "(end)"
+        ],
+        [
+          "C",
+          "(end)"
+        ],
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L52": [
+        [
+          "G",
+          "forever"
+        ],
+        [
+          "D",
+          "forever"
+        ],
+        [
+          "G",
+          "(end)"
+        ],
+        [
+          "C",
+          "(end)"
+        ],
+        [
+          "G",
+          "(end)"
+        ]
+      ],
+      "L53": [
+        [
+          "G",
+          "forever"
+        ],
+        [
+          "D",
+          "forever"
+        ],
+        [
+          "G",
+          "mine"
+        ]
+      ]
+    },
+    "line_text": {
+      "L1": "(chords only)",
+      "L2": "Amazing grace how sweet the",
+      "L3": "sound",
+      "L4": "That saved a wretch like me",
+      "L5": "I once was lost but now",
+      "L6": "am found",
+      "L7": "Was blind but now I see",
+      "L8": "Twas grace that taught my",
+      "L9": "heart to fear",
+      "L10": "And Grace my fears relieved",
+      "L11": "How precious did that Grace",
+      "L12": "appear",
+      "L13": "The hour I first believed",
+      "L14": "(chords only)",
+      "L15": "My chains are gone",
+      "L16": "Iâve been set free",
+      "L17": "My God my Savior has",
+      "L18": "ransomed me",
+      "L19": "And like a flood His",
+      "L20": "mercy rains",
+      "L21": "Unending love",
+      "L22": "amazing Grace",
+      "L23": "The Lord has promised good",
+      "L24": "to me",
+      "L25": "His word my hope secures",
+      "L26": "He will my shield and",
+      "L27": "portion be",
+      "L28": "As long as life endures",
+      "L29": "(chords only)",
+      "L30": "My chains are gone",
+      "L31": "Iâve been set free",
+      "L32": "My God my Savior has",
+      "L33": "ransomed me",
+      "L34": "And like a flood His",
+      "L35": "mercy rains",
+      "L36": "Unending love",
+      "L37": "amazing Grace",
+      "L38": "My chains are gone",
+      "L39": "Iâve been set free",
+      "L40": "My God my Savior has",
+      "L41": "ransomed me",
+      "L42": "And like a flood His",
+      "L43": "mercy rains",
+      "L44": "Unending love",
+      "L45": "amazing Grace",
+      "L46": "The earth shall soon",
+      "L47": "dissolve like snow",
+      "L48": "The sun forbear to shine",
+      "L49": "But God who called me here",
+      "L50": "below",
+      "L51": "Will be forever mine",
+      "L52": "Will be forever mine",
+      "L53": "You are forever mine"
+    },
+    "source_hash": "29c2c57be49bffce",
+    "model": "anthropic/claude-sonnet-5.5",
+    "cost": 0.0895,
+    "at": "2026-11-28T20:04:38+00:00",
+    "fingerprint": "f4895bf16ed150d8"
+  },
+  "quality": {
+    "data": [],
+    "coverage": 1.0,
+    "review": "OK",
+    "screen": [],
+    "checked_at": "2026-11-28T20:04:38+00:00",
+    "fingerprint": "f4895bf16ed150d8"
+  }
+}

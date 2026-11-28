@@ -1,0 +1,455 @@
+{
+  "title": "Amazing Grace (My Chains Are Gone)",
+  "author": "Chris Tomlin",
+  "key": "D",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "4/4",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Intro Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "D5",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D2",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D5",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "|",
+              "text": ""
+            },
+            {
+              "chord": "D2",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "/",
+              "text": ""
+            },
+            {
+              "chord": "D2",
+              "text": ""
+            },
+            {
+              "chord": "Dsus",
+              "text": ""
+            },
+            {
+              "chord": "D2",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The earth shall soon dis - solve like snow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 1 A/D",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D2 Dsus D2 The sun forbear to shine"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A - mazing grace how sweet the sound  D2 D2/F# G2  D2"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A/D But God who called me here be - low"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That saved a wretch like me   A/D D Dsus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D2 D2/F# G2 D2 Will be for - ever mine"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I once was  lost,  but now I am found  D2  A/D D Dsus"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A/D D2 Will be for - ever mine"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Was blind but now I see  D2  A/D D2"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "You are for - ever mine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "© 2009 worshiptogether.com songs, sixsteps Music (Admin by Capitol"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D2 Dsus D2 Christian Music Publishing). CCLI Song No. 4768151. Unauthorized"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "'Twas grace that taught my heart to fear  distribution is prohibited. Words and music by John Newton / John"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A/D Rees / Edwin Excell / Chris Tomlin / Louie Giglio."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And grace my fears re - lieved"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "D2 D2/F# G2   D2 x xD5o x x xD2o o x xDsuso x xA/Do o D2/F#x o o o oG2 x xG/Do o o"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "How precious A/D did  D2that grace G/D a - ppear D •• • •• • ••• •"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The hour I first be - lieved"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "x x oD o Em7o o xAsuso o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My chains are gone, I've been set  free"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My God my "
+            },
+            {
+              "chord": "G2",
+              "text": "Savior has ransomed  "
+            },
+            {
+              "chord": "D2/F#",
+              "text": "me "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And like a "
+            },
+            {
+              "chord": "G2",
+              "text": "flood His mercy "
+            },
+            {
+              "chord": "D2/F#",
+              "text": "reigns "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Unending  "
+            },
+            {
+              "chord": "Em7",
+              "text": "love  "
+            },
+            {
+              "chord": "Asus",
+              "text": "amazing "
+            },
+            {
+              "chord": "D5",
+              "text": "grace "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Intro",
+      "lines": []
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
+            {
+              "chord": "D2",
+              "text": "Lord has promised "
+            },
+            {
+              "chord": "Dsus",
+              "text": "good to "
+            },
+            {
+              "chord": "D2",
+              "text": "me "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "His word my hope se - "
+            },
+            {
+              "chord": "A/D",
+              "text": "cures "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He "
+            },
+            {
+              "chord": "D2",
+              "text": "will my "
+            },
+            {
+              "chord": "D2/F#",
+              "text": "shield and "
+            },
+            {
+              "chord": "G2",
+              "text": "portion "
+            },
+            {
+              "chord": "D2",
+              "text": "be "
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "As long as "
+            },
+            {
+              "chord": "A/D",
+              "text": "life en - "
+            },
+            {
+              "chord": "D2",
+              "text": "dures "
+            },
+            {
+              "chord": "G/D",
+              "text": ""
+            },
+            {
+              "chord": "D",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus (2x)",
+      "lines": []
+    }
+  ],
+  "slug": "amazinggracemychainsaregone",
+  "source_file": "AmazingGraceMyChainsAreGone-ChrisTomlin-D-Pag1.pdf",
+  "source_hash": "068785518348bb8c",
+  "method": "layout",
+  "model": "",
+  "status": "needs-review",
+  "extracted_at": "2026-11-28T20:00:19+00:00",
+  "review": {
+    "ok": false,
+    "issues": [
+      {
+        "kind": "error",
+        "found": "OpenRouter returned 402: {\"error\":{\"message\":\"This request's maximum cost exceeds your available credits. Add credits, or lower max_tokens or prompt size.\",\"code\":402,\"metadata\":{\"reason\":\"weight_exce"
+      }
+    ],
+    "fingerprint": ""
+  },
+  "quality": {
+    "data": [],
+    "coverage": 1.0,
+    "review": "sin revisión de IA",
+    "screen": [],
+    "checked_at": "2026-11-28T20:05:48+00:00",
+    "fingerprint": "1ce3ce18114bee13"
+  }
+}

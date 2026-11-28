@@ -1,0 +1,640 @@
+{
+  "title": "Amazing Grace (My Chains Are Gone)",
+  "author": "Chris Tomlin",
+  "key": "C",
+  "meta": {
+    "capo": "",
+    "tempo": "",
+    "time_signature": "",
+    "sounds_in": ""
+  },
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "A"
+            },
+            {
+              "chord": "C",
+              "text": "mazing grace how "
+            },
+            {
+              "chord": "F",
+              "text": "sweet the "
+            },
+            {
+              "chord": "C",
+              "text": "sound"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "That "
+            },
+            {
+              "chord": "C",
+              "text": "saved a wretch like "
+            },
+            {
+              "chord": "G",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "I "
+            },
+            {
+              "chord": "C",
+              "text": "once was lost, but "
+            },
+            {
+              "chord": "F",
+              "text": "now I'm "
+            },
+            {
+              "chord": "C",
+              "text": "found"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Was "
+            },
+            {
+              "chord": "C",
+              "text": "blind but "
+            },
+            {
+              "chord": "G",
+              "text": "now I "
+            },
+            {
+              "chord": "C",
+              "text": "see"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "\"Twa"
+            },
+            {
+              "chord": "C",
+              "text": "s grace that taught my "
+            },
+            {
+              "chord": "F",
+              "text": "heart to "
+            },
+            {
+              "chord": "C",
+              "text": "fear,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And "
+            },
+            {
+              "chord": "C",
+              "text": "grace my fears "
+            },
+            {
+              "chord": "G",
+              "text": "relieved;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Ho"
+            },
+            {
+              "chord": "C",
+              "text": "w precious did that "
+            },
+            {
+              "chord": "F",
+              "text": "grace app"
+            },
+            {
+              "chord": "C",
+              "text": "ear,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
+            {
+              "chord": "C",
+              "text": "hour I "
+            },
+            {
+              "chord": "G",
+              "text": "first be"
+            },
+            {
+              "chord": "C",
+              "text": "lieved!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My chains are "
+            },
+            {
+              "chord": "F",
+              "text": "gone, I've been set "
+            },
+            {
+              "chord": "C",
+              "text": "free."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My God, "
+            },
+            {
+              "chord": "F",
+              "text": "My Savior has ransomed "
+            },
+            {
+              "chord": "C",
+              "text": "me."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And like a "
+            },
+            {
+              "chord": "F",
+              "text": "flood his mercy "
+            },
+            {
+              "chord": "C",
+              "text": "reigns."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Unending "
+            },
+            {
+              "chord": "Dm",
+              "text": "love, "
+            },
+            {
+              "chord": "G",
+              "text": "amazing "
+            },
+            {
+              "chord": "C",
+              "text": "grace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
+            {
+              "chord": "C",
+              "text": "Lord has promised "
+            },
+            {
+              "chord": "F",
+              "text": "good to "
+            },
+            {
+              "chord": "C",
+              "text": "me,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "His "
+            },
+            {
+              "chord": "C",
+              "text": "word my hope sec"
+            },
+            {
+              "chord": "G",
+              "text": "ures;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "He "
+            },
+            {
+              "chord": "C",
+              "text": "will my shield and "
+            },
+            {
+              "chord": "F",
+              "text": "portion "
+            },
+            {
+              "chord": "C",
+              "text": "be,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "agea 1/2?"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "As "
+            },
+            {
+              "chord": "C",
+              "text": "long as "
+            },
+            {
+              "chord": "G",
+              "text": "life end"
+            },
+            {
+              "chord": "C",
+              "text": "ures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My chains are "
+            },
+            {
+              "chord": "F",
+              "text": "gone, I've been set "
+            },
+            {
+              "chord": "C",
+              "text": "free."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My God, "
+            },
+            {
+              "chord": "F",
+              "text": "My Savior has ransomed "
+            },
+            {
+              "chord": "C",
+              "text": "me."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And like a "
+            },
+            {
+              "chord": "F",
+              "text": "flood his mercy "
+            },
+            {
+              "chord": "C",
+              "text": "reigns."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Unending "
+            },
+            {
+              "chord": "Dm",
+              "text": "love, "
+            },
+            {
+              "chord": "G",
+              "text": "amazing "
+            },
+            {
+              "chord": "C",
+              "text": "grace"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My chains are "
+            },
+            {
+              "chord": "F",
+              "text": "gone, I've been set "
+            },
+            {
+              "chord": "C",
+              "text": "free."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "My God, "
+            },
+            {
+              "chord": "F",
+              "text": "My Savior has ransomed "
+            },
+            {
+              "chord": "C",
+              "text": "me."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "And like a "
+            },
+            {
+              "chord": "F",
+              "text": "flood his mercy "
+            },
+            {
+              "chord": "C",
+              "text": "reigns."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Unending "
+            },
+            {
+              "chord": "Dm",
+              "text": "love, "
+            },
+            {
+              "chord": "G",
+              "text": "amazing "
+            },
+            {
+              "chord": "C",
+              "text": "grace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The e"
+            },
+            {
+              "chord": "C",
+              "text": "arth shall soon dis"
+            },
+            {
+              "chord": "F",
+              "text": "solve like "
+            },
+            {
+              "chord": "C",
+              "text": "snow,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "The "
+            },
+            {
+              "chord": "C",
+              "text": "sun forbear to "
+            },
+            {
+              "chord": "G",
+              "text": "shine;"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Bu"
+            },
+            {
+              "chord": "C",
+              "text": "t God, who called me "
+            },
+            {
+              "chord": "F",
+              "text": "here bel"
+            },
+            {
+              "chord": "C",
+              "text": "ow,"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "Will "
+            },
+            {
+              "chord": "C",
+              "text": "be for"
+            },
+            {
+              "chord": "G",
+              "text": "ever "
+            },
+            {
+              "chord": "C",
+              "text": "mine."
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "(Will "
+            },
+            {
+              "chord": "C",
+              "text": "be for"
+            },
+            {
+              "chord": "G",
+              "text": "ever "
+            },
+            {
+              "chord": "C",
+              "text": "mine)"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "",
+              "text": "(You "
+            },
+            {
+              "chord": "C",
+              "text": "are for"
+            },
+            {
+              "chord": "G",
+              "text": "ever "
+            },
+            {
+              "chord": "C",
+              "text": "mine)"
+            }
+          ]
+        },
+        {
+          "parts": [
+            {
+              "chord": "A",
+              "text": "a"
+            },
+            {
+              "chord": "G",
+              "text": "g"
+            },
+            {
+              "chord": "A",
+              "text": "e 4/4"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "amazinggracemychainsaregone",
+  "source_file": "AmazingGraceMyChainsAreGone-ChrisTomlin-C-Pag2.pdf",
+  "source_hash": "c81a074c10210b58",
+  "method": "ocr-layout",
+  "model": "",
+  "status": "needs-review",
+  "extracted_at": "2026-11-28T20:00:22+00:00",
+  "review": {
+    "ok": false,
+    "issues": [
+      {
+        "kind": "error",
+        "found": "OpenRouter returned 402: {\"error\":{\"message\":\"This request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits.\",\"code\":402"
+      }
+    ],
+    "fingerprint": ""
+  },
+  "quality": {
+    "data": [],
+    "coverage": 1.0,
+    "review": "sin revisión de IA",
+    "screen": [],
+    "checked_at": "2026-11-28T20:05:52+00:00",
+    "fingerprint": "0e36706decdf39dc"
+  }
+}
